@@ -1,7 +1,6 @@
 ### Create the most basic dashboard
 
 ## UI ##
-library(shinydashboard)
 
 dashboardPage(
   dashboardHeader(),
