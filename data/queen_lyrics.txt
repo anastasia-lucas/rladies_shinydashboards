@@ -1,0 +1,2655 @@
+track_title	word	album	n
+'39	39	A Night At The Opera	2
+'39	ahead	A Night At The Opera	1
+'39	assembled	A Night At The Opera	1
+'39	blue	A Night At The Opera	2
+'39	born	A Night At The Opera	1
+'39	brave	A Night At The Opera	1
+'39	bring	A Night At The Opera	1
+'39	call	A Night At The Opera	3
+'39	calling	A Night At The Opera	3
+'39	cried	A Night At The Opera	1
+'39	cry	A Night At The Opera	1
+'39	darlin	A Night At The Opera	1
+'39	day	A Night At The Opera	5
+'39	days	A Night At The Opera	1
+'39	earth	A Night At The Opera	1
+'39	eyes	A Night At The Opera	2
+'39	feared	A Night At The Opera	1
+'39	grandchildren	A Night At The Opera	2
+'39	grey	A Night At The Opera	1
+'39	hand	A Night At The Opera	3
+'39	heal	A Night At The Opera	1
+'39	hear	A Night At The Opera	6
+'39	hearts	A Night At The Opera	1
+'39	heavily	A Night At The Opera	1
+'39	home	A Night At The Opera	1
+'39	inside	A Night At The Opera	1
+'39	land	A Night At The Opera	2
+'39	lands	A Night At The Opera	1
+'39	letters	A Night At The Opera	3
+'39	life	A Night At The Opera	1
+'39	lonely	A Night At The Opera	1
+'39	looked	A Night At The Opera	1
+'39	love	A Night At The Opera	1
+'39	milky	A Night At The Opera	1
+'39	morn	A Night At The Opera	1
+'39	mother's	A Night At The Opera	1
+'39	na	A Night At The Opera	2
+'39	ne'er	A Night At The Opera	1
+'39	newly	A Night At The Opera	1
+'39	news	A Night At The Opera	1
+'39	night	A Night At The Opera	1
+'39	pity	A Night At The Opera	1
+'39	sailed	A Night At The Opera	2
+'39	sand	A Night At The Opera	3
+'39	score	A Night At The Opera	1
+'39	seas	A Night At The Opera	1
+'39	ship	A Night At The Opera	2
+'39	sight	A Night At The Opera	1
+'39	souls	A Night At The Opera	1
+'39	storytellers	A Night At The Opera	1
+'39	sunny	A Night At The Opera	1
+'39	sweetest	A Night At The Opera	1
+'39	volunteers	A Night At The Opera	2
+'39	weigh	A Night At The Opera	1
+'39	world	A Night At The Opera	1
+'39	write	A Night At The Opera	2
+Bicycle Race	america	Jazz	1
+Bicycle Race	bark	Jazz	1
+Bicycle Race	beauties	Jazz	1
+Bicycle Race	bicycle	Jazz	38
+Bicycle Race	bike	Jazz	3
+Bicycle Race	bite	Jazz	1
+Bicycle Race	black	Jazz	1
+Bicycle Race	bottomed	Jazz	1
+Bicycle Race	caine	Jazz	1
+Bicycle Race	candidate	Jazz	1
+Bicycle Race	cartier	Jazz	1
+Bicycle Race	cheese	Jazz	1
+Bicycle Race	choice	Jazz	1
+Bicycle Race	christ	Jazz	1
+Bicycle Race	coke	Jazz	1
+Bicycle Race	coming	Jazz	1
+Bicycle Race	cool	Jazz	1
+Bicycle Race	dog	Jazz	1
+Bicycle Race	duties	Jazz	1
+Bicycle Race	fat	Jazz	1
+Bicycle Race	forget	Jazz	1
+Bicycle Race	frankenstein	Jazz	1
+Bicycle Race	girls	Jazz	1
+Bicycle Race	god	Jazz	1
+Bicycle Race	hey	Jazz	3
+Bicycle Race	hot	Jazz	1
+Bicycle Race	income	Jazz	1
+Bicycle Race	jaws	Jazz	1
+Bicycle Race	jesus	Jazz	1
+Bicycle Race	john	Jazz	1
+Bicycle Race	lord	Jazz	1
+Bicycle Race	marks	Jazz	1
+Bicycle Race	pan	Jazz	1
+Bicycle Race	peter	Jazz	1
+Bicycle Race	president	Jazz	1
+Bicycle Race	race	Jazz	5
+Bicycle Race	races	Jazz	1
+Bicycle Race	ride	Jazz	16
+Bicycle Race	riding	Jazz	1
+Bicycle Race	rolls	Jazz	1
+Bicycle Race	royce	Jazz	1
+Bicycle Race	scene	Jazz	1
+Bicycle Race	set	Jazz	1
+Bicycle Race	shark	Jazz	1
+Bicycle Race	smile	Jazz	1
+Bicycle Race	star	Jazz	1
+Bicycle Race	superman	Jazz	1
+Bicycle Race	tax	Jazz	1
+Bicycle Race	vietnam	Jazz	1
+Bicycle Race	wanna	Jazz	3
+Bicycle Race	wars	Jazz	1
+Bicycle Race	watergate'cause	Jazz	1
+Bicycle Race	wayne	Jazz	1
+Bicycle Race	white	Jazz	1
+Bicycle Race	yeah	Jazz	3
+Bohemian Rhapsody	aching	A Night At The Opera	1
+Bohemian Rhapsody	ah	A Night At The Opera	1
+Bohemian Rhapsody	baby	A Night At The Opera	2
+Bohemian Rhapsody	beelzebub	A Night At The Opera	1
+Bohemian Rhapsody	begun	A Night At The Opera	1
+Bohemian Rhapsody	bismillah	A Night At The Opera	3
+Bohemian Rhapsody	blows	A Night At The Opera	3
+Bohemian Rhapsody	body's	A Night At The Opera	1
+Bohemian Rhapsody	born	A Night At The Opera	1
+Bohemian Rhapsody	boy	A Night At The Opera	3
+Bohemian Rhapsody	carry	A Night At The Opera	2
+Bohemian Rhapsody	caught	A Night At The Opera	1
+Bohemian Rhapsody	cry	A Night At The Opera	1
+Bohemian Rhapsody	dead	A Night At The Opera	1
+Bohemian Rhapsody	devil	A Night At The Opera	1
+Bohemian Rhapsody	die	A Night At The Opera	2
+Bohemian Rhapsody	easy	A Night At The Opera	4
+Bohemian Rhapsody	escape	A Night At The Opera	1
+Bohemian Rhapsody	eye	A Night At The Opera	1
+Bohemian Rhapsody	eyes	A Night At The Opera	1
+Bohemian Rhapsody	family	A Night At The Opera	1
+Bohemian Rhapsody	fandango	A Night At The Opera	1
+Bohemian Rhapsody	fantasy	A Night At The Opera	1
+Bohemian Rhapsody	figaro	A Night At The Opera	1
+Bohemian Rhapsody	frightening	A Night At The Opera	1
+Bohemian Rhapsody	galileo	A Night At The Opera	5
+Bohemian Rhapsody	goodbye	A Night At The Opera	1
+Bohemian Rhapsody	gotta	A Night At The Opera	3
+Bohemian Rhapsody	gun	A Night At The Opera	1
+Bohemian Rhapsody	head	A Night At The Opera	1
+Bohemian Rhapsody	killed	A Night At The Opera	1
+Bohemian Rhapsody	landslide	A Night At The Opera	1
+Bohemian Rhapsody	late	A Night At The Opera	1
+Bohemian Rhapsody	leave	A Night At The Opera	2
+Bohemian Rhapsody	life	A Night At The Opera	3
+Bohemian Rhapsody	lightning	A Night At The Opera	1
+Bohemian Rhapsody	love	A Night At The Opera	1
+Bohemian Rhapsody	loves	A Night At The Opera	1
+Bohemian Rhapsody	low	A Night At The Opera	1
+Bohemian Rhapsody	magnifico	A Night At The Opera	1
+Bohemian Rhapsody	mama	A Night At The Opera	4
+Bohemian Rhapsody	mamma	A Night At The Opera	3
+Bohemian Rhapsody	matter	A Night At The Opera	1
+Bohemian Rhapsody	matters	A Night At The Opera	4
+Bohemian Rhapsody	mia	A Night At The Opera	3
+Bohemian Rhapsody	monstrosity	A Night At The Opera	1
+Bohemian Rhapsody	na	A Night At The Opera	1
+Bohemian Rhapsody	ooh	A Night At The Opera	5
+Bohemian Rhapsody	outta	A Night At The Opera	1
+Bohemian Rhapsody	poor	A Night At The Opera	4
+Bohemian Rhapsody	pulled	A Night At The Opera	1
+Bohemian Rhapsody	real	A Night At The Opera	1
+Bohemian Rhapsody	reality	A Night At The Opera	1
+Bohemian Rhapsody	scaramouche	A Night At The Opera	2
+Bohemian Rhapsody	sends	A Night At The Opera	1
+Bohemian Rhapsody	shivers	A Night At The Opera	1
+Bohemian Rhapsody	silhouetto	A Night At The Opera	1
+Bohemian Rhapsody	skies	A Night At The Opera	1
+Bohemian Rhapsody	spare	A Night At The Opera	1
+Bohemian Rhapsody	spine	A Night At The Opera	1
+Bohemian Rhapsody	spit	A Night At The Opera	1
+Bohemian Rhapsody	stone	A Night At The Opera	1
+Bohemian Rhapsody	sympathy	A Night At The Opera	1
+Bohemian Rhapsody	thrown	A Night At The Opera	1
+Bohemian Rhapsody	thunderbolt	A Night At The Opera	1
+Bohemian Rhapsody	time	A Night At The Opera	3
+Bohemian Rhapsody	tomorrow	A Night At The Opera	1
+Bohemian Rhapsody	trigger	A Night At The Opera	1
+Bohemian Rhapsody	truth	A Night At The Opera	1
+Bohemian Rhapsody	wanna	A Night At The Opera	1
+Bohemian Rhapsody	wind	A Night At The Opera	3
+Bohemian Rhapsody	yeah	A Night At The Opera	2
+Brighton Rock	ages	Sheer Heart Attack	1
+Brighton Rock	air	Sheer Heart Attack	2
+Brighton Rock	apologize	Sheer Heart Attack	1
+Brighton Rock	avail	Sheer Heart Attack	1
+Brighton Rock	breathing	Sheer Heart Attack	1
+Brighton Rock	compromised	Sheer Heart Attack	1
+Brighton Rock	crumble	Sheer Heart Attack	1
+Brighton Rock	day	Sheer Heart Attack	1
+Brighton Rock	decorously	Sheer Heart Attack	1
+Brighton Rock	disarray	Sheer Heart Attack	1
+Brighton Rock	discover	Sheer Heart Attack	2
+Brighton Rock	erase	Sheer Heart Attack	1
+Brighton Rock	ere	Sheer Heart Attack	1
+Brighton Rock	everyday	Sheer Heart Attack	1
+Brighton Rock	farewell	Sheer Heart Attack	1
+Brighton Rock	gay	Sheer Heart Attack	1
+Brighton Rock	happy	Sheer Heart Attack	2
+Brighton Rock	holiday	Sheer Heart Attack	2
+Brighton Rock	holidays	Sheer Heart Attack	1
+Brighton Rock	illuminations	Sheer Heart Attack	1
+Brighton Rock	jenny	Sheer Heart Attack	3
+Brighton Rock	jimmy	Sheer Heart Attack	1
+Brighton Rock	lady	Sheer Heart Attack	2
+Brighton Rock	laid	Sheer Heart Attack	1
+Brighton Rock	letter	Sheer Heart Attack	1
+Brighton Rock	love	Sheer Heart Attack	3
+Brighton Rock	magic	Sheer Heart Attack	3
+Brighton Rock	met	Sheer Heart Attack	1
+Brighton Rock	moon	Sheer Heart Attack	1
+Brighton Rock	mother	Sheer Heart Attack	1
+Brighton Rock	mum	Sheer Heart Attack	1
+Brighton Rock	na	Sheer Heart Attack	2
+Brighton Rock	neath	Sheer Heart Attack	1
+Brighton Rock	pair	Sheer Heart Attack	1
+Brighton Rock	people	Sheer Heart Attack	1
+Brighton Rock	pines	Sheer Heart Attack	1
+Brighton Rock	pray	Sheer Heart Attack	1
+Brighton Rock	promenade	Sheer Heart Attack	1
+Brighton Rock	public	Sheer Heart Attack	1
+Brighton Rock	rock	Sheer Heart Attack	1
+Brighton Rock	shine	Sheer Heart Attack	1
+Brighton Rock	spell	Sheer Heart Attack	1
+Brighton Rock	spent	Sheer Heart Attack	2
+Brighton Rock	stay	Sheer Heart Attack	1
+Brighton Rock	talk	Sheer Heart Attack	1
+Brighton Rock	tarry	Sheer Heart Attack	1
+Brighton Rock	weave	Sheer Heart Attack	1
+Brighton Rock	writes	Sheer Heart Attack	1
+Bring Back That Leroy Brown	alive	Sheer Heart Attack	1
+Bring Back That Leroy Brown	babe	Sheer Heart Attack	2
+Bring Back That Leroy Brown	bad	Sheer Heart Attack	8
+Bring Back That Leroy Brown	baddy	Sheer Heart Attack	1
+Bring Back That Leroy Brown	belle	Sheer Heart Attack	1
+Bring Back That Leroy Brown	bet	Sheer Heart Attack	1
+Bring Back That Leroy Brown	bill	Sheer Heart Attack	1
+Bring Back That Leroy Brown	bitty	Sheer Heart Attack	1
+Bring Back That Leroy Brown	bottom	Sheer Heart Attack	1
+Bring Back That Leroy Brown	boy	Sheer Heart Attack	3
+Bring Back That Leroy Brown	brains	Sheer Heart Attack	1
+Bring Back That Leroy Brown	breakdown	Sheer Heart Attack	2
+Bring Back That Leroy Brown	bring	Sheer Heart Attack	22
+Bring Back That Leroy Brown	brown	Sheer Heart Attack	10
+Bring Back That Leroy Brown	care	Sheer Heart Attack	1
+Bring Back That Leroy Brown	caused	Sheer Heart Attack	1
+Bring Back That Leroy Brown	chile	Sheer Heart Attack	1
+Bring Back That Leroy Brown	common	Sheer Heart Attack	1
+Bring Back That Leroy Brown	cool	Sheer Heart Attack	1
+Bring Back That Leroy Brown	cutie	Sheer Heart Attack	1
+Bring Back That Leroy Brown	daddy	Sheer Heart Attack	1
+Bring Back That Leroy Brown	dead	Sheer Heart Attack	1
+Bring Back That Leroy Brown	dollar	Sheer Heart Attack	2
+Bring Back That Leroy Brown	elected	Sheer Heart Attack	1
+Bring Back That Leroy Brown	fine	Sheer Heart Attack	1
+Bring Back That Leroy Brown	getty	Sheer Heart Attack	1
+Bring Back That Leroy Brown	gonna	Sheer Heart Attack	1
+Bring Back That Leroy Brown	gotta	Sheer Heart Attack	3
+Bring Back That Leroy Brown	gratitude	Sheer Heart Attack	1
+Bring Back That Leroy Brown	head	Sheer Heart Attack	1
+Bring Back That Leroy Brown	heat	Sheer Heart Attack	1
+Bring Back That Leroy Brown	hit	Sheer Heart Attack	2
+Bring Back That Leroy Brown	honey	Sheer Heart Attack	1
+Bring Back That Leroy Brown	hoo	Sheer Heart Attack	1
+Bring Back That Leroy Brown	jail	Sheer Heart Attack	1
+Bring Back That Leroy Brown	latitude	Sheer Heart Attack	1
+Bring Back That Leroy Brown	leather	Sheer Heart Attack	1
+Bring Back That Leroy Brown	leroy	Sheer Heart Attack	14
+Bring Back That Leroy Brown	leroy's	Sheer Heart Attack	1
+Bring Back That Leroy Brown	lot	Sheer Heart Attack	1
+Bring Back That Leroy Brown	lulu	Sheer Heart Attack	1
+Bring Back That Leroy Brown	mama	Sheer Heart Attack	1
+Bring Back That Leroy Brown	met	Sheer Heart Attack	1
+Bring Back That Leroy Brown	mighty	Sheer Heart Attack	1
+Bring Back That Leroy Brown	mistaken	Sheer Heart Attack	1
+Bring Back That Leroy Brown	money	Sheer Heart Attack	1
+Bring Back That Leroy Brown	nervous	Sheer Heart Attack	2
+Bring Back That Leroy Brown	ninety	Sheer Heart Attack	1
+Bring Back That Leroy Brown	ooo	Sheer Heart Attack	1
+Bring Back That Leroy Brown	pie	Sheer Heart Attack	1
+Bring Back That Leroy Brown	playboy	Sheer Heart Attack	1
+Bring Back That Leroy Brown	president	Sheer Heart Attack	2
+Bring Back That Leroy Brown	rid	Sheer Heart Attack	1
+Bring Back That Leroy Brown	sensation	Sheer Heart Attack	1
+Bring Back That Leroy Brown	sense	Sheer Heart Attack	1
+Bring Back That Leroy Brown	sentence	Sheer Heart Attack	1
+Bring Back That Leroy Brown	shade	Sheer Heart Attack	1
+Bring Back That Leroy Brown	shammy	Sheer Heart Attack	1
+Bring Back That Leroy Brown	shimmy	Sheer Heart Attack	1
+Bring Back That Leroy Brown	shoot	Sheer Heart Attack	1
+Bring Back That Leroy Brown	shotgun	Sheer Heart Attack	1
+Bring Back That Leroy Brown	smile	Sheer Heart Attack	1
+Bring Back That Leroy Brown	stand	Sheer Heart Attack	1
+Bring Back That Leroy Brown	station	Sheer Heart Attack	1
+Bring Back That Leroy Brown	steady	Sheer Heart Attack	1
+Bring Back That Leroy Brown	step	Sheer Heart Attack	1
+Bring Back That Leroy Brown	style	Sheer Heart Attack	1
+Bring Back That Leroy Brown	time	Sheer Heart Attack	2
+Bring Back That Leroy Brown	town	Sheer Heart Attack	1
+Bring Back That Leroy Brown	weather	Sheer Heart Attack	1
+Bring Back That Leroy Brown	woo	Sheer Heart Attack	9
+Bring Back That Leroy Brown	yeah	Sheer Heart Attack	11
+Dead on Time	ahead	Jazz	2
+Dead on Time	alive	Jazz	1
+Dead on Time	battle	Jazz	1
+Dead on Time	business	Jazz	2
+Dead on Time	ceilin	Jazz	1
+Dead on Time	clap	Jazz	1
+Dead on Time	compromise	Jazz	1
+Dead on Time	crazy	Jazz	1
+Dead on Time	dead	Jazz	2
+Dead on Time	fight	Jazz	1
+Dead on Time	fool	Jazz	4
+Dead on Time	gonna	Jazz	2
+Dead on Time	gotta	Jazz	9
+Dead on Time	hammerin	Jazz	1
+Dead on Time	hangin	Jazz	1
+Dead on Time	happy	Jazz	1
+Dead on Time	head	Jazz	1
+Dead on Time	hey	Jazz	4
+Dead on Time	highway	Jazz	1
+Dead on Time	honey	Jazz	2
+Dead on Time	hurry	Jazz	7
+Dead on Time	jumpin	Jazz	1
+Dead on Time	laid	Jazz	1
+Dead on Time	land	Jazz	1
+Dead on Time	leave	Jazz	38
+Dead on Time	lies	Jazz	1
+Dead on Time	livin	Jazz	1
+Dead on Time	matter	Jazz	1
+Dead on Time	minute	Jazz	2
+Dead on Time	money	Jazz	2
+Dead on Time	na	Jazz	2
+Dead on Time	ooh	Jazz	1
+Dead on Time	paid	Jazz	2
+Dead on Time	past	Jazz	1
+Dead on Time	people	Jazz	1
+Dead on Time	pocket	Jazz	1
+Dead on Time	rattle	Jazz	1
+Dead on Time	reason	Jazz	1
+Dead on Time	red	Jazz	1
+Dead on Time	rich	Jazz	1
+Dead on Time	road	Jazz	1
+Dead on Time	round	Jazz	1
+Dead on Time	running	Jazz	1
+Dead on Time	shake	Jazz	1
+Dead on Time	stampin	Jazz	1
+Dead on Time	staring	Jazz	1
+Dead on Time	tellin	Jazz	1
+Dead on Time	thunder	Jazz	1
+Dead on Time	ticket	Jazz	2
+Dead on Time	time	Jazz	36
+Dead on Time	walls	Jazz	1
+Dead on Time	wanna	Jazz	2
+Dead on Time	ya	Jazz	1
+Dead on Time	yeah	Jazz	2
+Dear Friends	anew	Sheer Heart Attack	1
+Dear Friends	blow	Sheer Heart Attack	1
+Dear Friends	crying	Sheer Heart Attack	1
+Dear Friends	dare	Sheer Heart Attack	1
+Dear Friends	dear	Sheer Heart Attack	1
+Dear Friends	dream	Sheer Heart Attack	1
+Dear Friends	dwell	Sheer Heart Attack	1
+Dear Friends	friends	Sheer Heart Attack	1
+Dear Friends	gloom	Sheer Heart Attack	1
+Dear Friends	hopes	Sheer Heart Attack	1
+Dear Friends	life	Sheer Heart Attack	1
+Dear Friends	lost	Sheer Heart Attack	1
+Dear Friends	love	Sheer Heart Attack	3
+Dear Friends	rise	Sheer Heart Attack	1
+Dear Friends	sleep	Sheer Heart Attack	1
+Dear Friends	start	Sheer Heart Attack	1
+Dear Friends	tears	Sheer Heart Attack	1
+Dear Friends	there'll	Sheer Heart Attack	1
+Dear Friends	wind	Sheer Heart Attack	1
+Dear Friends	won	Sheer Heart Attack	1
+Death on Two Legs (Dedicated to...)	ah	A Night At The Opera	2
+Death on Two Legs (Dedicated to...)	air	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	ass	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	bad	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	balloon	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	barrow	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	blood	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	boy	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	brain	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	breach	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	break	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	business	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	cesspool	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	conscience	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	cronies	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	damn	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	deal	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	death	A Night At The Opera	4
+Death on Two Legs (Dedicated to...)	decaying	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	disease	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	division	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	dog	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	feel	A Night At The Opera	6
+Death on Two Legs (Dedicated to...)	fin	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	fools	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	found	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	fry	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	goodbye	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	guy	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	heart	A Night At The Opera	2
+Death on Two Legs (Dedicated to...)	hide	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	hot	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	hurts	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	insane	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	inside	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	killjoy	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	king	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	kiss	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	law	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	leech	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	legs	A Night At The Opera	4
+Death on Two Legs (Dedicated to...)	minded	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	misguided	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	money	A Night At The Opera	2
+Death on Two Legs (Dedicated to...)	mouth	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	mule	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	na	A Night At The Opera	2
+Death on Two Legs (Dedicated to...)	narrow	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	night	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	null	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	overgrown	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	pigheaded	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	plague	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	pride	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	rat	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	replace	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	rules	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	satisfied	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	schoolboy	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	screw	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	sewer	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	shark	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	sleaze	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	start	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	suck	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	suicide	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	talk	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	talkin	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	tan	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	tearing	A Night At The Opera	2
+Death on Two Legs (Dedicated to...)	till	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	toy	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	tycoon	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	unemployed	A Night At The Opera	1
+Death on Two Legs (Dedicated to...)	void	A Night At The Opera	1
+Doing All Right	ah	Queen	4
+Doing All Right	doin	Queen	2
+Doing All Right	feeling	Queen	1
+Doing All Right	god	Queen	1
+Doing All Right	hide	Queen	1
+Doing All Right	joy	Queen	1
+Doing All Right	jumped	Queen	1
+Doing All Right	life	Queen	2
+Doing All Right	ooh	Queen	1
+Doing All Right	round	Queen	1
+Doing All Right	ruin	Queen	2
+Doing All Right	sinking	Queen	1
+Doing All Right	skies	Queen	1
+Doing All Right	sorrow	Queen	1
+Doing All Right	sun	Queen	2
+Doing All Right	time	Queen	2
+Doing All Right	tomorrow	Queen	1
+Doing All Right	waiting	Queen	3
+Doing All Right	words	Queen	1
+Doing All Right	world	Queen	1
+Doing All Right	yesterday	Queen	2
+Don't Stop Me Now	ah	Jazz	11
+Don't Stop Me Now	alive	Jazz	1
+Don't Stop Me Now	alright	Jazz	1
+Don't Stop Me Now	atom	Jazz	1
+Don't Stop Me Now	ball	Jazz	2
+Don't Stop Me Now	bomb	Jazz	1
+Don't Stop Me Now	burning	Jazz	3
+Don't Stop Me Now	call	Jazz	5
+Don't Stop Me Now	car	Jazz	1
+Don't Stop Me Now	collision	Jazz	1
+Don't Stop Me Now	control	Jazz	1
+Don't Stop Me Now	da	Jazz	12
+Don't Stop Me Now	defying	Jazz	1
+Don't Stop Me Now	degrees	Jazz	3
+Don't Stop Me Now	ecstasy	Jazz	1
+Don't Stop Me Now	explode	Jazz	1
+Don't Stop Me Now	fahrenheit	Jazz	3
+Don't Stop Me Now	feel	Jazz	1
+Don't Stop Me Now	floating	Jazz	1
+Don't Stop Me Now	godiva	Jazz	1
+Don't Stop Me Now	gonna	Jazz	2
+Don't Stop Me Now	gravity	Jazz	1
+Don't Stop Me Now	hey	Jazz	4
+Don't Stop Me Now	honey	Jazz	1
+Don't Stop Me Now	hundred	Jazz	3
+Don't Stop Me Now	inside	Jazz	1
+Don't Stop Me Now	lady	Jazz	1
+Don't Stop Me Now	laws	Jazz	1
+Don't Stop Me Now	leaping	Jazz	1
+Don't Stop Me Now	light	Jazz	3
+Don't Stop Me Now	loose	Jazz	1
+Don't Stop Me Now	machine	Jazz	1
+Don't Stop Me Now	mars	Jazz	1
+Don't Stop Me Now	mister	Jazz	3
+Don't Stop Me Now	na	Jazz	1
+Don't Stop Me Now	ooh	Jazz	9
+Don't Stop Me Now	outta	Jazz	2
+Don't Stop Me Now	passing	Jazz	1
+Don't Stop Me Now	racing	Jazz	1
+Don't Stop Me Now	ready	Jazz	1
+Don't Stop Me Now	real	Jazz	1
+Don't Stop Me Now	reload	Jazz	1
+Don't Stop Me Now	rocket	Jazz	1
+Don't Stop Me Now	satellite	Jazz	1
+Don't Stop Me Now	sex	Jazz	1
+Don't Stop Me Now	ship	Jazz	1
+Don't Stop Me Now	shooting	Jazz	1
+Don't Stop Me Now	sky	Jazz	4
+Don't Stop Me Now	speed	Jazz	3
+Don't Stop Me Now	star	Jazz	1
+Don't Stop Me Now	stop	Jazz	21
+Don't Stop Me Now	stopping	Jazz	1
+Don't Stop Me Now	supersonic	Jazz	3
+Don't Stop Me Now	tiger	Jazz	1
+Don't Stop Me Now	time	Jazz	13
+Don't Stop Me Now	tonight	Jazz	1
+Don't Stop Me Now	travelling	Jazz	3
+Don't Stop Me Now	wanna	Jazz	7
+Don't Stop Me Now	woah	Jazz	1
+Don't Stop Me Now	woman	Jazz	1
+Don't Stop Me Now	world	Jazz	1
+Don't Stop Me Now	yeah	Jazz	9
+Dreamer's Ball	42nd	Jazz	1
+Dreamer's Ball	aching	Jazz	1
+Dreamer's Ball	baby	Jazz	2
+Dreamer's Ball	ball	Jazz	6
+Dreamer's Ball	barely	Jazz	1
+Dreamer's Ball	boy	Jazz	1
+Dreamer's Ball	broken	Jazz	1
+Dreamer's Ball	d'you	Jazz	1
+Dreamer's Ball	dancing	Jazz	1
+Dreamer's Ball	destroy	Jazz	1
+Dreamer's Ball	downtown	Jazz	1
+Dreamer's Ball	dream	Jazz	1
+Dreamer's Ball	dreamer's	Jazz	1
+Dreamer's Ball	dreamers	Jazz	5
+Dreamer's Ball	dreaming	Jazz	1
+Dreamer's Ball	dress	Jazz	1
+Dreamer's Ball	fine	Jazz	1
+Dreamer's Ball	found	Jazz	1
+Dreamer's Ball	gently	Jazz	1
+Dreamer's Ball	gonna	Jazz	1
+Dreamer's Ball	hey	Jazz	1
+Dreamer's Ball	hmm	Jazz	1
+Dreamer's Ball	hold	Jazz	1
+Dreamer's Ball	honey	Jazz	2
+Dreamer's Ball	joy	Jazz	1
+Dreamer's Ball	left	Jazz	1
+Dreamer's Ball	life	Jazz	1
+Dreamer's Ball	love	Jazz	1
+Dreamer's Ball	meet	Jazz	2
+Dreamer's Ball	morning	Jazz	1
+Dreamer's Ball	na	Jazz	1
+Dreamer's Ball	partner	Jazz	1
+Dreamer's Ball	perceptible	Jazz	1
+Dreamer's Ball	playing	Jazz	1
+Dreamer's Ball	plaything	Jazz	1
+Dreamer's Ball	pride	Jazz	1
+Dreamer's Ball	promise	Jazz	1
+Dreamer's Ball	remember	Jazz	2
+Dreamer's Ball	sleep	Jazz	1
+Dreamer's Ball	slightest	Jazz	1
+Dreamer's Ball	smile	Jazz	1
+Dreamer's Ball	street	Jazz	1
+Dreamer's Ball	taking	Jazz	1
+Dreamer's Ball	til	Jazz	1
+Dreamer's Ball	time	Jazz	1
+Dreamer's Ball	told	Jazz	1
+Dreamer's Ball	toy	Jazz	1
+Dreamer's Ball	true	Jazz	1
+Dreamer's Ball	wake	Jazz	1
+Dreamer's Ball	waking	Jazz	1
+Dreamer's Ball	whisper	Jazz	1
+Dreamer's Ball	worry	Jazz	1
+Dreamer's Ball	worthwhile	Jazz	1
+Drowse	afternoon	A Day At The Races	1
+Drowse	aged	A Day At The Races	1
+Drowse	alternatives	A Day At The Races	1
+Drowse	armchair	A Day At The Races	1
+Drowse	bleak	A Day At The Races	1
+Drowse	bored	A Day At The Races	1
+Drowse	boy	A Day At The Races	2
+Drowse	breakfast	A Day At The Races	1
+Drowse	brian	A Day At The Races	1
+Drowse	brighter	A Day At The Races	1
+Drowse	broaden	A Day At The Races	1
+Drowse	bums	A Day At The Races	1
+Drowse	chewing	A Day At The Races	1
+Drowse	clint	A Day At The Races	1
+Drowse	conqueror	A Day At The Races	1
+Drowse	crying	A Day At The Races	1
+Drowse	days	A Day At The Races	1
+Drowse	doin	A Day At The Races	1
+Drowse	door	A Day At The Races	1
+Drowse	downtown	A Day At The Races	1
+Drowse	drowse	A Day At The Races	1
+Drowse	dying	A Day At The Races	1
+Drowse	easier	A Day At The Races	2
+Drowse	eastwood	A Day At The Races	1
+Drowse	easy	A Day At The Races	2
+Drowse	eggs	A Day At The Races	1
+Drowse	endlessly	A Day At The Races	1
+Drowse	everyday	A Day At The Races	1
+Drowse	eyed	A Day At The Races	1
+Drowse	fantastic	A Day At The Races	1
+Drowse	feet	A Day At The Races	1
+Drowse	fun	A Day At The Races	1
+Drowse	gather	A Day At The Races	1
+Drowse	goodbye	A Day At The Races	1
+Drowse	guess	A Day At The Races	1
+Drowse	gum	A Day At The Races	1
+Drowse	half	A Day At The Races	1
+Drowse	hall	A Day At The Races	2
+Drowse	hard	A Day At The Races	1
+Drowse	hazier	A Day At The Races	1
+Drowse	hendrix	A Day At The Races	1
+Drowse	hero	A Day At The Races	1
+Drowse	hold	A Day At The Races	1
+Drowse	jimi	A Day At The Races	1
+Drowse	kneed	A Day At The Races	1
+Drowse	laughing	A Day At The Races	1
+Drowse	lays	A Day At The Races	1
+Drowse	life	A Day At The Races	1
+Drowse	lights	A Day At The Races	1
+Drowse	living	A Day At The Races	1
+Drowse	meet	A Day At The Races	1
+Drowse	middle	A Day At The Races	1
+Drowse	minds	A Day At The Races	1
+Drowse	mist	A Day At The Races	1
+Drowse	mistier	A Day At The Races	1
+Drowse	moments	A Day At The Races	1
+Drowse	nightlife	A Day At The Races	1
+Drowse	partings	A Day At The Races	1
+Drowse	pleadings	A Day At The Races	1
+Drowse	poached	A Day At The Races	1
+Drowse	pool	A Day At The Races	1
+Drowse	rages	A Day At The Races	1
+Drowse	reason	A Day At The Races	2
+Drowse	recall	A Day At The Races	1
+Drowse	remember	A Day At The Races	1
+Drowse	restless	A Day At The Races	1
+Drowse	sad	A Day At The Races	1
+Drowse	school	A Day At The Races	1
+Drowse	scuff	A Day At The Races	1
+Drowse	sidewalk	A Day At The Races	1
+Drowse	sleepiness	A Day At The Races	1
+Drowse	smalltown	A Day At The Races	1
+Drowse	street	A Day At The Races	2
+Drowse	sun	A Day At The Races	1
+Drowse	sundays	A Day At The Races	1
+Drowse	tears	A Day At The Races	1
+Drowse	thinkin	A Day At The Races	1
+Drowse	time	A Day At The Races	1
+Drowse	times	A Day At The Races	1
+Drowse	told	A Day At The Races	1
+Drowse	troubles	A Day At The Races	1
+Drowse	unending	A Day At The Races	1
+Drowse	vertical	A Day At The Races	1
+Drowse	wash	A Day At The Races	1
+Drowse	waste	A Day At The Races	1
+Drowse	watching	A Day At The Races	1
+Drowse	waves	A Day At The Races	1
+Drowse	weak	A Day At The Races	1
+Drowse	william	A Day At The Races	1
+Drowse	wrong	A Day At The Races	1
+Drowse	yesterday	A Day At The Races	1
+Fat Bottomed Girls	alright	Jazz	1
+Fat Bottomed Girls	bad	Jazz	2
+Fat Bottomed Girls	band	Jazz	1
+Fat Bottomed Girls	beauty	Jazz	2
+Fat Bottomed Girls	bikes	Jazz	1
+Fat Bottomed Girls	blue	Jazz	1
+Fat Bottomed Girls	bones	Jazz	1
+Fat Bottomed Girls	bottomed	Jazz	8
+Fat Bottomed Girls	boy	Jazz	1
+Fat Bottomed Girls	cross	Jazz	2
+Fat Bottomed Girls	dirty	Jazz	1
+Fat Bottomed Girls	em	Jazz	1
+Fat Bottomed Girls	eyed	Jazz	1
+Fat Bottomed Girls	fanny	Jazz	1
+Fat Bottomed Girls	fat	Jazz	9
+Fat Bottomed Girls	firelight	Jazz	3
+Fat Bottomed Girls	floozy	Jazz	1
+Fat Bottomed Girls	girls	Jazz	8
+Fat Bottomed Girls	gonna	Jazz	5
+Fat Bottomed Girls	hang	Jazz	2
+Fat Bottomed Girls	hey	Jazz	7
+Fat Bottomed Girls	home	Jazz	3
+Fat Bottomed Girls	homes	Jazz	1
+Fat Bottomed Girls	huh	Jazz	1
+Fat Bottomed Girls	kinda	Jazz	1
+Fat Bottomed Girls	lad	Jazz	1
+Fat Bottomed Girls	ladies	Jazz	1
+Fat Bottomed Girls	land	Jazz	1
+Fat Bottomed Girls	left	Jazz	2
+Fat Bottomed Girls	life	Jazz	1
+Fat Bottomed Girls	listen	Jazz	1
+Fat Bottomed Girls	locality	Jazz	1
+Fat Bottomed Girls	mortgages	Jazz	1
+Fat Bottomed Girls	nanny	Jazz	1
+Fat Bottomed Girls	naughty	Jazz	1
+Fat Bottomed Girls	nursery	Jazz	1
+Fat Bottomed Girls	ooh	Jazz	1
+Fat Bottomed Girls	pleasure	Jazz	1
+Fat Bottomed Girls	queens	Jazz	1
+Fat Bottomed Girls	red	Jazz	3
+Fat Bottomed Girls	ride	Jazz	2
+Fat Bottomed Girls	rockin	Jazz	5
+Fat Bottomed Girls	round	Jazz	5
+Fat Bottomed Girls	singing	Jazz	1
+Fat Bottomed Girls	skinny	Jazz	1
+Fat Bottomed Girls	smooth	Jazz	1
+Fat Bottomed Girls	stiffness	Jazz	1
+Fat Bottomed Girls	style	Jazz	1
+Fat Bottomed Girls	time	Jazz	1
+Fat Bottomed Girls	tonight	Jazz	3
+Fat Bottomed Girls	treasure	Jazz	1
+Fat Bottomed Girls	water	Jazz	1
+Fat Bottomed Girls	woman	Jazz	2
+Fat Bottomed Girls	woo	Jazz	1
+Fat Bottomed Girls	world	Jazz	5
+Fat Bottomed Girls	yeah	Jazz	6
+Flick of the Wrist	arm	Sheer Heart Attack	2
+Flick of the Wrist	baby	Sheer Heart Attack	4
+Flick of the Wrist	beast	Sheer Heart Attack	1
+Flick of the Wrist	blow	Sheer Heart Attack	2
+Flick of the Wrist	bones	Sheer Heart Attack	1
+Flick of the Wrist	brain	Sheer Heart Attack	1
+Flick of the Wrist	castrate	Sheer Heart Attack	1
+Flick of the Wrist	collateralize	Sheer Heart Attack	1
+Flick of the Wrist	cross	Sheer Heart Attack	1
+Flick of the Wrist	days	Sheer Heart Attack	1
+Flick of the Wrist	dead	Sheer Heart Attack	2
+Flick of the Wrist	deep	Sheer Heart Attack	1
+Flick of the Wrist	dig	Sheer Heart Attack	2
+Flick of the Wrist	dislocate	Sheer Heart Attack	1
+Flick of the Wrist	double	Sheer Heart Attack	1
+Flick of the Wrist	dried	Sheer Heart Attack	1
+Flick of the Wrist	eat	Sheer Heart Attack	2
+Flick of the Wrist	eyes	Sheer Heart Attack	1
+Flick of the Wrist	fake	Sheer Heart Attack	1
+Flick of the Wrist	fingers	Sheer Heart Attack	1
+Flick of the Wrist	flick	Sheer Heart Attack	4
+Flick of the Wrist	goodbye	Sheer Heart Attack	1
+Flick of the Wrist	head	Sheer Heart Attack	2
+Flick of the Wrist	heart	Sheer Heart Attack	2
+Flick of the Wrist	honey	Sheer Heart Attack	2
+Flick of the Wrist	human	Sheer Heart Attack	1
+Flick of the Wrist	impression	Sheer Heart Attack	1
+Flick of the Wrist	intoxicate	Sheer Heart Attack	1
+Flick of the Wrist	kick	Sheer Heart Attack	2
+Flick of the Wrist	kiss	Sheer Heart Attack	2
+Flick of the Wrist	knee	Sheer Heart Attack	1
+Flick of the Wrist	leg	Sheer Heart Attack	2
+Flick of the Wrist	leisure	Sheer Heart Attack	1
+Flick of the Wrist	lie	Sheer Heart Attack	1
+Flick of the Wrist	machine	Sheer Heart Attack	2
+Flick of the Wrist	mad	Sheer Heart Attack	2
+Flick of the Wrist	mesmerize	Sheer Heart Attack	1
+Flick of the Wrist	minds	Sheer Heart Attack	1
+Flick of the Wrist	money	Sheer Heart Attack	3
+Flick of the Wrist	muzak	Sheer Heart Attack	1
+Flick of the Wrist	na	Sheer Heart Attack	2
+Flick of the Wrist	pain	Sheer Heart Attack	1
+Flick of the Wrist	pride	Sheer Heart Attack	1
+Flick of the Wrist	prostitute	Sheer Heart Attack	1
+Flick of the Wrist	reduce	Sheer Heart Attack	1
+Flick of the Wrist	ribs	Sheer Heart Attack	2
+Flick of the Wrist	rip	Sheer Heart Attack	3
+Flick of the Wrist	rise	Sheer Heart Attack	1
+Flick of the Wrist	sacrifice	Sheer Heart Attack	1
+Flick of the Wrist	scream	Sheer Heart Attack	1
+Flick of the Wrist	seduce	Sheer Heart Attack	1
+Flick of the Wrist	sign	Sheer Heart Attack	1
+Flick of the Wrist	simply	Sheer Heart Attack	1
+Flick of the Wrist	spine	Sheer Heart Attack	1
+Flick of the Wrist	squeeze	Sheer Heart Attack	1
+Flick of the Wrist	synchronize	Sheer Heart Attack	1
+Flick of the Wrist	tied	Sheer Heart Attack	1
+Flick of the Wrist	till	Sheer Heart Attack	1
+Flick of the Wrist	time	Sheer Heart Attack	3
+Flick of the Wrist	tongue	Sheer Heart Attack	1
+Flick of the Wrist	trouble	Sheer Heart Attack	1
+Flick of the Wrist	wrist	Sheer Heart Attack	4
+Fun It	alive	Jazz	1
+Fun It	body's	Jazz	1
+Fun It	dance	Jazz	1
+Fun It	dynasty	Jazz	1
+Fun It	feet	Jazz	2
+Fun It	free	Jazz	2
+Fun It	fun	Jazz	5
+Fun It	fun's	Jazz	1
+Fun It	gonna	Jazz	4
+Fun It	groove	Jazz	2
+Fun It	hey	Jazz	1
+Fun It	honey	Jazz	1
+Fun It	jive	Jazz	1
+Fun It	join	Jazz	1
+Fun It	kicks	Jazz	1
+Fun It	meet	Jazz	2
+Fun It	morning	Jazz	1
+Fun It	movement	Jazz	1
+Fun It	moving	Jazz	2
+Fun It	night	Jazz	2
+Fun It	shaking	Jazz	2
+Fun It	shun	Jazz	4
+Fun It	soles	Jazz	2
+Fun It	soul	Jazz	2
+Fun It	time	Jazz	8
+Fun It	tonight	Jazz	6
+Fun It	town	Jazz	1
+Fun It	tricks	Jazz	1
+God Save the Queen	na	A Night At The Opera	1
+Good Company	appears	A Night At The Opera	1
+Good Company	baby	A Night At The Opera	1
+Good Company	begged	A Night At The Opera	1
+Good Company	call	A Night At The Opera	2
+Good Company	care	A Night At The Opera	3
+Good Company	company	A Night At The Opera	7
+Good Company	dandled	A Night At The Opera	1
+Good Company	day	A Night At The Opera	1
+Good Company	devoured	A Night At The Opera	1
+Good Company	disappear	A Night At The Opera	1
+Good Company	door	A Night At The Opera	1
+Good Company	efforts	A Night At The Opera	1
+Good Company	evermore	A Night At The Opera	1
+Good Company	father	A Night At The Opera	1
+Good Company	flourished	A Night At The Opera	1
+Good Company	fool	A Night At The Opera	1
+Good Company	fools	A Night At The Opera	1
+Good Company	friends	A Night At The Opera	2
+Good Company	girl	A Night At The Opera	1
+Good Company	grew	A Night At The Opera	2
+Good Company	happy	A Night At The Opera	1
+Good Company	hours	A Night At The Opera	1
+Good Company	humble	A Night At The Opera	1
+Good Company	insanity	A Night At The Opera	1
+Good Company	institution	A Night At The Opera	1
+Good Company	knee	A Night At The Opera	1
+Good Company	lesson	A Night At The Opera	1
+Good Company	life's	A Night At The Opera	1
+Good Company	limited	A Night At The Opera	1
+Good Company	marriage	A Night At The Opera	1
+Good Company	marry	A Night At The Opera	1
+Good Company	noticed	A Night At The Opera	1
+Good Company	one's	A Night At The Opera	1
+Good Company	ooh	A Night At The Opera	12
+Good Company	pipe	A Night At The Opera	2
+Good Company	play	A Night At The Opera	1
+Good Company	ponder	A Night At The Opera	1
+Good Company	puff	A Night At The Opera	1
+Good Company	puffed	A Night At The Opera	1
+Good Company	reputation	A Night At The Opera	1
+Good Company	reward	A Night At The Opera	1
+Good Company	safe	A Night At The Opera	1
+Good Company	sally	A Night At The Opera	2
+Good Company	time	A Night At The Opera	1
+Good Company	trade	A Night At The Opera	1
+Good Company	waking	A Night At The Opera	1
+Good Company	who'll	A Night At The Opera	1
+Good Company	wife	A Night At The Opera	1
+Good Old-Fashioned Lover Boy	1	A Day At The Races	1
+Good Old-Fashioned Lover Boy	2	A Day At The Races	1
+Good Old-Fashioned Lover Boy	3	A Day At The Races	1
+Good Old-Fashioned Lover Boy	4	A Day At The Races	1
+Good Old-Fashioned Lover Boy	5	A Day At The Races	1
+Good Old-Fashioned Lover Boy	6	A Day At The Races	1
+Good Old-Fashioned Lover Boy	7	A Day At The Races	1
+Good Old-Fashioned Lover Boy	8	A Day At The Races	1
+Good Old-Fashioned Lover Boy	9	A Day At The Races	1
+Good Old-Fashioned Lover Boy	alarm	A Day At The Races	1
+Good Old-Fashioned Lover Boy	bill	A Day At The Races	1
+Good Old-Fashioned Lover Boy	boy	A Day At The Races	11
+Good Old-Fashioned Lover Boy	boys	A Day At The Races	1
+Good Old-Fashioned Lover Boy	charm	A Day At The Races	1
+Good Old-Fashioned Lover Boy	command	A Day At The Races	1
+Good Old-Fashioned Lover Boy	dim	A Day At The Races	1
+Good Old-Fashioned Lover Boy	dining	A Day At The Races	1
+Good Old-Fashioned Lover Boy	driving	A Day At The Races	1
+Good Old-Fashioned Lover Boy	everything's	A Day At The Races	1
+Good Old-Fashioned Lover Boy	fancy	A Day At The Races	1
+Good Old-Fashioned Lover Boy	fashioned	A Day At The Races	5
+Good Old-Fashioned Lover Boy	faster	A Day At The Races	2
+Good Old-Fashioned Lover Boy	feel	A Day At The Races	4
+Good Old-Fashioned Lover Boy	fine	A Day At The Races	1
+Good Old-Fashioned Lover Boy	gently	A Day At The Races	1
+Good Old-Fashioned Lover Boy	grow	A Day At The Races	1
+Good Old-Fashioned Lover Boy	heart	A Day At The Races	1
+Good Old-Fashioned Lover Boy	heartbeat	A Day At The Races	1
+Good Old-Fashioned Lover Boy	heat	A Day At The Races	1
+Good Old-Fashioned Lover Boy	hey	A Day At The Races	5
+Good Old-Fashioned Lover Boy	hold	A Day At The Races	1
+Good Old-Fashioned Lover Boy	hot	A Day At The Races	2
+Good Old-Fashioned Lover Boy	learned	A Day At The Races	1
+Good Old-Fashioned Lover Boy	letter	A Day At The Races	1
+Good Old-Fashioned Lover Boy	lights	A Day At The Races	1
+Good Old-Fashioned Lover Boy	love	A Day At The Races	7
+Good Old-Fashioned Lover Boy	lover	A Day At The Races	7
+Good Old-Fashioned Lover Boy	meet	A Day At The Races	1
+Good Old-Fashioned Lover Boy	miss	A Day At The Races	2
+Good Old-Fashioned Lover Boy	na	A Day At The Races	1
+Good Old-Fashioned Lover Boy	nicely	A Day At The Races	1
+Good Old-Fashioned Lover Boy	nights	A Day At The Races	1
+Good Old-Fashioned Lover Boy	o'clock	A Day At The Races	1
+Good Old-Fashioned Lover Boy	ohh	A Day At The Races	1
+Good Old-Fashioned Lover Boy	ooh	A Day At The Races	10
+Good Old-Fashioned Lover Boy	passion	A Day At The Races	1
+Good Old-Fashioned Lover Boy	patter	A Day At The Races	1
+Good Old-Fashioned Lover Boy	pay	A Day At The Races	1
+Good Old-Fashioned Lover Boy	play	A Day At The Races	1
+Good Old-Fashioned Lover Boy	precisely	A Day At The Races	1
+Good Old-Fashioned Lover Boy	ritz	A Day At The Races	1
+Good Old-Fashioned Lover Boy	romancing	A Day At The Races	1
+Good Old-Fashioned Lover Boy	sad	A Day At The Races	1
+Good Old-Fashioned Lover Boy	saloon	A Day At The Races	1
+Good Old-Fashioned Lover Boy	school	A Day At The Races	1
+Good Old-Fashioned Lover Boy	seat	A Day At The Races	1
+Good Old-Fashioned Lover Boy	serenade	A Day At The Races	1
+Good Old-Fashioned Lover Boy	set	A Day At The Races	1
+Good Old-Fashioned Lover Boy	sing	A Day At The Races	1
+Good Old-Fashioned Lover Boy	sit	A Day At The Races	1
+Good Old-Fashioned Lover Boy	songs	A Day At The Races	1
+Good Old-Fashioned Lover Boy	strings	A Day At The Races	1
+Good Old-Fashioned Lover Boy	style	A Day At The Races	1
+Good Old-Fashioned Lover Boy	summer	A Day At The Races	1
+Good Old-Fashioned Lover Boy	tango	A Day At The Races	1
+Good Old-Fashioned Lover Boy	taste	A Day At The Races	1
+Good Old-Fashioned Lover Boy	telephone	A Day At The Races	1
+Good Old-Fashioned Lover Boy	tight	A Day At The Races	1
+Good Old-Fashioned Lover Boy	tonight	A Day At The Races	3
+Good Old-Fashioned Lover Boy	valentino	A Day At The Races	1
+Good Old-Fashioned Lover Boy	what're	A Day At The Races	3
+Good Old-Fashioned Lover Boy	wine	A Day At The Races	1
+Good Old-Fashioned Lover Boy	word	A Day At The Races	1
+Good Old-Fashioned Lover Boy	write	A Day At The Races	1
+Great King Rat	ago	Queen	1
+Great King Rat	ah	Queen	1
+Great King Rat	bad	Queen	1
+Great King Rat	beg	Queen	1
+Great King Rat	bible	Queen	1
+Great King Rat	birthday	Queen	1
+Great King Rat	born	Queen	1
+Great King Rat	borrow	Queen	1
+Great King Rat	care	Queen	2
+Great King Rat	died	Queen	3
+Great King Rat	dirty	Queen	8
+Great King Rat	disciple	Queen	1
+Great King Rat	evil	Queen	2
+Great King Rat	fight	Queen	1
+Great King Rat	forty	Queen	1
+Great King Rat	gonna	Queen	2
+Great King Rat	hear	Queen	1
+Great King Rat	hit	Queen	1
+Great King Rat	king	Queen	5
+Great King Rat	knelt	Queen	1
+Great King Rat	law	Queen	1
+Great King Rat	leave	Queen	1
+Great King Rat	lie	Queen	1
+Great King Rat	line	Queen	1
+Great King Rat	listen	Queen	2
+Great King Rat	lord	Queen	1
+Great King Rat	mama	Queen	2
+Great King Rat	na	Queen	2
+Great King Rat	people	Queen	4
+Great King Rat	rat	Queen	5
+Great King Rat	read	Queen	1
+Great King Rat	realize	Queen	1
+Great King Rat	rival	Queen	1
+Great King Rat	saints	Queen	1
+Great King Rat	sinners	Queen	2
+Great King Rat	son	Queen	1
+Great King Rat	swore	Queen	1
+Great King Rat	syphilis	Queen	1
+Great King Rat	time	Queen	6
+Great King Rat	told	Queen	3
+Great King Rat	tomorrow	Queen	2
+Great King Rat	twenty	Queen	1
+Great King Rat	whore	Queen	1
+Great King Rat	word	Queen	3
+I’m in Love with My Car	automobile	A Night At The Opera	2
+I’m in Love with My Car	automolove	A Night At The Opera	1
+I’m in Love with My Car	bar	A Night At The Opera	1
+I’m in Love with My Car	boy	A Night At The Opera	1
+I’m in Love with My Car	buy	A Night At The Opera	1
+I’m in Love with My Car	car	A Night At The Opera	5
+I’m in Love with My Car	carburetor	A Night At The Opera	1
+I’m in Love with My Car	cars	A Night At The Opera	1
+I’m in Love with My Car	clean	A Night At The Opera	1
+I’m in Love with My Car	cruising	A Night At The Opera	1
+I’m in Love with My Car	disease	A Night At The Opera	1
+I’m in Love with My Car	dream	A Night At The Opera	1
+I’m in Love with My Car	feel	A Night At The Opera	2
+I’m in Love with My Car	forget	A Night At The Opera	1
+I’m in Love with My Car	friends	A Night At The Opera	1
+I’m in Love with My Car	gear	A Night At The Opera	2
+I’m in Love with My Car	girl	A Night At The Opera	1
+I’m in Love with My Car	gleam	A Night At The Opera	1
+I’m in Love with My Car	gloves	A Night At The Opera	1
+I’m in Love with My Car	grease	A Night At The Opera	1
+I’m in Love with My Car	grip	A Night At The Opera	1
+I’m in Love with My Car	gun	A Night At The Opera	1
+I’m in Love with My Car	hand's	A Night At The Opera	1
+I’m in Love with My Car	hear	A Night At The Opera	2
+I’m in Love with My Car	holding	A Night At The Opera	2
+I’m in Love with My Car	hubcaps	A Night At The Opera	1
+I’m in Love with My Car	jive	A Night At The Opera	1
+I’m in Love with My Car	listen	A Night At The Opera	1
+I’m in Love with My Car	love	A Night At The Opera	5
+I’m in Love with My Car	machine	A Night At The Opera	2
+I’m in Love with My Car	mill	A Night At The Opera	1
+I’m in Love with My Car	ooh	A Night At The Opera	4
+I’m in Love with My Car	overdrive	A Night At The Opera	1
+I’m in Love with My Car	pistons	A Night At The Opera	1
+I’m in Love with My Car	pumping	A Night At The Opera	1
+I’m in Love with My Car	racer	A Night At The Opera	1
+I’m in Love with My Car	radials	A Night At The Opera	1
+I’m in Love with My Car	roll	A Night At The Opera	1
+I’m in Love with My Car	run	A Night At The Opera	1
+I’m in Love with My Car	son	A Night At The Opera	1
+I’m in Love with My Car	squeal	A Night At The Opera	1
+I’m in Love with My Car	string	A Night At The Opera	1
+I’m in Love with My Car	talk	A Night At The Opera	2
+I’m in Love with My Car	thrill	A Night At The Opera	1
+I’m in Love with My Car	told	A Night At The Opera	1
+I’m in Love with My Car	tracks	A Night At The Opera	1
+I’m in Love with My Car	wheel	A Night At The Opera	2
+I’m in Love with My Car	wheeled	A Night At The Opera	1
+If You Can't Beat Them	beat	Jazz	6
+If You Can't Beat Them	bind	Jazz	1
+If You Can't Beat Them	call	Jazz	1
+If You Can't Beat Them	chin	Jazz	1
+If You Can't Beat Them	contract	Jazz	1
+If You Can't Beat Them	dine	Jazz	1
+If You Can't Beat Them	dirty	Jazz	1
+If You Can't Beat Them	em	Jazz	13
+If You Can't Beat Them	feel	Jazz	3
+If You Can't Beat Them	feeling	Jazz	1
+If You Can't Beat Them	feels	Jazz	1
+If You Can't Beat Them	game	Jazz	1
+If You Can't Beat Them	gonna	Jazz	2
+If You Can't Beat Them	ha	Jazz	2
+If You Can't Beat Them	hands	Jazz	1
+If You Can't Beat Them	hanging	Jazz	1
+If You Can't Beat Them	hey	Jazz	4
+If You Can't Beat Them	hide	Jazz	1
+If You Can't Beat Them	hoo	Jazz	1
+If You Can't Beat Them	hurts	Jazz	1
+If You Can't Beat Them	inside	Jazz	1
+If You Can't Beat Them	join	Jazz	6
+If You Can't Beat Them	knocking	Jazz	1
+If You Can't Beat Them	legal	Jazz	1
+If You Can't Beat Them	lonely	Jazz	1
+If You Can't Beat Them	makes	Jazz	3
+If You Can't Beat Them	money	Jazz	1
+If You Can't Beat Them	move	Jazz	1
+If You Can't Beat Them	na	Jazz	1
+If You Can't Beat Them	oo	Jazz	2
+If You Can't Beat Them	ooh	Jazz	1
+If You Can't Beat Them	play	Jazz	3
+If You Can't Beat Them	pull	Jazz	1
+If You Can't Beat Them	ready	Jazz	1
+If You Can't Beat Them	rock	Jazz	1
+If You Can't Beat Them	roll	Jazz	1
+If You Can't Beat Them	round	Jazz	1
+If You Can't Beat Them	rumour	Jazz	1
+If You Can't Beat Them	run	Jazz	1
+If You Can't Beat Them	sitting	Jazz	1
+If You Can't Beat Them	taking	Jazz	1
+If You Can't Beat Them	wind	Jazz	1
+If You Can't Beat Them	wine	Jazz	1
+If You Can't Beat Them	woo	Jazz	1
+If You Can't Beat Them	yeah	Jazz	5
+In Only Seven Days	beach	Jazz	1
+In Only Seven Days	bear	Jazz	1
+In Only Seven Days	changed	Jazz	1
+In Only Seven Days	close	Jazz	1
+In Only Seven Days	days	Jazz	1
+In Only Seven Days	fade	Jazz	1
+In Only Seven Days	feels	Jazz	1
+In Only Seven Days	forever	Jazz	1
+In Only Seven Days	freedom	Jazz	1
+In Only Seven Days	friday	Jazz	1
+In Only Seven Days	happen	Jazz	1
+In Only Seven Days	held	Jazz	1
+In Only Seven Days	holiday	Jazz	1
+In Only Seven Days	home	Jazz	1
+In Only Seven Days	hoped	Jazz	1
+In Only Seven Days	hours	Jazz	1
+In Only Seven Days	hundred	Jazz	1
+In Only Seven Days	leave	Jazz	1
+In Only Seven Days	looked	Jazz	1
+In Only Seven Days	luck	Jazz	1
+In Only Seven Days	memories	Jazz	1
+In Only Seven Days	monday	Jazz	1
+In Only Seven Days	ooh	Jazz	2
+In Only Seven Days	sad	Jazz	1
+In Only Seven Days	saturday	Jazz	1
+In Only Seven Days	smiled	Jazz	1
+In Only Seven Days	start	Jazz	1
+In Only Seven Days	stood	Jazz	2
+In Only Seven Days	sunday	Jazz	1
+In Only Seven Days	thursday	Jazz	1
+In Only Seven Days	tomorrow	Jazz	1
+In Only Seven Days	tuesday	Jazz	1
+In Only Seven Days	twenty	Jazz	1
+In Only Seven Days	watched	Jazz	1
+In Only Seven Days	wednesday	Jazz	1
+In Only Seven Days	week	Jazz	1
+In the Lap of the Gods	gods	Sheer Heart Attack	15
+In the Lap of the Gods	lap	Sheer Heart Attack	15
+In the Lap of the Gods	leave	Sheer Heart Attack	10
+In the Lap of the Gods	life	Sheer Heart Attack	1
+In the Lap of the Gods	lips	Sheer Heart Attack	1
+In the Lap of the Gods	live	Sheer Heart Attack	1
+In the Lap of the Gods	lords	Sheer Heart Attack	1
+In the Lap of the Gods	mine	Sheer Heart Attack	1
+In the Lap of the Gods	touch	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	beginning	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	belong	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	chance	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	easy	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	fool	Sheer Heart Attack	5
+In the Lap of the Gods... Revisited	forgive	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	free	Sheer Heart Attack	2
+In the Lap of the Gods... Revisited	funny	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	gods	Sheer Heart Attack	7
+In the Lap of the Gods... Revisited	gotta	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	la	Sheer Heart Attack	31
+In the Lap of the Gods... Revisited	lap	Sheer Heart Attack	7
+In the Lap of the Gods... Revisited	laugh	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	life	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	meaning	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	money	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	ooh	Sheer Heart Attack	5
+In the Lap of the Gods... Revisited	pretending	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	risky	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	set	Sheer Heart Attack	2
+In the Lap of the Gods... Revisited	talk	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	true	Sheer Heart Attack	2
+In the Lap of the Gods... Revisited	wah	Sheer Heart Attack	10
+In the Lap of the Gods... Revisited	wanna	Sheer Heart Attack	1
+In the Lap of the Gods... Revisited	whoa	Sheer Heart Attack	31
+Jealousy	bring	Jazz	1
+Jealousy	brought	Jazz	1
+Jealousy	die	Jazz	1
+Jealousy	fail	Jazz	1
+Jealousy	fall	Jazz	1
+Jealousy	heart	Jazz	1
+Jealousy	hold	Jazz	1
+Jealousy	hurt	Jazz	2
+Jealousy	jealous	Jazz	1
+Jealousy	jealousy	Jazz	11
+Jealousy	led	Jazz	1
+Jealousy	left	Jazz	3
+Jealousy	life	Jazz	1
+Jealousy	live	Jazz	1
+Jealousy	lose	Jazz	1
+Jealousy	love	Jazz	2
+Jealousy	matters	Jazz	2
+Jealousy	mind	Jazz	1
+Jealousy	mistake	Jazz	1
+Jealousy	pain	Jazz	1
+Jealousy	possessive	Jazz	1
+Jealousy	pride	Jazz	2
+Jealousy	short	Jazz	1
+Jealousy	sorrow	Jazz	1
+Jealousy	strong	Jazz	1
+Jealousy	surprise	Jazz	1
+Jealousy	suspicion	Jazz	1
+Jealousy	tears	Jazz	1
+Jealousy	trail	Jazz	1
+Jealousy	tripped	Jazz	1
+Jealousy	warning	Jazz	1
+Jealousy	wrong	Jazz	1
+Jesus	beggars	Queen	1
+Jesus	bell	Queen	1
+Jesus	bethlehem	Queen	2
+Jesus	born	Queen	2
+Jesus	called	Queen	1
+Jesus	crowd	Queen	1
+Jesus	feet	Queen	1
+Jesus	fell	Queen	1
+Jesus	gathered	Queen	1
+Jesus	hand	Queen	1
+Jesus	head	Queen	1
+Jesus	heard	Queen	2
+Jesus	jesus	Queen	8
+Jesus	land	Queen	2
+Jesus	leader	Queen	2
+Jesus	leper	Queen	1
+Jesus	lepers	Queen	1
+Jesus	lord	Queen	8
+Jesus	lot	Queen	1
+Jesus	na	Queen	2
+Jesus	palm	Queen	1
+Jesus	people	Queen	1
+Jesus	rang	Queen	1
+Jesus	round	Queen	1
+Jesus	shouted	Queen	1
+Jesus	star	Queen	2
+Jesus	stared	Queen	1
+Jesus	touch	Queen	1
+Jesus	unclean	Queen	1
+Jesus	wise	Queen	2
+Keep Yourself Alive	alive	Queen	18
+Keep Yourself Alive	alley	Queen	1
+Keep Yourself Alive	ate	Queen	1
+Keep Yourself Alive	belladonnic	Queen	1
+Keep Yourself Alive	bigger	Queen	1
+Keep Yourself Alive	body	Queen	1
+Keep Yourself Alive	bread	Queen	1
+Keep Yourself Alive	brought	Queen	1
+Keep Yourself Alive	butter	Queen	1
+Keep Yourself Alive	crossed	Queen	2
+Keep Yourself Alive	day	Queen	4
+Keep Yourself Alive	dinners	Queen	1
+Keep Yourself Alive	feed	Queen	1
+Keep Yourself Alive	folks	Queen	1
+Keep Yourself Alive	goal	Queen	1
+Keep Yourself Alive	grave	Queen	1
+Keep Yourself Alive	grow	Queen	2
+Keep Yourself Alive	haze	Queen	1
+Keep Yourself Alive	honey	Queen	3
+Keep Yourself Alive	loved	Queen	1
+Keep Yourself Alive	miles	Queen	2
+Keep Yourself Alive	million	Queen	9
+Keep Yourself Alive	mind	Queen	1
+Keep Yourself Alive	mirrors	Queen	1
+Keep Yourself Alive	money	Queen	6
+Keep Yourself Alive	nearer	Queen	1
+Keep Yourself Alive	ooh	Queen	3
+Keep Yourself Alive	ow	Queen	1
+Keep Yourself Alive	people	Queen	3
+Keep Yourself Alive	rivers	Queen	2
+Keep Yourself Alive	rode	Queen	2
+Keep Yourself Alive	satisfied	Queen	4
+Keep Yourself Alive	shake	Queen	1
+Keep Yourself Alive	shop	Queen	1
+Keep Yourself Alive	silver	Queen	1
+Keep Yourself Alive	smile	Queen	1
+Keep Yourself Alive	sold	Queen	1
+Keep Yourself Alive	soul	Queen	1
+Keep Yourself Alive	started	Queen	3
+Keep Yourself Alive	stay	Queen	1
+Keep Yourself Alive	steps	Queen	1
+Keep Yourself Alive	superstar	Queen	1
+Keep Yourself Alive	survive	Queen	3
+Keep Yourself Alive	taking	Queen	1
+Keep Yourself Alive	telling	Queen	1
+Keep Yourself Alive	time	Queen	6
+Keep Yourself Alive	times	Queen	2
+Keep Yourself Alive	told	Queen	2
+Keep Yourself Alive	trays	Queen	1
+Keep Yourself Alive	troubles	Queen	1
+Keep Yourself Alive	whoa	Queen	1
+Keep Yourself Alive	window	Queen	1
+Keep Yourself Alive	wiser	Queen	1
+Keep Yourself Alive	women	Queen	1
+Keep Yourself Alive	yeah	Queen	1
+Killer Queen	absolutely	Sheer Heart Attack	1
+Killer Queen	action	Sheer Heart Attack	1
+Killer Queen	address	Sheer Heart Attack	1
+Killer Queen	antoinette	Sheer Heart Attack	1
+Killer Queen	anytime	Sheer Heart Attack	4
+Killer Queen	appetite	Sheer Heart Attack	2
+Killer Queen	avoid	Sheer Heart Attack	1
+Killer Queen	baroness	Sheer Heart Attack	1
+Killer Queen	beam	Sheer Heart Attack	3
+Killer Queen	blow	Sheer Heart Attack	3
+Killer Queen	built	Sheer Heart Attack	1
+Killer Queen	cabinet	Sheer Heart Attack	1
+Killer Queen	cake	Sheer Heart Attack	1
+Killer Queen	care	Sheer Heart Attack	1
+Killer Queen	cars	Sheer Heart Attack	1
+Killer Queen	cat	Sheer Heart Attack	1
+Killer Queen	caviar	Sheer Heart Attack	1
+Killer Queen	chandon	Sheer Heart Attack	1
+Killer Queen	china	Sheer Heart Attack	1
+Killer Queen	cigarettes	Sheer Heart Attack	1
+Killer Queen	complications	Sheer Heart Attack	1
+Killer Queen	conversation	Sheer Heart Attack	1
+Killer Queen	decline	Sheer Heart Attack	1
+Killer Queen	drive	Sheer Heart Attack	2
+Killer Queen	drop	Sheer Heart Attack	1
+Killer Queen	dynamite	Sheer Heart Attack	3
+Killer Queen	eat	Sheer Heart Attack	1
+Killer Queen	etiquette	Sheer Heart Attack	1
+Killer Queen	extraordinarily	Sheer Heart Attack	1
+Killer Queen	fastidious	Sheer Heart Attack	1
+Killer Queen	gas	Sheer Heart Attack	1
+Killer Queen	geisha	Sheer Heart Attack	1
+Killer Queen	gelatin	Sheer Heart Attack	3
+Killer Queen	guaranteed	Sheer Heart Attack	3
+Killer Queen	gunpowder	Sheer Heart Attack	3
+Killer Queen	hat	Sheer Heart Attack	1
+Killer Queen	incidentally	Sheer Heart Attack	1
+Killer Queen	inclined	Sheer Heart Attack	1
+Killer Queen	insatiable	Sheer Heart Attack	2
+Killer Queen	invitation	Sheer Heart Attack	1
+Killer Queen	kennedy	Sheer Heart Attack	1
+Killer Queen	khrushchev	Sheer Heart Attack	1
+Killer Queen	killer	Sheer Heart Attack	6
+Killer Queen	laser	Sheer Heart Attack	3
+Killer Queen	marie	Sheer Heart Attack	1
+Killer Queen	met	Sheer Heart Attack	1
+Killer Queen	minah	Sheer Heart Attack	1
+Killer Queen	mind	Sheer Heart Attack	3
+Killer Queen	moët	Sheer Heart Attack	1
+Killer Queen	momentarily	Sheer Heart Attack	1
+Killer Queen	na	Sheer Heart Attack	1
+Killer Queen	naturally	Sheer Heart Attack	2
+Killer Queen	nice	Sheer Heart Attack	1
+Killer Queen	ooh	Sheer Heart Attack	10
+Killer Queen	pa	Sheer Heart Attack	11
+Killer Queen	paris	Sheer Heart Attack	1
+Killer Queen	perfume	Sheer Heart Attack	1
+Killer Queen	playful	Sheer Heart Attack	1
+Killer Queen	precise	Sheer Heart Attack	1
+Killer Queen	pretty	Sheer Heart Attack	1
+Killer Queen	price	Sheer Heart Attack	2
+Killer Queen	pussy	Sheer Heart Attack	1
+Killer Queen	queen	Sheer Heart Attack	4
+Killer Queen	ra	Sheer Heart Attack	1
+Killer Queen	recommended	Sheer Heart Attack	2
+Killer Queen	remedy	Sheer Heart Attack	1
+Killer Queen	spoke	Sheer Heart Attack	1
+Killer Queen	ta	Sheer Heart Attack	1
+Killer Queen	taaa	Sheer Heart Attack	1
+Killer Queen	temporarily	Sheer Heart Attack	1
+Killer Queen	versed	Sheer Heart Attack	1
+Killer Queen	wanna	Sheer Heart Attack	3
+Killer Queen	wild	Sheer Heart Attack	2
+Lazing on a Sunday Afternoon	afternoon	A Night At The Opera	2
+Lazing on a Sunday Afternoon	bicycling	A Night At The Opera	1
+Lazing on a Sunday Afternoon	bound	A Night At The Opera	1
+Lazing on a Sunday Afternoon	evening	A Night At The Opera	1
+Lazing on a Sunday Afternoon	fridays	A Night At The Opera	1
+Lazing on a Sunday Afternoon	guy	A Night At The Opera	1
+Lazing on a Sunday Afternoon	honeymoon	A Night At The Opera	1
+Lazing on a Sunday Afternoon	lazing	A Night At The Opera	4
+Lazing on a Sunday Afternoon	london	A Night At The Opera	1
+Lazing on a Sunday Afternoon	louvre	A Night At The Opera	1
+Lazing on a Sunday Afternoon	monday	A Night At The Opera	1
+Lazing on a Sunday Afternoon	morning	A Night At The Opera	1
+Lazing on a Sunday Afternoon	na	A Night At The Opera	2
+Lazing on a Sunday Afternoon	night	A Night At The Opera	1
+Lazing on a Sunday Afternoon	ordinary	A Night At The Opera	1
+Lazing on a Sunday Afternoon	painting	A Night At The Opera	1
+Lazing on a Sunday Afternoon	proposing	A Night At The Opera	1
+Lazing on a Sunday Afternoon	saturday	A Night At The Opera	1
+Lazing on a Sunday Afternoon	sunday	A Night At The Opera	4
+Lazing on a Sunday Afternoon	sunny	A Night At The Opera	1
+Lazing on a Sunday Afternoon	thursday	A Night At The Opera	1
+Lazing on a Sunday Afternoon	time	A Night At The Opera	1
+Lazing on a Sunday Afternoon	town	A Night At The Opera	1
+Lazing on a Sunday Afternoon	tuesday	A Night At The Opera	1
+Lazing on a Sunday Afternoon	waltzing	A Night At The Opera	1
+Lazing on a Sunday Afternoon	wednesday	A Night At The Opera	1
+Lazing on a Sunday Afternoon	zoo	A Night At The Opera	1
+Leaving Home Ain't Easy	ahead	Jazz	1
+Leaving Home Ain't Easy	air	Jazz	1
+Leaving Home Ain't Easy	blame	Jazz	1
+Leaving Home Ain't Easy	break	Jazz	1
+Leaving Home Ain't Easy	breathe	Jazz	1
+Leaving Home Ain't Easy	call	Jazz	1
+Leaving Home Ain't Easy	calling	Jazz	1
+Leaving Home Ain't Easy	door	Jazz	1
+Leaving Home Ain't Easy	dust	Jazz	1
+Leaving Home Ain't Easy	easy	Jazz	5
+Leaving Home Ain't Easy	endless	Jazz	1
+Leaving Home Ain't Easy	games	Jazz	1
+Leaving Home Ain't Easy	god	Jazz	1
+Leaving Home Ain't Easy	happy	Jazz	1
+Leaving Home Ain't Easy	home	Jazz	8
+Leaving Home Ain't Easy	lay	Jazz	1
+Leaving Home Ain't Easy	leaving	Jazz	9
+Leaving Home Ain't Easy	love	Jazz	5
+Leaving Home Ain't Easy	million	Jazz	1
+Leaving Home Ain't Easy	names	Jazz	1
+Leaving Home Ain't Easy	necessarily	Jazz	1
+Leaving Home Ain't Easy	persuade	Jazz	1
+Leaving Home Ain't Easy	road	Jazz	1
+Leaving Home Ain't Easy	shaking	Jazz	1
+Leaving Home Ain't Easy	shoes	Jazz	1
+Leaving Home Ain't Easy	slam	Jazz	1
+Leaving Home Ain't Easy	stay	Jazz	2
+Leaving Home Ain't Easy	step	Jazz	1
+Leaving Home Ain't Easy	stray	Jazz	1
+Leaving Home Ain't Easy	tears	Jazz	1
+Leaving Home Ain't Easy	ties	Jazz	1
+Leaving Home Ain't Easy	tired	Jazz	1
+Leaving Home Ain't Easy	wrong	Jazz	1
+Let Me Entertain You	action	Jazz	1
+Let Me Entertain You	ah	Jazz	1
+Let Me Entertain You	aisles	Jazz	1
+Let Me Entertain You	amplification	Jazz	1
+Let Me Entertain You	attraction	Jazz	1
+Let Me Entertain You	bit	Jazz	1
+Let Me Entertain You	bitch	Jazz	1
+Let Me Entertain You	body	Jazz	1
+Let Me Entertain You	breakfast	Jazz	1
+Let Me Entertain You	carte	Jazz	1
+Let Me Entertain You	chest	Jazz	1
+Let Me Entertain You	chicago	Jazz	1
+Let Me Entertain You	crazy	Jazz	1
+Let Me Entertain You	cruella	Jazz	1
+Let Me Entertain You	dancing	Jazz	1
+Let Me Entertain You	de	Jazz	2
+Let Me Entertain You	device	Jazz	1
+Let Me Entertain You	deville	Jazz	1
+Let Me Entertain You	dig	Jazz	1
+Let Me Entertain You	divorce	Jazz	1
+Let Me Entertain You	elektra	Jazz	1
+Let Me Entertain You	emi	Jazz	1
+Let Me Entertain You	entertain	Jazz	12
+Let Me Entertain You	entertainment	Jazz	1
+Let Me Entertain You	fix	Jazz	1
+Let Me Entertain You	force	Jazz	1
+Let Me Entertain You	found	Jazz	1
+Let Me Entertain You	gentlemen	Jazz	1
+Let Me Entertain You	gonna	Jazz	2
+Let Me Entertain You	grounds	Jazz	1
+Let Me Entertain You	ha	Jazz	4
+Let Me Entertain You	hey	Jazz	3
+Let Me Entertain You	japanese	Jazz	1
+Let Me Entertain You	jazz	Jazz	1
+Let Me Entertain You	la	Jazz	1
+Let Me Entertain You	ladies	Jazz	1
+Let Me Entertain You	lights	Jazz	1
+Let Me Entertain You	line	Jazz	1
+Let Me Entertain You	listen	Jazz	1
+Let Me Entertain You	location	Jazz	1
+Let Me Entertain You	lot	Jazz	1
+Let Me Entertain You	menu	Jazz	1
+Let Me Entertain You	merchandise	Jazz	1
+Let Me Entertain You	na	Jazz	1
+Let Me Entertain You	night	Jazz	1
+Let Me Entertain You	orleans	Jazz	1
+Let Me Entertain You	performance	Jazz	1
+Let Me Entertain You	piece	Jazz	1
+Let Me Entertain You	pill	Jazz	1
+Let Me Entertain You	pleasure	Jazz	1
+Let Me Entertain You	pretty	Jazz	1
+Let Me Entertain You	pull	Jazz	1
+Let Me Entertain You	razzamatazz	Jazz	1
+Let Me Entertain You	ready	Jazz	2
+Let Me Entertain You	resistance	Jazz	1
+Let Me Entertain You	rock	Jazz	2
+Let Me Entertain You	roll	Jazz	1
+Let Me Entertain You	scene	Jazz	1
+Let Me Entertain You	sell	Jazz	1
+Let Me Entertain You	sellout	Jazz	1
+Let Me Entertain You	sing	Jazz	1
+Let Me Entertain You	son	Jazz	1
+Let Me Entertain You	sound	Jazz	1
+Let Me Entertain You	stickells'll	Jazz	1
+Let Me Entertain You	style	Jazz	1
+Let Me Entertain You	thrill	Jazz	1
+Let Me Entertain You	tiffany'swe'll	Jazz	1
+Let Me Entertain You	time	Jazz	1
+Let Me Entertain You	tour	Jazz	1
+Let Me Entertain You	wanna	Jazz	1
+Let Me Entertain You	york	Jazz	1
+Liar	aah	Queen	1
+Liar	anger	Queen	1
+Liar	begin	Queen	1
+Liar	behave	Queen	1
+Liar	believes	Queen	2
+Liar	bring	Queen	1
+Liar	calling	Queen	1
+Liar	day	Queen	26
+Liar	dead	Queen	1
+Liar	dear	Queen	1
+Liar	deceives	Queen	1
+Liar	direct	Queen	1
+Liar	drunk	Queen	1
+Liar	dying	Queen	2
+Liar	father	Queen	4
+Liar	forgive	Queen	1
+Liar	gonna	Queen	6
+Liar	kneel	Queen	1
+Liar	leave	Queen	3
+Liar	liar	Queen	24
+Liar	lift	Queen	1
+Liar	listen	Queen	2
+Liar	lying	Queen	2
+Liar	mama	Queen	3
+Liar	mars	Queen	1
+Liar	mercury	Queen	1
+Liar	na	Queen	2
+Liar	night	Queen	1
+Liar	ooh	Queen	1
+Liar	pray	Queen	4
+Liar	raised	Queen	1
+Liar	sailed	Queen	1
+Liar	seas	Queen	1
+Liar	serve	Queen	1
+Liar	sin	Queen	1
+Liar	sinned	Queen	2
+Liar	sire	Queen	1
+Liar	slave	Queen	2
+Liar	stolen	Queen	2
+Liar	til	Queen	2
+Liar	time	Queen	2
+Liar	times	Queen	1
+Liar	voice	Queen	1
+Liar	win	Queen	1
+Liar	wine	Queen	1
+Lily of the Valley	aah	Sheer Heart Attack	1
+Lily of the Valley	answer	Sheer Heart Attack	1
+Lily of the Valley	baby	Sheer Heart Attack	1
+Lily of the Valley	carry	Sheer Heart Attack	1
+Lily of the Valley	cast	Sheer Heart Attack	1
+Lily of the Valley	cease	Sheer Heart Attack	2
+Lily of the Valley	eyes	Sheer Heart Attack	1
+Lily of the Valley	flown	Sheer Heart Attack	1
+Lily of the Valley	follow	Sheer Heart Attack	2
+Lily of the Valley	forever	Sheer Heart Attack	1
+Lily of the Valley	grow	Sheer Heart Attack	1
+Lily of the Valley	horse	Sheer Heart Attack	2
+Lily of the Valley	king	Sheer Heart Attack	1
+Lily of the Valley	kingdom	Sheer Heart Attack	2
+Lily of the Valley	lie	Sheer Heart Attack	1
+Lily of the Valley	lily	Sheer Heart Attack	2
+Lily of the Valley	lost	Sheer Heart Attack	1
+Lily of the Valley	low	Sheer Heart Attack	1
+Lily of the Valley	messenger	Sheer Heart Attack	1
+Lily of the Valley	na	Sheer Heart Attack	1
+Lily of the Valley	neptune	Sheer Heart Attack	1
+Lily of the Valley	nile	Sheer Heart Attack	2
+Lily of the Valley	oo	Sheer Heart Attack	11
+Lily of the Valley	ooh	Sheer Heart Attack	5
+Lily of the Valley	peace	Sheer Heart Attack	2
+Lily of the Valley	relieve	Sheer Heart Attack	1
+Lily of the Valley	rhye	Sheer Heart Attack	1
+Lily of the Valley	searching	Sheer Heart Attack	1
+Lily of the Valley	seas	Sheer Heart Attack	3
+Lily of the Valley	serpent	Sheer Heart Attack	1
+Lily of the Valley	skies	Sheer Heart Attack	1
+Lily of the Valley	spell	Sheer Heart Attack	1
+Lily of the Valley	stormy	Sheer Heart Attack	1
+Lily of the Valley	throne	Sheer Heart Attack	1
+Lily of the Valley	time	Sheer Heart Attack	2
+Lily of the Valley	valley	Sheer Heart Attack	4
+Lily of the Valley	wah	Sheer Heart Attack	1
+Lily of the Valley	wait	Sheer Heart Attack	1
+Lily of the Valley	wars	Sheer Heart Attack	1
+Long Away	care	A Day At The Races	2
+Long Away	chase	A Day At The Races	2
+Long Away	child	A Day At The Races	1
+Long Away	day	A Day At The Races	4
+Long Away	friend	A Day At The Races	1
+Long Away	heart	A Day At The Races	1
+Long Away	heaven	A Day At The Races	4
+Long Away	home	A Day At The Races	1
+Long Away	hopeless	A Day At The Races	1
+Long Away	hurry	A Day At The Races	1
+Long Away	lane	A Day At The Races	1
+Long Away	leave	A Day At The Races	3
+Long Away	leaving	A Day At The Races	1
+Long Away	life's	A Day At The Races	1
+Long Away	light	A Day At The Races	1
+Long Away	lights	A Day At The Races	1
+Long Away	live	A Day At The Races	2
+Long Away	lonely	A Day At The Races	2
+Long Away	love	A Day At The Races	1
+Long Away	million	A Day At The Races	1
+Long Away	moon	A Day At The Races	1
+Long Away	morning	A Day At The Races	1
+Long Away	play	A Day At The Races	1
+Long Away	prayers	A Day At The Races	1
+Long Away	sad	A Day At The Races	1
+Long Away	smile	A Day At The Races	1
+Long Away	soul	A Day At The Races	1
+Long Away	star	A Day At The Races	3
+Long Away	stare	A Day At The Races	1
+Long Away	stars	A Day At The Races	1
+Long Away	suitcase	A Day At The Races	1
+Long Away	troubles	A Day At The Races	1
+Long Away	wake	A Day At The Races	1
+Long Away	whisper	A Day At The Races	2
+Love of My Life	blown	A Night At The Opera	1
+Love of My Life	bring	A Night At The Opera	6
+Love of My Life	broken	A Night At The Opera	1
+Love of My Life	desert	A Night At The Opera	1
+Love of My Life	everything's	A Night At The Opera	1
+Love of My Life	grow	A Night At The Opera	1
+Love of My Life	heart	A Night At The Opera	1
+Love of My Life	home	A Night At The Opera	1
+Love of My Life	hurry	A Night At The Opera	1
+Love of My Life	hurt	A Night At The Opera	1
+Love of My Life	leave	A Night At The Opera	2
+Love of My Life	life	A Night At The Opera	6
+Love of My Life	love	A Night At The Opera	10
+Love of My Life	means	A Night At The Opera	3
+Love of My Life	na	A Night At The Opera	2
+Love of My Life	ooh	A Night At The Opera	2
+Love of My Life	remember	A Night At The Opera	1
+Love of My Life	remind	A Night At The Opera	1
+Misfire	aim	Sheer Heart Attack	1
+Misfire	bullet	Sheer Heart Attack	1
+Misfire	carry	Sheer Heart Attack	3
+Misfire	delay	Sheer Heart Attack	1
+Misfire	desire	Sheer Heart Attack	3
+Misfire	fill	Sheer Heart Attack	3
+Misfire	fire	Sheer Heart Attack	2
+Misfire	game	Sheer Heart Attack	1
+Misfire	gun	Sheer Heart Attack	1
+Misfire	hit	Sheer Heart Attack	1
+Misfire	hold	Sheer Heart Attack	1
+Misfire	honey	Sheer Heart Attack	1
+Misfire	loaded	Sheer Heart Attack	1
+Misfire	love's	Sheer Heart Attack	1
+Misfire	misfire	Sheer Heart Attack	5
+Misfire	miss	Sheer Heart Attack	2
+Misfire	night	Sheer Heart Attack	1
+Misfire	shoot	Sheer Heart Attack	1
+Misfire	shot	Sheer Heart Attack	1
+Misfire	sight	Sheer Heart Attack	1
+Misfire	tight	Sheer Heart Attack	1
+Misfire	time	Sheer Heart Attack	2
+Modern Times Rock 'N' Roll	58	Queen	1
+Modern Times Rock 'N' Roll	afternoon	Queen	1
+Modern Times Rock 'N' Roll	ants	Queen	1
+Modern Times Rock 'N' Roll	baby	Queen	1
+Modern Times Rock 'N' Roll	baby's	Queen	1
+Modern Times Rock 'N' Roll	blowin	Queen	1
+Modern Times Rock 'N' Roll	body	Queen	1
+Modern Times Rock 'N' Roll	boots	Queen	1
+Modern Times Rock 'N' Roll	bop	Queen	1
+Modern Times Rock 'N' Roll	bum	Queen	1
+Modern Times Rock 'N' Roll	chest	Queen	1
+Modern Times Rock 'N' Roll	clothes	Queen	1
+Modern Times Rock 'N' Roll	coming	Queen	1
+Modern Times Rock 'N' Roll	cruise	Queen	1
+Modern Times Rock 'N' Roll	eyes	Queen	1
+Modern Times Rock 'N' Roll	feel	Queen	1
+Modern Times Rock 'N' Roll	feelin'like	Queen	1
+Modern Times Rock 'N' Roll	feet	Queen	1
+Modern Times Rock 'N' Roll	fuse	Queen	1
+Modern Times Rock 'N' Roll	gonna	Queen	5
+Modern Times Rock 'N' Roll	grab	Queen	1
+Modern Times Rock 'N' Roll	groovy	Queen	1
+Modern Times Rock 'N' Roll	guitar	Queen	1
+Modern Times Rock 'N' Roll	hair	Queen	1
+Modern Times Rock 'N' Roll	happen	Queen	1
+Modern Times Rock 'N' Roll	hard	Queen	1
+Modern Times Rock 'N' Roll	harder's	Queen	1
+Modern Times Rock 'N' Roll	heeled	Queen	1
+Modern Times Rock 'N' Roll	hit	Queen	1
+Modern Times Rock 'N' Roll	hole	Queen	1
+Modern Times Rock 'N' Roll	hope	Queen	1
+Modern Times Rock 'N' Roll	jukebox	Queen	1
+Modern Times Rock 'N' Roll	knock	Queen	1
+Modern Times Rock 'N' Roll	life's	Queen	1
+Modern Times Rock 'N' Roll	listen	Queen	1
+Modern Times Rock 'N' Roll	modern	Queen	3
+Modern Times Rock 'N' Roll	musical	Queen	1
+Modern Times Rock 'N' Roll	na	Queen	1
+Modern Times Rock 'N' Roll	nice	Queen	1
+Modern Times Rock 'N' Roll	nose	Queen	1
+Modern Times Rock 'N' Roll	ol	Queen	1
+Modern Times Rock 'N' Roll	pants	Queen	1
+Modern Times Rock 'N' Roll	piece	Queen	1
+Modern Times Rock 'N' Roll	rainy	Queen	1
+Modern Times Rock 'N' Roll	rest	Queen	1
+Modern Times Rock 'N' Roll	ring	Queen	1
+Modern Times Rock 'N' Roll	rock	Queen	4
+Modern Times Rock 'N' Roll	roll	Queen	4
+Modern Times Rock 'N' Roll	scene	Queen	1
+Modern Times Rock 'N' Roll	school	Queen	1
+Modern Times Rock 'N' Roll	single	Queen	1
+Modern Times Rock 'N' Roll	somethin	Queen	1
+Modern Times Rock 'N' Roll	star	Queen	1
+Modern Times Rock 'N' Roll	stars	Queen	1
+Modern Times Rock 'N' Roll	style	Queen	1
+Modern Times Rock 'N' Roll	sucking	Queen	1
+Modern Times Rock 'N' Roll	sunday	Queen	1
+Modern Times Rock 'N' Roll	tall	Queen	1
+Modern Times Rock 'N' Roll	temperature	Queen	1
+Modern Times Rock 'N' Roll	ten	Queen	1
+Modern Times Rock 'N' Roll	times	Queen	3
+Modern Times Rock 'N' Roll	tired	Queen	1
+Modern Times Rock 'N' Roll	wall	Queen	1
+Modern Times Rock 'N' Roll	world	Queen	1
+Modern Times Rock 'N' Roll	worn	Queen	1
+Modern Times Rock 'N' Roll	ya	Queen	2
+Modern Times Rock 'N' Roll	yeah	Queen	1
+More of That Jazz	beat	Jazz	1
+More of That Jazz	bicycle	Jazz	1
+More of That Jazz	bills	Jazz	1
+More of That Jazz	bottomed	Jazz	1
+More of That Jazz	bring	Jazz	1
+More of That Jazz	business	Jazz	1
+More of That Jazz	coming	Jazz	1
+More of That Jazz	days	Jazz	1
+More of That Jazz	dogs	Jazz	1
+More of That Jazz	em	Jazz	1
+More of That Jazz	fat	Jazz	1
+More of That Jazz	feeling	Jazz	1
+More of That Jazz	feet	Jazz	1
+More of That Jazz	floor	Jazz	1
+More of That Jazz	fool	Jazz	1
+More of That Jazz	football	Jazz	1
+More of That Jazz	fun	Jazz	1
+More of That Jazz	gimme	Jazz	2
+More of That Jazz	girls	Jazz	1
+More of That Jazz	gonna	Jazz	1
+More of That Jazz	hang	Jazz	1
+More of That Jazz	hanging	Jazz	1
+More of That Jazz	heard	Jazz	1
+More of That Jazz	jazz	Jazz	7
+More of That Jazz	join	Jazz	1
+More of That Jazz	lay	Jazz	1
+More of That Jazz	lies	Jazz	1
+More of That Jazz	line	Jazz	1
+More of That Jazz	lonely	Jazz	2
+More of That Jazz	matter	Jazz	1
+More of That Jazz	na	Jazz	1
+More of That Jazz	pays	Jazz	1
+More of That Jazz	races	Jazz	1
+More of That Jazz	real	Jazz	1
+More of That Jazz	rock'n'roll	Jazz	1
+More of That Jazz	rocking	Jazz	1
+More of That Jazz	round	Jazz	2
+More of That Jazz	team	Jazz	2
+More of That Jazz	tellin	Jazz	1
+More of That Jazz	thinking	Jazz	2
+More of That Jazz	thousand	Jazz	1
+More of That Jazz	thrills	Jazz	1
+More of That Jazz	times	Jazz	1
+More of That Jazz	tired	Jazz	1
+More of That Jazz	uninspired	Jazz	1
+More of That Jazz	world	Jazz	1
+Mustapha	achbar	Jazz	1
+Mustapha	achtar	Jazz	1
+Mustapha	adhim	Jazz	2
+Mustapha	ah	Jazz	1
+Mustapha	ahelei	Jazz	1
+Mustapha	ahiln	Jazz	4
+Mustapha	ai	Jazz	4
+Mustapha	al	Jazz	1
+Mustapha	aleikum	Jazz	2
+Mustapha	allah	Jazz	29
+Mustapha	avil	Jazz	3
+Mustapha	dei	Jazz	1
+Mustapha	es	Jazz	1
+Mustapha	eshelei	Jazz	1
+Mustapha	havra	Jazz	1
+Mustapha	hey	Jazz	8
+Mustapha	ibra	Jazz	4
+Mustapha	ibrahim	Jazz	23
+Mustapha	ish	Jazz	1
+Mustapha	ist	Jazz	2
+Mustapha	kris	Jazz	1
+Mustapha	low	Jazz	1
+Mustapha	mochamut	Jazz	1
+Mustapha	mustapha	Jazz	42
+Mustapha	na	Jazz	2
+Mustapha	navin	Jazz	1
+Mustapha	ooh	Jazz	1
+Mustapha	pray	Jazz	5
+Mustapha	salaam	Jazz	2
+Mustapha	sholei	Jazz	1
+Mustapha	stolei	Jazz	1
+Mustapha	vanin	Jazz	1
+Mustapha	vontap	Jazz	1
+Mustapha	ya	Jazz	1
+Mustapha	yeah	Jazz	2
+My Fairy King	ah	Queen	1
+My Fairy King	ahh	Queen	3
+My Fairy King	air	Queen	2
+My Fairy King	baby	Queen	1
+My Fairy King	bees	Queen	1
+My Fairy King	blood	Queen	1
+My Fairy King	blue	Queen	1
+My Fairy King	born	Queen	1
+My Fairy King	bring	Queen	1
+My Fairy King	broken	Queen	1
+My Fairy King	burnin	Queen	1
+My Fairy King	changed	Queen	1
+My Fairy King	circle	Queen	1
+My Fairy King	color	Queen	1
+My Fairy King	cry	Queen	1
+My Fairy King	dares	Queen	1
+My Fairy King	deer	Queen	1
+My Fairy King	den	Queen	1
+My Fairy King	dragons	Queen	1
+My Fairy King	drained	Queen	1
+My Fairy King	dry	Queen	1
+My Fairy King	eagle	Queen	1
+My Fairy King	eyes	Queen	1
+My Fairy King	fairy	Queen	3
+My Fairy King	fallow	Queen	1
+My Fairy King	fire	Queen	1
+My Fairy King	flow	Queen	1
+My Fairy King	fly	Queen	2
+My Fairy King	forever	Queen	2
+My Fairy King	free	Queen	1
+My Fairy King	guides	Queen	1
+My Fairy King	hand	Queen	2
+My Fairy King	heaven	Queen	1
+My Fairy King	hell	Queen	1
+My Fairy King	helping	Queen	1
+My Fairy King	hide	Queen	1
+My Fairy King	honey	Queen	1
+My Fairy King	horses	Queen	1
+My Fairy King	kill	Queen	1
+My Fairy King	king	Queen	3
+My Fairy King	knives	Queen	1
+My Fairy King	lambs	Queen	1
+My Fairy King	land	Queen	2
+My Fairy King	lions	Queen	1
+My Fairy King	lost	Queen	1
+My Fairy King	magic	Queen	1
+My Fairy King	men's	Queen	1
+My Fairy King	mercury	Queen	2
+My Fairy King	milk	Queen	1
+My Fairy King	mother	Queen	1
+My Fairy King	night	Queen	1
+My Fairy King	ooh	Queen	5
+My Fairy King	pain	Queen	1
+My Fairy King	pearls	Queen	1
+My Fairy King	poor	Queen	1
+My Fairy King	power	Queen	1
+My Fairy King	pride	Queen	1
+My Fairy King	promised	Queen	1
+My Fairy King	ring	Queen	1
+My Fairy King	rivers	Queen	1
+My Fairy King	ruin	Queen	1
+My Fairy King	rules	Queen	1
+My Fairy King	run	Queen	2
+My Fairy King	salt	Queen	1
+My Fairy King	samson	Queen	1
+My Fairy King	sand	Queen	1
+My Fairy King	savage	Queen	1
+My Fairy King	screaming	Queen	1
+My Fairy King	sea	Queen	1
+My Fairy King	seasons	Queen	1
+My Fairy King	set	Queen	1
+My Fairy King	shamed	Queen	1
+My Fairy King	shine	Queen	1
+My Fairy King	singing	Queen	1
+My Fairy King	son	Queen	1
+My Fairy King	sour	Queen	1
+My Fairy King	sparrows	Queen	1
+My Fairy King	stings	Queen	1
+My Fairy King	teeth	Queen	1
+My Fairy King	thieves	Queen	1
+My Fairy King	tides	Queen	2
+My Fairy King	veins	Queen	1
+My Fairy King	winds	Queen	2
+My Fairy King	wine	Queen	1
+My Fairy King	wings	Queen	2
+My Fairy King	wrong	Queen	1
+My Fairy King	wronged	Queen	1
+My Fairy King	yeah	Queen	3
+Now I'm Here	america's	Sheer Heart Attack	1
+Now I'm Here	baby	Sheer Heart Attack	2
+Now I'm Here	beams	Sheer Heart Attack	1
+Now I'm Here	bride	Sheer Heart Attack	1
+Now I'm Here	bright	Sheer Heart Attack	1
+Now I'm Here	burned	Sheer Heart Attack	1
+Now I'm Here	chase	Sheer Heart Attack	1
+Now I'm Here	city	Sheer Heart Attack	2
+Now I'm Here	dungeon	Sheer Heart Attack	1
+Now I'm Here	eye	Sheer Heart Attack	1
+Now I'm Here	feel	Sheer Heart Attack	1
+Now I'm Here	hand	Sheer Heart Attack	1
+Now I'm Here	hoople	Sheer Heart Attack	1
+Now I'm Here	leave	Sheer Heart Attack	1
+Now I'm Here	light	Sheer Heart Attack	3
+Now I'm Here	live	Sheer Heart Attack	2
+Now I'm Here	lives	Sheer Heart Attack	1
+Now I'm Here	love	Sheer Heart Attack	6
+Now I'm Here	matches	Sheer Heart Attack	1
+Now I'm Here	memory	Sheer Heart Attack	1
+Now I'm Here	moon	Sheer Heart Attack	1
+Now I'm Here	move	Sheer Heart Attack	1
+Now I'm Here	na	Sheer Heart Attack	1
+Now I'm Here	night	Sheer Heart Attack	1
+Now I'm Here	ooh	Sheer Heart Attack	2
+Now I'm Here	pain	Sheer Heart Attack	1
+Now I'm Here	peaches	Sheer Heart Attack	1
+Now I'm Here	people	Sheer Heart Attack	1
+Now I'm Here	queenie	Sheer Heart Attack	1
+Now I'm Here	rain	Sheer Heart Attack	1
+Now I'm Here	running	Sheer Heart Attack	1
+Now I'm Here	safe	Sheer Heart Attack	1
+Now I'm Here	screen	Sheer Heart Attack	1
+Now I'm Here	sight	Sheer Heart Attack	1
+Now I'm Here	sky	Sheer Heart Attack	2
+Now I'm Here	smoke	Sheer Heart Attack	1
+Now I'm Here	sound	Sheer Heart Attack	1
+Now I'm Here	speak	Sheer Heart Attack	1
+Now I'm Here	stand	Sheer Heart Attack	1
+Now I'm Here	stared	Sheer Heart Attack	1
+Now I'm Here	stay	Sheer Heart Attack	1
+Now I'm Here	tear	Sheer Heart Attack	1
+Now I'm Here	thin	Sheer Heart Attack	1
+Now I'm Here	understand	Sheer Heart Attack	1
+Now I'm Here	worry	Sheer Heart Attack	1
+Now I'm Here	yeah	Sheer Heart Attack	2
+Seaside Rendezvous	adorable	A Night At The Opera	1
+Seaside Rendezvous	angle	A Night At The Opera	1
+Seaside Rendezvous	baby	A Night At The Opera	1
+Seaside Rendezvous	brand	A Night At The Opera	1
+Seaside Rendezvous	c'est	A Night At The Opera	1
+Seaside Rendezvous	casino	A Night At The Opera	1
+Seaside Rendezvous	charmant	A Night At The Opera	1
+Seaside Rendezvous	clementine	A Night At The Opera	1
+Seaside Rendezvous	commendable	A Night At The Opera	1
+Seaside Rendezvous	contemplating	A Night At The Opera	1
+Seaside Rendezvous	daddy	A Night At The Opera	1
+Seaside Rendezvous	damn	A Night At The Opera	1
+Seaside Rendezvous	dancing	A Night At The Opera	2
+Seaside Rendezvous	dear	A Night At The Opera	1
+Seaside Rendezvous	facial	A Night At The Opera	1
+Seaside Rendezvous	fantastic	A Night At The Opera	1
+Seaside Rendezvous	fashionable	A Night At The Opera	1
+Seaside Rendezvous	feel	A Night At The Opera	3
+Seaside Rendezvous	gladly	A Night At The Opera	1
+Seaside Rendezvous	highly	A Night At The Opera	1
+Seaside Rendezvous	idea	A Night At The Opera	1
+Seaside Rendezvous	imagination	A Night At The Opera	1
+Seaside Rendezvous	inside	A Night At The Opera	1
+Seaside Rendezvous	jollification	A Night At The Opera	1
+Seaside Rendezvous	jolly	A Night At The Opera	1
+Seaside Rendezvous	kiss	A Night At The Opera	1
+Seaside Rendezvous	la	A Night At The Opera	1
+Seaside Rendezvous	love	A Night At The Opera	1
+Seaside Rendezvous	madly	A Night At The Opera	1
+Seaside Rendezvous	matter	A Night At The Opera	1
+Seaside Rendezvous	meantime	A Night At The Opera	2
+Seaside Rendezvous	mediterranean	A Night At The Opera	1
+Seaside Rendezvous	mesdames	A Night At The Opera	1
+Seaside Rendezvous	messieurs	A Night At The Opera	1
+Seaside Rendezvous	moonlight	A Night At The Opera	1
+Seaside Rendezvous	na	A Night At The Opera	2
+Seaside Rendezvous	night	A Night At The Opera	1
+Seaside Rendezvous	omnibus	A Night At The Opera	1
+Seaside Rendezvous	ooh	A Night At The Opera	3
+Seaside Rendezvous	peak	A Night At The Opera	1
+Seaside Rendezvous	rain	A Night At The Opera	1
+Seaside Rendezvous	reminiscing	A Night At The Opera	1
+Seaside Rendezvous	rendezvous	A Night At The Opera	4
+Seaside Rendezvous	ride	A Night At The Opera	1
+Seaside Rendezvous	romantic	A Night At The Opera	1
+Seaside Rendezvous	run	A Night At The Opera	1
+Seaside Rendezvous	sail	A Night At The Opera	1
+Seaside Rendezvous	sea	A Night At The Opera	1
+Seaside Rendezvous	seaside	A Night At The Opera	5
+Seaside Rendezvous	season	A Night At The Opera	1
+Seaside Rendezvous	sensational	A Night At The Opera	1
+Seaside Rendezvous	start	A Night At The Opera	1
+Seaside Rendezvous	stroll	A Night At The Opera	1
+Seaside Rendezvous	time	A Night At The Opera	1
+Seaside Rendezvous	très	A Night At The Opera	1
+Seaside Rendezvous	underneath	A Night At The Opera	1
+Seaside Rendezvous	valentine	A Night At The Opera	1
+Seaside Rendezvous	valentino	A Night At The Opera	1
+Seaside Rendezvous	vie	A Night At The Opera	1
+Seaside Rendezvous	volunteer	A Night At The Opera	1
+Seven Seas of Rhye... (Instrumental)	na	Queen	1
+She Makes Me (Stormtrooper In Stilettos)	cocoon	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	day	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	dreams	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	follow	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	grow	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	heal	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	heart	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	ill's	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	jealous	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	leave	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	lie	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	love	Sheer Heart Attack	10
+She Makes Me (Stormtrooper In Stilettos)	makes	Sheer Heart Attack	4
+She Makes Me (Stormtrooper In Stilettos)	slow	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	surely	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	terrified	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	warm	Sheer Heart Attack	1
+She Makes Me (Stormtrooper In Stilettos)	world	Sheer Heart Attack	2
+Somebody to Love	ache	A Day At The Races	1
+Somebody to Love	alright	A Day At The Races	3
+Somebody to Love	barely	A Day At The Races	1
+Somebody to Love	beat	A Day At The Races	1
+Somebody to Love	believing	A Day At The Races	1
+Somebody to Love	bones	A Day At The Races	1
+Somebody to Love	brain	A Day At The Races	1
+Somebody to Love	cell	A Day At The Races	1
+Somebody to Love	common	A Day At The Races	1
+Somebody to Love	crazy	A Day At The Races	1
+Somebody to Love	cry	A Day At The Races	2
+Somebody to Love	day	A Day At The Races	3
+Somebody to Love	defeat	A Day At The Races	1
+Somebody to Love	die	A Day At The Races	1
+Somebody to Love	earned	A Day At The Races	1
+Somebody to Love	everyday	A Day At The Races	2
+Somebody to Love	eyes	A Day At The Races	1
+Somebody to Love	feel	A Day At The Races	1
+Somebody to Love	feet	A Day At The Races	1
+Somebody to Love	free	A Day At The Races	1
+Somebody to Love	goin	A Day At The Races	1
+Somebody to Love	gonna	A Day At The Races	2
+Somebody to Love	gotta	A Day At The Races	1
+Somebody to Love	hard	A Day At The Races	4
+Somebody to Love	home	A Day At The Races	3
+Somebody to Love	knees	A Day At The Races	2
+Somebody to Love	left	A Day At The Races	1
+Somebody to Love	life	A Day At The Races	1
+Somebody to Love	lord	A Day At The Races	6
+Somebody to Love	losing	A Day At The Races	3
+Somebody to Love	lot	A Day At The Races	1
+Somebody to Love	love	A Day At The Races	30
+Somebody to Love	mirror	A Day At The Races	2
+Somebody to Love	morning	A Day At The Races	1
+Somebody to Love	na	A Day At The Races	1
+Somebody to Love	ooh	A Day At The Races	12
+Somebody to Love	ove	A Day At The Races	2
+Somebody to Love	pay	A Day At The Races	1
+Somebody to Love	praise	A Day At The Races	1
+Somebody to Love	pray	A Day At The Races	1
+Somebody to Love	prison	A Day At The Races	1
+Somebody to Love	relief	A Day At The Races	1
+Somebody to Love	rhythm	A Day At The Races	1
+Somebody to Love	run	A Day At The Races	1
+Somebody to Love	sense	A Day At The Races	1
+Somebody to Love	someday	A Day At The Races	1
+Somebody to Love	spent	A Day At The Races	1
+Somebody to Love	stand	A Day At The Races	1
+Somebody to Love	start	A Day At The Races	1
+Somebody to Love	tears	A Day At The Races	1
+Somebody to Love	til	A Day At The Races	2
+Somebody to Love	water	A Day At The Races	1
+Somebody to Love	yeah	A Day At The Races	5
+Son and Daughter	ahh	Queen	1
+Son and Daughter	alright	Queen	1
+Son and Daughter	begun	Queen	2
+Son and Daughter	brand	Queen	1
+Son and Daughter	buckle	Queen	1
+Son and Daughter	cap	Queen	1
+Son and Daughter	daughter	Queen	1
+Son and Daughter	day	Queen	1
+Son and Daughter	equal	Queen	2
+Son and Daughter	expects	Queen	1
+Son and Daughter	feel	Queen	1
+Son and Daughter	fisher	Queen	1
+Son and Daughter	fit	Queen	1
+Son and Daughter	found	Queen	1
+Son and Daughter	fun	Queen	1
+Son and Daughter	gonna	Queen	1
+Son and Daughter	heaven	Queen	1
+Son and Daughter	lead	Queen	1
+Son and Daughter	linger	Queen	1
+Son and Daughter	loving	Queen	1
+Son and Daughter	ooh	Queen	2
+Son and Daughter	pardon	Queen	1
+Son and Daughter	people	Queen	1
+Son and Daughter	preacher	Queen	1
+Son and Daughter	rolled	Queen	1
+Son and Daughter	save	Queen	1
+Son and Daughter	shit	Queen	1
+Son and Daughter	shovel	Queen	1
+Son and Daughter	son	Queen	1
+Son and Daughter	surprised	Queen	1
+Son and Daughter	teacher	Queen	1
+Son and Daughter	time	Queen	1
+Son and Daughter	traveled	Queen	1
+Son and Daughter	watching	Queen	1
+Son and Daughter	what'll	Queen	2
+Son and Daughter	woman	Queen	4
+Son and Daughter	word	Queen	1
+Son and Daughter	world	Queen	3
+Son and Daughter	yeah	Queen	2
+Stone Cold Crazy	afternoon	Sheer Heart Attack	1
+Stone Cold Crazy	al	Sheer Heart Attack	1
+Stone Cold Crazy	anymore	Sheer Heart Attack	3
+Stone Cold Crazy	blow	Sheer Heart Attack	1
+Stone Cold Crazy	bone	Sheer Heart Attack	1
+Stone Cold Crazy	break	Sheer Heart Attack	1
+Stone Cold Crazy	capone	Sheer Heart Attack	1
+Stone Cold Crazy	carry	Sheer Heart Attack	1
+Stone Cold Crazy	cell	Sheer Heart Attack	1
+Stone Cold Crazy	cold	Sheer Heart Attack	5
+Stone Cold Crazy	crazy	Sheer Heart Attack	6
+Stone Cold Crazy	deputy	Sheer Heart Attack	1
+Stone Cold Crazy	door	Sheer Heart Attack	1
+Stone Cold Crazy	dreaming	Sheer Heart Attack	1
+Stone Cold Crazy	dry	Sheer Heart Attack	1
+Stone Cold Crazy	fish	Sheer Heart Attack	1
+Stone Cold Crazy	floor	Sheer Heart Attack	2
+Stone Cold Crazy	getta	Sheer Heart Attack	1
+Stone Cold Crazy	gonna	Sheer Heart Attack	3
+Stone Cold Crazy	gotta	Sheer Heart Attack	5
+Stone Cold Crazy	gun	Sheer Heart Attack	1
+Stone Cold Crazy	heaven	Sheer Heart Attack	1
+Stone Cold Crazy	hell	Sheer Heart Attack	1
+Stone Cold Crazy	juice	Sheer Heart Attack	1
+Stone Cold Crazy	law	Sheer Heart Attack	1
+Stone Cold Crazy	loose	Sheer Heart Attack	1
+Stone Cold Crazy	meet	Sheer Heart Attack	1
+Stone Cold Crazy	morning	Sheer Heart Attack	1
+Stone Cold Crazy	na	Sheer Heart Attack	1
+Stone Cold Crazy	outta	Sheer Heart Attack	1
+Stone Cold Crazy	ow	Sheer Heart Attack	1
+Stone Cold Crazy	people	Sheer Heart Attack	1
+Stone Cold Crazy	playing	Sheer Heart Attack	1
+Stone Cold Crazy	rainy	Sheer Heart Attack	1
+Stone Cold Crazy	ran	Sheer Heart Attack	1
+Stone Cold Crazy	round	Sheer Heart Attack	1
+Stone Cold Crazy	rubber	Sheer Heart Attack	1
+Stone Cold Crazy	rumour	Sheer Heart Attack	1
+Stone Cold Crazy	run	Sheer Heart Attack	1
+Stone Cold Crazy	saturday	Sheer Heart Attack	1
+Stone Cold Crazy	shooting	Sheer Heart Attack	1
+Stone Cold Crazy	sirens	Sheer Heart Attack	1
+Stone Cold Crazy	sleeping	Sheer Heart Attack	1
+Stone Cold Crazy	slide	Sheer Heart Attack	1
+Stone Cold Crazy	smelling	Sheer Heart Attack	1
+Stone Cold Crazy	soundly	Sheer Heart Attack	1
+Stone Cold Crazy	stone	Sheer Heart Attack	5
+Stone Cold Crazy	street	Sheer Heart Attack	1
+Stone Cold Crazy	tommy	Sheer Heart Attack	1
+Stone Cold Crazy	town	Sheer Heart Attack	1
+Stone Cold Crazy	trombone	Sheer Heart Attack	1
+Stone Cold Crazy	typhoon	Sheer Heart Attack	1
+Stone Cold Crazy	walking	Sheer Heart Attack	1
+Stone Cold Crazy	water	Sheer Heart Attack	1
+Stone Cold Crazy	yeah	Sheer Heart Attack	1
+Sweet Lady	baby	A Night At The Opera	1
+Sweet Lady	bring	A Night At The Opera	1
+Sweet Lady	call	A Night At The Opera	4
+Sweet Lady	cheese	A Night At The Opera	1
+Sweet Lady	dog	A Night At The Opera	1
+Sweet Lady	eat	A Night At The Opera	1
+Sweet Lady	feed	A Night At The Opera	1
+Sweet Lady	fool	A Night At The Opera	1
+Sweet Lady	forever	A Night At The Opera	1
+Sweet Lady	hold	A Night At The Opera	1
+Sweet Lady	home	A Night At The Opera	1
+Sweet Lady	inside	A Night At The Opera	1
+Sweet Lady	lady	A Night At The Opera	14
+Sweet Lady	lead	A Night At The Opera	1
+Sweet Lady	lines	A Night At The Opera	1
+Sweet Lady	ooh	A Night At The Opera	8
+Sweet Lady	runaway	A Night At The Opera	1
+Sweet Lady	shelf	A Night At The Opera	1
+Sweet Lady	shout	A Night At The Opera	1
+Sweet Lady	stay	A Night At The Opera	5
+Sweet Lady	sweet	A Night At The Opera	20
+Sweet Lady	tear	A Night At The Opera	1
+Sweet Lady	treat	A Night At The Opera	1
+Sweet Lady	wait	A Night At The Opera	1
+Sweet Lady	waiting	A Night At The Opera	1
+Sweet Lady	woo	A Night At The Opera	1
+Sweet Lady	yeah	A Night At The Opera	5
+Tenement Funster	45	Sheer Heart Attack	1
+Tenement Funster	amazin	Sheer Heart Attack	1
+Tenement Funster	block	Sheer Heart Attack	1
+Tenement Funster	car	Sheer Heart Attack	2
+Tenement Funster	crazy	Sheer Heart Attack	5
+Tenement Funster	cuts	Sheer Heart Attack	1
+Tenement Funster	disgrace	Sheer Heart Attack	2
+Tenement Funster	door	Sheer Heart Attack	1
+Tenement Funster	enragin	Sheer Heart Attack	1
+Tenement Funster	floor	Sheer Heart Attack	1
+Tenement Funster	folks	Sheer Heart Attack	1
+Tenement Funster	free	Sheer Heart Attack	1
+Tenement Funster	girls	Sheer Heart Attack	1
+Tenement Funster	guitar	Sheer Heart Attack	2
+Tenement Funster	hair's	Sheer Heart Attack	2
+Tenement Funster	individual	Sheer Heart Attack	1
+Tenement Funster	knife	Sheer Heart Attack	1
+Tenement Funster	life	Sheer Heart Attack	1
+Tenement Funster	light	Sheer Heart Attack	2
+Tenement Funster	line	Sheer Heart Attack	1
+Tenement Funster	lower	Sheer Heart Attack	1
+Tenement Funster	na	Sheer Heart Attack	1
+Tenement Funster	ooh	Sheer Heart Attack	2
+Tenement Funster	outta	Sheer Heart Attack	2
+Tenement Funster	people	Sheer Heart Attack	1
+Tenement Funster	poor	Sheer Heart Attack	1
+Tenement Funster	purple	Sheer Heart Attack	1
+Tenement Funster	real	Sheer Heart Attack	1
+Tenement Funster	ritual	Sheer Heart Attack	1
+Tenement Funster	rock	Sheer Heart Attack	2
+Tenement Funster	roll	Sheer Heart Attack	1
+Tenement Funster	shoes	Sheer Heart Attack	1
+Tenement Funster	situation	Sheer Heart Attack	1
+Tenement Funster	smokies	Sheer Heart Attack	1
+Tenement Funster	speed	Sheer Heart Attack	2
+Teo Torriatte (Let Us Cling Together)	aisuruhito	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	blossom	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	blows	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	burn	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	candle	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	cling	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	close	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	dream	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	dreams	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	eyes	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	flower	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	fools	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	grow	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	grows	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	hear	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	heart	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	hikario	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	hold	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	idaki	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	iko	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	itoshiki	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	konomama	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	learned	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	lessons	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	life	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	live	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	lose	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	love	A Day At The Races	4
+Teo Torriatte (Let Us Cling Together)	moon	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	na	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	ni	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	night	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	nights	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	oshieo	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	paper	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	pretty	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	quiet	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	shines	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	shizukana	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	song	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	strong	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	teo	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	time	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	tomoshi	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	torriate	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	touches	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	understand	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	warm	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	wind	A Day At The Races	1
+Teo Torriatte (Let Us Cling Together)	yo	A Day At The Races	2
+Teo Torriatte (Let Us Cling Together)	yoi	A Day At The Races	2
+The Millionaire Waltz	air	A Day At The Races	2
+The Millionaire Waltz	brigade	A Day At The Races	2
+The Millionaire Waltz	bring	A Day At The Races	2
+The Millionaire Waltz	charge	A Day At The Races	2
+The Millionaire Waltz	counting	A Day At The Races	1
+The Millionaire Waltz	danced	A Day At The Races	1
+The Millionaire Waltz	day	A Day At The Races	2
+The Millionaire Waltz	days	A Day At The Races	1
+The Millionaire Waltz	drink	A Day At The Races	2
+The Millionaire Waltz	feel	A Day At The Races	2
+The Millionaire Waltz	fine	A Day At The Races	2
+The Millionaire Waltz	forever	A Day At The Races	4
+The Millionaire Waltz	friend	A Day At The Races	2
+The Millionaire Waltz	hands	A Day At The Races	1
+The Millionaire Waltz	happy	A Day At The Races	2
+The Millionaire Waltz	holding	A Day At The Races	1
+The Millionaire Waltz	hours	A Day At The Races	1
+The Millionaire Waltz	laid	A Day At The Races	1
+The Millionaire Waltz	love	A Day At The Races	13
+The Millionaire Waltz	mad	A Day At The Races	1
+The Millionaire Waltz	millionaire	A Day At The Races	2
+The Millionaire Waltz	music	A Day At The Races	2
+The Millionaire Waltz	na	A Day At The Races	1
+The Millionaire Waltz	parade	A Day At The Races	2
+The Millionaire Waltz	played	A Day At The Races	1
+The Millionaire Waltz	rain	A Day At The Races	1
+The Millionaire Waltz	remember	A Day At The Races	1
+The Millionaire Waltz	sad	A Day At The Races	1
+The Millionaire Waltz	share	A Day At The Races	2
+The Millionaire Waltz	sit	A Day At The Races	1
+The Millionaire Waltz	song	A Day At The Races	2
+The Millionaire Waltz	sound	A Day At The Races	2
+The Millionaire Waltz	spent	A Day At The Races	1
+The Millionaire Waltz	spring	A Day At The Races	2
+The Millionaire Waltz	stay	A Day At The Races	1
+The Millionaire Waltz	wanna	A Day At The Races	2
+The Millionaire Waltz	yeah	A Day At The Races	1
+The Night Comes Down	afraid	Queen	2
+The Night Comes Down	believed	Queen	1
+The Night Comes Down	black	Queen	1
+The Night Comes Down	breaking	Queen	1
+The Night Comes Down	colouring	Queen	1
+The Night Comes Down	dark	Queen	4
+The Night Comes Down	dazzling	Queen	1
+The Night Comes Down	distinctively	Queen	1
+The Night Comes Down	gotta	Queen	1
+The Night Comes Down	grey	Queen	1
+The Night Comes Down	holding	Queen	2
+The Night Comes Down	inside	Queen	2
+The Night Comes Down	laugh	Queen	1
+The Night Comes Down	losing	Queen	2
+The Night Comes Down	lucy	Queen	1
+The Night Comes Down	na	Queen	1
+The Night Comes Down	night	Queen	4
+The Night Comes Down	ooh	Queen	1
+The Night Comes Down	oooh	Queen	1
+The Night Comes Down	sun	Queen	1
+The Night Comes Down	white	Queen	1
+The Night Comes Down	world	Queen	3
+The Prophet's Song	ah	A Night At The Opera	5
+The Prophet's Song	answer	A Night At The Opera	1
+The Prophet's Song	await	A Night At The Opera	1
+The Prophet's Song	babe	A Night At The Opera	1
+The Prophet's Song	bare	A Night At The Opera	1
+The Prophet's Song	beasts	A Night At The Opera	1
+The Prophet's Song	beware	A Night At The Opera	1
+The Prophet's Song	bone	A Night At The Opera	1
+The Prophet's Song	bough	A Night At The Opera	1
+The Prophet's Song	break	A Night At The Opera	3
+The Prophet's Song	charity	A Night At The Opera	1
+The Prophet's Song	children	A Night At The Opera	2
+The Prophet's Song	cold	A Night At The Opera	2
+The Prophet's Song	counting	A Night At The Opera	1
+The Prophet's Song	cried	A Night At The Opera	1
+The Prophet's Song	dare	A Night At The Opera	1
+The Prophet's Song	day	A Night At The Opera	1
+The Prophet's Song	days	A Night At The Opera	1
+The Prophet's Song	death	A Night At The Opera	4
+The Prophet's Song	deceive	A Night At The Opera	1
+The Prophet's Song	dove	A Night At The Opera	1
+The Prophet's Song	dowry	A Night At The Opera	1
+The Prophet's Song	dreamed	A Night At The Opera	1
+The Prophet's Song	earth	A Night At The Opera	6
+The Prophet's Song	estranged	A Night At The Opera	1
+The Prophet's Song	fades	A Night At The Opera	1
+The Prophet's Song	fall	A Night At The Opera	1
+The Prophet's Song	fear	A Night At The Opera	3
+The Prophet's Song	fires	A Night At The Opera	1
+The Prophet's Song	flee	A Night At The Opera	1
+The Prophet's Song	fly	A Night At The Opera	1
+The Prophet's Song	fortune	A Night At The Opera	1
+The Prophet's Song	gain	A Night At The Opera	1
+The Prophet's Song	gathers	A Night At The Opera	1
+The Prophet's Song	gaze	A Night At The Opera	1
+The Prophet's Song	god	A Night At The Opera	1
+The Prophet's Song	grace	A Night At The Opera	1
+The Prophet's Song	graves	A Night At The Opera	1
+The Prophet's Song	green	A Night At The Opera	1
+The Prophet's Song	grey	A Night At The Opera	1
+The Prophet's Song	hand	A Night At The Opera	4
+The Prophet's Song	haze	A Night At The Opera	1
+The Prophet's Song	hear	A Night At The Opera	4
+The Prophet's Song	heard	A Night At The Opera	1
+The Prophet's Song	hearts	A Night At The Opera	1
+The Prophet's Song	heed	A Night At The Opera	1
+The Prophet's Song	hell	A Night At The Opera	1
+The Prophet's Song	hopes	A Night At The Opera	1
+The Prophet's Song	human	A Night At The Opera	1
+The Prophet's Song	ice	A Night At The Opera	1
+The Prophet's Song	kings	A Night At The Opera	1
+The Prophet's Song	la	A Night At The Opera	48
+The Prophet's Song	land	A Night At The Opera	2
+The Prophet's Song	late	A Night At The Opera	2
+The Prophet's Song	laugh	A Night At The Opera	1
+The Prophet's Song	life	A Night At The Opera	3
+The Prophet's Song	listen	A Night At The Opera	15
+The Prophet's Song	lost	A Night At The Opera	1
+The Prophet's Song	love	A Night At The Opera	3
+The Prophet's Song	madman	A Night At The Opera	3
+The Prophet's Song	man's	A Night At The Opera	1
+The Prophet's Song	mark	A Night At The Opera	1
+The Prophet's Song	married	A Night At The Opera	1
+The Prophet's Song	moonlit	A Night At The Opera	1
+The Prophet's Song	mortal	A Night At The Opera	1
+The Prophet's Song	mother's	A Night At The Opera	1
+The Prophet's Song	multitude	A Night At The Opera	1
+The Prophet's Song	na	A Night At The Opera	3
+The Prophet's Song	night	A Night At The Opera	1
+The Prophet's Song	ooh	A Night At The Opera	1
+The Prophet's Song	peace	A Night At The Opera	1
+The Prophet's Song	people	A Night At The Opera	4
+The Prophet's Song	plan	A Night At The Opera	1
+The Prophet's Song	precious	A Night At The Opera	1
+The Prophet's Song	prophet	A Night At The Opera	1
+The Prophet's Song	purge	A Night At The Opera	1
+The Prophet's Song	quicken	A Night At The Opera	1
+The Prophet's Song	rain	A Night At The Opera	1
+The Prophet's Song	return	A Night At The Opera	1
+The Prophet's Song	run	A Night At The Opera	1
+The Prophet's Song	running	A Night At The Opera	2
+The Prophet's Song	seer	A Night At The Opera	2
+The Prophet's Song	shake	A Night At The Opera	3
+The Prophet's Song	son	A Night At The Opera	1
+The Prophet's Song	spreading	A Night At The Opera	1
+The Prophet's Song	stair	A Night At The Opera	1
+The Prophet's Song	stale	A Night At The Opera	1
+The Prophet's Song	storm	A Night At The Opera	1
+The Prophet's Song	summoned	A Night At The Opera	1
+The Prophet's Song	taking	A Night At The Opera	1
+The Prophet's Song	told	A Night At The Opera	1
+The Prophet's Song	treasure	A Night At The Opera	1
+The Prophet's Song	troubled	A Night At The Opera	1
+The Prophet's Song	unloved	A Night At The Opera	1
+The Prophet's Song	vision	A Night At The Opera	1
+The Prophet's Song	voice	A Night At The Opera	1
+The Prophet's Song	warning	A Night At The Opera	3
+The Prophet's Song	watched	A Night At The Opera	1
+The Prophet's Song	white	A Night At The Opera	2
+The Prophet's Song	whoa	A Night At The Opera	8
+The Prophet's Song	wise	A Night At The Opera	6
+The Prophet's Song	words	A Night At The Opera	1
+The Prophet's Song	wretches	A Night At The Opera	1
+The Prophet's Song	zoo	A Night At The Opera	1
+Tie Your Mother Down	act	A Day At The Races	1
+Tie Your Mother Down	alright	A Day At The Races	1
+Tie Your Mother Down	babe	A Day At The Races	1
+Tie Your Mother Down	baby	A Day At The Races	1
+Tie Your Mother Down	bad	A Day At The Races	1
+Tie Your Mother Down	beating	A Day At The Races	1
+Tie Your Mother Down	boiling	A Day At The Races	1
+Tie Your Mother Down	brick	A Day At The Races	1
+Tie Your Mother Down	brother	A Day At The Races	1
+Tie Your Mother Down	civil	A Day At The Races	1
+Tie Your Mother Down	daddy	A Day At The Races	4
+Tie Your Mother Down	die	A Day At The Races	1
+Tie Your Mother Down	dirty	A Day At The Races	1
+Tie Your Mother Down	door	A Day At The Races	1
+Tie Your Mother Down	doors	A Day At The Races	1
+Tie Your Mother Down	family	A Day At The Races	1
+Tie Your Mother Down	friend	A Day At The Races	1
+Tie Your Mother Down	goin	A Day At The Races	1
+Tie Your Mother Down	gonna	A Day At The Races	3
+Tie Your Mother Down	gotta	A Day At The Races	2
+Tie Your Mother Down	gown	A Day At The Races	1
+Tie Your Mother Down	grousin	A Day At The Races	1
+Tie Your Mother Down	guy	A Day At The Races	2
+Tie Your Mother Down	guys	A Day At The Races	1
+Tie Your Mother Down	hand	A Day At The Races	1
+Tie Your Mother Down	heard	A Day At The Races	1
+Tie Your Mother Down	heart	A Day At The Races	1
+Tie Your Mother Down	house	A Day At The Races	1
+Tie Your Mother Down	inch	A Day At The Races	1
+Tie Your Mother Down	inside	A Day At The Races	1
+Tie Your Mother Down	light	A Day At The Races	1
+Tie Your Mother Down	lock	A Day At The Races	1
+Tie Your Mother Down	lose	A Day At The Races	1
+Tie Your Mother Down	louse	A Day At The Races	1
+Tie Your Mother Down	love	A Day At The Races	6
+Tie Your Mother Down	loving	A Day At The Races	1
+Tie Your Mother Down	mine	A Day At The Races	1
+Tie Your Mother Down	momma	A Day At The Races	1
+Tie Your Mother Down	mommy	A Day At The Races	1
+Tie Your Mother Down	mother	A Day At The Races	12
+Tie Your Mother Down	night	A Day At The Races	1
+Tie Your Mother Down	nosing	A Day At The Races	1
+Tie Your Mother Down	ooh	A Day At The Races	2
+Tie Your Mother Down	party	A Day At The Races	1
+Tie Your Mother Down	peace	A Day At The Races	1
+Tie Your Mother Down	pigtail	A Day At The Races	1
+Tie Your Mother Down	plague	A Day At The Races	1
+Tie Your Mother Down	school	A Day At The Races	1
+Tie Your Mother Down	send	A Day At The Races	1
+Tie Your Mother Down	single	A Day At The Races	1
+Tie Your Mother Down	snipin	A Day At The Races	1
+Tie Your Mother Down	stop	A Day At The Races	1
+Tie Your Mother Down	sweetheart	A Day At The Races	1
+Tie Your Mother Down	swimming	A Day At The Races	1
+Tie Your Mother Down	tie	A Day At The Races	12
+Tie Your Mother Down	ties	A Day At The Races	1
+Tie Your Mother Down	tight	A Day At The Races	1
+Tie Your Mother Down	till	A Day At The Races	1
+Tie Your Mother Down	time	A Day At The Races	1
+Tie Your Mother Down	timing	A Day At The Races	2
+Tie Your Mother Down	tonight	A Day At The Races	6
+Tie Your Mother Down	understand	A Day At The Races	1
+Tie Your Mother Down	word	A Day At The Races	1
+Tie Your Mother Down	yeah	A Day At The Races	4
+White Man	battle	A Day At The Races	2
+White Man	bible	A Day At The Races	1
+White Man	blackened	A Day At The Races	1
+White Man	blind	A Day At The Races	1
+White Man	blood	A Day At The Races	2
+White Man	body	A Day At The Races	1
+White Man	bone	A Day At The Races	1
+White Man	built	A Day At The Races	1
+White Man	children	A Day At The Races	1
+White Man	civilized	A Day At The Races	1
+White Man	country	A Day At The Races	1
+White Man	died	A Day At The Races	1
+White Man	disgrace	A Day At The Races	1
+White Man	dream	A Day At The Races	1
+White Man	eyes	A Day At The Races	1
+White Man	forgot	A Day At The Races	1
+White Man	fought	A Day At The Races	2
+White Man	getcha	A Day At The Races	2
+White Man	god's	A Day At The Races	1
+White Man	gonna	A Day At The Races	1
+White Man	green	A Day At The Races	1
+White Man	gun	A Day At The Races	1
+White Man	hands	A Day At The Races	1
+White Man	hell	A Day At The Races	1
+White Man	hide	A Day At The Races	1
+White Man	immigrant	A Day At The Races	1
+White Man	knives	A Day At The Races	1
+White Man	land	A Day At The Races	1
+White Man	learn	A Day At The Races	1
+White Man	learned	A Day At The Races	1
+White Man	leave	A Day At The Races	2
+White Man	left	A Day At The Races	1
+White Man	lies	A Day At The Races	2
+White Man	light	A Day At The Races	2
+White Man	na	A Day At The Races	1
+White Man	ooh	A Day At The Races	1
+White Man	people	A Day At The Races	1
+White Man	prayers	A Day At The Races	1
+White Man	race	A Day At The Races	1
+White Man	red	A Day At The Races	1
+White Man	remain	A Day At The Races	1
+White Man	rivers	A Day At The Races	1
+White Man	roads	A Day At The Races	1
+White Man	sand	A Day At The Races	1
+White Man	shame	A Day At The Races	1
+White Man	shed	A Day At The Races	1
+White Man	shoes	A Day At The Races	1
+White Man	sight	A Day At The Races	1
+White Man	simple	A Day At The Races	3
+White Man	skies	A Day At The Races	1
+White Man	skin	A Day At The Races	1
+White Man	soft	A Day At The Races	1
+White Man	soil	A Day At The Races	2
+White Man	soul	A Day At The Races	1
+White Man	stone	A Day At The Races	1
+White Man	swore	A Day At The Races	1
+White Man	teach	A Day At The Races	1
+White Man	trod	A Day At The Races	1
+White Man	war	A Day At The Races	1
+White Man	white	A Day At The Races	22
+White Man	wide	A Day At The Races	1
+White Man	words	A Day At The Races	1
+White Man	yeah	A Day At The Races	8
+You and I	alright	A Day At The Races	1
+You and I	bright	A Day At The Races	3
+You and I	darkness	A Day At The Races	3
+You and I	days	A Day At The Races	1
+You and I	drinking	A Day At The Races	1
+You and I	enjoy	A Day At The Races	1
+You and I	everything's	A Day At The Races	2
+You and I	feeling	A Day At The Races	1
+You and I	flickering	A Day At The Races	1
+You and I	floating	A Day At The Races	1
+You and I	foresee	A Day At The Races	1
+You and I	forever	A Day At The Races	1
+You and I	future	A Day At The Races	1
+You and I	gonna	A Day At The Races	1
+You and I	gotta	A Day At The Races	1
+You and I	happy	A Day At The Races	2
+You and I	hear	A Day At The Races	1
+You and I	heart's	A Day At The Races	1
+You and I	jittering	A Day At The Races	1
+You and I	lantern	A Day At The Races	1
+You and I	laughter	A Day At The Races	1
+You and I	leading	A Day At The Races	1
+You and I	lie	A Day At The Races	1
+You and I	life	A Day At The Races	1
+You and I	love	A Day At The Races	1
+You and I	mm	A Day At The Races	1
+You and I	moonlight	A Day At The Races	5
+You and I	music	A Day At The Races	2
+You and I	na	A Day At The Races	1
+You and I	ooh	A Day At The Races	1
+You and I	people	A Day At The Races	1
+You and I	playing	A Day At The Races	1
+You and I	questions	A Day At The Races	2
+You and I	ringing	A Day At The Races	1
+You and I	shadows	A Day At The Races	1
+You and I	softly	A Day At The Races	1
+You and I	stay	A Day At The Races	1
+You and I	sunny	A Day At The Races	3
+You and I	swinging	A Day At The Races	1
+You and I	time	A Day At The Races	1
+You and I	tomorrow	A Day At The Races	4
+You and I	tonight	A Day At The Races	4
+You and I	wait	A Day At The Races	1
+You and I	waiting	A Day At The Races	1
+You and I	walking	A Day At The Races	4
+You Take My Breath Away	aah	A Day At The Races	2
+You Take My Breath Away	anymore	A Day At The Races	1
+You Take My Breath Away	breath	A Day At The Races	24
+You Take My Breath Away	captured	A Day At The Races	1
+You Take My Breath Away	changed	A Day At The Races	1
+You Take My Breath Away	control	A Day At The Races	1
+You Take My Breath Away	cry	A Day At The Races	1
+You Take My Breath Away	deep	A Day At The Races	1
+You Take My Breath Away	destroy	A Day At The Races	1
+You Take My Breath Away	die	A Day At The Races	1
+You Take My Breath Away	dismiss	A Day At The Races	1
+You Take My Breath Away	ear	A Day At The Races	1
+You Take My Breath Away	earth	A Day At The Races	2
+You Take My Breath Away	eyes	A Day At The Races	1
+You Take My Breath Away	found	A Day At The Races	1
+You Take My Breath Away	heart	A Day At The Races	1
+You Take My Breath Away	inside	A Day At The Races	1
+You Take My Breath Away	kiss	A Day At The Races	1
+You Take My Breath Away	leave	A Day At The Races	1
+You Take My Breath Away	life	A Day At The Races	2
+You Take My Breath Away	lonely	A Day At The Races	1
+You Take My Breath Away	lose	A Day At The Races	1
+You Take My Breath Away	love	A Day At The Races	3
+You Take My Breath Away	mind	A Day At The Races	1
+You Take My Breath Away	move	A Day At The Races	1
+You Take My Breath Away	na	A Day At The Races	1
+You Take My Breath Away	ooh	A Day At The Races	27
+You Take My Breath Away	ou	A Day At The Races	3
+You Take My Breath Away	reduce	A Day At The Races	1
+You Take My Breath Away	shiver	A Day At The Races	1
+You Take My Breath Away	sigh	A Day At The Races	1
+You Take My Breath Away	single	A Day At The Races	1
+You Take My Breath Away	sleep	A Day At The Races	4
+You Take My Breath Away	sound	A Day At The Races	1
+You Take My Breath Away	stolen	A Day At The Races	1
+You Take My Breath Away	surely	A Day At The Races	1
+You Take My Breath Away	tears	A Day At The Races	1
+You Take My Breath Away	till	A Day At The Races	2
+You Take My Breath Away	time	A Day At The Races	3
+You Take My Breath Away	touch	A Day At The Races	1
+You Take My Breath Away	whisper	A Day At The Races	1
+You're My Best Friend	bad	A Night At The Opera	1
+You're My Best Friend	cruel	A Night At The Opera	1
+You're My Best Friend	feelings	A Night At The Opera	1
+You're My Best Friend	forgive	A Night At The Opera	1
+You're My Best Friend	friend	A Night At The Opera	7
+You're My Best Friend	girl	A Night At The Opera	2
+You're My Best Friend	happy	A Night At The Opera	4
+You're My Best Friend	home	A Night At The Opera	3
+You're My Best Friend	honey	A Night At The Opera	2
+You're My Best Friend	live	A Night At The Opera	12
+You're My Best Friend	lonely	A Night At The Opera	1
+You're My Best Friend	love	A Night At The Opera	3
+You're My Best Friend	na	A Night At The Opera	1
+You're My Best Friend	ooh	A Night At The Opera	14
+You're My Best Friend	rain	A Night At The Opera	1
+You're My Best Friend	round	A Night At The Opera	2
+You're My Best Friend	shine	A Night At The Opera	1
+You're My Best Friend	stood	A Night At The Opera	1
+You're My Best Friend	sunshine	A Night At The Opera	1
+You're My Best Friend	time	A Night At The Opera	1
+You're My Best Friend	true	A Night At The Opera	1
+You're My Best Friend	wandering	A Night At The Opera	1
+You're My Best Friend	world	A Night At The Opera	2

@@ -1,0 +1,2536 @@
+track_title	word	album	n
+A Day in the Life	4,000	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	alarm	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	albert	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	army	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	bed	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	blackburn	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	blew	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	book	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	boy	Sgt. Pepper's Lonely Hearts Club Band	3
+A Day in the Life	bus	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	car	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	changed	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	clock	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	coat	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	comb	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	count	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	crowd	Sgt. Pepper's Lonely Hearts Club Band	2
+A Day in the Life	cup	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	downstairs	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	dragged	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	drank	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	dream	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	english	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	fell	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	fill	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	film	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	flat	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	found	Sgt. Pepper's Lonely Hearts Club Band	3
+A Day in the Life	grabbed	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	grade	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	hall	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	hat	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	head	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	holes	Sgt. Pepper's Lonely Hearts Club Band	3
+A Day in the Life	house	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	lancashire	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	late	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	laugh	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	lights	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	lords	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	love	Sgt. Pepper's Lonely Hearts Club Band	2
+A Day in the Life	lucky	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	mind	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	na	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	news	Sgt. Pepper's Lonely Hearts Club Band	3
+A Day in the Life	notice	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	noticed	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	people	Sgt. Pepper's Lonely Hearts Club Band	2
+A Day in the Life	photograph	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	read	Sgt. Pepper's Lonely Hearts Club Band	3
+A Day in the Life	rings	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	sad	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	smoke	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	spoke	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	stared	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	stood	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	takes	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	upstairs	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	war	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	woke	Sgt. Pepper's Lonely Hearts Club Band	1
+A Day in the Life	won	Sgt. Pepper's Lonely Hearts Club Band	1
+And Your Bird Can Sing	awoken	Revolver	1
+And Your Bird Can Sing	bird	Revolver	4
+And Your Bird Can Sing	bring	Revolver	1
+And Your Bird Can Sing	broken	Revolver	1
+And Your Bird Can Sing	direction	Revolver	1
+And Your Bird Can Sing	green	Revolver	1
+And Your Bird Can Sing	hear	Revolver	2
+And Your Bird Can Sing	heard	Revolver	1
+And Your Bird Can Sing	na	Revolver	1
+And Your Bird Can Sing	possessions	Revolver	1
+And Your Bird Can Sing	prized	Revolver	1
+And Your Bird Can Sing	round	Revolver	4
+And Your Bird Can Sing	sing	Revolver	1
+And Your Bird Can Sing	sound	Revolver	1
+And Your Bird Can Sing	start	Revolver	1
+And Your Bird Can Sing	swing	Revolver	1
+And Your Bird Can Sing	weigh	Revolver	1
+And Your Bird Can Sing	wonders	Revolver	1
+Back in the U.S.S.R.	bag	The Beatles (The White Album)	1
+Back in the U.S.S.R.	balalaikas	The Beatles (The White Album)	1
+Back in the U.S.S.R.	beach	The Beatles (The White Album)	1
+Back in the U.S.S.R.	bed	The Beatles (The White Album)	1
+Back in the U.S.S.R.	boacdidn't	The Beatles (The White Album)	1
+Back in the U.S.S.R.	boy	The Beatles (The White Album)	2
+Back in the U.S.S.R.	boys	The Beatles (The White Album)	2
+Back in the U.S.S.R.	comrade	The Beatles (The White Album)	1
+Back in the U.S.S.R.	daddy's	The Beatles (The White Album)	1
+Back in the U.S.S.R.	disconnect	The Beatles (The White Album)	1
+Back in the U.S.S.R.	dreadful	The Beatles (The White Album)	1
+Back in the U.S.S.R.	farm	The Beatles (The White Album)	1
+Back in the U.S.S.R.	flew	The Beatles (The White Album)	1
+Back in the U.S.S.R.	flight	The Beatles (The White Album)	1
+Back in the U.S.S.R.	gee	The Beatles (The White Album)	1
+Back in the U.S.S.R.	georgia's	The Beatles (The White Album)	2
+Back in the U.S.S.R.	girls	The Beatles (The White Album)	4
+Back in the U.S.S.R.	hear	The Beatles (The White Album)	1
+Back in the U.S.S.R.	hey	The Beatles (The White Album)	3
+Back in the U.S.S.R.	home	The Beatles (The White Album)	2
+Back in the U.S.S.R.	honey	The Beatles (The White Album)	2
+Back in the U.S.S.R.	knee	The Beatles (The White Album)	1
+Back in the U.S.S.R.	knock	The Beatles (The White Album)	2
+Back in the U.S.S.R.	leave	The Beatles (The White Album)	3
+Back in the U.S.S.R.	lucky	The Beatles (The White Album)	4
+Back in the U.S.S.R.	mi	The Beatles (The White Album)	16
+Back in the U.S.S.R.	miami	The Beatles (The White Album)	1
+Back in the U.S.S.R.	mind	The Beatles (The White Album)	2
+Back in the U.S.S.R.	moscow	The Beatles (The White Album)	2
+Back in the U.S.S.R.	mountains	The Beatles (The White Album)	1
+Back in the U.S.S.R.	na	The Beatles (The White Album)	1
+Back in the U.S.S.R.	night	The Beatles (The White Album)	1
+Back in the U.S.S.R.	paper	The Beatles (The White Album)	1
+Back in the U.S.S.R.	peaked	The Beatles (The White Album)	1
+Back in the U.S.S.R.	phone	The Beatles (The White Album)	1
+Back in the U.S.S.R.	ringing	The Beatles (The White Album)	1
+Back in the U.S.S.R.	round	The Beatles (The White Album)	1
+Back in the U.S.S.R.	shout	The Beatles (The White Album)	2
+Back in the U.S.S.R.	sing	The Beatles (The White Album)	2
+Back in the U.S.S.R.	snow	The Beatles (The White Album)	1
+Back in the U.S.S.R.	south	The Beatles (The White Album)	1
+Back in the U.S.S.R.	till	The Beatles (The White Album)	1
+Back in the U.S.S.R.	tomorrow	The Beatles (The White Album)	1
+Back in the U.S.S.R.	u.s	The Beatles (The White Album)	1
+Back in the U.S.S.R.	u.s.s.r	The Beatles (The White Album)	9
+Back in the U.S.S.R.	u.s.s.ryou	The Beatles (The White Album)	1
+Back in the U.S.S.R.	u.sback	The Beatles (The White Album)	1
+Back in the U.S.S.R.	ukraine	The Beatles (The White Album)	2
+Back in the U.S.S.R.	unpack	The Beatles (The White Album)	1
+Back in the U.S.S.R.	warm	The Beatles (The White Album)	1
+Back in the U.S.S.R.	west	The Beatles (The White Album)	2
+Back in the U.S.S.R.	yeah	The Beatles (The White Album)	3
+Because	ah	Abbey Road	21
+Because	ahh	Abbey Road	10
+Because	blows	Abbey Road	1
+Because	blue	Abbey Road	2
+Because	cry	Abbey Road	1
+Because	love	Abbey Road	4
+Because	makes	Abbey Road	1
+Because	mind	Abbey Road	1
+Because	round	Abbey Road	2
+Because	sky	Abbey Road	2
+Because	wind	Abbey Road	2
+Because	world	Abbey Road	2
+Being for the Benefit of Mr. Kite!	assure	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	band	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	begins	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	benefit	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	bill	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	bishopsgate	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	celebrated	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	challenge	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	dance	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	dances	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	days	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	demonstrate	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	fair	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	fanque's	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	feat	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	fire	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	flies	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	garters	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	ground	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	guaranteed	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	hendersons	Sgt. Pepper's Lonely Hearts Club Band	2
+Being for the Benefit of Mr. Kite!	henry	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	hogshead	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	hoops	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	horse	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	horses	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	kite	Sgt. Pepper's Lonely Hearts Club Band	3
+Being for the Benefit of Mr. Kite!	kperforms	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	lastly	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	late	Sgt. Pepper's Lonely Hearts Club Band	2
+Being for the Benefit of Mr. Kite!	messrs	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	na	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	pablo	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	performs	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	preparation	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	production	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	public	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	real	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	ring	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	saturday	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	scene	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	sing	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	solid	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	somersets	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	sound	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	splendid	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	ten	Sgt. Pepper's Lonely Hearts Club Band	2
+Being for the Benefit of Mr. Kite!	time	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	tonight	Sgt. Pepper's Lonely Hearts Club Band	2
+Being for the Benefit of Mr. Kite!	topping	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	trampoline	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	tricks	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	undertake	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	waltz	Sgt. Pepper's Lonely Hearts Club Band	1
+Being for the Benefit of Mr. Kite!	world	Sgt. Pepper's Lonely Hearts Club Band	1
+Birthday	birthday	The Beatles (The White Album)	16
+Birthday	cha	The Beatles (The White Album)	6
+Birthday	chance	The Beatles (The White Album)	2
+Birthday	dance	The Beatles (The White Album)	7
+Birthday	glad	The Beatles (The White Album)	2
+Birthday	gonna	The Beatles (The White Album)	2
+Birthday	happy	The Beatles (The White Album)	2
+Birthday	na	The Beatles (The White Album)	1
+Birthday	party	The Beatles (The White Album)	6
+Birthday	time	The Beatles (The White Album)	2
+Birthday	woo	The Beatles (The White Album)	2
+Birthday	yeah	The Beatles (The White Album)	3
+Blackbird	arise	The Beatles (The White Album)	4
+Blackbird	black	The Beatles (The White Album)	2
+Blackbird	blackbird	The Beatles (The White Album)	7
+Blackbird	broken	The Beatles (The White Album)	2
+Blackbird	dark	The Beatles (The White Album)	2
+Blackbird	dead	The Beatles (The White Album)	3
+Blackbird	eyes	The Beatles (The White Album)	1
+Blackbird	fly	The Beatles (The White Album)	6
+Blackbird	free	The Beatles (The White Album)	1
+Blackbird	learn	The Beatles (The White Album)	3
+Blackbird	life	The Beatles (The White Album)	3
+Blackbird	light	The Beatles (The White Album)	2
+Blackbird	moment	The Beatles (The White Album)	5
+Blackbird	na	The Beatles (The White Album)	1
+Blackbird	night	The Beatles (The White Album)	5
+Blackbird	singing	The Beatles (The White Album)	3
+Blackbird	sunken	The Beatles (The White Album)	1
+Blackbird	waiting	The Beatles (The White Album)	5
+Blackbird	wings	The Beatles (The White Album)	2
+Carry That Weight	boy	Abbey Road	4
+Carry That Weight	break	Abbey Road	1
+Carry That Weight	carry	Abbey Road	8
+Carry That Weight	celebrations	Abbey Road	1
+Carry That Weight	gonna	Abbey Road	4
+Carry That Weight	invitations	Abbey Road	1
+Carry That Weight	middle	Abbey Road	1
+Carry That Weight	na	Abbey Road	2
+Carry That Weight	pillow	Abbey Road	1
+Carry That Weight	send	Abbey Road	1
+Carry That Weight	time	Abbey Road	4
+Carry That Weight	weight	Abbey Road	8
+Come Together	armchair	Abbey Road	1
+Come Together	bag	Abbey Road	1
+Come Together	coaster	Abbey Road	1
+Come Together	coca	Abbey Road	1
+Come Together	cola	Abbey Road	1
+Come Together	cracker	Abbey Road	1
+Come Together	disease	Abbey Road	1
+Come Together	eyeball	Abbey Road	1
+Come Together	feel	Abbey Road	1
+Come Together	feet	Abbey Road	1
+Come Together	filter	Abbey Road	1
+Come Together	finger	Abbey Road	1
+Come Together	flat	Abbey Road	1
+Come Together	football	Abbey Road	1
+Come Together	free	Abbey Road	1
+Come Together	groovin	Abbey Road	1
+Come Together	gumboot	Abbey Road	1
+Come Together	hair	Abbey Road	1
+Come Together	hard	Abbey Road	1
+Come Together	hold	Abbey Road	1
+Come Together	holy	Abbey Road	1
+Come Together	jam	Abbey Road	1
+Come Together	joker	Abbey Road	1
+Come Together	ju	Abbey Road	2
+Come Together	knee	Abbey Road	2
+Come Together	lookin	Abbey Road	1
+Come Together	mojo	Abbey Road	1
+Come Together	monkey	Abbey Road	1
+Come Together	muddy	Abbey Road	1
+Come Together	ono	Abbey Road	1
+Come Together	production	Abbey Road	1
+Come Together	roller	Abbey Road	2
+Come Together	shoeshine	Abbey Road	1
+Come Together	shoot	Abbey Road	19
+Come Together	sideboard	Abbey Road	1
+Come Together	slowly	Abbey Road	1
+Come Together	spinal	Abbey Road	1
+Come Together	toe	Abbey Road	1
+Come Together	top	Abbey Road	1
+Come Together	ugh	Abbey Road	1
+Come Together	walrus	Abbey Road	1
+Come Together	warnin'he	Abbey Road	1
+Come Together	water	Abbey Road	1
+Come Together	wear	Abbey Road	1
+Come Together	yeah	Abbey Road	9
+Cry Baby Cry	arriving	The Beatles (The White Album)	1
+Cry Baby Cry	baby	The Beatles (The White Album)	11
+Cry Baby Cry	bee	The Beatles (The White Album)	1
+Cry Baby Cry	bird	The Beatles (The White Album)	1
+Cry Baby Cry	breakfast	The Beatles (The White Album)	1
+Cry Baby Cry	brother	The Beatles (The White Album)	1
+Cry Baby Cry	children	The Beatles (The White Album)	2
+Cry Baby Cry	children's	The Beatles (The White Album)	1
+Cry Baby Cry	cooking	The Beatles (The White Album)	1
+Cry Baby Cry	cry	The Beatles (The White Album)	23
+Cry Baby Cry	dark	The Beatles (The White Album)	1
+Cry Baby Cry	duchess	The Beatles (The White Album)	1
+Cry Baby Cry	duke	The Beatles (The White Album)	1
+Cry Baby Cry	flowers	The Beatles (The White Album)	1
+Cry Baby Cry	friend	The Beatles (The White Album)	1
+Cry Baby Cry	garden	The Beatles (The White Album)	1
+Cry Baby Cry	holiday	The Beatles (The White Album)	1
+Cry Baby Cry	king	The Beatles (The White Album)	3
+Cry Baby Cry	kircaldy	The Beatles (The White Album)	1
+Cry Baby Cry	kitchen	The Beatles (The White Album)	1
+Cry Baby Cry	lark	The Beatles (The White Album)	1
+Cry Baby Cry	late	The Beatles (The White Album)	1
+Cry Baby Cry	local	The Beatles (The White Album)	1
+Cry Baby Cry	marigold	The Beatles (The White Album)	1
+Cry Baby Cry	meeting	The Beatles (The White Album)	1
+Cry Baby Cry	message	The Beatles (The White Album)	1
+Cry Baby Cry	mm	The Beatles (The White Album)	1
+Cry Baby Cry	mother	The Beatles (The White Album)	6
+Cry Baby Cry	o'clock	The Beatles (The White Album)	1
+Cry Baby Cry	painting	The Beatles (The White Album)	1
+Cry Baby Cry	parlour	The Beatles (The White Album)	1
+Cry Baby Cry	piano	The Beatles (The White Album)	1
+Cry Baby Cry	picking	The Beatles (The White Album)	1
+Cry Baby Cry	pictures	The Beatles (The White Album)	1
+Cry Baby Cry	play	The Beatles (The White Album)	1
+Cry Baby Cry	playing	The Beatles (The White Album)	1
+Cry Baby Cry	playroom	The Beatles (The White Album)	1
+Cry Baby Cry	queen	The Beatles (The White Album)	3
+Cry Baby Cry	round	The Beatles (The White Album)	1
+Cry Baby Cry	seance	The Beatles (The White Album)	1
+Cry Baby Cry	sigh	The Beatles (The White Album)	6
+Cry Baby Cry	smiling	The Beatles (The White Album)	1
+Cry Baby Cry	specially	The Beatles (The White Album)	1
+Cry Baby Cry	table	The Beatles (The White Album)	1
+Cry Baby Cry	tea	The Beatles (The White Album)	1
+Cry Baby Cry	twelve	The Beatles (The White Album)	1
+Cry Baby Cry	voices	The Beatles (The White Album)	1
+Dear Prudence	beautiful	The Beatles (The White Album)	2
+Dear Prudence	birds	The Beatles (The White Album)	1
+Dear Prudence	blue	The Beatles (The White Album)	2
+Dear Prudence	brand	The Beatles (The White Album)	2
+Dear Prudence	chain	The Beatles (The White Album)	1
+Dear Prudence	child	The Beatles (The White Album)	1
+Dear Prudence	clouds	The Beatles (The White Album)	1
+Dear Prudence	daisy	The Beatles (The White Album)	1
+Dear Prudence	day	The Beatles (The White Album)	2
+Dear Prudence	dear	The Beatles (The White Album)	12
+Dear Prudence	eyes	The Beatles (The White Album)	2
+Dear Prudence	greet	The Beatles (The White Album)	2
+Dear Prudence	hey	The Beatles (The White Album)	1
+Dear Prudence	low	The Beatles (The White Album)	1
+Dear Prudence	na	The Beatles (The White Album)	1
+Dear Prudence	play	The Beatles (The White Album)	4
+Dear Prudence	prudence	The Beatles (The White Album)	12
+Dear Prudence	round	The Beatles (The White Album)	4
+Dear Prudence	sing	The Beatles (The White Album)	1
+Dear Prudence	skies	The Beatles (The White Album)	1
+Dear Prudence	sky	The Beatles (The White Album)	2
+Dear Prudence	smile	The Beatles (The White Album)	3
+Dear Prudence	sun	The Beatles (The White Album)	2
+Dear Prudence	sunny	The Beatles (The White Album)	1
+Dear Prudence	wind	The Beatles (The White Album)	1
+Doctor Robert	call	Revolver	3
+Doctor Robert	cup	Revolver	1
+Doctor Robert	day	Revolver	1
+Doctor Robert	doctor	Revolver	17
+Doctor Robert	drink	Revolver	1
+Doctor Robert	feeling	Revolver	2
+Doctor Robert	fine	Revolver	2
+Doctor Robert	friend	Revolver	4
+Doctor Robert	health	Revolver	1
+Doctor Robert	helping	Revolver	1
+Doctor Robert	helps	Revolver	2
+Doctor Robert	money	Revolver	1
+Doctor Robert	national	Revolver	1
+Doctor Robert	night	Revolver	1
+Doctor Robert	pay	Revolver	1
+Doctor Robert	pick	Revolver	1
+Doctor Robert	ring	Revolver	3
+Doctor Robert	robert	Revolver	17
+Doctor Robert	special	Revolver	1
+Doctor Robert	succeed	Revolver	1
+Doctor Robert	time	Revolver	1
+Doctor Robert	understand	Revolver	2
+Don't Pass Me By	a'moving	The Beatles (The White Album)	1
+Don't Pass Me By	a'ticking	The Beatles (The White Album)	1
+Don't Pass Me By	alright	The Beatles (The White Album)	1
+Don't Pass Me By	arrive	The Beatles (The White Album)	1
+Don't Pass Me By	blue	The Beatles (The White Album)	3
+Don't Pass Me By	car	The Beatles (The White Album)	1
+Don't Pass Me By	clock	The Beatles (The White Album)	1
+Don't Pass Me By	coming	The Beatles (The White Album)	1
+Don't Pass Me By	crash	The Beatles (The White Album)	1
+Don't Pass Me By	cry	The Beatles (The White Album)	6
+Don't Pass Me By	darling	The Beatles (The White Album)	3
+Don't Pass Me By	dear	The Beatles (The White Album)	1
+Don't Pass Me By	door	The Beatles (The White Album)	1
+Don't Pass Me By	doubted	The Beatles (The White Album)	1
+Don't Pass Me By	drive	The Beatles (The White Album)	1
+Don't Pass Me By	footsteps	The Beatles (The White Album)	2
+Don't Pass Me By	front	The Beatles (The White Album)	1
+Don't Pass Me By	hair	The Beatles (The White Album)	1
+Don't Pass Me By	hands	The Beatles (The White Album)	1
+Don't Pass Me By	hate	The Beatles (The White Album)	3
+Don't Pass Me By	hear	The Beatles (The White Album)	3
+Don't Pass Me By	hour	The Beatles (The White Album)	1
+Don't Pass Me By	hurt	The Beatles (The White Album)	3
+Don't Pass Me By	knock	The Beatles (The White Album)	1
+Don't Pass Me By	late	The Beatles (The White Album)	1
+Don't Pass Me By	listen	The Beatles (The White Album)	2
+Don't Pass Me By	lost	The Beatles (The White Album)	1
+Don't Pass Me By	love	The Beatles (The White Album)	5
+Don't Pass Me By	mantel	The Beatles (The White Album)	1
+Don't Pass Me By	pass	The Beatles (The White Album)	6
+Don't Pass Me By	shelf	The Beatles (The White Album)	1
+Don't Pass Me By	tonight	The Beatles (The White Album)	1
+Don't Pass Me By	unfair	The Beatles (The White Album)	1
+Don't Pass Me By	waiting	The Beatles (The White Album)	3
+Drive My Car	babe	Rubber Soul	1
+Drive My Car	baby	Rubber Soul	10
+Drive My Car	beep	Rubber Soul	12
+Drive My Car	beep'm	Rubber Soul	4
+Drive My Car	breakin	Rubber Soul	1
+Drive My Car	car	Rubber Soul	9
+Drive My Car	drive	Rubber Soul	8
+Drive My Car	driver	Rubber Soul	1
+Drive My Car	famous	Rubber Soul	1
+Drive My Car	fine	Rubber Soul	1
+Drive My Car	found	Rubber Soul	1
+Drive My Car	girl	Rubber Soul	3
+Drive My Car	gonna	Rubber Soul	4
+Drive My Car	heart	Rubber Soul	1
+Drive My Car	listen	Rubber Soul	1
+Drive My Car	love	Rubber Soul	4
+Drive My Car	na	Rubber Soul	1
+Drive My Car	peanuts	Rubber Soul	1
+Drive My Car	prospects	Rubber Soul	1
+Drive My Car	screen	Rubber Soul	1
+Drive My Car	star	Rubber Soul	5
+Drive My Car	start	Rubber Soul	2
+Drive My Car	time	Rubber Soul	1
+Drive My Car	told	Rubber Soul	2
+Drive My Car	understood	Rubber Soul	1
+Drive My Car	wanna	Rubber Soul	1
+Drive My Car	yeah	Rubber Soul	4
+Eleanor Rigby	ah	Revolver	6
+Eleanor Rigby	belong	Revolver	3
+Eleanor Rigby	buried	Revolver	1
+Eleanor Rigby	care	Revolver	1
+Eleanor Rigby	church	Revolver	2
+Eleanor Rigby	darning	Revolver	1
+Eleanor Rigby	died	Revolver	1
+Eleanor Rigby	dirt	Revolver	1
+Eleanor Rigby	door	Revolver	1
+Eleanor Rigby	dream	Revolver	1
+Eleanor Rigby	eleanor	Revolver	2
+Eleanor Rigby	father	Revolver	2
+Eleanor Rigby	grave	Revolver	1
+Eleanor Rigby	hands	Revolver	1
+Eleanor Rigby	hear	Revolver	1
+Eleanor Rigby	jar	Revolver	1
+Eleanor Rigby	lives	Revolver	1
+Eleanor Rigby	lonely	Revolver	12
+Eleanor Rigby	mckenzie	Revolver	2
+Eleanor Rigby	night	Revolver	1
+Eleanor Rigby	people	Revolver	12
+Eleanor Rigby	picks	Revolver	1
+Eleanor Rigby	rice	Revolver	1
+Eleanor Rigby	rigby	Revolver	2
+Eleanor Rigby	saved	Revolver	1
+Eleanor Rigby	sermon	Revolver	1
+Eleanor Rigby	socks	Revolver	1
+Eleanor Rigby	waits	Revolver	1
+Eleanor Rigby	walks	Revolver	1
+Eleanor Rigby	wearing	Revolver	1
+Eleanor Rigby	wedding	Revolver	1
+Eleanor Rigby	window	Revolver	1
+Eleanor Rigby	wiping	Revolver	1
+Eleanor Rigby	words	Revolver	1
+Eleanor Rigby	writing	Revolver	1
+Everybody's Got Something to Hide Except Me and My Monkey	deeper	The Beatles (The White Album)	2
+Everybody's Got Something to Hide Except Me and My Monkey	easy	The Beatles (The White Album)	12
+Everybody's Got Something to Hide Except Me and My Monkey	everybody's	The Beatles (The White Album)	3
+Everybody's Got Something to Hide Except Me and My Monkey	fly	The Beatles (The White Album)	2
+Everybody's Got Something to Hide Except Me and My Monkey	hey	The Beatles (The White Album)	1
+Everybody's Got Something to Hide Except Me and My Monkey	hide	The Beatles (The White Album)	3
+Everybody's Got Something to Hide Except Me and My Monkey	inside	The Beatles (The White Album)	2
+Everybody's Got Something to Hide Except Me and My Monkey	joy	The Beatles (The White Album)	6
+Everybody's Got Something to Hide Except Me and My Monkey	monkey	The Beatles (The White Album)	3
+Everybody's Got Something to Hide Except Me and My Monkey	woo	The Beatles (The White Album)	5
+Everybody's Got Something to Hide Except Me and My Monkey	yeah	The Beatles (The White Album)	2
+Fixing a Hole	ah	Sgt. Pepper's Lonely Hearts Club Band	4
+Fixing a Hole	belong	Sgt. Pepper's Lonely Hearts Club Band	4
+Fixing a Hole	colorful	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	cracks	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	disagree	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	door	Sgt. Pepper's Lonely Hearts Club Band	3
+Fixing a Hole	filling	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	fixing	Sgt. Pepper's Lonely Hearts Club Band	3
+Fixing a Hole	hey	Sgt. Pepper's Lonely Hearts Club Band	4
+Fixing a Hole	hole	Sgt. Pepper's Lonely Hearts Club Band	3
+Fixing a Hole	matter	Sgt. Pepper's Lonely Hearts Club Band	2
+Fixing a Hole	mind	Sgt. Pepper's Lonely Hearts Club Band	5
+Fixing a Hole	na	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	ooh	Sgt. Pepper's Lonely Hearts Club Band	6
+Fixing a Hole	painting	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	past	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	people	Sgt. Pepper's Lonely Hearts Club Band	2
+Fixing a Hole	rain	Sgt. Pepper's Lonely Hearts Club Band	3
+Fixing a Hole	ran	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	run	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	silly	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	standing	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	stops	Sgt. Pepper's Lonely Hearts Club Band	3
+Fixing a Hole	taking	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	time	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	wandering	Sgt. Pepper's Lonely Hearts Club Band	5
+Fixing a Hole	win	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	worry	Sgt. Pepper's Lonely Hearts Club Band	1
+Fixing a Hole	wrong	Sgt. Pepper's Lonely Hearts Club Band	2
+Fixing a Hole	yesterday	Sgt. Pepper's Lonely Hearts Club Band	1
+For No One	aches	Revolver	2
+For No One	ago	Revolver	1
+For No One	breaks	Revolver	2
+For No One	cried	Revolver	3
+For No One	day	Revolver	2
+For No One	dead	Revolver	1
+For No One	eyes	Revolver	3
+For No One	feel	Revolver	1
+For No One	fill	Revolver	1
+For No One	forget	Revolver	1
+For No One	head	Revolver	1
+For No One	home	Revolver	1
+For No One	hurry	Revolver	1
+For No One	kindness	Revolver	1
+For No One	lasted	Revolver	3
+For No One	linger	Revolver	1
+For No One	love	Revolver	7
+For No One	makes	Revolver	1
+For No One	mind	Revolver	2
+For No One	na	Revolver	1
+For No One	sign	Revolver	3
+For No One	stay	Revolver	1
+For No One	takes	Revolver	1
+For No One	tears	Revolver	3
+For No One	time	Revolver	1
+For No One	times	Revolver	1
+For No One	wakes	Revolver	1
+For No One	words	Revolver	1
+Getting Better	admit	Sgt. Pepper's Lonely Hearts Club Band	6
+Getting Better	ah	Sgt. Pepper's Lonely Hearts Club Band	3
+Getting Better	angry	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	beat	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	changing	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	complain	Sgt. Pepper's Lonely Hearts Club Band	2
+Getting Better	cool	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	cruel	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	filling	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	finally	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	fool	Sgt. Pepper's Lonely Hearts Club Band	4
+Getting Better	head	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	heard	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	hiding	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	holding	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	loved	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	mad	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	mine	Sgt. Pepper's Lonely Hearts Club Band	3
+Getting Better	round	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	rules	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	sand	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	scene	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	school	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	taught	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	teachers	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	time	Sgt. Pepper's Lonely Hearts Club Band	11
+Getting Better	woman	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	word	Sgt. Pepper's Lonely Hearts Club Band	1
+Getting Better	worse	Sgt. Pepper's Lonely Hearts Club Band	3
+Girl	acts	Rubber Soul	1
+Girl	ah	Rubber Soul	4
+Girl	break	Rubber Soul	1
+Girl	cool	Rubber Soul	1
+Girl	cry	Rubber Soul	1
+Girl	day	Rubber Soul	2
+Girl	dead	Rubber Soul	1
+Girl	earn	Rubber Soul	1
+Girl	earth	Rubber Soul	1
+Girl	feel	Rubber Soul	1
+Girl	fool	Rubber Soul	1
+Girl	friends	Rubber Soul	1
+Girl	girl	Rubber Soul	18
+Girl	hard	Rubber Soul	1
+Girl	lead	Rubber Soul	1
+Girl	leave	Rubber Soul	1
+Girl	leisure	Rubber Soul	1
+Girl	listen	Rubber Soul	1
+Girl	makes	Rubber Soul	1
+Girl	ooh	Rubber Soul	3
+Girl	pain	Rubber Soul	1
+Girl	pleasure	Rubber Soul	1
+Girl	promises	Rubber Soul	1
+Girl	regret	Rubber Soul	1
+Girl	single	Rubber Soul	1
+Girl	start	Rubber Soul	1
+Girl	stay	Rubber Soul	1
+Girl	story	Rubber Soul	1
+Girl	time	Rubber Soul	1
+Girl	times	Rubber Soul	1
+Girl	tit	Rubber Soul	64
+Girl	told	Rubber Soul	1
+Girl	understand	Rubber Soul	1
+Girl	understood	Rubber Soul	1
+Glass Onion	bent	The Beatles (The White Album)	1
+Glass Onion	bout	The Beatles (The White Album)	3
+Glass Onion	cast	The Beatles (The White Album)	1
+Glass Onion	close	The Beatles (The White Album)	1
+Glass Onion	clue	The Beatles (The White Album)	1
+Glass Onion	dove	The Beatles (The White Album)	1
+Glass Onion	fields	The Beatles (The White Album)	1
+Glass Onion	fixing	The Beatles (The White Album)	1
+Glass Onion	flows	The Beatles (The White Album)	1
+Glass Onion	fool	The Beatles (The White Album)	1
+Glass Onion	glass	The Beatles (The White Album)	4
+Glass Onion	half	The Beatles (The White Album)	1
+Glass Onion	hill	The Beatles (The White Album)	1
+Glass Onion	hole	The Beatles (The White Album)	1
+Glass Onion	iron	The Beatles (The White Album)	1
+Glass Onion	joint	The Beatles (The White Album)	1
+Glass Onion	lady	The Beatles (The White Album)	1
+Glass Onion	listen	The Beatles (The White Album)	1
+Glass Onion	lives	The Beatles (The White Album)	1
+Glass Onion	living	The Beatles (The White Album)	1
+Glass Onion	madonna	The Beatles (The White Album)	1
+Glass Onion	meet	The Beatles (The White Album)	1
+Glass Onion	ocean	The Beatles (The White Album)	1
+Glass Onion	onion	The Beatles (The White Album)	4
+Glass Onion	paul	The Beatles (The White Album)	1
+Glass Onion	real	The Beatles (The White Album)	1
+Glass Onion	shore	The Beatles (The White Album)	1
+Glass Onion	standing	The Beatles (The White Album)	1
+Glass Onion	strawberry	The Beatles (The White Album)	1
+Glass Onion	tail	The Beatles (The White Album)	1
+Glass Onion	told	The Beatles (The White Album)	3
+Glass Onion	tulips	The Beatles (The White Album)	1
+Glass Onion	walrus	The Beatles (The White Album)	2
+Glass Onion	yeah	The Beatles (The White Album)	6
+Golden Slumbers	await	Abbey Road	1
+Golden Slumbers	cry	Abbey Road	3
+Golden Slumbers	darling	Abbey Road	3
+Golden Slumbers	eyes	Abbey Road	1
+Golden Slumbers	fill	Abbey Road	1
+Golden Slumbers	golden	Abbey Road	1
+Golden Slumbers	home	Abbey Road	2
+Golden Slumbers	homeward	Abbey Road	2
+Golden Slumbers	lullaby	Abbey Road	3
+Golden Slumbers	pretty	Abbey Road	3
+Golden Slumbers	rise	Abbey Road	1
+Golden Slumbers	sing	Abbey Road	3
+Golden Slumbers	sleep	Abbey Road	3
+Golden Slumbers	slumbers	Abbey Road	1
+Golden Slumbers	smiles	Abbey Road	1
+Good Day Sunshine	beneath	Revolver	1
+Good Day Sunshine	burns	Revolver	1
+Good Day Sunshine	day	Revolver	17
+Good Day Sunshine	feel	Revolver	1
+Good Day Sunshine	feels	Revolver	1
+Good Day Sunshine	feet	Revolver	1
+Good Day Sunshine	fine	Revolver	1
+Good Day Sunshine	ground	Revolver	1
+Good Day Sunshine	laugh	Revolver	2
+Good Day Sunshine	lie	Revolver	1
+Good Day Sunshine	love	Revolver	2
+Good Day Sunshine	loving	Revolver	1
+Good Day Sunshine	mine	Revolver	1
+Good Day Sunshine	proud	Revolver	1
+Good Day Sunshine	shady	Revolver	1
+Good Day Sunshine	shining	Revolver	1
+Good Day Sunshine	special	Revolver	1
+Good Day Sunshine	sun	Revolver	2
+Good Day Sunshine	sunny	Revolver	1
+Good Day Sunshine	sunshine	Revolver	16
+Good Day Sunshine	touch	Revolver	1
+Good Day Sunshine	tree	Revolver	1
+Good Day Sunshine	walk	Revolver	1
+Good Morning Good Morning	asleep	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	boy	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	call	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	changed	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	closed	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	cool	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	dark	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	day	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	decide	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	feel	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	feeling	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	flirt	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	gear	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	gewözei	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	glad	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	gut	Sgt. Pepper's Lonely Hearts Club Band	6
+Good Morning Good Morning	guten	Sgt. Pepper's Lonely Hearts Club Band	14
+Good Morning Good Morning	half	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	heading	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	home	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	hope	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	ja	Sgt. Pepper's Lonely Hearts Club Band	3
+Good Morning Good Morning	life	Sgt. Pepper's Lonely Hearts Club Band	2
+Good Morning Good Morning	low	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	meet	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	morgen	Sgt. Pepper's Lonely Hearts Club Band	14
+Good Morning Good Morning	morning	Sgt. Pepper's Lonely Hearts Club Band	22
+Good Morning Good Morning	na	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	o'clock	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	people	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	roam	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	round	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	ruin	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	running	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	save	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	school	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	skirts	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	smile	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	start	Sgt. Pepper's Lonely Hearts Club Band	3
+Good Morning Good Morning	street	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	tea	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	teuer	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	time	Sgt. Pepper's Lonely Hearts Club Band	2
+Good Morning Good Morning	town	Sgt. Pepper's Lonely Hearts Club Band	2
+Good Morning Good Morning	walk	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	watching	Sgt. Pepper's Lonely Hearts Club Band	1
+Good Morning Good Morning	wife	Sgt. Pepper's Lonely Hearts Club Band	2
+Good Night	begins	The Beatles (The White Album)	1
+Good Night	close	The Beatles (The White Album)	4
+Good Night	dream	The Beatles (The White Album)	12
+Good Night	dreams	The Beatles (The White Album)	9
+Good Night	eyes	The Beatles (The White Album)	2
+Good Night	light	The Beatles (The White Album)	2
+Good Night	mine	The Beatles (The White Album)	2
+Good Night	mmm	The Beatles (The White Album)	1
+Good Night	moon	The Beatles (The White Album)	1
+Good Night	night	The Beatles (The White Album)	10
+Good Night	shine	The Beatles (The White Album)	1
+Good Night	sleep	The Beatles (The White Album)	6
+Good Night	sun	The Beatles (The White Album)	2
+Good Night	sweet	The Beatles (The White Album)	12
+Good Night	tight	The Beatles (The White Album)	6
+Good Night	time	The Beatles (The White Album)	1
+Got to Get You into My Life	day	Revolver	4
+Got to Get You into My Life	hear	Revolver	1
+Got to Get You into My Life	hold	Revolver	1
+Got to Get You into My Life	icould	Revolver	1
+Got to Get You into My Life	leave	Revolver	1
+Got to Get You into My Life	lie	Revolver	1
+Got to Get You into My Life	life	Revolver	6
+Got to Get You into My Life	meant	Revolver	1
+Got to Get You into My Life	meet	Revolver	1
+Got to Get You into My Life	mind	Revolver	2
+Got to Get You into My Life	na	Revolver	1
+Got to Get You into My Life	ooh	Revolver	6
+Got to Get You into My Life	ride	Revolver	2
+Got to Get You into My Life	road	Revolver	2
+Got to Get You into My Life	run	Revolver	1
+Got to Get You into My Life	single	Revolver	3
+Got to Get You into My Life	stay	Revolver	1
+Got to Get You into My Life	suddenly	Revolver	3
+Got to Get You into My Life	time	Revolver	1
+Got to Get You into My Life	told	Revolver	1
+Got to Get You into My Life	true	Revolver	1
+Happiness is a Warm Gun	acquainted	The Beatles (The White Album)	1
+Happiness is a Warm Gun	arms	The Beatles (The White Album)	1
+Happiness is a Warm Gun	ate	The Beatles (The White Album)	1
+Happiness is a Warm Gun	bang	The Beatles (The White Album)	10
+Happiness is a Warm Gun	bits	The Beatles (The White Album)	1
+Happiness is a Warm Gun	boots	The Beatles (The White Album)	1
+Happiness is a Warm Gun	busy	The Beatles (The White Album)	1
+Happiness is a Warm Gun	crowd	The Beatles (The White Album)	1
+Happiness is a Warm Gun	donated	The Beatles (The White Album)	1
+Happiness is a Warm Gun	eyes	The Beatles (The White Album)	1
+Happiness is a Warm Gun	feel	The Beatles (The White Album)	1
+Happiness is a Warm Gun	finger	The Beatles (The White Album)	1
+Happiness is a Warm Gun	fix	The Beatles (The White Album)	2
+Happiness is a Warm Gun	girl	The Beatles (The White Album)	1
+Happiness is a Warm Gun	gun	The Beatles (The White Album)	13
+Happiness is a Warm Gun	hand	The Beatles (The White Album)	1
+Happiness is a Warm Gun	hands	The Beatles (The White Album)	1
+Happiness is a Warm Gun	happiness	The Beatles (The White Album)	6
+Happiness is a Warm Gun	harm	The Beatles (The White Album)	1
+Happiness is a Warm Gun	hobnail	The Beatles (The White Album)	1
+Happiness is a Warm Gun	hold	The Beatles (The White Album)	1
+Happiness is a Warm Gun	impression	The Beatles (The White Album)	1
+Happiness is a Warm Gun	jumped	The Beatles (The White Album)	6
+Happiness is a Warm Gun	left	The Beatles (The White Album)	1
+Happiness is a Warm Gun	lizard	The Beatles (The White Album)	1
+Happiness is a Warm Gun	lying	The Beatles (The White Album)	1
+Happiness is a Warm Gun	mirrors	The Beatles (The White Album)	1
+Happiness is a Warm Gun	misses	The Beatles (The White Album)	1
+Happiness is a Warm Gun	momma	The Beatles (The White Album)	3
+Happiness is a Warm Gun	mother	The Beatles (The White Album)	6
+Happiness is a Warm Gun	multicoloured	The Beatles (The White Album)	1
+Happiness is a Warm Gun	national	The Beatles (The White Album)	1
+Happiness is a Warm Gun	ooh	The Beatles (The White Album)	3
+Happiness is a Warm Gun	overtime	The Beatles (The White Album)	1
+Happiness is a Warm Gun	pane	The Beatles (The White Album)	1
+Happiness is a Warm Gun	shoot	The Beatles (The White Album)	10
+Happiness is a Warm Gun	soap	The Beatles (The White Album)	1
+Happiness is a Warm Gun	superior	The Beatles (The White Album)	6
+Happiness is a Warm Gun	touch	The Beatles (The White Album)	1
+Happiness is a Warm Gun	trigger	The Beatles (The White Album)	1
+Happiness is a Warm Gun	trust	The Beatles (The White Album)	1
+Happiness is a Warm Gun	uptown	The Beatles (The White Album)	1
+Happiness is a Warm Gun	velvet	The Beatles (The White Album)	1
+Happiness is a Warm Gun	warm	The Beatles (The White Album)	7
+Happiness is a Warm Gun	wife	The Beatles (The White Album)	1
+Happiness is a Warm Gun	window	The Beatles (The White Album)	1
+Happiness is a Warm Gun	yeah	The Beatles (The White Album)	5
+Helter Skelter	answer	The Beatles (The White Album)	3
+Helter Skelter	blisters	The Beatles (The White Album)	1
+Helter Skelter	bottom	The Beatles (The White Album)	4
+Helter Skelter	break	The Beatles (The White Album)	2
+Helter Skelter	coming	The Beatles (The White Album)	5
+Helter Skelter	dancer	The Beatles (The White Album)	3
+Helter Skelter	fast	The Beatles (The White Album)	5
+Helter Skelter	fingers	The Beatles (The White Album)	1
+Helter Skelter	helter	The Beatles (The White Album)	11
+Helter Skelter	love	The Beatles (The White Album)	1
+Helter Skelter	lover	The Beatles (The White Album)	3
+Helter Skelter	miles	The Beatles (The White Album)	1
+Helter Skelter	na	The Beatles (The White Album)	1
+Helter Skelter	ooh	The Beatles (The White Album)	1
+Helter Skelter	ride	The Beatles (The White Album)	1
+Helter Skelter	ride'til	The Beatles (The White Album)	1
+Helter Skelter	skelter	The Beatles (The White Album)	11
+Helter Skelter	slide	The Beatles (The White Album)	2
+Helter Skelter	stop	The Beatles (The White Album)	2
+Helter Skelter	top	The Beatles (The White Album)	2
+Helter Skelter	woo	The Beatles (The White Album)	1
+Helter Skelter	wooh	The Beatles (The White Album)	1
+Helter Skelter	yeah	The Beatles (The White Album)	8
+Her Majesty	bellyful	Abbey Road	1
+Her Majesty	day	Abbey Road	2
+Her Majesty	girl	Abbey Road	3
+Her Majesty	gotta	Abbey Road	1
+Her Majesty	lot	Abbey Road	2
+Her Majesty	love	Abbey Road	1
+Her Majesty	majesty's	Abbey Road	3
+Her Majesty	mine	Abbey Road	2
+Her Majesty	nice	Abbey Road	3
+Her Majesty	pretty	Abbey Road	3
+Her Majesty	someday	Abbey Road	2
+Her Majesty	wine	Abbey Road	1
+Her Majesty	yeah	Abbey Road	1
+Here Comes the Sun	cold	Abbey Road	1
+Here Comes the Sun	da	Abbey Road	4
+Here Comes the Sun	darling	Abbey Road	6
+Here Comes the Sun	doo	Abbey Road	12
+Here Comes the Sun	feel	Abbey Road	1
+Here Comes the Sun	feels	Abbey Road	1
+Here Comes the Sun	ice	Abbey Road	1
+Here Comes the Sun	lonely	Abbey Road	1
+Here Comes the Sun	melting	Abbey Road	1
+Here Comes the Sun	returning	Abbey Road	1
+Here Comes the Sun	slowly	Abbey Road	1
+Here Comes the Sun	smile's	Abbey Road	1
+Here Comes the Sun	sun	Abbey Road	25
+Here Comes the Sun	winter	Abbey Road	1
+Here, There and Everywhere	believing	Revolver	2
+Here, There and Everywhere	care	Revolver	2
+Here, There and Everywhere	changing	Revolver	1
+Here, There and Everywhere	day	Revolver	1
+Here, There and Everywhere	deny	Revolver	1
+Here, There and Everywhere	dies	Revolver	2
+Here, There and Everywhere	eyes	Revolver	2
+Here, There and Everywhere	hair	Revolver	1
+Here, There and Everywhere	hand	Revolver	1
+Here, There and Everywhere	hands	Revolver	1
+Here, There and Everywhere	hoping	Revolver	2
+Here, There and Everywhere	knowing	Revolver	2
+Here, There and Everywhere	lead	Revolver	1
+Here, There and Everywhere	life	Revolver	2
+Here, There and Everywhere	love	Revolver	7
+Here, There and Everywhere	running	Revolver	1
+Here, There and Everywhere	share	Revolver	2
+Here, There and Everywhere	speaking	Revolver	1
+Here, There and Everywhere	thinking	Revolver	1
+Here, There and Everywhere	watching	Revolver	2
+Here, There and Everywhere	wave	Revolver	1
+Honey Pie	ah	The Beatles (The White Album)	1
+Honey Pie	atlantic	The Beatles (The White Album)	1
+Honey Pie	belong	The Beatles (The White Album)	1
+Honey Pie	blew	The Beatles (The White Album)	1
+Honey Pie	blues	The Beatles (The White Album)	1
+Honey Pie	boat	The Beatles (The White Album)	1
+Honey Pie	crazy	The Beatles (The White Album)	2
+Honey Pie	driving	The Beatles (The White Album)	1
+Honey Pie	england	The Beatles (The White Album)	1
+Honey Pie	frantic	The Beatles (The White Album)	1
+Honey Pie	girl	The Beatles (The White Album)	1
+Honey Pie	hear	The Beatles (The White Album)	1
+Honey Pie	hit	The Beatles (The White Album)	1
+Honey Pie	hollywood	The Beatles (The White Album)	2
+Honey Pie	home	The Beatles (The White Album)	2
+Honey Pie	honey	The Beatles (The White Album)	7
+Honey Pie	hot	The Beatles (The White Album)	2
+Honey Pie	kindly	The Beatles (The White Album)	1
+Honey Pie	knee	The Beatles (The White Album)	1
+Honey Pie	lazy	The Beatles (The White Album)	2
+Honey Pie	legend	The Beatles (The White Album)	1
+Honey Pie	love	The Beatles (The White Album)	2
+Honey Pie	magic	The Beatles (The White Album)	1
+Honey Pie	makes	The Beatles (The White Album)	1
+Honey Pie	meeting	The Beatles (The White Album)	1
+Honey Pie	music	The Beatles (The White Album)	2
+Honey Pie	north	The Beatles (The White Album)	1
+Honey Pie	ooh	The Beatles (The White Album)	2
+Honey Pie	pie	The Beatles (The White Album)	7
+Honey Pie	play	The Beatles (The White Album)	2
+Honey Pie	position	The Beatles (The White Album)	1
+Honey Pie	sail	The Beatles (The White Album)	1
+Honey Pie	sailing	The Beatles (The White Album)	1
+Honey Pie	screen	The Beatles (The White Album)	1
+Honey Pie	sea	The Beatles (The White Album)	1
+Honey Pie	send	The Beatles (The White Album)	1
+Honey Pie	silver	The Beatles (The White Album)	1
+Honey Pie	song	The Beatles (The White Album)	1
+Honey Pie	tee	The Beatles (The White Album)	3
+Honey Pie	time	The Beatles (The White Album)	1
+Honey Pie	tragic	The Beatles (The White Album)	1
+Honey Pie	u.s.a	The Beatles (The White Album)	1
+Honey Pie	weak	The Beatles (The White Album)	1
+Honey Pie	wind	The Beatles (The White Album)	1
+Honey Pie	yeah	The Beatles (The White Album)	1
+I Want to Tell You	act	Revolver	1
+I Want to Tell You	begin	Revolver	1
+I Want to Tell You	confusing	Revolver	1
+I Want to Tell You	drag	Revolver	1
+I Want to Tell You	feel	Revolver	2
+I Want to Tell You	filled	Revolver	1
+I Want to Tell You	forever	Revolver	2
+I Want to Tell You	games	Revolver	1
+I Want to Tell You	head	Revolver	1
+I Want to Tell You	hung	Revolver	2
+I Want to Tell You	mind	Revolver	4
+I Want to Tell You	slip	Revolver	1
+I Want to Tell You	speak	Revolver	1
+I Want to Tell You	time	Revolver	5
+I Want to Tell You	understand	Revolver	1
+I Want to Tell You	unkind	Revolver	1
+I Want to Tell You	wait	Revolver	2
+I Want to Tell You	words	Revolver	1
+I Want You (She's So Heavy)	babe	Abbey Road	3
+I Want You (She's So Heavy)	bad	Abbey Road	12
+I Want You (She's So Heavy)	driving	Abbey Road	12
+I Want You (She's So Heavy)	heavy	Abbey Road	8
+I Want You (She's So Heavy)	mad	Abbey Road	10
+I Want You (She's So Heavy)	na	Abbey Road	2
+I Want You (She's So Heavy)	yeah	Abbey Road	1
+I Will	air	The Beatles (The White Album)	1
+I Will	catch	The Beatles (The White Album)	1
+I Will	easy	The Beatles (The White Album)	1
+I Will	endear	The Beatles (The White Album)	1
+I Will	feel	The Beatles (The White Album)	1
+I Will	fill	The Beatles (The White Album)	1
+I Will	forever	The Beatles (The White Album)	2
+I Will	hear	The Beatles (The White Album)	1
+I Will	heart	The Beatles (The White Album)	1
+I Will	lifetime	The Beatles (The White Album)	1
+I Will	lonely	The Beatles (The White Album)	1
+I Will	loud	The Beatles (The White Album)	1
+I Will	love	The Beatles (The White Album)	5
+I Will	loved	The Beatles (The White Album)	1
+I Will	mattered	The Beatles (The White Album)	1
+I Will	sing	The Beatles (The White Album)	1
+I Will	song	The Beatles (The White Album)	1
+I Will	wait	The Beatles (The White Album)	1
+I'm Looking Through You	ah	Rubber Soul	1
+I'm Looking Through You	baby	Rubber Soul	1
+I'm Looking Through You	changed	Rubber Soul	7
+I'm Looking Through You	difference	Rubber Soul	1
+I'm Looking Through You	disappearing	Rubber Soul	2
+I'm Looking Through You	game	Rubber Soul	1
+I'm Looking Through You	habit	Rubber Soul	2
+I'm Looking Through You	hear	Rubber Soul	1
+I'm Looking Through You	learned	Rubber Soul	1
+I'm Looking Through You	lips	Rubber Soul	1
+I'm Looking Through You	love	Rubber Soul	2
+I'm Looking Through You	moving	Rubber Soul	1
+I'm Looking Through You	nasty	Rubber Soul	2
+I'm Looking Through You	overnight	Rubber Soul	2
+I'm Looking Through You	soothing	Rubber Soul	1
+I'm Looking Through You	sound	Rubber Soul	1
+I'm Looking Through You	thinking	Rubber Soul	1
+I'm Looking Through You	treat	Rubber Soul	2
+I'm Looking Through You	voice	Rubber Soul	1
+I'm Looking Through You	words	Rubber Soul	1
+I'm Looking Through You	yeah	Rubber Soul	2
+I'm Only Sleeping	bed	Revolver	2
+I'm Only Sleeping	ceiling	Revolver	1
+I'm Only Sleeping	crazy	Revolver	1
+I'm Only Sleeping	day	Revolver	2
+I'm Only Sleeping	dream	Revolver	2
+I'm Only Sleeping	eye	Revolver	2
+I'm Only Sleeping	feeling	Revolver	1
+I'm Only Sleeping	float	Revolver	3
+I'm Only Sleeping	head	Revolver	2
+I'm Only Sleeping	keeping	Revolver	2
+I'm Only Sleeping	lazy	Revolver	1
+I'm Only Sleeping	leave	Revolver	2
+I'm Only Sleeping	lift	Revolver	2
+I'm Only Sleeping	lying	Revolver	1
+I'm Only Sleeping	middle	Revolver	2
+I'm Only Sleeping	miles	Revolver	2
+I'm Only Sleeping	mind	Revolver	1
+I'm Only Sleeping	morning	Revolver	2
+I'm Only Sleeping	na	Revolver	1
+I'm Only Sleeping	running	Revolver	1
+I'm Only Sleeping	shake	Revolver	2
+I'm Only Sleeping	sleeping	Revolver	4
+I'm Only Sleeping	sleepy	Revolver	1
+I'm Only Sleeping	speed	Revolver	1
+I'm Only Sleeping	spoil	Revolver	2
+I'm Only Sleeping	staring	Revolver	1
+I'm Only Sleeping	stay	Revolver	2
+I'm Only Sleeping	stream	Revolver	3
+I'm Only Sleeping	taking	Revolver	2
+I'm Only Sleeping	till	Revolver	1
+I'm Only Sleeping	time	Revolver	2
+I'm Only Sleeping	waiting	Revolver	1
+I'm Only Sleeping	wake	Revolver	4
+I'm Only Sleeping	window	Revolver	2
+I'm Only Sleeping	world	Revolver	2
+I'm Only Sleeping	yawning	Revolver	2
+I'm So Tired	blink	The Beatles (The White Album)	1
+I'm So Tired	brain	The Beatles (The White Album)	2
+I'm So Tired	call	The Beatles (The White Album)	1
+I'm So Tired	cigarette	The Beatles (The White Album)	1
+I'm So Tired	curse	The Beatles (The White Album)	1
+I'm So Tired	drink	The Beatles (The White Album)	1
+I'm So Tired	feeling	The Beatles (The White Album)	1
+I'm So Tired	fix	The Beatles (The White Album)	1
+I'm So Tired	git	The Beatles (The White Album)	1
+I'm So Tired	harm	The Beatles (The White Album)	2
+I'm So Tired	insane	The Beatles (The White Album)	2
+I'm So Tired	joke	The Beatles (The White Album)	2
+I'm So Tired	mind	The Beatles (The White Album)	7
+I'm So Tired	monsieur	The Beatles (The White Album)	3
+I'm So Tired	peace	The Beatles (The White Album)	5
+I'm So Tired	putting	The Beatles (The White Album)	2
+I'm So Tired	raleigh	The Beatles (The White Album)	1
+I'm So Tired	set	The Beatles (The White Album)	1
+I'm So Tired	sir	The Beatles (The White Album)	1
+I'm So Tired	sleep	The Beatles (The White Album)	2
+I'm So Tired	slept	The Beatles (The White Album)	1
+I'm So Tired	stop	The Beatles (The White Album)	2
+I'm So Tired	stupid	The Beatles (The White Album)	1
+I'm So Tired	tired	The Beatles (The White Album)	6
+I'm So Tired	upset	The Beatles (The White Album)	1
+I'm So Tired	walter	The Beatles (The White Album)	1
+I'm So Tired	weeks	The Beatles (The White Album)	2
+I'm So Tired	wink	The Beatles (The White Album)	1
+If I Needed Someone	ah	Rubber Soul	6
+If I Needed Someone	call	Rubber Soul	2
+If I Needed Someone	carve	Rubber Soul	2
+If I Needed Someone	day	Rubber Soul	2
+If I Needed Someone	friend	Rubber Soul	2
+If I Needed Someone	guess	Rubber Soul	2
+If I Needed Someone	love	Rubber Soul	3
+If I Needed Someone	spend	Rubber Soul	2
+If I Needed Someone	thinking	Rubber Soul	1
+If I Needed Someone	time	Rubber Soul	2
+If I Needed Someone	wall	Rubber Soul	2
+In My Life	affection	Rubber Soul	2
+In My Life	changed	Rubber Soul	1
+In My Life	compares	Rubber Soul	1
+In My Life	dead	Rubber Soul	1
+In My Life	forever	Rubber Soul	1
+In My Life	friends	Rubber Soul	2
+In My Life	life	Rubber Soul	5
+In My Life	living	Rubber Soul	1
+In My Life	lose	Rubber Soul	3
+In My Life	love	Rubber Soul	4
+In My Life	loved	Rubber Soul	1
+In My Life	lovers	Rubber Soul	2
+In My Life	meaning	Rubber Soul	1
+In My Life	memories	Rubber Soul	1
+In My Life	moments	Rubber Soul	1
+In My Life	na	Rubber Soul	1
+In My Life	people	Rubber Soul	2
+In My Life	recall	Rubber Soul	1
+In My Life	remain	Rubber Soul	1
+In My Life	remember	Rubber Soul	1
+In My Life	stop	Rubber Soul	2
+Julia	calls	The Beatles (The White Album)	3
+Julia	child	The Beatles (The White Album)	1
+Julia	cloud	The Beatles (The White Album)	1
+Julia	eyes	The Beatles (The White Album)	1
+Julia	floating	The Beatles (The White Album)	1
+Julia	glimmering	The Beatles (The White Album)	1
+Julia	hair	The Beatles (The White Album)	1
+Julia	half	The Beatles (The White Album)	1
+Julia	heart	The Beatles (The White Album)	1
+Julia	hmm	The Beatles (The White Album)	3
+Julia	julia	The Beatles (The White Album)	15
+Julia	love	The Beatles (The White Album)	5
+Julia	meaningless	The Beatles (The White Album)	1
+Julia	mind	The Beatles (The White Album)	1
+Julia	moon	The Beatles (The White Album)	1
+Julia	morning	The Beatles (The White Album)	1
+Julia	ocean	The Beatles (The White Album)	1
+Julia	reach	The Beatles (The White Album)	1
+Julia	sand	The Beatles (The White Album)	1
+Julia	seashell	The Beatles (The White Album)	1
+Julia	shimmering	The Beatles (The White Album)	1
+Julia	silent	The Beatles (The White Album)	1
+Julia	sing	The Beatles (The White Album)	6
+Julia	sky	The Beatles (The White Album)	1
+Julia	sleeping	The Beatles (The White Album)	1
+Julia	smile	The Beatles (The White Album)	1
+Julia	song	The Beatles (The White Album)	5
+Julia	speak	The Beatles (The White Album)	1
+Julia	sun	The Beatles (The White Album)	1
+Julia	touch	The Beatles (The White Album)	2
+Julia	windy	The Beatles (The White Album)	1
+Long, Long, Long	found	The Beatles (The White Album)	1
+Long, Long, Long	happy	The Beatles (The White Album)	1
+Long, Long, Long	lost	The Beatles (The White Album)	1
+Long, Long, Long	love	The Beatles (The White Album)	3
+Long, Long, Long	loved	The Beatles (The White Album)	1
+Long, Long, Long	misplace	The Beatles (The White Album)	1
+Long, Long, Long	searching	The Beatles (The White Album)	1
+Long, Long, Long	tears	The Beatles (The White Album)	2
+Long, Long, Long	time	The Beatles (The White Album)	2
+Long, Long, Long	wasting	The Beatles (The White Album)	1
+Love You To	bought	Revolver	1
+Love You To	day	Revolver	3
+Love You To	dead	Revolver	1
+Love You To	fast	Revolver	1
+Love You To	fill	Revolver	1
+Love You To	ground	Revolver	1
+Love You To	hang	Revolver	1
+Love You To	lifetime	Revolver	1
+Love You To	lot	Revolver	1
+Love You To	love	Revolver	6
+Love You To	means	Revolver	1
+Love You To	na	Revolver	1
+Love You To	past	Revolver	1
+Love You To	people	Revolver	1
+Love You To	round	Revolver	1
+Love You To	screw	Revolver	1
+Love You To	short	Revolver	1
+Love You To	sign	Revolver	1
+Love You To	singing	Revolver	2
+Love You To	sins	Revolver	1
+Love You To	songs	Revolver	2
+Love You To	standing	Revolver	1
+Love You To	time	Revolver	1
+Love You To	who'll	Revolver	1
+Lovely Rita	ah	Sgt. Pepper's Lonely Hearts Club Band	18
+Lovely Rita	ahh	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	bag	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	bill	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	book	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	cap	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	caught	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	da	Sgt. Pepper's Lonely Hearts Club Band	16
+Lovely Rita	dark	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	dinner	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	discreetly	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	filling	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	free	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	glimpse	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	heart	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	home	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	inquire	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	laugh	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	looked	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	lovely	Sgt. Pepper's Lonely Hearts Club Band	13
+Lovely Rita	maid	Sgt. Pepper's Lonely Hearts Club Band	13
+Lovely Rita	meter	Sgt. Pepper's Lonely Hearts Club Band	14
+Lovely Rita	military	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	na	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	paid	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	parking	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	rita	Sgt. Pepper's Lonely Hearts Club Band	16
+Lovely Rita	shoulder	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	sister	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	sitting	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	sofa	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	standing	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	tea	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	ticket	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	told	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	tow	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	white	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	win	Sgt. Pepper's Lonely Hearts Club Band	1
+Lovely Rita	wink	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	ahh	Sgt. Pepper's Lonely Hearts Club Band	5
+Lucy in the Sky with Diamonds	answer	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	boat	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	bridge	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	calls	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	cellophane	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	climb	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	clouds	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	diamonds	Sgt. Pepper's Lonely Hearts Club Band	15
+Lucy in the Sky with Diamonds	drift	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	eat	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	eyes	Sgt. Pepper's Lonely Hearts Club Band	3
+Lucy in the Sky with Diamonds	flowers	Sgt. Pepper's Lonely Hearts Club Band	2
+Lucy in the Sky with Diamonds	follow	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	fountain	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	girl	Sgt. Pepper's Lonely Hearts Club Band	3
+Lucy in the Sky with Diamonds	glass	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	green	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	grow	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	head	Sgt. Pepper's Lonely Hearts Club Band	2
+Lucy in the Sky with Diamonds	horse	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	incredibly	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	kaleidoscope	Sgt. Pepper's Lonely Hearts Club Band	2
+Lucy in the Sky with Diamonds	lucy	Sgt. Pepper's Lonely Hearts Club Band	15
+Lucy in the Sky with Diamonds	marmalade	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	marshmallow	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	newspaper	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	past	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	people	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	picture	Sgt. Pepper's Lonely Hearts Club Band	2
+Lucy in the Sky with Diamonds	pies	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	plasticine	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	porters	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	river	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	rocking	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	shore	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	skies	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	sky	Sgt. Pepper's Lonely Hearts Club Band	15
+Lucy in the Sky with Diamonds	slowly	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	smiles	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	station	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	suddenly	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	sun	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	tangerine	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	taxis	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	ties	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	towering	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	train	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	trees	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	turnstile	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	waiting	Sgt. Pepper's Lonely Hearts Club Band	1
+Lucy in the Sky with Diamonds	yellow	Sgt. Pepper's Lonely Hearts Club Band	1
+Martha My Dear	bit	The Beatles (The White Album)	2
+Martha My Dear	bound	The Beatles (The White Album)	1
+Martha My Dear	conversation	The Beatles (The White Album)	1
+Martha My Dear	days	The Beatles (The White Album)	1
+Martha My Dear	dear	The Beatles (The White Album)	4
+Martha My Dear	forget	The Beatles (The White Album)	2
+Martha My Dear	girl	The Beatles (The White Album)	5
+Martha My Dear	hand	The Beatles (The White Album)	1
+Martha My Dear	head	The Beatles (The White Album)	1
+Martha My Dear	hold	The Beatles (The White Album)	2
+Martha My Dear	inspiration	The Beatles (The White Album)	1
+Martha My Dear	love	The Beatles (The White Album)	2
+Martha My Dear	martha	The Beatles (The White Album)	6
+Martha My Dear	meant	The Beatles (The White Album)	1
+Martha My Dear	na	The Beatles (The White Album)	2
+Martha My Dear	remember	The Beatles (The White Album)	1
+Martha My Dear	silly	The Beatles (The White Album)	5
+Martha My Dear	spend	The Beatles (The White Album)	1
+Martha My Dear	thick	The Beatles (The White Album)	2
+Maxwell's Silver Hammer	31	Abbey Road	1
+Maxwell's Silver Hammer	50	Abbey Road	1
+Maxwell's Silver Hammer	agree	Abbey Road	1
+Maxwell's Silver Hammer	annoyed	Abbey Road	1
+Maxwell's Silver Hammer	avoid	Abbey Road	1
+Maxwell's Silver Hammer	bang	Abbey Road	6
+Maxwell's Silver Hammer	boy	Abbey Road	1
+Maxwell's Silver Hammer	calls	Abbey Road	1
+Maxwell's Silver Hammer	caught	Abbey Road	1
+Maxwell's Silver Hammer	clang	Abbey Road	6
+Maxwell's Silver Hammer	class	Abbey Road	1
+Maxwell's Silver Hammer	creeps	Abbey Road	1
+Maxwell's Silver Hammer	dead	Abbey Road	3
+Maxwell's Silver Hammer	dirty	Abbey Road	1
+Maxwell's Silver Hammer	door	Abbey Road	1
+Maxwell's Silver Hammer	edison	Abbey Road	1
+Maxwell's Silver Hammer	ene	Abbey Road	1
+Maxwell's Silver Hammer	fool	Abbey Road	1
+Maxwell's Silver Hammer	free	Abbey Road	2
+Maxwell's Silver Hammer	gallery	Abbey Road	1
+Maxwell's Silver Hammer	hammer	Abbey Road	7
+Maxwell's Silver Hammer	head	Abbey Road	3
+Maxwell's Silver Hammer	home	Abbey Road	1
+Maxwell's Silver Hammer	joa	Abbey Road	1
+Maxwell's Silver Hammer	joan	Abbey Road	1
+Maxwell's Silver Hammer	judge	Abbey Road	1
+Maxwell's Silver Hammer	knock	Abbey Road	1
+Maxwell's Silver Hammer	late	Abbey Road	1
+Maxwell's Silver Hammer	leaving	Abbey Road	1
+Maxwell's Silver Hammer	lips	Abbey Road	1
+Maxwell's Silver Hammer	majoring	Abbey Road	1
+Maxwell's Silver Hammer	max	Abbey Road	1
+Maxwell's Silver Hammer	maxwell	Abbey Road	4
+Maxwell's Silver Hammer	maxwell's	Abbey Road	6
+Maxwell's Silver Hammer	medicine	Abbey Road	1
+Maxwell's Silver Hammer	nights	Abbey Road	1
+Maxwell's Silver Hammer	noise	Abbey Road	1
+Maxwell's Silver Hammer	oa	Abbey Road	3
+Maxwell's Silver Hammer	oan	Abbey Road	1
+Maxwell's Silver Hammer	obut	Abbey Road	1
+Maxwell's Silver Hammer	painting	Abbey Road	1
+Maxwell's Silver Hammer	pataphysical	Abbey Road	1
+Maxwell's Silver Hammer	phone	Abbey Road	1
+Maxwell's Silver Hammer	pictures	Abbey Road	2
+Maxwell's Silver Hammer	plays	Abbey Road	1
+Maxwell's Silver Hammer	quizzical	Abbey Road	1
+Maxwell's Silver Hammer	ready	Abbey Road	1
+Maxwell's Silver Hammer	rose	Abbey Road	1
+Maxwell's Silver Hammer	sce	Abbey Road	1
+Maxwell's Silver Hammer	school	Abbey Road	1
+Maxwell's Silver Hammer	science	Abbey Road	1
+Maxwell's Silver Hammer	screaming	Abbey Road	1
+Maxwell's Silver Hammer	silver	Abbey Road	7
+Maxwell's Silver Hammer	stands	Abbey Road	1
+Maxwell's Silver Hammer	stay	Abbey Road	1
+Maxwell's Silver Hammer	studied	Abbey Road	1
+Maxwell's Silver Hammer	teacher	Abbey Road	1
+Maxwell's Silver Hammer	tells	Abbey Road	2
+Maxwell's Silver Hammer	test	Abbey Road	1
+Maxwell's Silver Hammer	testimonial	Abbey Road	1
+Maxwell's Silver Hammer	times	Abbey Road	1
+Maxwell's Silver Hammer	tube	Abbey Road	1
+Maxwell's Silver Hammer	unpleasant	Abbey Road	1
+Maxwell's Silver Hammer	valerie	Abbey Road	1
+Maxwell's Silver Hammer	waits	Abbey Road	1
+Maxwell's Silver Hammer	whoa	Abbey Road	3
+Maxwell's Silver Hammer	wishing	Abbey Road	1
+Maxwell's Silver Hammer	words	Abbey Road	1
+Maxwell's Silver Hammer	writing	Abbey Road	1
+Mean Mr. Mustard	bob	Abbey Road	1
+Mean Mr. Mustard	buy	Abbey Road	1
+Mean Mr. Mustard	clothes	Abbey Road	1
+Mean Mr. Mustard	dark	Abbey Road	1
+Mean Mr. Mustard	dirty	Abbey Road	2
+Mean Mr. Mustard	getter	Abbey Road	1
+Mean Mr. Mustard	hole	Abbey Road	1
+Mean Mr. Mustard	mister	Abbey Road	1
+Mean Mr. Mustard	mustard	Abbey Road	1
+Mean Mr. Mustard	nose	Abbey Road	1
+Mean Mr. Mustard	note	Abbey Road	1
+Mean Mr. Mustard	obscene	Abbey Road	1
+Mean Mr. Mustard	pam	Abbey Road	1
+Mean Mr. Mustard	paper	Abbey Road	1
+Mean Mr. Mustard	park	Abbey Road	1
+Mean Mr. Mustard	queen	Abbey Road	1
+Mean Mr. Mustard	road	Abbey Road	1
+Mean Mr. Mustard	save	Abbey Road	1
+Mean Mr. Mustard	saving	Abbey Road	1
+Mean Mr. Mustard	shaves	Abbey Road	1
+Mean Mr. Mustard	shop	Abbey Road	1
+Mean Mr. Mustard	shouts	Abbey Road	1
+Mean Mr. Mustard	sister	Abbey Road	1
+Mean Mr. Mustard	sleeps	Abbey Road	2
+Mean Mr. Mustard	stops	Abbey Road	1
+Mean Mr. Mustard	takes	Abbey Road	1
+Mean Mr. Mustard	ten	Abbey Road	1
+Michelle	belle	Rubber Soul	4
+Michelle	bien	Rubber Soul	6
+Michelle	des	Rubber Soul	3
+Michelle	ensemble	Rubber Soul	6
+Michelle	hoping	Rubber Soul	1
+Michelle	love	Rubber Soul	4
+Michelle	ma	Rubber Soul	4
+Michelle	michelle	Rubber Soul	6
+Michelle	mots	Rubber Soul	3
+Michelle	na	Rubber Soul	1
+Michelle	qui	Rubber Soul	3
+Michelle	sont	Rubber Soul	3
+Michelle	telling	Rubber Soul	1
+Michelle	très	Rubber Soul	6
+Michelle	understand	Rubber Soul	3
+Michelle	vont	Rubber Soul	3
+Michelle	words	Rubber Soul	3
+Mother Nature's Son	beneath	The Beatles (The White Album)	1
+Mother Nature's Son	born	The Beatles (The White Album)	1
+Mother Nature's Son	boy	The Beatles (The White Album)	1
+Mother Nature's Son	country	The Beatles (The White Album)	1
+Mother Nature's Son	daisies	The Beatles (The White Album)	1
+Mother Nature's Son	day	The Beatles (The White Album)	1
+Mother Nature's Son	field	The Beatles (The White Album)	1
+Mother Nature's Son	flies	The Beatles (The White Album)	1
+Mother Nature's Son	grass	The Beatles (The White Album)	1
+Mother Nature's Son	lazy	The Beatles (The White Album)	1
+Mother Nature's Son	listen	The Beatles (The White Album)	1
+Mother Nature's Son	mother	The Beatles (The White Album)	3
+Mother Nature's Son	mountain	The Beatles (The White Album)	1
+Mother Nature's Son	music	The Beatles (The White Album)	1
+Mother Nature's Son	nature's	The Beatles (The White Album)	3
+Mother Nature's Son	poor	The Beatles (The White Album)	1
+Mother Nature's Son	pretty	The Beatles (The White Album)	1
+Mother Nature's Son	rise	The Beatles (The White Album)	1
+Mother Nature's Son	sing	The Beatles (The White Album)	1
+Mother Nature's Son	singing	The Beatles (The White Album)	1
+Mother Nature's Son	sit	The Beatles (The White Album)	1
+Mother Nature's Son	sitting	The Beatles (The White Album)	1
+Mother Nature's Son	son	The Beatles (The White Album)	3
+Mother Nature's Son	song	The Beatles (The White Album)	1
+Mother Nature's Son	songs	The Beatles (The White Album)	1
+Mother Nature's Son	sound	The Beatles (The White Album)	1
+Mother Nature's Son	stream	The Beatles (The White Album)	1
+Mother Nature's Son	sun	The Beatles (The White Album)	1
+Mother Nature's Son	swaying	The Beatles (The White Album)	1
+Mother Nature's Son	waters	The Beatles (The White Album)	1
+Norwegian Wood (This Bird Has Flown)	awoke	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	bath	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	bed	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	biding	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	bird	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	chair	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	crawled	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	drinking	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	fire	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	flown	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	girl	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	laugh	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	lit	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	looked	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	morning	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	norwegian	Rubber Soul	2
+Norwegian Wood (This Bird Has Flown)	noticed	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	rug	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	sat	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	sit	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	sleep	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	started	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	stay	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	talked	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	time	Rubber Soul	2
+Norwegian Wood (This Bird Has Flown)	told	Rubber Soul	3
+Norwegian Wood (This Bird Has Flown)	wine	Rubber Soul	1
+Norwegian Wood (This Bird Has Flown)	wood	Rubber Soul	2
+Nowhere Man	bit	Rubber Soul	2
+Nowhere Man	blind	Rubber Soul	1
+Nowhere Man	command	Rubber Soul	2
+Nowhere Man	hand	Rubber Soul	1
+Nowhere Man	hurry	Rubber Soul	1
+Nowhere Man	land	Rubber Soul	2
+Nowhere Man	leave	Rubber Soul	1
+Nowhere Man	lends	Rubber Soul	1
+Nowhere Man	listen	Rubber Soul	2
+Nowhere Man	missing	Rubber Soul	2
+Nowhere Man	plans	Rubber Soul	4
+Nowhere Man	real	Rubber Soul	2
+Nowhere Man	sitting	Rubber Soul	2
+Nowhere Man	till	Rubber Soul	1
+Nowhere Man	time	Rubber Soul	1
+Nowhere Man	view	Rubber Soul	2
+Nowhere Man	world	Rubber Soul	2
+Nowhere Man	worry	Rubber Soul	1
+Ob-La-Di, Ob-La-Da	ahhh	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	arm	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	band	The Beatles (The White Album)	3
+Ob-La-Di, Ob-La-Da	barrow	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	begins	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	bla	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	brah	The Beatles (The White Album)	8
+Ob-La-Di, Ob-La-Da	built	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	buys	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	carat	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	children	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	chu	The Beatles (The White Album)	3
+Ob-La-Di, Ob-La-Da	couple	The Beatles (The White Album)	4
+Ob-La-Di, Ob-La-Da	da	The Beatles (The White Album)	9
+Ob-La-Di, Ob-La-Da	desmond	The Beatles (The White Album)	7
+Ob-La-Di, Ob-La-Da	di	The Beatles (The White Album)	9
+Ob-La-Di, Ob-La-Da	door	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	evening	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	foot	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	fun	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	girl	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	golden	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	ha	The Beatles (The White Album)	10
+Ob-La-Di, Ob-La-Da	hand	The Beatles (The White Album)	3
+Ob-La-Di, Ob-La-Da	happy	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	heh	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	home	The Beatles (The White Album)	6
+Ob-La-Di, Ob-La-Da	jeweler's	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	jones	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	kids	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	la	The Beatles (The White Album)	33
+Ob-La-Di, Ob-La-Da	leg	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	lend	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	life	The Beatles (The White Album)	16
+Ob-La-Di, Ob-La-Da	market	The Beatles (The White Album)	3
+Ob-La-Di, Ob-La-Da	molly	The Beatles (The White Album)	8
+Ob-La-Di, Ob-La-Da	ob	The Beatles (The White Album)	17
+Ob-La-Di, Ob-La-Da	pretty	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	ring	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	running	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	sing	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	singer	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	sings	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	stays	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	store	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	sweet	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	takes	The Beatles (The White Album)	3
+Ob-La-Di, Ob-La-Da	trolley	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	twenty	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	waiting	The Beatles (The White Album)	1
+Ob-La-Di, Ob-La-Da	yard	The Beatles (The White Album)	2
+Ob-La-Di, Ob-La-Da	yeah	The Beatles (The White Album)	5
+Octopus's Garden	bed	Abbey Road	1
+Octopus's Garden	beneath	Abbey Road	3
+Octopus's Garden	boy	Abbey Road	1
+Octopus's Garden	cave	Abbey Road	1
+Octopus's Garden	coral	Abbey Road	1
+Octopus's Garden	dance	Abbey Road	1
+Octopus's Garden	found	Abbey Road	1
+Octopus's Garden	friends	Abbey Road	1
+Octopus's Garden	garden	Abbey Road	9
+Octopus's Garden	girl	Abbey Road	1
+Octopus's Garden	happy	Abbey Road	3
+Octopus's Garden	head	Abbey Road	1
+Octopus's Garden	hide	Abbey Road	1
+Octopus's Garden	joy	Abbey Road	1
+Octopus's Garden	knowing	Abbey Road	1
+Octopus's Garden	lies	Abbey Road	2
+Octopus's Garden	na	Abbey Road	1
+Octopus's Garden	ocean	Abbey Road	1
+Octopus's Garden	octopus's	Abbey Road	9
+Octopus's Garden	resting	Abbey Road	1
+Octopus's Garden	safe	Abbey Road	2
+Octopus's Garden	sea	Abbey Road	5
+Octopus's Garden	shade	Abbey Road	4
+Octopus's Garden	shout	Abbey Road	1
+Octopus's Garden	sing	Abbey Road	1
+Octopus's Garden	storm	Abbey Road	1
+Octopus's Garden	swim	Abbey Road	1
+Octopus's Garden	warm	Abbey Road	1
+Octopus's Garden	waves	Abbey Road	3
+Oh! Darling	anymore	Abbey Road	4
+Oh! Darling	beg	Abbey Road	1
+Oh! Darling	broke	Abbey Road	2
+Oh! Darling	cried	Abbey Road	2
+Oh! Darling	darling	Abbey Road	6
+Oh! Darling	died	Abbey Road	2
+Oh! Darling	fell	Abbey Road	2
+Oh! Darling	harm	Abbey Road	4
+Oh! Darling	leave	Abbey Road	3
+Oh! Darling	told	Abbey Road	4
+Oh! Darling	woo	Abbey Road	1
+Oh! Darling	wooo	Abbey Road	1
+Piggies	bacon	The Beatles (The White Album)	1
+Piggies	bigger	The Beatles (The White Album)	2
+Piggies	care	The Beatles (The White Album)	1
+Piggies	clean	The Beatles (The White Album)	1
+Piggies	clutching	The Beatles (The White Album)	1
+Piggies	crawling	The Beatles (The White Album)	1
+Piggies	damn	The Beatles (The White Album)	1
+Piggies	dinner	The Beatles (The White Album)	1
+Piggies	dirt	The Beatles (The White Album)	3
+Piggies	eat	The Beatles (The White Album)	1
+Piggies	forks	The Beatles (The White Album)	1
+Piggies	knives	The Beatles (The White Album)	1
+Piggies	lacking	The Beatles (The White Album)	1
+Piggies	life	The Beatles (The White Album)	2
+Piggies	lives	The Beatles (The White Album)	1
+Piggies	living	The Beatles (The White Album)	1
+Piggies	lots	The Beatles (The White Album)	1
+Piggies	need's	The Beatles (The White Album)	1
+Piggies	piggies	The Beatles (The White Album)	5
+Piggies	piggy	The Beatles (The White Album)	2
+Piggies	play	The Beatles (The White Album)	2
+Piggies	shirts	The Beatles (The White Album)	2
+Piggies	starched	The Beatles (The White Album)	1
+Piggies	sties	The Beatles (The White Album)	1
+Piggies	stirring	The Beatles (The White Album)	1
+Piggies	time	The Beatles (The White Album)	1
+Piggies	whacking	The Beatles (The White Album)	1
+Piggies	white	The Beatles (The White Album)	1
+Piggies	wives	The Beatles (The White Album)	1
+Piggies	worse	The Beatles (The White Album)	1
+Polythene Pam	attractively	Abbey Road	1
+Polythene Pam	bag	Abbey Road	1
+Polythene Pam	built	Abbey Road	1
+Polythene Pam	diller	Abbey Road	1
+Polythene Pam	dose	Abbey Road	1
+Polythene Pam	drag	Abbey Road	1
+Polythene Pam	dressed	Abbey Road	2
+Polythene Pam	girl	Abbey Road	1
+Polythene Pam	hey	Abbey Road	1
+Polythene Pam	hilt	Abbey Road	1
+Polythene Pam	jackboots	Abbey Road	1
+Polythene Pam	killer	Abbey Road	1
+Polythene Pam	kilt	Abbey Road	1
+Polythene Pam	makes	Abbey Road	1
+Polythene Pam	news	Abbey Road	1
+Polythene Pam	pam	Abbey Road	2
+Polythene Pam	polythene	Abbey Road	3
+Polythene Pam	world	Abbey Road	1
+Polythene Pam	yeah	Abbey Road	6
+Revolution 1	brother	The Beatles (The White Album)	1
+Revolution 1	carrying	The Beatles (The White Album)	1
+Revolution 1	chairman	The Beatles (The White Album)	1
+Revolution 1	change	The Beatles (The White Album)	4
+Revolution 1	constitution	The Beatles (The White Album)	1
+Revolution 1	contribution	The Beatles (The White Album)	1
+Revolution 1	count	The Beatles (The White Album)	1
+Revolution 1	destruction	The Beatles (The White Album)	1
+Revolution 1	evolution	The Beatles (The White Album)	1
+Revolution 1	free	The Beatles (The White Album)	1
+Revolution 1	gonna	The Beatles (The White Album)	10
+Revolution 1	hate	The Beatles (The White Album)	1
+Revolution 1	head	The Beatles (The White Album)	1
+Revolution 1	institution	The Beatles (The White Album)	1
+Revolution 1	love	The Beatles (The White Album)	2
+Revolution 1	mao	The Beatles (The White Album)	1
+Revolution 1	mind	The Beatles (The White Album)	1
+Revolution 1	minds	The Beatles (The White Album)	1
+Revolution 1	money	The Beatles (The White Album)	1
+Revolution 1	people	The Beatles (The White Album)	1
+Revolution 1	pictures	The Beatles (The White Album)	1
+Revolution 1	plan	The Beatles (The White Album)	1
+Revolution 1	real	The Beatles (The White Album)	1
+Revolution 1	revolution	The Beatles (The White Album)	1
+Revolution 1	solution	The Beatles (The White Album)	1
+Revolution 1	talk	The Beatles (The White Album)	1
+Revolution 1	wait	The Beatles (The White Album)	1
+Revolution 1	wanna	The Beatles (The White Album)	2
+Revolution 1	world	The Beatles (The White Album)	2
+Revolution 9 (Ft. Yoko Ono)	9	The Beatles (The White Album)	100
+Revolution 9 (Ft. Yoko Ono)	aaah	The Beatles (The White Album)	2
+Revolution 9 (Ft. Yoko Ono)	aha	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	alright	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	bark	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	beard	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	birding	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	birds	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	bit	The Beatles (The White Album)	2
+Revolution 9 (Ft. Yoko Ono)	bitch	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	blades	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	block	The Beatles (The White Album)	4
+Revolution 9 (Ft. Yoko Ono)	bloody	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	bottle	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	broken	The Beatles (The White Album)	2
+Revolution 9 (Ft. Yoko Ono)	brother	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	brought	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	brown	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	building	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	business	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	called	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	chair	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	cheeky	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	clapping	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	claret	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	compared	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	cuts	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	da	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	days	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	deal	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	dee	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	dentist	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	diddly	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	difficult	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	district	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	doctors	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	dogging	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	dogs	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	dorado	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	el	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	exposure	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	eyes	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	falls	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	false	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	father's	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	financial	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	fish	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	fishing	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	floral	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	forgive	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	forgotten	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	fortune	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	function	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	george	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	giving	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	grain	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	hair	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	hands	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	headmaster	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	hertfordshire	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	hive	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	hold	The Beatles (The White Album)	2
+Revolution 9 (Ft. Yoko Ono)	imbalance	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	industrial	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	informed	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	intended	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	join	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	kick	The Beatles (The White Album)	4
+Revolution 9 (Ft. Yoko Ono)	late	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	leaving	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	line	The Beatles (The White Album)	2
+Revolution 9 (Ft. Yoko Ono)	low	The Beatles (The White Album)	2
+Revolution 9 (Ft. Yoko Ono)	makes	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	manufactured	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	marry	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	missed	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	mmmyes	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	mood	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	naked	The Beatles (The White Album)	2
+Revolution 9 (Ft. Yoko Ono)	navy	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	night	The Beatles (The White Album)	2
+Revolution 9 (Ft. Yoko Ono)	nobody's	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	onion	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	ooh	The Beatles (The White Album)	3
+Revolution 9 (Ft. Yoko Ono)	output	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	pair	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	pay	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	peace	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	presence	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	price	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	quick	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	rarebit	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	realised	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	reported	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	road	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	rogue	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	rush	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	sea	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	serve	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	short	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	shortage	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	shoulder	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	situation	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	slower	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	son	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	soup	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	specimen	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	standing	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	stuff	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	surgeon	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	sustained	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	taking	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	teeth	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	telegram	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	terrors	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	themming	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	thrusting	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	time	The Beatles (The White Album)	3
+Revolution 9 (Ft. Yoko Ono)	twist	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	um	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	umpteen	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	unaware	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	underclothes	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	underpants	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	voice	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	watchman	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	watusi	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	wearing	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	weird	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	welsh	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	whimming	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	whirling	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	wife	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	wings	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	worse	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	wow	The Beatles (The White Album)	1
+Revolution 9 (Ft. Yoko Ono)	yellow	The Beatles (The White Album)	1
+Rocky Raccoon	bible	The Beatles (The White Album)	2
+Rocky Raccoon	black	The Beatles (The White Album)	1
+Rocky Raccoon	booked	The Beatles (The White Album)	1
+Rocky Raccoon	boy	The Beatles (The White Album)	5
+Rocky Raccoon	broken	The Beatles (The White Album)	1
+Rocky Raccoon	burst	The Beatles (The White Album)	1
+Rocky Raccoon	called	The Beatles (The White Album)	2
+Rocky Raccoon	checked	The Beatles (The White Album)	2
+Rocky Raccoon	collapsed	The Beatles (The White Album)	1
+Rocky Raccoon	corner	The Beatles (The White Album)	1
+Rocky Raccoon	dakotathere	The Beatles (The White Album)	1
+Rocky Raccoon	dan	The Beatles (The White Album)	1
+Rocky Raccoon	daniel	The Beatles (The White Album)	1
+Rocky Raccoon	danny	The Beatles (The White Album)	1
+Rocky Raccoon	day	The Beatles (The White Album)	2
+Rocky Raccoon	doc	The Beatles (The White Album)	2
+Rocky Raccoon	doctor	The Beatles (The White Album)	1
+Rocky Raccoon	doubt	The Beatles (The White Album)	1
+Rocky Raccoon	dreams	The Beatles (The White Album)	1
+Rocky Raccoon	drew	The Beatles (The White Album)	1
+Rocky Raccoon	equipped	The Beatles (The White Album)	1
+Rocky Raccoon	eye	The Beatles (The White Album)	1
+Rocky Raccoon	fancy	The Beatles (The White Album)	1
+Rocky Raccoon	fell	The Beatles (The White Album)	1
+Rocky Raccoon	gideon	The Beatles (The White Album)	1
+Rocky Raccoon	gideon's	The Beatles (The White Album)	2
+Rocky Raccoon	gin	The Beatles (The White Album)	1
+Rocky Raccoon	girl	The Beatles (The White Album)	1
+Rocky Raccoon	gonna	The Beatles (The White Album)	1
+Rocky Raccoon	grin	The Beatles (The White Album)	1
+Rocky Raccoon	grinning	The Beatles (The White Album)	1
+Rocky Raccoon	gun	The Beatles (The White Album)	1
+Rocky Raccoon	guy	The Beatles (The White Album)	1
+Rocky Raccoon	hills	The Beatles (The White Album)	1
+Rocky Raccoon	hit	The Beatles (The White Album)	1
+Rocky Raccoon	hoe	The Beatles (The White Album)	1
+Rocky Raccoon	hot	The Beatles (The White Album)	1
+Rocky Raccoon	left	The Beatles (The White Album)	1
+Rocky Raccoon	legs	The Beatles (The White Album)	1
+Rocky Raccoon	lie	The Beatles (The White Album)	1
+Rocky Raccoon	lil	The Beatles (The White Album)	1
+Rocky Raccoon	lived	The Beatles (The White Album)	1
+Rocky Raccoon	local	The Beatles (The White Album)	1
+Rocky Raccoon	magill	The Beatles (The White Album)	1
+Rocky Raccoon	match	The Beatles (The White Album)	1
+Rocky Raccoon	met	The Beatles (The White Album)	1
+Rocky Raccoon	mining	The Beatles (The White Album)	1
+Rocky Raccoon	na	The Beatles (The White Album)	1
+Rocky Raccoon	named	The Beatles (The White Album)	1
+Rocky Raccoon	nancy	The Beatles (The White Album)	1
+Rocky Raccoon	proceeded	The Beatles (The White Album)	1
+Rocky Raccoon	raccoon	The Beatles (The White Album)	3
+Rocky Raccoon	ran	The Beatles (The White Album)	1
+Rocky Raccoon	revival	The Beatles (The White Album)	1
+Rocky Raccoon	rival	The Beatles (The White Album)	2
+Rocky Raccoon	rocky	The Beatles (The White Album)	12
+Rocky Raccoon	rocky's	The Beatles (The White Album)	1
+Rocky Raccoon	saloon	The Beatles (The White Album)	1
+Rocky Raccoon	scratch	The Beatles (The White Album)	1
+Rocky Raccoon	shoot	The Beatles (The White Album)	1
+Rocky Raccoon	shot	The Beatles (The White Album)	1
+Rocky Raccoon	showdown	The Beatles (The White Album)	1
+Rocky Raccoon	stealing	The Beatles (The White Album)	1
+Rocky Raccoon	stinking	The Beatles (The White Album)	1
+Rocky Raccoon	table	The Beatles (The White Album)	1
+Rocky Raccoon	town	The Beatles (The White Album)	1
+Rocky Raccoon	walked	The Beatles (The White Album)	1
+Rocky Raccoon	woman	The Beatles (The White Album)	1
+Run for Your Life	baby	Rubber Soul	1
+Run for Your Life	born	Rubber Soul	1
+Run for Your Life	catch	Rubber Soul	4
+Run for Your Life	dead	Rubber Soul	3
+Run for Your Life	determined	Rubber Soul	1
+Run for Your Life	girl	Rubber Soul	16
+Run for Your Life	guy	Rubber Soul	1
+Run for Your Life	head	Rubber Soul	6
+Run for Your Life	hide	Rubber Soul	4
+Run for Your Life	jealous	Rubber Soul	1
+Run for Your Life	life	Rubber Soul	5
+Run for Your Life	line	Rubber Soul	1
+Run for Your Life	mind	Rubber Soul	1
+Run for Your Life	na	Rubber Soul	12
+Run for Your Life	run	Rubber Soul	4
+Run for Your Life	sand	Rubber Soul	4
+Run for Your Life	sermon	Rubber Soul	1
+Run for Your Life	spend	Rubber Soul	1
+Run for Your Life	toe	Rubber Soul	1
+Run for Your Life	wicked	Rubber Soul	1
+Savoy Truffle	aloud	The Beatles (The White Album)	1
+Savoy Truffle	apple	The Beatles (The White Album)	1
+Savoy Truffle	bla	The Beatles (The White Album)	1
+Savoy Truffle	blows	The Beatles (The White Album)	1
+Savoy Truffle	blues	The Beatles (The White Album)	1
+Savoy Truffle	cherry	The Beatles (The White Album)	1
+Savoy Truffle	coconut	The Beatles (The White Album)	1
+Savoy Truffle	coffee	The Beatles (The White Album)	2
+Savoy Truffle	cool	The Beatles (The White Album)	1
+Savoy Truffle	cream	The Beatles (The White Album)	1
+Savoy Truffle	creme	The Beatles (The White Album)	2
+Savoy Truffle	cuts	The Beatles (The White Album)	1
+Savoy Truffle	da	The Beatles (The White Album)	1
+Savoy Truffle	dessert	The Beatles (The White Album)	2
+Savoy Truffle	di	The Beatles (The White Album)	1
+Savoy Truffle	eat	The Beatles (The White Album)	1
+Savoy Truffle	feel	The Beatles (The White Album)	2
+Savoy Truffle	fill	The Beatles (The White Album)	1
+Savoy Truffle	fudge	The Beatles (The White Album)	1
+Savoy Truffle	ginger	The Beatles (The White Album)	2
+Savoy Truffle	head	The Beatles (The White Album)	1
+Savoy Truffle	heart	The Beatles (The White Album)	2
+Savoy Truffle	la	The Beatles (The White Album)	1
+Savoy Truffle	montelimar	The Beatles (The White Album)	2
+Savoy Truffle	na	The Beatles (The White Album)	1
+Savoy Truffle	news	The Beatles (The White Album)	2
+Savoy Truffle	nice	The Beatles (The White Album)	1
+Savoy Truffle	ob	The Beatles (The White Album)	1
+Savoy Truffle	pain	The Beatles (The White Album)	1
+Savoy Truffle	pineapple	The Beatles (The White Album)	2
+Savoy Truffle	pulled	The Beatles (The White Album)	5
+Savoy Truffle	savoy	The Beatles (The White Album)	5
+Savoy Truffle	shout	The Beatles (The White Album)	1
+Savoy Truffle	sling	The Beatles (The White Album)	2
+Savoy Truffle	sour	The Beatles (The White Album)	1
+Savoy Truffle	sweat	The Beatles (The White Album)	1
+Savoy Truffle	sweet	The Beatles (The White Album)	1
+Savoy Truffle	tangerine	The Beatles (The White Album)	2
+Savoy Truffle	tart	The Beatles (The White Album)	1
+Savoy Truffle	taste	The Beatles (The White Album)	1
+Savoy Truffle	time	The Beatles (The White Album)	1
+Savoy Truffle	truffle	The Beatles (The White Album)	5
+Sexy Sadie	broke	The Beatles (The White Album)	2
+Sexy Sadie	day	The Beatles (The White Album)	1
+Sexy Sadie	fool	The Beatles (The White Album)	3
+Sexy Sadie	laid	The Beatles (The White Album)	2
+Sexy Sadie	lighten	The Beatles (The White Album)	1
+Sexy Sadie	lover	The Beatles (The White Album)	1
+Sexy Sadie	ooh	The Beatles (The White Album)	1
+Sexy Sadie	owned	The Beatles (The White Album)	1
+Sexy Sadie	rules	The Beatles (The White Album)	2
+Sexy Sadie	sadie	The Beatles (The White Album)	15
+Sexy Sadie	sexy	The Beatles (The White Album)	15
+Sexy Sadie	sit	The Beatles (The White Album)	1
+Sexy Sadie	smile	The Beatles (The White Album)	1
+Sexy Sadie	sunny	The Beatles (The White Album)	1
+Sexy Sadie	table	The Beatles (The White Album)	1
+Sexy Sadie	waiting	The Beatles (The White Album)	3
+Sexy Sadie	woo	The Beatles (The White Album)	1
+Sexy Sadie	world	The Beatles (The White Album)	3
+Sgt. Pepper's Lonely Hearts Club Band	act	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	ago	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	audience	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	band	Sgt. Pepper's Lonely Hearts Club Band	6
+Sgt. Pepper's Lonely Hearts Club Band	billy	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	club	Sgt. Pepper's Lonely Hearts Club Band	5
+Sgt. Pepper's Lonely Hearts Club Band	enjoy	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	evening	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	guaranteed	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	hearts	Sgt. Pepper's Lonely Hearts Club Band	5
+Sgt. Pepper's Lonely Hearts Club Band	home	Sgt. Pepper's Lonely Hearts Club Band	2
+Sgt. Pepper's Lonely Hearts Club Band	hope	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	introduce	Sgt. Pepper's Lonely Hearts Club Band	2
+Sgt. Pepper's Lonely Hearts Club Band	lonely	Sgt. Pepper's Lonely Hearts Club Band	7
+Sgt. Pepper's Lonely Hearts Club Band	love	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	lovely	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	pepper	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	pepper's	Sgt. Pepper's Lonely Hearts Club Band	7
+Sgt. Pepper's Lonely Hearts Club Band	play	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	raise	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	sgt	Sgt. Pepper's Lonely Hearts Club Band	8
+Sgt. Pepper's Lonely Hearts Club Band	shears	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	sing	Sgt. Pepper's Lonely Hearts Club Band	2
+Sgt. Pepper's Lonely Hearts Club Band	singer's	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	sit	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	smile	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	song	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	stop	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	style	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	taught	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	thrill	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	twenty	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band	wonderful	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	1,2,3,4	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	band	Sgt. Pepper's Lonely Hearts Club Band	5
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	bye	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	club	Sgt. Pepper's Lonely Hearts Club Band	5
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	enjoyed	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	hearts	Sgt. Pepper's Lonely Hearts Club Band	5
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	hope	Sgt. Pepper's Lonely Hearts Club Band	1
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	lonely	Sgt. Pepper's Lonely Hearts Club Band	11
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	pepper's	Sgt. Pepper's Lonely Hearts Club Band	11
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	sgt	Sgt. Pepper's Lonely Hearts Club Band	11
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time	Sgt. Pepper's Lonely Hearts Club Band	1
+She Came in Through the Bathroom Window	answer	Abbey Road	1
+She Came in Through the Bathroom Window	banks	Abbey Road	1
+She Came in Through the Bathroom Window	bathroom	Abbey Road	1
+She Came in Through the Bathroom Window	clubs	Abbey Road	1
+She Came in Through the Bathroom Window	dancer	Abbey Road	1
+She Came in Through the Bathroom Window	day	Abbey Road	1
+She Came in Through the Bathroom Window	department	Abbey Road	1
+She Came in Through the Bathroom Window	fifteen	Abbey Road	1
+She Came in Through the Bathroom Window	job	Abbey Road	1
+She Came in Through the Bathroom Window	lagoon	Abbey Road	1
+She Came in Through the Bathroom Window	listen	Abbey Road	1
+She Came in Through the Bathroom Window	mal	Abbey Road	1
+She Came in Through the Bathroom Window	monday	Abbey Road	2
+She Came in Through the Bathroom Window	phone	Abbey Road	4
+She Came in Through the Bathroom Window	police	Abbey Road	1
+She Came in Through the Bathroom Window	protected	Abbey Road	1
+She Came in Through the Bathroom Window	quit	Abbey Road	1
+She Came in Through the Bathroom Window	rob	Abbey Road	1
+She Came in Through the Bathroom Window	silver	Abbey Road	1
+She Came in Through the Bathroom Window	spoon	Abbey Road	1
+She Came in Through the Bathroom Window	steady	Abbey Road	1
+She Came in Through the Bathroom Window	steal	Abbey Road	1
+She Came in Through the Bathroom Window	sucks	Abbey Road	1
+She Came in Through the Bathroom Window	sunday's	Abbey Road	2
+She Came in Through the Bathroom Window	thumb	Abbey Road	1
+She Came in Through the Bathroom Window	tuesday's	Abbey Road	2
+She Came in Through the Bathroom Window	wanders	Abbey Road	1
+She Came in Through the Bathroom Window	window	Abbey Road	1
+She Came in Through the Bathroom Window	yeah	Abbey Road	1
+She Said She Said	born	Revolver	4
+She Said She Said	boy	Revolver	2
+She Said She Said	dead	Revolver	3
+She Said She Said	feel	Revolver	5
+She Said She Said	head	Revolver	1
+She Said She Said	leave	Revolver	2
+She Said She Said	mad	Revolver	1
+She Said She Said	ready	Revolver	2
+She Said She Said	sad	Revolver	2
+She Said She Said	understand	Revolver	2
+She Said She Said	wrong	Revolver	2
+She's Leaving Home	appointment	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	baby's	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	backdoor	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	bedroom	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	begins	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	breaks	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	buy	Sgt. Pepper's Lonely Hearts Club Band	2
+She's Leaving Home	bye	Sgt. Pepper's Lonely Hearts Club Band	8
+She's Leaving Home	closing	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	clutching	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	cries	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	daddy	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	day	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	denied	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	door	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	dressing	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	father	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	free	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	friday	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	fun	Sgt. Pepper's Lonely Hearts Club Band	2
+She's Leaving Home	gown	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	handkerchief	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	hard	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	home	Sgt. Pepper's Lonely Hearts Club Band	5
+She's Leaving Home	hoped	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	husband	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	inside	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	key	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	kitchen	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	leaving	Sgt. Pepper's Lonely Hearts Club Band	6
+She's Leaving Home	letter	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	lives	Sgt. Pepper's Lonely Hearts Club Band	3
+She's Leaving Home	living	Sgt. Pepper's Lonely Hearts Club Band	2
+She's Leaving Home	lying	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	meeting	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	money	Sgt. Pepper's Lonely Hearts Club Band	2
+She's Leaving Home	morning	Sgt. Pepper's Lonely Hearts Club Band	2
+She's Leaving Home	motor	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	note	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	o'clock	Sgt. Pepper's Lonely Hearts Club Band	2
+She's Leaving Home	picks	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	quietly	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	sacrificed	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	silently	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	snores	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	stairs	Sgt. Pepper's Lonely Hearts Club Band	2
+She's Leaving Home	standing	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	stepping	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	struggled	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	thoughtlessly	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	top	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	trade	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	treat	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	waiting	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	wednesday	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	wife	Sgt. Pepper's Lonely Hearts Club Band	1
+She's Leaving Home	wrong	Sgt. Pepper's Lonely Hearts Club Band	2
+Something	attracts	Abbey Road	1
+Something	grow	Abbey Road	1
+Something	leave	Abbey Road	3
+Something	love	Abbey Road	1
+Something	lover	Abbey Road	2
+Something	moves	Abbey Road	1
+Something	na	Abbey Road	1
+Something	smile	Abbey Road	1
+Something	stick	Abbey Road	1
+Something	style	Abbey Road	1
+Something	woos	Abbey Road	1
+Sun King	aaah	Abbey Road	1
+Sun King	amore	Abbey Road	2
+Sun King	canite	Abbey Road	1
+Sun King	carousel	Abbey Road	1
+Sun King	chicka	Abbey Road	1
+Sun King	corazón	Abbey Road	1
+Sun King	cuesto	Abbey Road	1
+Sun King	de	Abbey Road	1
+Sun King	everybody's	Abbey Road	2
+Sun King	felice	Abbey Road	1
+Sun King	ferdy	Abbey Road	1
+Sun King	happy	Abbey Road	1
+Sun King	king	Abbey Road	3
+Sun King	laughing	Abbey Road	1
+Sun King	mi	Abbey Road	2
+Sun King	mucho	Abbey Road	2
+Sun King	mundo	Abbey Road	1
+Sun King	obrigado	Abbey Road	1
+Sun King	paparazzi	Abbey Road	1
+Sun King	para	Abbey Road	1
+Sun King	parasol	Abbey Road	1
+Sun King	quando	Abbey Road	1
+Sun King	sun	Abbey Road	3
+Sun King	tanta	Abbey Road	1
+Taxman	advice	Revolver	1
+Taxman	car	Revolver	2
+Taxman	cold	Revolver	2
+Taxman	declare	Revolver	1
+Taxman	die	Revolver	1
+Taxman	drive	Revolver	1
+Taxman	eyes	Revolver	1
+Taxman	feet	Revolver	1
+Taxman	haha	Revolver	2
+Taxman	heat	Revolver	1
+Taxman	heath	Revolver	1
+Taxman	na	Revolver	1
+Taxman	nineteen	Revolver	1
+Taxman	pay	Revolver	1
+Taxman	pennies	Revolver	1
+Taxman	percent	Revolver	1
+Taxman	seat	Revolver	1
+Taxman	sit	Revolver	2
+Taxman	street	Revolver	1
+Taxman	tax	Revolver	4
+Taxman	taxman	Revolver	14
+Taxman	thankful	Revolver	1
+Taxman	walk	Revolver	2
+Taxman	wilson	Revolver	1
+Taxman	yeah	Revolver	5
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	accidents	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	american	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	bill	The Beatles (The White Album)	29
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	bullet	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	bungalow	The Beatles (The White Album)	28
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	butted	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	captain	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	children	The Beatles (The White Album)	4
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	deep	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	eh	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	elephant	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	elephants	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	eyes	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	fierce	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	gun	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	headed	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	hey	The Beatles (The White Album)	14
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	hunting	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	jungle	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	kill	The Beatles (The White Album)	16
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	lies	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	looked	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	marvel	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	mighty	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	mother's	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	mum	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	mummy	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	saxon	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	sin	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	sing	The Beatles (The White Album)	3
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	son	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	surprise	The Beatles (The White Album)	1
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	tiger	The Beatles (The White Album)	2
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	zapped	The Beatles (The White Album)	1
+The End	alright	Abbey Road	1
+The End	dreams	Abbey Road	1
+The End	equal	Abbey Road	1
+The End	love	Abbey Road	27
+The End	na	Abbey Road	2
+The End	tonight	Abbey Road	1
+The End	yeah	Abbey Road	1
+The Word	bad	Rubber Soul	1
+The Word	beginning	Rubber Soul	1
+The Word	books	Rubber Soul	1
+The Word	chance	Rubber Soul	1
+The Word	feel	Rubber Soul	1
+The Word	fine	Rubber Soul	4
+The Word	free	Rubber Soul	3
+The Word	hear	Rubber Soul	1
+The Word	heard	Rubber Soul	3
+The Word	light	Rubber Soul	1
+The Word	love	Rubber Soul	12
+The Word	misunderstood	Rubber Soul	1
+The Word	read	Rubber Soul	1
+The Word	spread	Rubber Soul	3
+The Word	sunshine	Rubber Soul	4
+The Word	thinking	Rubber Soul	4
+The Word	word	Rubber Soul	25
+Think for Yourself	close	Rubber Soul	1
+Think for Yourself	eyes	Rubber Soul	1
+Think for Yourself	future	Rubber Soul	1
+Think for Yourself	gonna	Rubber Soul	1
+Think for Yourself	left	Rubber Soul	1
+Think for Yourself	lies	Rubber Soul	1
+Think for Yourself	life	Rubber Soul	1
+Think for Yourself	mind	Rubber Soul	1
+Think for Yourself	mind's	Rubber Soul	2
+Think for Yourself	misery	Rubber Soul	1
+Think for Yourself	opaque	Rubber Soul	1
+Think for Yourself	rectify	Rubber Soul	1
+Think for Yourself	ruins	Rubber Soul	1
+Think for Yourself	sake	Rubber Soul	1
+Think for Yourself	telling	Rubber Soul	1
+Think for Yourself	thinking	Rubber Soul	1
+Think for Yourself	time	Rubber Soul	1
+Think for Yourself	word	Rubber Soul	1
+Think for Yourself	yourself'cause	Rubber Soul	4
+Tomorrow Never Knows	beginning	Revolver	7
+Tomorrow Never Knows	believing	Revolver	2
+Tomorrow Never Knows	colour	Revolver	1
+Tomorrow Never Knows	dead	Revolver	1
+Tomorrow Never Knows	downstream	Revolver	1
+Tomorrow Never Knows	dreams	Revolver	1
+Tomorrow Never Knows	dying	Revolver	2
+Tomorrow Never Knows	existence	Revolver	1
+Tomorrow Never Knows	float	Revolver	1
+Tomorrow Never Knows	game	Revolver	1
+Tomorrow Never Knows	hate	Revolver	1
+Tomorrow Never Knows	ignorance	Revolver	1
+Tomorrow Never Knows	knowing	Revolver	2
+Tomorrow Never Knows	lay	Revolver	1
+Tomorrow Never Knows	listen	Revolver	1
+Tomorrow Never Knows	living	Revolver	2
+Tomorrow Never Knows	love	Revolver	2
+Tomorrow Never Knows	meaning	Revolver	1
+Tomorrow Never Knows	mind	Revolver	1
+Tomorrow Never Knows	mourn	Revolver	1
+Tomorrow Never Knows	na	Revolver	1
+Tomorrow Never Knows	play	Revolver	1
+Tomorrow Never Knows	relax	Revolver	1
+Tomorrow Never Knows	shining	Revolver	2
+Tomorrow Never Knows	surrender	Revolver	1
+Tomorrow Never Knows	void	Revolver	1
+Wait	breaks	Rubber Soul	2
+Wait	coming	Rubber Soul	3
+Wait	cried	Rubber Soul	4
+Wait	delay	Rubber Soul	2
+Wait	feel	Rubber Soul	2
+Wait	forget	Rubber Soul	4
+Wait	heart	Rubber Soul	2
+Wait	heart's	Rubber Soul	2
+Wait	hold	Rubber Soul	2
+Wait	home	Rubber Soul	3
+Wait	na	Rubber Soul	1
+Wait	strong	Rubber Soul	2
+Wait	tears	Rubber Soul	4
+Wait	till	Rubber Soul	4
+Wait	time	Rubber Soul	3
+Wait	trust	Rubber Soul	2
+Wait	wait	Rubber Soul	8
+What Goes On	blind	Rubber Soul	1
+What Goes On	break	Rubber Soul	1
+What Goes On	day	Rubber Soul	1
+What Goes On	die	Rubber Soul	1
+What Goes On	easy	Rubber Soul	2
+What Goes On	feel	Rubber Soul	1
+What Goes On	fold	Rubber Soul	1
+What Goes On	future	Rubber Soul	1
+What Goes On	girl	Rubber Soul	2
+What Goes On	heart	Rubber Soul	5
+What Goes On	lie	Rubber Soul	2
+What Goes On	met	Rubber Soul	1
+What Goes On	mind	Rubber Soul	6
+What Goes On	morning	Rubber Soul	1
+What Goes On	na	Rubber Soul	1
+What Goes On	road	Rubber Soul	1
+What Goes On	tearin	Rubber Soul	2
+What Goes On	tearing	Rubber Soul	1
+What Goes On	tide	Rubber Soul	1
+What Goes On	tides	Rubber Soul	1
+What Goes On	time	Rubber Soul	1
+What Goes On	treat	Rubber Soul	3
+What Goes On	unkind	Rubber Soul	3
+What Goes On	waiting	Rubber Soul	1
+What Goes On	walked	Rubber Soul	1
+What Goes On	watch	Rubber Soul	1
+When I'm Sixty-Four	answer	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	birthday	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	bottle	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	chuck	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	cottage	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	dave	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	dear	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	digging	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	door	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	drop	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	evermore	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	feed	Sgt. Pepper's Lonely Hearts Club Band	3
+When I'm Sixty-Four	fill	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	fireside	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	form	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	fuse	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	garden	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	grandchildren	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	hair	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	handy	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	isle	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	knee	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	knit	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	lights	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	line	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	lock	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	losing	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	mending	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	mine	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	mornings	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	na	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	postcard	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	precisely	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	quarter	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	rent	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	ride	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	save	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	scrimp	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	send	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	sending	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	sincerely	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	sixty	Sgt. Pepper's Lonely Hearts Club Band	3
+When I'm Sixty-Four	stating	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	stay	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	summer	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	sunday	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	sweater	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	till	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	valentine	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	vera	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	view	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	wasting	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	weeds	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	whoo	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	wight	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	wine	Sgt. Pepper's Lonely Hearts Club Band	1
+When I'm Sixty-Four	word	Sgt. Pepper's Lonely Hearts Club Band	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	alerted	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	bought	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	controlled	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	diverted	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	floor	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	gently	The Beatles (The White Album)	6
+While My Guitar Gently Weeps (Ft. Eric Clapton)	guitar	The Beatles (The White Album)	6
+While My Guitar Gently Weeps (Ft. Eric Clapton)	inverted	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	learning	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	love	The Beatles (The White Album)	3
+While My Guitar Gently Weeps (Ft. Eric Clapton)	mistake	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	na	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	notice	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	ooh	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	perverted	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	sleeping	The Beatles (The White Album)	2
+While My Guitar Gently Weeps (Ft. Eric Clapton)	sold	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	surely	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	sweeping	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	told	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	unfold	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	weeps	The Beatles (The White Album)	6
+While My Guitar Gently Weeps (Ft. Eric Clapton)	world	The Beatles (The White Album)	1
+While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah	The Beatles (The White Album)	9
+Why Don't We Do It in the Road?	road	The Beatles (The White Album)	15
+Why Don't We Do It in the Road?	watching	The Beatles (The White Album)	3
+Wild Honey Pie	honey	The Beatles (The White Album)	9
+Wild Honey Pie	love	The Beatles (The White Album)	1
+Wild Honey Pie	pie	The Beatles (The White Album)	9
+With a Little Help from My Friends	billy	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	day	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	ears	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	feel	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	friends	Sgt. Pepper's Lonely Hearts Club Band	14
+With a Little Help from My Friends	gonna	Sgt. Pepper's Lonely Hearts Club Band	4
+With a Little Help from My Friends	key	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	lend	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	light	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	love	Sgt. Pepper's Lonely Hearts Club Band	6
+With a Little Help from My Friends	mine	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	mm	Sgt. Pepper's Lonely Hearts Club Band	6
+With a Little Help from My Friends	sad	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	sang	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	shears	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	sight	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	sing	Sgt. Pepper's Lonely Hearts Club Band	2
+With a Little Help from My Friends	song	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	stand	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	time	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	tune	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	walk	Sgt. Pepper's Lonely Hearts Club Band	1
+With a Little Help from My Friends	worry	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	change	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	cold	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	flows	Sgt. Pepper's Lonely Hearts Club Band	2
+Within You Without You	gain	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	glimpse	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	hide	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	hold	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	illusion	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	late	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	life	Sgt. Pepper's Lonely Hearts Club Band	2
+Within You Without You	lose	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	love	Sgt. Pepper's Lonely Hearts Club Band	4
+Within You Without You	mind	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	na	Sgt. Pepper's Lonely Hearts Club Band	2
+Within You Without You	pass	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	peace	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	people	Sgt. Pepper's Lonely Hearts Club Band	2
+Within You Without You	realise	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	save	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	share	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	soul	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	space	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	talking	Sgt. Pepper's Lonely Hearts Club Band	3
+Within You Without You	time	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	truth	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	waiting	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	wall	Sgt. Pepper's Lonely Hearts Club Band	1
+Within You Without You	world	Sgt. Pepper's Lonely Hearts Club Band	2
+Yellow Submarine	aboard	Revolver	1
+Yellow Submarine	ahead	Revolver	3
+Yellow Submarine	aye	Revolver	4
+Yellow Submarine	band	Revolver	1
+Yellow Submarine	begins	Revolver	1
+Yellow Submarine	beneath	Revolver	1
+Yellow Submarine	blue	Revolver	2
+Yellow Submarine	boatswain	Revolver	1
+Yellow Submarine	born	Revolver	1
+Yellow Submarine	cable	Revolver	2
+Yellow Submarine	captain	Revolver	2
+Yellow Submarine	cut	Revolver	1
+Yellow Submarine	door	Revolver	1
+Yellow Submarine	drop	Revolver	1
+Yellow Submarine	ease	Revolver	1
+Yellow Submarine	found	Revolver	1
+Yellow Submarine	friends	Revolver	1
+Yellow Submarine	green	Revolver	3
+Yellow Submarine	ha	Revolver	2
+Yellow Submarine	land	Revolver	1
+Yellow Submarine	life	Revolver	2
+Yellow Submarine	live	Revolver	9
+Yellow Submarine	lived	Revolver	2
+Yellow Submarine	mister	Revolver	1
+Yellow Submarine	play	Revolver	1
+Yellow Submarine	sailed	Revolver	2
+Yellow Submarine	sea	Revolver	4
+Yellow Submarine	sergeant	Revolver	1
+Yellow Submarine	sir	Revolver	1
+Yellow Submarine	sky	Revolver	2
+Yellow Submarine	steam	Revolver	3
+Yellow Submarine	submarine	Revolver	24
+Yellow Submarine	submarines	Revolver	1
+Yellow Submarine	sun	Revolver	1
+Yellow Submarine	till	Revolver	1
+Yellow Submarine	told	Revolver	1
+Yellow Submarine	town	Revolver	1
+Yellow Submarine	waves	Revolver	1
+Yellow Submarine	yellow	Revolver	24
+Yer Blues	black	The Beatles (The White Album)	1
+Yer Blues	blue	The Beatles (The White Album)	1
+Yer Blues	bones	The Beatles (The White Album)	1
+Yer Blues	cloud	The Beatles (The White Album)	1
+Yer Blues	crossed	The Beatles (The White Album)	1
+Yer Blues	dead	The Beatles (The White Album)	5
+Yer Blues	die	The Beatles (The White Album)	8
+Yer Blues	dylan's	The Beatles (The White Album)	1
+Yer Blues	eagle	The Beatles (The White Album)	1
+Yer Blues	earth	The Beatles (The White Album)	1
+Yer Blues	evening	The Beatles (The White Album)	1
+Yer Blues	eye	The Beatles (The White Album)	1
+Yer Blues	father	The Beatles (The White Album)	1
+Yer Blues	feel	The Beatles (The White Album)	2
+Yer Blues	girl	The Beatles (The White Album)	5
+Yer Blues	hate	The Beatles (The White Album)	1
+Yer Blues	jones	The Beatles (The White Album)	1
+Yer Blues	licks	The Beatles (The White Album)	1
+Yer Blues	lonely	The Beatles (The White Album)	4
+Yer Blues	mind	The Beatles (The White Album)	1
+Yer Blues	mist	The Beatles (The White Album)	1
+Yer Blues	morning	The Beatles (The White Album)	1
+Yer Blues	mother	The Beatles (The White Album)	1
+Yer Blues	picks	The Beatles (The White Album)	1
+Yer Blues	reason	The Beatles (The White Album)	5
+Yer Blues	rock	The Beatles (The White Album)	1
+Yer Blues	roll	The Beatles (The White Album)	1
+Yer Blues	round	The Beatles (The White Album)	1
+Yer Blues	sky	The Beatles (The White Album)	1
+Yer Blues	soul	The Beatles (The White Album)	1
+Yer Blues	suicidal	The Beatles (The White Album)	2
+Yer Blues	universe	The Beatles (The White Album)	1
+Yer Blues	woo	The Beatles (The White Album)	5
+Yer Blues	worm	The Beatles (The White Album)	1
+Yer Blues	worth	The Beatles (The White Album)	1
+Yer Blues	yeah	The Beatles (The White Album)	1
+You Never Give Me Your Money	1	Abbey Road	5
+You Never Give Me Your Money	2	Abbey Road	9
+You Never Give Me Your Money	3	Abbey Road	9
+You Never Give Me Your Money	4	Abbey Road	9
+You Never Give Me Your Money	5	Abbey Road	9
+You Never Give Me Your Money	6	Abbey Road	9
+You Never Give Me Your Money	7	Abbey Road	9
+You Never Give Me Your Money	bags	Abbey Road	1
+You Never Give Me Your Money	break	Abbey Road	2
+You Never Give Me Your Money	children	Abbey Road	9
+You Never Give Me Your Money	college	Abbey Road	1
+You Never Give Me Your Money	dream	Abbey Road	2
+You Never Give Me Your Money	feeling	Abbey Road	2
+You Never Give Me Your Money	funny	Abbey Road	1
+You Never Give Me Your Money	future	Abbey Road	1
+You Never Give Me Your Money	gas	Abbey Road	1
+You Never Give Me Your Money	heaven	Abbey Road	5
+You Never Give Me Your Money	heaven1	Abbey Road	4
+You Never Give Me Your Money	investigation	Abbey Road	1
+You Never Give Me Your Money	jobber	Abbey Road	1
+You Never Give Me Your Money	limousine	Abbey Road	1
+You Never Give Me Your Money	lorry	Abbey Road	1
+You Never Give Me Your Money	magic	Abbey Road	2
+You Never Give Me Your Money	middle	Abbey Road	2
+You Never Give Me Your Money	monday	Abbey Road	1
+You Never Give Me Your Money	money	Abbey Road	2
+You Never Give Me Your Money	money's	Abbey Road	1
+You Never Give Me Your Money	morning	Abbey Road	1
+You Never Give Me Your Money	na	Abbey Road	1
+You Never Give Me Your Money	negotiations	Abbey Road	1
+You Never Give Me Your Money	paper	Abbey Road	1
+You Never Give Me Your Money	pay	Abbey Road	1
+You Never Give Me Your Money	pick	Abbey Road	1
+You Never Give Me Your Money	rent	Abbey Road	1
+You Never Give Me Your Money	sack	Abbey Road	1
+You Never Give Me Your Money	situation	Abbey Road	1
+You Never Give Me Your Money	slow	Abbey Road	1
+You Never Give Me Your Money	spent	Abbey Road	1
+You Never Give Me Your Money	step	Abbey Road	1
+You Never Give Me Your Money	sweet	Abbey Road	2
+You Never Give Me Your Money	tear	Abbey Road	1
+You Never Give Me Your Money	true	Abbey Road	3
+You Never Give Me Your Money	wipe	Abbey Road	1
+You Never Give Me Your Money	yellow	Abbey Road	1
+You Won't See Me	act	Rubber Soul	1
+You Won't See Me	age	Rubber Soul	1
+You Won't See Me	call	Rubber Soul	1
+You Won't See Me	days	Rubber Soul	2
+You Won't See Me	engaged	Rubber Soul	1
+You Won't See Me	feels	Rubber Soul	2
+You Won't See Me	filled	Rubber Soul	2
+You Won't See Me	girl	Rubber Soul	2
+You Won't See Me	hands	Rubber Soul	1
+You Won't See Me	hard	Rubber Soul	1
+You Won't See Me	heard	Rubber Soul	1
+You Won't See Me	hide	Rubber Soul	1
+You Won't See Me	la	Rubber Soul	6
+You Won't See Me	line's	Rubber Soul	1
+You Won't See Me	listen	Rubber Soul	2
+You Won't See Me	lose	Rubber Soul	1
+You Won't See Me	lost	Rubber Soul	3
+You Won't See Me	mind	Rubber Soul	3
+You Won't See Me	missing	Rubber Soul	2
+You Won't See Me	ooooh	Rubber Soul	2
+You Won't See Me	refuse	Rubber Soul	2
+You Won't See Me	stay	Rubber Soul	1
+You Won't See Me	tears	Rubber Soul	2
+You Won't See Me	tied	Rubber Soul	1
+You Won't See Me	time	Rubber Soul	5

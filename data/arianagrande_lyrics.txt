@@ -1,0 +1,4156 @@
+track_title	word	album	n
+34+35	4.5	Positions	1
+34+35	69	Positions	1
+34+35	alright	Positions	1
+34+35	babe	Positions	2
+34+35	babies	Positions	1
+34+35	baby	Positions	1
+34+35	bed	Positions	1
+34+35	bitch	Positions	1
+34+35	boy	Positions	2
+34+35	candy	Positions	1
+34+35	chick	Positions	1
+34+35	class	Positions	1
+34+35	coffee	Positions	6
+34+35	counting	Positions	1
+34+35	cravin	Positions	1
+34+35	crazy	Positions	1
+34+35	daylight	Positions	7
+34+35	dick	Positions	1
+34+35	doin	Positions	2
+34+35	door	Positions	1
+34+35	dream	Positions	1
+34+35	drink	Positions	1
+34+35	drinking	Positions	4
+34+35	earthquake	Positions	2
+34+35	eating	Positions	4
+34+35	energy	Positions	3
+34+35	favorite	Positions	2
+34+35	fuck	Positions	6
+34+35	gimme	Positions	1
+34+35	healthy	Positions	6
+34+35	heavy	Positions	1
+34+35	hit	Positions	2
+34+35	hmm	Positions	1
+34+35	i'ma	Positions	3
+34+35	inside	Positions	1
+34+35	leave	Positions	1
+34+35	life	Positions	2
+34+35	lightweight	Positions	2
+34+35	math	Positions	1
+34+35	means	Positions	3
+34+35	midnight	Positions	1
+34+35	movies	Positions	2
+34+35	mе	Positions	1
+34+35	neighbors	Positions	1
+34+35	night	Positions	8
+34+35	ooh	Positions	1
+34+35	plainly	Positions	1
+34+35	ride	Positions	1
+34+35	saving	Positions	3
+34+35	seatbelt	Positions	1
+34+35	shake	Positions	1
+34+35	shit	Positions	3
+34+35	snooze	Positions	1
+34+35	spots	Positions	2
+34+35	squeaky	Positions	3
+34+35	started	Positions	1
+34+35	stay	Positions	8
+34+35	sunrise	Positions	2
+34+35	tastes	Positions	1
+34+35	thirty	Positions	15
+34+35	til	Positions	7
+34+35	time	Positions	2
+34+35	tonight	Positions	5
+34+35	top	Positions	2
+34+35	true	Positions	2
+34+35	wanna	Positions	4
+34+35	watchin	Positions	2
+34+35	water	Positions	2
+34+35	wifey	Positions	1
+34+35	wine	Positions	1
+34+35	yeah	Positions	45
+34+35	yellin	Positions	1
+34+35	yеah	Positions	1
+7 rings	addiction	Thank U, Next	1
+7 rings	ass	Thank U, Next	1
+7 rings	atm	Thank U, Next	1
+7 rings	baby	Thank U, Next	1
+7 rings	bad	Thank U, Next	1
+7 rings	bag	Thank U, Next	1
+7 rings	beamin	Thank U, Next	1
+7 rings	bitch	Thank U, Next	1
+7 rings	bitches	Thank U, Next	1
+7 rings	black	Thank U, Next	1
+7 rings	booth	Thank U, Next	1
+7 rings	bottles	Thank U, Next	1
+7 rings	bottoms	Thank U, Next	1
+7 rings	bought	Thank U, Next	6
+7 rings	brag	Thank U, Next	1
+7 rings	breakfast	Thank U, Next	1
+7 rings	bubbles	Thank U, Next	1
+7 rings	budget	Thank U, Next	1
+7 rings	business	Thank U, Next	1
+7 rings	buy	Thank U, Next	1
+7 rings	calls	Thank U, Next	1
+7 rings	card	Thank U, Next	2
+7 rings	checks	Thank U, Next	1
+7 rings	closet	Thank U, Next	2
+7 rings	crib	Thank U, Next	1
+7 rings	deposits	Thank U, Next	1
+7 rings	diamonds	Thank U, Next	2
+7 rings	em	Thank U, Next	2
+7 rings	favorite	Thank U, Next	1
+7 rings	flossy	Thank U, Next	1
+7 rings	friends	Thank U, Next	1
+7 rings	gee	Thank U, Next	4
+7 rings	gimme	Thank U, Next	1
+7 rings	girls	Thank U, Next	1
+7 rings	gleamin	Thank U, Next	2
+7 rings	gloss	Thank U, Next	1
+7 rings	gon	Thank U, Next	1
+7 rings	hair	Thank U, Next	4
+7 rings	happiness	Thank U, Next	1
+7 rings	jet	Thank U, Next	1
+7 rings	juice	Thank U, Next	1
+7 rings	lashes	Thank U, Next	1
+7 rings	lookin	Thank U, Next	1
+7 rings	loop	Thank U, Next	1
+7 rings	loot	Thank U, Next	1
+7 rings	machines	Thank U, Next	1
+7 rings	matching	Thank U, Next	1
+7 rings	mind	Thank U, Next	1
+7 rings	money	Thank U, Next	4
+7 rings	nah	Thank U, Next	1
+7 rings	neck	Thank U, Next	2
+7 rings	net	Thank U, Next	1
+7 rings	pay	Thank U, Next	1
+7 rings	phone	Thank U, Next	1
+7 rings	poppin'you	Thank U, Next	1
+7 rings	price	Thank U, Next	1
+7 rings	racks	Thank U, Next	1
+7 rings	receipts	Thank U, Next	1
+7 rings	red	Thank U, Next	1
+7 rings	respect	Thank U, Next	1
+7 rings	retail	Thank U, Next	1
+7 rings	riches	Thank U, Next	1
+7 rings	ring	Thank U, Next	1
+7 rings	sad	Thank U, Next	1
+7 rings	savage	Thank U, Next	1
+7 rings	set	Thank U, Next	1
+7 rings	settin	Thank U, Next	1
+7 rings	shine	Thank U, Next	1
+7 rings	shit	Thank U, Next	1
+7 rings	shoot	Thank U, Next	2
+7 rings	sing	Thank U, Next	1
+7 rings	skin	Thank U, Next	1
+7 rings	smile	Thank U, Next	1
+7 rings	solve	Thank U, Next	2
+7 rings	spoil	Thank U, Next	1
+7 rings	stacked	Thank U, Next	1
+7 rings	stop	Thank U, Next	1
+7 rings	store	Thank U, Next	1
+7 rings	strings	Thank U, Next	1
+7 rings	tattoos	Thank U, Next	1
+7 rings	therapy	Thank U, Next	1
+7 rings	tied	Thank U, Next	1
+7 rings	tiffany's	Thank U, Next	1
+7 rings	tone	Thank U, Next	1
+7 rings	trouble	Thank U, Next	1
+7 rings	watchin	Thank U, Next	1
+7 rings	wearing	Thank U, Next	1
+7 rings	woulda	Thank U, Next	1
+7 rings	wrist	Thank U, Next	1
+7 rings	write	Thank U, Next	2
+7 rings	wrong	Thank U, Next	1
+7 rings	yeah	Thank U, Next	15
+7 rings	yep	Thank U, Next	3
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	arms	Yours Truly	3
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	baby	Yours Truly	8
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	blame	Yours Truly	1
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	chance	Yours Truly	1
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	change	Yours Truly	1
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	close	Yours Truly	4
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	deny	Yours Truly	3
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	deserve	Yours Truly	1
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	feelings	Yours Truly	3
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	goodbye	Yours Truly	1
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	hey	Yours Truly	2
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	huh	Yours Truly	4
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	lie	Yours Truly	2
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	life	Yours Truly	1
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	love	Yours Truly	6
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	other's	Yours Truly	3
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	overnight	Yours Truly	1
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	sooner	Yours Truly	3
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	standing	Yours Truly	1
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	there'd	Yours Truly	1
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	time	Yours Truly	3
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	truth	Yours Truly	3
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	world	Yours Truly	1
+Almost Is Never Enough by Ariana Grande & Nathan Sykes	worlds	Yours Truly	3
+Baby I	baby	Yours Truly	62
+Baby I	complicate	Yours Truly	6
+Baby I	crazy	Yours Truly	1
+Baby I	deep	Yours Truly	1
+Baby I	explain	Yours Truly	4
+Baby I	explaining	Yours Truly	1
+Baby I	feeling	Yours Truly	3
+Baby I	feelings	Yours Truly	1
+Baby I	heart	Yours Truly	1
+Baby I	hope	Yours Truly	2
+Baby I	insane	Yours Truly	1
+Baby I	inside	Yours Truly	1
+Baby I	love	Yours Truly	4
+Baby I	matter	Yours Truly	1
+Baby I	ooh	Yours Truly	2
+Baby I	real	Yours Truly	1
+Baby I	sounding	Yours Truly	2
+Baby I	start	Yours Truly	1
+Baby I	straight	Yours Truly	1
+Baby I	talk	Yours Truly	1
+Baby I	thee	Yours Truly	1
+Baby I	tied	Yours Truly	2
+Baby I	time	Yours Truly	6
+Baby I	tongue	Yours Truly	2
+Baby I	touch	Yours Truly	1
+Baby I	tryna	Yours Truly	4
+Baby I	twisted	Yours Truly	2
+Baby I	woah	Yours Truly	13
+Baby I	word	Yours Truly	1
+Baby I	words	Yours Truly	9
+Baby I	yeah	Yours Truly	5
+Bad Decisions	anytime	Dangerous Woman	1
+Bad Decisions	babe	Dangerous Woman	1
+Bad Decisions	baby	Dangerous Woman	1
+Bad Decisions	bad	Dangerous Woman	17
+Bad Decisions	bitch	Dangerous Woman	1
+Bad Decisions	body	Dangerous Woman	1
+Bad Decisions	bonnie	Dangerous Woman	3
+Bad Decisions	boy	Dangerous Woman	13
+Bad Decisions	boys	Dangerous Woman	1
+Bad Decisions	clyde	Dangerous Woman	3
+Bad Decisions	crazy	Dangerous Woman	1
+Bad Decisions	danger	Dangerous Woman	1
+Bad Decisions	decisions	Dangerous Woman	8
+Bad Decisions	drive	Dangerous Woman	1
+Bad Decisions	em	Dangerous Woman	8
+Bad Decisions	favorite	Dangerous Woman	2
+Bad Decisions	fuckin	Dangerous Woman	1
+Bad Decisions	gimme	Dangerous Woman	3
+Bad Decisions	gonna	Dangerous Woman	3
+Bad Decisions	hear	Dangerous Woman	1
+Bad Decisions	hey	Dangerous Woman	1
+Bad Decisions	hood	Dangerous Woman	6
+Bad Decisions	hot	Dangerous Woman	3
+Bad Decisions	knockin	Dangerous Woman	1
+Bad Decisions	life	Dangerous Woman	3
+Bad Decisions	love	Dangerous Woman	22
+Bad Decisions	matter	Dangerous Woman	1
+Bad Decisions	nah	Dangerous Woman	1
+Bad Decisions	night	Dangerous Woman	3
+Bad Decisions	ooh	Dangerous Woman	6
+Bad Decisions	princess	Dangerous Woman	1
+Bad Decisions	sin	Dangerous Woman	2
+Bad Decisions	stupid	Dangerous Woman	2
+Bad Decisions	talkin	Dangerous Woman	1
+Bad Decisions	talking	Dangerous Woman	3
+Bad Decisions	touch	Dangerous Woman	1
+Bad Decisions	truth	Dangerous Woman	1
+Bad Decisions	understand	Dangerous Woman	2
+Bad Decisions	wilder	Dangerous Woman	2
+Bad Decisions	wrong	Dangerous Woman	5
+Bad Decisions	yeah	Dangerous Woman	2
+​bad idea	ari	Thank U, Next	9
+​bad idea	baby	Thank U, Next	1
+​bad idea	bad	Thank U, Next	16
+​bad idea	bit	Thank U, Next	4
+​bad idea	bout	Thank U, Next	5
+​bad idea	boy	Thank U, Next	1
+​bad idea	call	Thank U, Next	3
+​bad idea	chan	Thank U, Next	9
+​bad idea	control	Thank U, Next	3
+​bad idea	feel	Thank U, Next	1
+​bad idea	forget	Thank U, Next	27
+​bad idea	gimme	Thank U, Next	1
+​bad idea	gotta	Thank U, Next	3
+​bad idea	huh	Thank U, Next	10
+​bad idea	i'ma	Thank U, Next	3
+​bad idea	idea	Thank U, Next	16
+​bad idea	mmm	Thank U, Next	3
+​bad idea	numb	Thank U, Next	3
+​bad idea	ooh	Thank U, Next	1
+​bad idea	outta	Thank U, Next	2
+​bad idea	pain	Thank U, Next	3
+​bad idea	quickly	Thank U, Next	2
+​bad idea	real	Thank U, Next	1
+​bad idea	roll	Thank U, Next	2
+​bad idea	runnin	Thank U, Next	1
+​bad idea	save	Thank U, Next	2
+​bad idea	sight	Thank U, Next	1
+​bad idea	temporary	Thank U, Next	1
+​bad idea	time	Thank U, Next	5
+​bad idea	trip	Thank U, Next	2
+​bad idea	tryna	Thank U, Next	2
+​bad idea	uh	Thank U, Next	10
+​bad idea	wanna	Thank U, Next	2
+​bad idea	wishin	Thank U, Next	2
+​bad idea	worried	Thank U, Next	1
+​bad idea	yeah	Thank U, Next	45
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	ari	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	ba	My Everything	3
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	baby	My Everything	5
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	bad	My Everything	3
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	bae	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	bang	My Everything	41
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	bangin	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	bat	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	batman	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	blow	My Everything	3
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	blue	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	body	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	booty	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	bottle	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	cadillac	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	car	My Everything	5
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	cockin	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	dipping	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	dominant	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	door	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	dripping	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	engine	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	ferrari	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	frizz	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	girl	My Everything	3
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	girls	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	graduate	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	grotto	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	hand	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	hangin	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	harley	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	hear	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	heard	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	heart	My Everything	5
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	hey	My Everything	8
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	hmm	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	hold	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	hourglass	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	huh	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	i'ma	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	jessie	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	karaoke	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	kitten	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	kyuh	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	lotto	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	mic	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	might'a	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	mind	My Everything	4
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	minute	My Everything	14
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	mm	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	momma	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	moscato	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	mouth	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	myx	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	nicki	My Everything	2
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	night	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	overdrive	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	phone	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	powder	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	prominent	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	pull	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	queen	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	rangin	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	ride	My Everything	2
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	robbin	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	school	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	seat	My Everything	5
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	send	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	shhh	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	singin'uh	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	slangin	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	step	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	swimming	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	swing	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	talk	My Everything	2
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	test	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	throttle	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	til	My Everything	7
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	time	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	uh	My Everything	4
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	wait	My Everything	14
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	waiting	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	winning	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	wood	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	ya	My Everything	1
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	yeah	My Everything	2
+Bang Bang by Jessie J, Ariana Grande & Nicki Minaj	yo	My Everything	1
+Be Alright	alright	Dangerous Woman	15
+Be Alright	ay	Dangerous Woman	1
+Be Alright	baby	Dangerous Woman	9
+Be Alright	battle	Dangerous Woman	1
+Be Alright	bout	Dangerous Woman	1
+Be Alright	close	Dangerous Woman	1
+Be Alright	daylight	Dangerous Woman	1
+Be Alright	days	Dangerous Woman	1
+Be Alright	decide	Dangerous Woman	2
+Be Alright	finding	Dangerous Woman	1
+Be Alright	golden	Dangerous Woman	1
+Be Alright	gon	Dangerous Woman	4
+Be Alright	gonna	Dangerous Woman	15
+Be Alright	gotta	Dangerous Woman	4
+Be Alright	hard	Dangerous Woman	1
+Be Alright	hey	Dangerous Woman	6
+Be Alright	lead	Dangerous Woman	1
+Be Alright	love	Dangerous Woman	1
+Be Alright	midnight	Dangerous Woman	1
+Be Alright	mind	Dangerous Woman	4
+Be Alright	motion	Dangerous Woman	1
+Be Alright	ooh	Dangerous Woman	2
+Be Alright	shadows	Dangerous Woman	1
+Be Alright	slow	Dangerous Woman	1
+Be Alright	tears	Dangerous Woman	4
+Be Alright	times	Dangerous Woman	1
+Be Alright	worry	Dangerous Woman	1
+Be Alright	yeah	Dangerous Woman	10
+Be My Baby (Ft. Cashmere Cat)	babe	My Everything	3
+Be My Baby (Ft. Cashmere Cat)	baby	My Everything	16
+Be My Baby (Ft. Cashmere Cat)	boy	My Everything	6
+Be My Baby (Ft. Cashmere Cat)	chance	My Everything	2
+Be My Baby (Ft. Cashmere Cat)	close	My Everything	4
+Be My Baby (Ft. Cashmere Cat)	club	My Everything	2
+Be My Baby (Ft. Cashmere Cat)	covers	My Everything	4
+Be My Baby (Ft. Cashmere Cat)	crazy	My Everything	8
+Be My Baby (Ft. Cashmere Cat)	depends	My Everything	1
+Be My Baby (Ft. Cashmere Cat)	drive	My Everything	8
+Be My Baby (Ft. Cashmere Cat)	eyes	My Everything	2
+Be My Baby (Ft. Cashmere Cat)	girl	My Everything	1
+Be My Baby (Ft. Cashmere Cat)	girls	My Everything	2
+Be My Baby (Ft. Cashmere Cat)	hold	My Everything	4
+Be My Baby (Ft. Cashmere Cat)	honest	My Everything	2
+Be My Baby (Ft. Cashmere Cat)	kiss	My Everything	4
+Be My Baby (Ft. Cashmere Cat)	love	My Everything	1
+Be My Baby (Ft. Cashmere Cat)	lover	My Everything	4
+Be My Baby (Ft. Cashmere Cat)	mess	My Everything	2
+Be My Baby (Ft. Cashmere Cat)	morning	My Everything	1
+Be My Baby (Ft. Cashmere Cat)	night	My Everything	1
+Be My Baby (Ft. Cashmere Cat)	obvious	My Everything	1
+Be My Baby (Ft. Cashmere Cat)	ooh	My Everything	1
+Be My Baby (Ft. Cashmere Cat)	promise	My Everything	3
+Be My Baby (Ft. Cashmere Cat)	real	My Everything	1
+Be My Baby (Ft. Cashmere Cat)	touch	My Everything	1
+Be My Baby (Ft. Cashmere Cat)	treat	My Everything	2
+Be My Baby (Ft. Cashmere Cat)	trust	My Everything	2
+Be My Baby (Ft. Cashmere Cat)	tryna	My Everything	2
+Be My Baby (Ft. Cashmere Cat)	yeah	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	acting	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	beach	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	blind	My Everything	4
+Best Mistake by Ariana Grande & Big Sean	boy	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	branched	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	break	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	cept	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	chase	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	count	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	couple	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	dealing	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	dealt	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	distance	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	dream	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	dries	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	eh	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	emotions	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	fall	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	family	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	feel	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	feelings	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	fingers	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	forget	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	fresh	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	friends	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	game	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	goddess	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	gold	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	gotta	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	guess	My Everything	3
+Best Mistake by Ariana Grande & Big Sean	hand	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	happy	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	hard	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	heart	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	hold	My Everything	9
+Best Mistake by Ariana Grande & Big Sean	honest	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	huh	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	humans	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	left	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	lie	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	lip	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	lock	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	locking	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	lost	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	love	My Everything	6
+Best Mistake by Ariana Grande & Big Sean	lying	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	minds	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	mistake	My Everything	5
+Best Mistake by Ariana Grande & Big Sean	mm	My Everything	4
+Best Mistake by Ariana Grande & Big Sean	mom	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	moon	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	oddest	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	ooh	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	overdue	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	pickpockets	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	pit	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	playing	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	pot	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	pretending	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	providing	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	rainbows	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	realize	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	saint	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	savin	My Everything	4
+Best Mistake by Ariana Grande & Big Sean	shining	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	shore	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	sinner	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	sleeve	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	stars	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	start	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	started	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	stop	My Everything	4
+Best Mistake by Ariana Grande & Big Sean	stops	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	temper	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	ten	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	tick	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	time	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	time's	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	tocking	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	total	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	tree	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	twos	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	uh	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	waste	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	wasting	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	watch	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	water	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	wear	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	world	My Everything	2
+Best Mistake by Ariana Grande & Big Sean	yeah	My Everything	1
+Best Mistake by Ariana Grande & Big Sean	zip	My Everything	1
+Better Left Unsaid	alright	Yours Truly	1
+Better Left Unsaid	babe	Yours Truly	3
+Better Left Unsaid	blame	Yours Truly	2
+Better Left Unsaid	broken	Yours Truly	1
+Better Left Unsaid	day	Yours Truly	2
+Better Left Unsaid	drinks	Yours Truly	2
+Better Left Unsaid	gonna	Yours Truly	4
+Better Left Unsaid	hands	Yours Truly	15
+Better Left Unsaid	hard	Yours Truly	1
+Better Left Unsaid	heart	Yours Truly	1
+Better Left Unsaid	hit	Yours Truly	1
+Better Left Unsaid	kiss	Yours Truly	10
+Better Left Unsaid	left	Yours Truly	8
+Better Left Unsaid	lie	Yours Truly	2
+Better Left Unsaid	life	Yours Truly	1
+Better Left Unsaid	lose	Yours Truly	2
+Better Left Unsaid	miss	Yours Truly	2
+Better Left Unsaid	party	Yours Truly	5
+Better Left Unsaid	play	Yours Truly	8
+Better Left Unsaid	reasons	Yours Truly	2
+Better Left Unsaid	shut	Yours Truly	2
+Better Left Unsaid	swore	Yours Truly	2
+Better Left Unsaid	told	Yours Truly	1
+Better Left Unsaid	tonight	Yours Truly	7
+Better Left Unsaid	truth	Yours Truly	1
+Better Left Unsaid	unsaid	Yours Truly	8
+Better Left Unsaid	wanna	Yours Truly	5
+Better Left Unsaid	ya	Yours Truly	1
+​better off	bark	Sweetener	1
+​better off	bed	Sweetener	1
+​better off	body	Sweetener	2
+​better off	comments	Sweetener	2
+​better off	curse	Sweetener	1
+​better off	dismiss	Sweetener	1
+​better off	drink	Sweetener	1
+​better off	em	Sweetener	4
+​better off	emotional	Sweetener	2
+​better off	fall	Sweetener	2
+​better off	feelings	Sweetener	2
+​better off	fuck	Sweetener	1
+​better off	gettin	Sweetener	2
+​better off	half	Sweetener	2
+​better off	hard	Sweetener	1
+​better off	hate	Sweetener	2
+​better off	head	Sweetener	2
+​better off	headaches	Sweetener	2
+​better off	heart	Sweetener	2
+​better off	honest	Sweetener	2
+​better off	importance	Sweetener	1
+​better off	insisting	Sweetener	1
+​better off	jealous	Sweetener	2
+​better off	knees	Sweetener	1
+​better off	leave	Sweetener	1
+​better off	listen	Sweetener	1
+​better off	lot	Sweetener	3
+​better off	love	Sweetener	2
+​better off	nah	Sweetener	1
+​better off	offense	Sweetener	1
+​better off	orbit	Sweetener	1
+​better off	proposition	Sweetener	1
+​better off	ready	Sweetener	2
+​better off	ridden	Sweetener	2
+​better off	road	Sweetener	3
+​better off	roof	Sweetener	1
+​better off	shoes	Sweetener	2
+​better off	smoke	Sweetener	1
+​better off	start	Sweetener	2
+​better off	steering	Sweetener	2
+​better off	swear	Sweetener	1
+​better off	thousand	Sweetener	3
+​better off	topics	Sweetener	1
+​better off	tree	Sweetener	1
+​better off	uh	Sweetener	1
+​better off	watch	Sweetener	1
+​better off	wild	Sweetener	3
+​better off	ya	Sweetener	3
+​better off	yeah	Sweetener	4
+​blazed (Ft. Pharrell Williams)	billion	Sweetener	1
+​blazed (Ft. Pharrell Williams)	blazed	Sweetener	5
+​blazed (Ft. Pharrell Williams)	care	Sweetener	1
+​blazed (Ft. Pharrell Williams)	could've	Sweetener	1
+​blazed (Ft. Pharrell Williams)	demeanor	Sweetener	2
+​blazed (Ft. Pharrell Williams)	dreamin	Sweetener	2
+​blazed (Ft. Pharrell Williams)	earth	Sweetener	1
+​blazed (Ft. Pharrell Williams)	found	Sweetener	2
+​blazed (Ft. Pharrell Williams)	fun	Sweetener	1
+​blazed (Ft. Pharrell Williams)	happen	Sweetener	1
+​blazed (Ft. Pharrell Williams)	happening	Sweetener	1
+​blazed (Ft. Pharrell Williams)	hide	Sweetener	1
+​blazed (Ft. Pharrell Williams)	inside	Sweetener	2
+​blazed (Ft. Pharrell Williams)	laugh	Sweetener	1
+​blazed (Ft. Pharrell Williams)	life	Sweetener	1
+​blazed (Ft. Pharrell Williams)	light	Sweetener	1
+​blazed (Ft. Pharrell Williams)	listening	Sweetener	1
+​blazed (Ft. Pharrell Williams)	lotto	Sweetener	1
+​blazed (Ft. Pharrell Williams)	love	Sweetener	4
+​blazed (Ft. Pharrell Williams)	magnetic	Sweetener	2
+​blazed (Ft. Pharrell Williams)	odds	Sweetener	1
+​blazed (Ft. Pharrell Williams)	past	Sweetener	1
+​blazed (Ft. Pharrell Williams)	play	Sweetener	1
+​blazed (Ft. Pharrell Williams)	shawty	Sweetener	5
+​blazed (Ft. Pharrell Williams)	sleep	Sweetener	1
+​blazed (Ft. Pharrell Williams)	somethin	Sweetener	2
+​blazed (Ft. Pharrell Williams)	soul	Sweetener	1
+​blazed (Ft. Pharrell Williams)	til	Sweetener	2
+​blazed (Ft. Pharrell Williams)	tv	Sweetener	1
+​blazed (Ft. Pharrell Williams)	universe	Sweetener	1
+​blazed (Ft. Pharrell Williams)	vast	Sweetener	1
+​blazed (Ft. Pharrell Williams)	wake	Sweetener	1
+​blazed (Ft. Pharrell Williams)	worth	Sweetener	1
+​blazed (Ft. Pharrell Williams)	yeah	Sweetener	1
+​bloodline	apologize	Thank U, Next	6
+​bloodline	baby	Thank U, Next	2
+​bloodline	bad	Thank U, Next	1
+​bloodline	bloodline	Thank U, Next	7
+​bloodline	boy	Thank U, Next	2
+​bloodline	complete	Thank U, Next	2
+​bloodline	day	Thank U, Next	1
+​bloodline	eh	Thank U, Next	10
+​bloodline	feelin	Thank U, Next	1
+​bloodline	gon	Thank U, Next	6
+​bloodline	gotta	Thank U, Next	2
+​bloodline	hell	Thank U, Next	1
+​bloodline	incredible	Thank U, Next	1
+​bloodline	leave	Thank U, Next	6
+​bloodline	linkin	Thank U, Next	1
+​bloodline	lookin	Thank U, Next	1
+​bloodline	love	Thank U, Next	9
+​bloodline	mind	Thank U, Next	1
+​bloodline	mine	Thank U, Next	3
+​bloodline	mmm	Thank U, Next	1
+​bloodline	nah	Thank U, Next	1
+​bloodline	nothin	Thank U, Next	1
+​bloodline	sailed	Thank U, Next	1
+​bloodline	satisfy	Thank U, Next	1
+​bloodline	ship	Thank U, Next	1
+​bloodline	shit	Thank U, Next	6
+​bloodline	talking	Thank U, Next	1
+​bloodline	thinkin	Thank U, Next	1
+​bloodline	time	Thank U, Next	6
+​bloodline	true	Thank U, Next	1
+​bloodline	tryna	Thank U, Next	5
+​bloodline	ugh	Thank U, Next	1
+​bloodline	uh	Thank U, Next	2
+​bloodline	wanna	Thank U, Next	3
+​bloodline	woo	Thank U, Next	1
+​bloodline	yeah	Thank U, Next	42
+​bloodline	yee	Thank U, Next	1
+​bloodline	yuh	Thank U, Next	2
+​borderline (Ft. Missy Elliott)	babe	Sweetener	2
+​borderline (Ft. Missy Elliott)	baby	Sweetener	4
+​borderline (Ft. Missy Elliott)	bet	Sweetener	3
+​borderline (Ft. Missy Elliott)	bit	Sweetener	4
+​borderline (Ft. Missy Elliott)	borderline	Sweetener	5
+​borderline (Ft. Missy Elliott)	bout	Sweetener	1
+​borderline (Ft. Missy Elliott)	boy	Sweetener	2
+​borderline (Ft. Missy Elliott)	chase	Sweetener	1
+​borderline (Ft. Missy Elliott)	chasin	Sweetener	4
+​borderline (Ft. Missy Elliott)	chew	Sweetener	1
+​borderline (Ft. Missy Elliott)	chicks	Sweetener	1
+​borderline (Ft. Missy Elliott)	comin	Sweetener	1
+​borderline (Ft. Missy Elliott)	cream	Sweetener	2
+​borderline (Ft. Missy Elliott)	crowd	Sweetener	1
+​borderline (Ft. Missy Elliott)	cuff	Sweetener	1
+​borderline (Ft. Missy Elliott)	cute	Sweetener	1
+​borderline (Ft. Missy Elliott)	dang	Sweetener	1
+​borderline (Ft. Missy Elliott)	days	Sweetener	1
+​borderline (Ft. Missy Elliott)	dudes	Sweetener	1
+​borderline (Ft. Missy Elliott)	exclusive	Sweetener	1
+​borderline (Ft. Missy Elliott)	feeling	Sweetener	1
+​borderline (Ft. Missy Elliott)	fine	Sweetener	1
+​borderline (Ft. Missy Elliott)	fresh	Sweetener	1
+​borderline (Ft. Missy Elliott)	grapes	Sweetener	1
+​borderline (Ft. Missy Elliott)	hard	Sweetener	7
+​borderline (Ft. Missy Elliott)	hollerin	Sweetener	1
+​borderline (Ft. Missy Elliott)	i'ma	Sweetener	1
+​borderline (Ft. Missy Elliott)	ice	Sweetener	2
+​borderline (Ft. Missy Elliott)	knees	Sweetener	2
+​borderline (Ft. Missy Elliott)	lay	Sweetener	1
+​borderline (Ft. Missy Elliott)	leave	Sweetener	2
+​borderline (Ft. Missy Elliott)	light	Sweetener	8
+​borderline (Ft. Missy Elliott)	lot	Sweetener	1
+​borderline (Ft. Missy Elliott)	meet	Sweetener	4
+​borderline (Ft. Missy Elliott)	mine	Sweetener	4
+​borderline (Ft. Missy Elliott)	pass	Sweetener	1
+​borderline (Ft. Missy Elliott)	play	Sweetener	1
+​borderline (Ft. Missy Elliott)	playin	Sweetener	2
+​borderline (Ft. Missy Elliott)	playing	Sweetener	2
+​borderline (Ft. Missy Elliott)	quit	Sweetener	2
+​borderline (Ft. Missy Elliott)	space	Sweetener	1
+​borderline (Ft. Missy Elliott)	stop	Sweetener	6
+​borderline (Ft. Missy Elliott)	strong	Sweetener	1
+​borderline (Ft. Missy Elliott)	tastin	Sweetener	2
+​borderline (Ft. Missy Elliott)	tight	Sweetener	1
+​borderline (Ft. Missy Elliott)	time	Sweetener	5
+​borderline (Ft. Missy Elliott)	tryin'just	Sweetener	4
+​borderline (Ft. Missy Elliott)	tryna	Sweetener	2
+​borderline (Ft. Missy Elliott)	type	Sweetener	2
+​borderline (Ft. Missy Elliott)	uh	Sweetener	1
+​borderline (Ft. Missy Elliott)	whoa	Sweetener	6
+​borderline (Ft. Missy Elliott)	wifey	Sweetener	2
+​borderline (Ft. Missy Elliott)	words	Sweetener	1
+Break Free (Ft. Zedd)	alive	My Everything	3
+Break Free (Ft. Zedd)	anymore	My Everything	1
+Break Free (Ft. Zedd)	babe	My Everything	1
+Break Free (Ft. Zedd)	baby	My Everything	2
+Break Free (Ft. Zedd)	body	My Everything	1
+Break Free (Ft. Zedd)	break	My Everything	6
+Break Free (Ft. Zedd)	broken	My Everything	2
+Break Free (Ft. Zedd)	deadly	My Everything	1
+Break Free (Ft. Zedd)	deeper	My Everything	1
+Break Free (Ft. Zedd)	die	My Everything	2
+Break Free (Ft. Zedd)	dreams	My Everything	1
+Break Free (Ft. Zedd)	fake	My Everything	1
+Break Free (Ft. Zedd)	fatal	My Everything	1
+Break Free (Ft. Zedd)	fever	My Everything	1
+Break Free (Ft. Zedd)	free	My Everything	6
+Break Free (Ft. Zedd)	hands	My Everything	2
+Break Free (Ft. Zedd)	hear	My Everything	2
+Break Free (Ft. Zedd)	heart	My Everything	2
+Break Free (Ft. Zedd)	hell	My Everything	1
+Break Free (Ft. Zedd)	hide	My Everything	1
+Break Free (Ft. Zedd)	highway	My Everything	1
+Break Free (Ft. Zedd)	lethal	My Everything	1
+Break Free (Ft. Zedd)	lie	My Everything	2
+Break Free (Ft. Zedd)	na	My Everything	1
+Break Free (Ft. Zedd)	ooh	My Everything	8
+Break Free (Ft. Zedd)	pretend	My Everything	1
+Break Free (Ft. Zedd)	resist	My Everything	6
+Break Free (Ft. Zedd)	should've	My Everything	1
+Break Free (Ft. Zedd)	spell	My Everything	1
+Break Free (Ft. Zedd)	stronger	My Everything	6
+Break Free (Ft. Zedd)	time	My Everything	1
+Break Free (Ft. Zedd)	tonight	My Everything	2
+Break Free (Ft. Zedd)	wanna	My Everything	4
+Break Free (Ft. Zedd)	woke	My Everything	1
+Break Free (Ft. Zedd)	ya	My Everything	6
+Break Free (Ft. Zedd)	yeah	My Everything	3
+​break up with your girlfriend, i'm bored	actin	Thank U, Next	1
+​break up with your girlfriend, i'm bored	baby	Thank U, Next	1
+​break up with your girlfriend, i'm bored	bored	Thank U, Next	6
+​break up with your girlfriend, i'm bored	bout	Thank U, Next	2
+​break up with your girlfriend, i'm bored	break	Thank U, Next	6
+​break up with your girlfriend, i'm bored	call	Thank U, Next	1
+​break up with your girlfriend, i'm bored	care	Thank U, Next	6
+​break up with your girlfriend, i'm bored	compare	Thank U, Next	1
+​break up with your girlfriend, i'm bored	crazy	Thank U, Next	1
+​break up with your girlfriend, i'm bored	damn	Thank U, Next	2
+​break up with your girlfriend, i'm bored	doin	Thank U, Next	1
+​break up with your girlfriend, i'm bored	fair	Thank U, Next	1
+​break up with your girlfriend, i'm bored	feel	Thank U, Next	1
+​break up with your girlfriend, i'm bored	feelin	Thank U, Next	1
+​break up with your girlfriend, i'm bored	fuckin	Thank U, Next	2
+​break up with your girlfriend, i'm bored	girlfriend	Thank U, Next	31
+​break up with your girlfriend, i'm bored	happen	Thank U, Next	1
+​break up with your girlfriend, i'm bored	hate	Thank U, Next	1
+​break up with your girlfriend, i'm bored	hatin	Thank U, Next	1
+​break up with your girlfriend, i'm bored	hit	Thank U, Next	4
+​break up with your girlfriend, i'm bored	hmm	Thank U, Next	2
+​break up with your girlfriend, i'm bored	home	Thank U, Next	2
+​break up with your girlfriend, i'm bored	innocent	Thank U, Next	1
+​break up with your girlfriend, i'm bored	knees	Thank U, Next	1
+​break up with your girlfriend, i'm bored	met	Thank U, Next	1
+​break up with your girlfriend, i'm bored	mmm	Thank U, Next	6
+​break up with your girlfriend, i'm bored	mornin	Thank U, Next	6
+​break up with your girlfriend, i'm bored	nice	Thank U, Next	2
+​break up with your girlfriend, i'm bored	play	Thank U, Next	1
+​break up with your girlfriend, i'm bored	practically	Thank U, Next	1
+​break up with your girlfriend, i'm bored	realize	Thank U, Next	2
+​break up with your girlfriend, i'm bored	shit	Thank U, Next	1
+​break up with your girlfriend, i'm bored	singin	Thank U, Next	1
+​break up with your girlfriend, i'm bored	songs	Thank U, Next	1
+​break up with your girlfriend, i'm bored	streets	Thank U, Next	1
+​break up with your girlfriend, i'm bored	taste	Thank U, Next	1
+​break up with your girlfriend, i'm bored	thinkin	Thank U, Next	2
+​break up with your girlfriend, i'm bored	trippin	Thank U, Next	2
+​break up with your girlfriend, i'm bored	type	Thank U, Next	1
+​break up with your girlfriend, i'm bored	wanna	Thank U, Next	1
+​break up with your girlfriend, i'm bored	yeah	Thank U, Next	33
+​break up with your girlfriend, i'm bored	yee	Thank U, Next	1
+Break Your Heart Right Back (Ft. Childish Gambino)	baby	My Everything	30
+Break Your Heart Right Back (Ft. Childish Gambino)	blind	My Everything	4
+Break Your Heart Right Back (Ft. Childish Gambino)	break	My Everything	7
+Break Your Heart Right Back (Ft. Childish Gambino)	coming	My Everything	8
+Break Your Heart Right Back (Ft. Childish Gambino)	cry	My Everything	4
+Break Your Heart Right Back (Ft. Childish Gambino)	dude	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	feel	My Everything	4
+Break Your Heart Right Back (Ft. Childish Gambino)	flow	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	found	My Everything	2
+Break Your Heart Right Back (Ft. Childish Gambino)	friend	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	girls	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	gross	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	guessing	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	guy	My Everything	2
+Break Your Heart Right Back (Ft. Childish Gambino)	guys	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	hate	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	heart	My Everything	7
+Break Your Heart Right Back (Ft. Childish Gambino)	hey	My Everything	2
+Break Your Heart Right Back (Ft. Childish Gambino)	lie	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	listen	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	loves	My Everything	18
+Break Your Heart Right Back (Ft. Childish Gambino)	loyal	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	lunch	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	mad	My Everything	2
+Break Your Heart Right Back (Ft. Childish Gambino)	money	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	move	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	na	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	naw	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	nice	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	nickname	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	ooh	My Everything	5
+Break Your Heart Right Back (Ft. Childish Gambino)	river	My Everything	4
+Break Your Heart Right Back (Ft. Childish Gambino)	round	My Everything	7
+Break Your Heart Right Back (Ft. Childish Gambino)	running	My Everything	7
+Break Your Heart Right Back (Ft. Childish Gambino)	school	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	shoulda	My Everything	2
+Break Your Heart Right Back (Ft. Childish Gambino)	sick	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	signs	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	spell	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	stage	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	step	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	tellin	My Everything	4
+Break Your Heart Right Back (Ft. Childish Gambino)	telling	My Everything	4
+Break Your Heart Right Back (Ft. Childish Gambino)	tho	My Everything	4
+Break Your Heart Right Back (Ft. Childish Gambino)	time	My Everything	3
+Break Your Heart Right Back (Ft. Childish Gambino)	town	My Everything	4
+Break Your Heart Right Back (Ft. Childish Gambino)	true	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	trust	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	type	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	uh	My Everything	2
+Break Your Heart Right Back (Ft. Childish Gambino)	understand	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	wanna	My Everything	4
+Break Your Heart Right Back (Ft. Childish Gambino)	whack	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	woah	My Everything	2
+Break Your Heart Right Back (Ft. Childish Gambino)	ya	My Everything	1
+Break Your Heart Right Back (Ft. Childish Gambino)	yeah	My Everything	14
+​​breathin	air	Sweetener	7
+​​breathin	blood	Sweetener	3
+​​breathin	breathin	Sweetener	32
+​​breathin	cares	Sweetener	1
+​​breathin	clouds	Sweetener	1
+​​breathin	complicate	Sweetener	1
+​​breathin	complicated	Sweetener	1
+​​breathin	control	Sweetener	3
+​​breathin	days	Sweetener	1
+​​breathin	energy	Sweetener	1
+​​breathin	fabricated	Sweetener	2
+​​breathin	fallin	Sweetener	3
+​​breathin	feel	Sweetener	3
+​​breathin	gnihtemos	Sweetener	1
+​​breathin	gotta	Sweetener	6
+​​breathin	hard	Sweetener	1
+​​breathin	lacigam	Sweetener	1
+​​breathin	laiceps	Sweetener	1
+​​breathin	loud	Sweetener	1
+​​breathin	medicate	Sweetener	1
+​​breathin	mind	Sweetener	3
+​​breathin	mmm	Sweetener	7
+​​breathin	od	Sweetener	1
+​​breathin	ot	Sweetener	1
+​​breathin	people	Sweetener	1
+​​breathin	remind	Sweetener	1
+​​breathin	room's	Sweetener	1
+​​breathin	runnin	Sweetener	3
+​​breathin	ruoy	Sweetener	1
+​​breathin	s'thginot	Sweetener	1
+​​breathin	shit's	Sweetener	2
+​​breathin	sky's	Sweetener	3
+​​breathin	spinning	Sweetener	1
+​​breathin	swear	Sweetener	3
+​​breathin	thgin	Sweetener	1
+​​breathin	time	Sweetener	6
+​​breathin	tub	Sweetener	1
+​​breathin	tune	Sweetener	1
+​​breathin	whoa	Sweetener	1
+​​breathin	yeah	Sweetener	5
+Cadillac Song	babe	My Everything	3
+Cadillac Song	baby	My Everything	7
+Cadillac Song	bout	My Everything	4
+Cadillac Song	breeze	My Everything	1
+Cadillac Song	cadillac	My Everything	3
+Cadillac Song	catch	My Everything	2
+Cadillac Song	change	My Everything	4
+Cadillac Song	compares	My Everything	3
+Cadillac Song	day	My Everything	4
+Cadillac Song	days	My Everything	1
+Cadillac Song	easier	My Everything	1
+Cadillac Song	fell	My Everything	2
+Cadillac Song	forever	My Everything	3
+Cadillac Song	forget	My Everything	1
+Cadillac Song	heart	My Everything	2
+Cadillac Song	honey	My Everything	1
+Cadillac Song	kiss	My Everything	1
+Cadillac Song	memories	My Everything	1
+Cadillac Song	missing	My Everything	1
+Cadillac Song	riding	My Everything	3
+Cadillac Song	round	My Everything	3
+Cadillac Song	separated	My Everything	2
+Cadillac Song	shoulda	My Everything	2
+Cadillac Song	spent	My Everything	1
+Cadillac Song	summer	My Everything	1
+Cadillac Song	thinking	My Everything	3
+Cadillac Song	time	My Everything	1
+Cadillac Song	worried	My Everything	1
+Dangerous Woman	baby	Dangerous Woman	1
+Dangerous Woman	bad	Dangerous Woman	4
+Dangerous Woman	bout	Dangerous Woman	44
+Dangerous Woman	boy	Dangerous Woman	11
+Dangerous Woman	bulletproof	Dangerous Woman	1
+Dangerous Woman	business	Dangerous Woman	1
+Dangerous Woman	completely	Dangerous Woman	1
+Dangerous Woman	control	Dangerous Woman	1
+Dangerous Woman	danger	Dangerous Woman	1
+Dangerous Woman	dangerous	Dangerous Woman	3
+Dangerous Woman	decision	Dangerous Woman	1
+Dangerous Woman	eh	Dangerous Woman	2
+Dangerous Woman	feel	Dangerous Woman	3
+Dangerous Woman	feeling	Dangerous Woman	5
+Dangerous Woman	finished	Dangerous Woman	1
+Dangerous Woman	flavor	Dangerous Woman	1
+Dangerous Woman	focused	Dangerous Woman	1
+Dangerous Woman	girls	Dangerous Woman	8
+Dangerous Woman	giver	Dangerous Woman	1
+Dangerous Woman	god	Dangerous Woman	3
+Dangerous Woman	heh	Dangerous Woman	1
+Dangerous Woman	hey	Dangerous Woman	1
+Dangerous Woman	hmm	Dangerous Woman	2
+Dangerous Woman	hold	Dangerous Woman	1
+Dangerous Woman	inside	Dangerous Woman	5
+Dangerous Woman	introducing	Dangerous Woman	1
+Dangerous Woman	limits'cause	Dangerous Woman	1
+Dangerous Woman	live	Dangerous Woman	1
+Dangerous Woman	loaded	Dangerous Woman	1
+Dangerous Woman	locked	Dangerous Woman	1
+Dangerous Woman	makes	Dangerous Woman	6
+Dangerous Woman	mind	Dangerous Woman	1
+Dangerous Woman	mmm	Dangerous Woman	2
+Dangerous Woman	moment	Dangerous Woman	1
+Dangerous Woman	movin	Dangerous Woman	1
+Dangerous Woman	nature	Dangerous Woman	1
+Dangerous Woman	ooh	Dangerous Woman	2
+Dangerous Woman	permission	Dangerous Woman	1
+Dangerous Woman	prove	Dangerous Woman	1
+Dangerous Woman	save	Dangerous Woman	1
+Dangerous Woman	savor	Dangerous Woman	1
+Dangerous Woman	skin	Dangerous Woman	4
+Dangerous Woman	somethin	Dangerous Woman	44
+Dangerous Woman	start	Dangerous Woman	1
+Dangerous Woman	stop	Dangerous Woman	2
+Dangerous Woman	taker	Dangerous Woman	1
+Dangerous Woman	taking	Dangerous Woman	1
+Dangerous Woman	taste	Dangerous Woman	1
+Dangerous Woman	test	Dangerous Woman	1
+Dangerous Woman	underneath	Dangerous Woman	4
+Dangerous Woman	wanna	Dangerous Woman	8
+Dangerous Woman	witness	Dangerous Woman	1
+Dangerous Woman	woman	Dangerous Woman	3
+Dangerous Woman	ya	Dangerous Woman	1
+Dangerous Woman	yeah	Dangerous Woman	14
+Daydreamin'	11	Yours Truly	1
+Daydreamin'	19	Yours Truly	1
+Daydreamin'	arms	Yours Truly	1
+Daydreamin'	attention	Yours Truly	1
+Daydreamin'	caught	Yours Truly	1
+Daydreamin'	charm	Yours Truly	1
+Daydreamin'	chin	Yours Truly	6
+Daydreamin'	daydreamin	Yours Truly	6
+Daydreamin'	dimension	Yours Truly	1
+Daydreamin'	eyes	Yours Truly	2
+Daydreamin'	feel	Yours Truly	2
+Daydreamin'	fo	Yours Truly	2
+Daydreamin'	gotta	Yours Truly	2
+Daydreamin'	hands	Yours Truly	6
+Daydreamin'	hold	Yours Truly	1
+Daydreamin'	inside	Yours Truly	2
+Daydreamin'	ladies	Yours Truly	1
+Daydreamin'	life	Yours Truly	1
+Daydreamin'	looked	Yours Truly	1
+Daydreamin'	love	Yours Truly	1
+Daydreamin'	lovin	Yours Truly	2
+Daydreamin'	man's	Yours Truly	1
+Daydreamin'	man18	Yours Truly	1
+Daydreamin'	ou	Yours Truly	1
+Daydreamin'	palm	Yours Truly	6
+Daydreamin'	smile	Yours Truly	2
+Daydreamin'	standing	Yours Truly	1
+Daydreamin'	stoop	Yours Truly	1
+Daydreamin'	talk	Yours Truly	2
+Daydreamin'	tonight	Yours Truly	2
+Daydreamin'	wait	Yours Truly	3
+Daydreamin'	walk	Yours Truly	2
+Daydreamin'	walked	Yours Truly	1
+Daydreamin'	wanna	Yours Truly	2
+Daydreamin'	ya	Yours Truly	4
+Daydreamin'	yeah	Yours Truly	1
+Everyday (Ft. Future)	80s	Dangerous Woman	1
+Everyday (Ft. Future)	anytime	Dangerous Woman	2
+Everyday (Ft. Future)	baby	Dangerous Woman	6
+Everyday (Ft. Future)	bad	Dangerous Woman	1
+Everyday (Ft. Future)	body	Dangerous Woman	1
+Everyday (Ft. Future)	bout	Dangerous Woman	2
+Everyday (Ft. Future)	boy	Dangerous Woman	1
+Everyday (Ft. Future)	breathe	Dangerous Woman	2
+Everyday (Ft. Future)	compromise	Dangerous Woman	1
+Everyday (Ft. Future)	day	Dangerous Woman	42
+Everyday (Ft. Future)	drive	Dangerous Woman	1
+Everyday (Ft. Future)	fall	Dangerous Woman	1
+Everyday (Ft. Future)	feel	Dangerous Woman	1
+Everyday (Ft. Future)	fell	Dangerous Woman	1
+Everyday (Ft. Future)	fight	Dangerous Woman	1
+Everyday (Ft. Future)	giving	Dangerous Woman	5
+Everyday (Ft. Future)	guy	Dangerous Woman	2
+Everyday (Ft. Future)	keys	Dangerous Woman	1
+Everyday (Ft. Future)	la	Dangerous Woman	80
+Everyday (Ft. Future)	late	Dangerous Woman	1
+Everyday (Ft. Future)	love	Dangerous Woman	1
+Everyday (Ft. Future)	lovin	Dangerous Woman	1
+Everyday (Ft. Future)	makin	Dangerous Woman	1
+Everyday (Ft. Future)	misbehave	Dangerous Woman	1
+Everyday (Ft. Future)	mistakes	Dangerous Woman	1
+Everyday (Ft. Future)	night	Dangerous Woman	1
+Everyday (Ft. Future)	ooh	Dangerous Woman	5
+Everyday (Ft. Future)	passion	Dangerous Woman	2
+Everyday (Ft. Future)	past	Dangerous Woman	1
+Everyday (Ft. Future)	quit	Dangerous Woman	5
+Everyday (Ft. Future)	ride	Dangerous Woman	1
+Everyday (Ft. Future)	rotate	Dangerous Woman	1
+Everyday (Ft. Future)	running	Dangerous Woman	1
+Everyday (Ft. Future)	shit	Dangerous Woman	10
+Everyday (Ft. Future)	sun	Dangerous Woman	1
+Everyday (Ft. Future)	thinking	Dangerous Woman	1
+Everyday (Ft. Future)	til	Dangerous Woman	1
+Everyday (Ft. Future)	trippin	Dangerous Woman	1
+Everyday (Ft. Future)	vacation	Dangerous Woman	1
+Everyday (Ft. Future)	veins	Dangerous Woman	1
+Everyday (Ft. Future)	vintage	Dangerous Woman	1
+Everyday (Ft. Future)	yeah	Dangerous Woman	3
+​everytime	baby	Sweetener	1
+​everytime	blank	Sweetener	1
+​everytime	boy	Sweetener	1
+​everytime	bringing	Sweetener	4
+​everytime	call	Sweetener	2
+​everytime	calling	Sweetener	1
+​everytime	change	Sweetener	1
+​everytime	control	Sweetener	1
+​everytime	destruct	Sweetener	2
+​everytime	drunk	Sweetener	2
+​everytime	energy	Sweetener	2
+​everytime	fall	Sweetener	2
+​everytime	fight	Sweetener	2
+​everytime	free	Sweetener	2
+​everytime	giving	Sweetener	1
+​everytime	god	Sweetener	4
+​everytime	head	Sweetener	1
+​everytime	idiot	Sweetener	2
+​everytime	lace	Sweetener	1
+​everytime	mmm	Sweetener	1
+​everytime	outta	Sweetener	1
+​everytime	people	Sweetener	1
+​everytime	pretend	Sweetener	2
+​everytime	regular	Sweetener	2
+​everytime	shakespeare	Sweetener	1
+​everytime	slip	Sweetener	1
+​everytime	stares	Sweetener	1
+​everytime	teenager	Sweetener	2
+​everytime	telling	Sweetener	1
+​everytime	time	Sweetener	6
+​everytime	tired	Sweetener	2
+​everytime	wave	Sweetener	1
+​everytime	weak	Sweetener	2
+​everytime	yeah	Sweetener	3
+​everytime	yee	Sweetener	1
+​everytime	yuh	Sweetener	5
+​fake smile	ah	Thank U, Next	12
+​fake smile	alright	Thank U, Next	3
+​fake smile	arms	Thank U, Next	2
+​fake smile	attitude	Thank U, Next	4
+​fake smile	baby	Thank U, Next	1
+​fake smile	blame	Thank U, Next	1
+​fake smile	car	Thank U, Next	1
+​fake smile	chose	Thank U, Next	1
+​fake smile	crazy	Thank U, Next	1
+​fake smile	crossed	Thank U, Next	2
+​fake smile	fake	Thank U, Next	16
+​fake smile	feeling	Thank U, Next	4
+​fake smile	fine	Thank U, Next	4
+​fake smile	fuck	Thank U, Next	6
+​fake smile	gettin	Thank U, Next	1
+​fake smile	gon	Thank U, Next	5
+​fake smile	gotta	Thank U, Next	2
+​fake smile	grateful	Thank U, Next	1
+​fake smile	happy	Thank U, Next	2
+​fake smile	hard	Thank U, Next	1
+​fake smile	hear	Thank U, Next	1
+​fake smile	honest	Thank U, Next	2
+​fake smile	hurt	Thank U, Next	2
+​fake smile	laughter	Thank U, Next	2
+​fake smile	leave	Thank U, Next	2
+​fake smile	lie	Thank U, Next	7
+​fake smile	life	Thank U, Next	1
+​fake smile	lips	Thank U, Next	2
+​fake smile	love	Thank U, Next	2
+​fake smile	mad	Thank U, Next	2
+​fake smile	neck	Thank U, Next	2
+​fake smile	night	Thank U, Next	1
+​fake smile	ooh	Thank U, Next	1
+​fake smile	party	Thank U, Next	1
+​fake smile	pouted	Thank U, Next	2
+​fake smile	read	Thank U, Next	1
+​fake smile	roll	Thank U, Next	2
+​fake smile	sayin	Thank U, Next	2
+​fake smile	shock	Thank U, Next	1
+​fake smile	shocking	Thank U, Next	1
+​fake smile	smile	Thank U, Next	16
+​fake smile	starving	Thank U, Next	1
+​fake smile	tears	Thank U, Next	2
+​fake smile	time	Thank U, Next	1
+​fake smile	tv	Thank U, Next	1
+​fake smile	walk	Thank U, Next	1
+​fake smile	woo	Thank U, Next	12
+​fake smile	write	Thank U, Next	1
+​fake smile	yeah	Thank U, Next	1
+​fake smile	yuh	Thank U, Next	2
+Focus	ahead	Dangerous Woman	1
+Focus	ba	Dangerous Woman	4
+Focus	babe	Dangerous Woman	2
+Focus	baby	Dangerous Woman	1
+Focus	bae	Dangerous Woman	1
+Focus	bait	Dangerous Woman	1
+Focus	change	Dangerous Woman	1
+Focus	curious	Dangerous Woman	1
+Focus	da	Dangerous Woman	6
+Focus	day	Dangerous Woman	1
+Focus	doin	Dangerous Woman	1
+Focus	focus	Dangerous Woman	55
+Focus	girls	Dangerous Woman	1
+Focus	gonna	Dangerous Woman	1
+Focus	head	Dangerous Woman	1
+Focus	hey	Dangerous Woman	8
+Focus	hold	Dangerous Woman	1
+Focus	holdin	Dangerous Woman	2
+Focus	holding	Dangerous Woman	3
+Focus	hopin	Dangerous Woman	2
+Focus	inside	Dangerous Woman	3
+Focus	light	Dangerous Woman	3
+Focus	lips	Dangerous Woman	1
+Focus	lookin	Dangerous Woman	1
+Focus	mmm	Dangerous Woman	1
+Focus	night	Dangerous Woman	1
+Focus	ohh	Dangerous Woman	1
+Focus	ooh	Dangerous Woman	2
+Focus	react	Dangerous Woman	1
+Focus	real	Dangerous Woman	4
+Focus	shit	Dangerous Woman	1
+Focus	talk	Dangerous Woman	3
+Focus	uh	Dangerous Woman	1
+Focus	universe	Dangerous Woman	3
+Focus	woah	Dangerous Woman	1
+Focus	woo	Dangerous Woman	18
+Focus	workin	Dangerous Woman	1
+Focus	written	Dangerous Woman	1
+Focus	yeah	Dangerous Woman	38
+​get well soon	ah	Sweetener	6
+​get well soon	ayy	Sweetener	1
+​get well soon	babe	Sweetener	3
+​get well soon	baby	Sweetener	1
+​get well soon	blocked	Sweetener	2
+​get well soon	body	Sweetener	2
+​get well soon	body's	Sweetener	1
+​get well soon	bubble	Sweetener	3
+​get well soon	call	Sweetener	7
+​get well soon	care	Sweetener	5
+​get well soon	controlled	Sweetener	1
+​get well soon	days	Sweetener	2
+​get well soon	deal	Sweetener	2
+​get well soon	deny	Sweetener	4
+​get well soon	disconnected	Sweetener	1
+​get well soon	drops	Sweetener	2
+​get well soon	earth	Sweetener	1
+​get well soon	fear	Sweetener	2
+​get well soon	feel	Sweetener	21
+​get well soon	floatin	Sweetener	1
+​get well soon	frozen	Sweetener	1
+​get well soon	girl	Sweetener	6
+​get well soon	gotta	Sweetener	2
+​get well soon	ground	Sweetener	1
+​get well soon	head	Sweetener	1
+​get well soon	home	Sweetener	3
+​get well soon	hug	Sweetener	3
+​get well soon	ifs	Sweetener	1
+​get well soon	issue	Sweetener	1
+​get well soon	ladder	Sweetener	1
+​get well soon	life	Sweetener	1
+​get well soon	matter	Sweetener	2
+​get well soon	mind	Sweetener	1
+​get well soon	mmm	Sweetener	2
+​get well soon	mud	Sweetener	1
+​get well soon	notice	Sweetener	1
+​get well soon	ooh	Sweetener	2
+​get well soon	overloaded	Sweetener	1
+​get well soon	phone	Sweetener	3
+​get well soon	pull	Sweetener	2
+​get well soon	sheesh	Sweetener	1
+​get well soon	sit	Sweetener	2
+​get well soon	system	Sweetener	1
+​get well soon	talking	Sweetener	4
+​get well soon	time	Sweetener	4
+​get well soon	top	Sweetener	5
+​get well soon	trust	Sweetener	2
+​get well soon	unfollow	Sweetener	2
+​get well soon	woo	Sweetener	5
+​get well soon	wooh	Sweetener	2
+​get well soon	write	Sweetener	2
+​get well soon	wrong	Sweetener	6
+​get well soon	ye	Sweetener	1
+​get well soon	yeah	Sweetener	15
+​get well soon	yeh	Sweetener	1
+​get well soon	yuh	Sweetener	13
+​ghostin	admit	Thank U, Next	2
+​ghostin	arms	Thank U, Next	1
+​ghostin	baby	Thank U, Next	3
+​ghostin	baggage	Thank U, Next	4
+​ghostin	bed	Thank U, Next	1
+​ghostin	breaks	Thank U, Next	4
+​ghostin	cards	Thank U, Next	1
+​ghostin	cry	Thank U, Next	5
+​ghostin	day	Thank U, Next	1
+​ghostin	dealt	Thank U, Next	1
+​ghostin	dreaming	Thank U, Next	1
+​ghostin	forward	Thank U, Next	1
+​ghostin	ghostin	Thank U, Next	2
+​ghostin	girl	Thank U, Next	5
+​ghostin	hating	Thank U, Next	2
+​ghostin	head	Thank U, Next	1
+​ghostin	hear	Thank U, Next	1
+​ghostin	heart	Thank U, Next	4
+​ghostin	hell	Thank U, Next	2
+​ghostin	hold	Thank U, Next	1
+​ghostin	hurts	Thank U, Next	2
+​ghostin	leave	Thank U, Next	1
+​ghostin	living	Thank U, Next	1
+​ghostin	lot	Thank U, Next	4
+​ghostin	love	Thank U, Next	3
+​ghostin	mmh	Thank U, Next	2
+​ghostin	night	Thank U, Next	1
+​ghostin	parade	Thank U, Next	1
+​ghostin	past	Thank U, Next	5
+​ghostin	puttin	Thank U, Next	2
+​ghostin	rain	Thank U, Next	1
+​ghostin	sleeping	Thank U, Next	1
+​ghostin	stead	Thank U, Next	2
+​ghostin	tear's	Thank U, Next	1
+​ghostin	time	Thank U, Next	2
+​ghostin	understanding	Thank U, Next	2
+​ghostin	visit	Thank U, Next	1
+​ghostin	yeah	Thank U, Next	3
+​God is a woman	afraid	Sweetener	1
+​God is a woman	baby	Sweetener	2
+​God is a woman	blessed	Sweetener	1
+​God is a woman	boy	Sweetener	2
+​God is a woman	company	Sweetener	2
+​God is a woman	confess	Sweetener	1
+​God is a woman	deserve	Sweetener	1
+​God is a woman	feel	Sweetener	3
+​God is a woman	feelin	Sweetener	3
+​God is a woman	fight	Sweetener	3
+​God is a woman	flourishing	Sweetener	2
+​God is a woman	god	Sweetener	13
+​God is a woman	hands	Sweetener	1
+​God is a woman	hmm	Sweetener	1
+​God is a woman	lay	Sweetener	1
+​God is a woman	lingers	Sweetener	4
+​God is a woman	love	Sweetener	6
+​God is a woman	midnight	Sweetener	3
+​God is a woman	mind	Sweetener	1
+​God is a woman	move	Sweetener	3
+​God is a woman	pray	Sweetener	1
+​God is a woman	relate	Sweetener	1
+​God is a woman	rest	Sweetener	1
+​God is a woman	save	Sweetener	1
+​God is a woman	slow	Sweetener	1
+​God is a woman	soul	Sweetener	1
+​God is a woman	tellin	Sweetener	2
+​God is a woman	time	Sweetener	1
+​God is a woman	told	Sweetener	2
+​God is a woman	touch	Sweetener	3
+​God is a woman	track	Sweetener	1
+​God is a woman	universe	Sweetener	2
+​God is a woman	wanna	Sweetener	1
+​God is a woman	waste	Sweetener	1
+​God is a woman	woman	Sweetener	12
+​God is a woman	yeah	Sweetener	18
+​goodnight n go	ah	Sweetener	1
+​goodnight n go	ahh	Sweetener	3
+​goodnight n go	awake	Sweetener	1
+​goodnight n go	ayy	Sweetener	1
+​goodnight n go	baby	Sweetener	6
+​goodnight n go	bad	Sweetener	2
+​goodnight n go	bout	Sweetener	1
+​goodnight n go	boy	Sweetener	1
+​goodnight n go	close	Sweetener	1
+​goodnight n go	convenience	Sweetener	1
+​goodnight n go	cute	Sweetener	2
+​goodnight n go	da	Sweetener	48
+​goodnight n go	days	Sweetener	1
+​goodnight n go	dreamin	Sweetener	1
+​goodnight n go	drinks	Sweetener	1
+​goodnight n go	em	Sweetener	1
+​goodnight n go	excuse	Sweetener	1
+​goodnight n go	eyes	Sweetener	1
+​goodnight n go	goodnight	Sweetener	12
+​goodnight n go	gotta	Sweetener	1
+​goodnight n go	hands	Sweetener	1
+​goodnight n go	heating	Sweetener	1
+​goodnight n go	honey	Sweetener	1
+​goodnight n go	ignore	Sweetener	2
+​goodnight n go	impossible	Sweetener	2
+​goodnight n go	kiss	Sweetener	1
+​goodnight n go	laugh	Sweetener	2
+​goodnight n go	lips	Sweetener	1
+​goodnight n go	lookin	Sweetener	1
+​goodnight n go	love	Sweetener	1
+​goodnight n go	mind	Sweetener	1
+​goodnight n go	miss	Sweetener	1
+​goodnight n go	mistaken	Sweetener	1
+​goodnight n go	mmm	Sweetener	1
+​goodnight n go	ohh	Sweetener	12
+​goodnight n go	play	Sweetener	1
+​goodnight n go	playin	Sweetener	1
+​goodnight n go	read	Sweetener	1
+​goodnight n go	reason	Sweetener	1
+​goodnight n go	screamin	Sweetener	1
+​goodnight n go	sleep	Sweetener	2
+​goodnight n go	stay	Sweetener	2
+​goodnight n go	ta	Sweetener	4
+​goodnight n go	talk	Sweetener	1
+​goodnight n go	tease	Sweetener	1
+​goodnight n go	thinkin	Sweetener	2
+​goodnight n go	top	Sweetener	1
+​goodnight n go	train	Sweetener	1
+​goodnight n go	tryna	Sweetener	1
+​goodnight n go	wanna	Sweetener	3
+​goodnight n go	why'd	Sweetener	2
+​goodnight n go	woah	Sweetener	2
+Greedy	ah	Dangerous Woman	15
+Greedy	anymore	Dangerous Woman	1
+Greedy	baby	Dangerous Woman	6
+Greedy	boy	Dangerous Woman	1
+Greedy	call	Dangerous Woman	1
+Greedy	coming	Dangerous Woman	4
+Greedy	deny	Dangerous Woman	1
+Greedy	door	Dangerous Woman	1
+Greedy	feelings	Dangerous Woman	1
+Greedy	games	Dangerous Woman	1
+Greedy	greedy	Dangerous Woman	55
+Greedy	ha	Dangerous Woman	6
+Greedy	hey	Dangerous Woman	1
+Greedy	i'ma	Dangerous Woman	1
+Greedy	knocking	Dangerous Woman	1
+Greedy	love	Dangerous Woman	19
+Greedy	lucky	Dangerous Woman	3
+Greedy	mind	Dangerous Woman	6
+Greedy	money	Dangerous Woman	3
+Greedy	night	Dangerous Woman	2
+Greedy	obsessed	Dangerous Woman	3
+Greedy	obvious	Dangerous Woman	1
+Greedy	ooh	Dangerous Woman	19
+Greedy	phone	Dangerous Woman	1
+Greedy	physically	Dangerous Woman	3
+Greedy	play	Dangerous Woman	1
+Greedy	rocking	Dangerous Woman	3
+Greedy	talking	Dangerous Woman	3
+Greedy	tonight	Dangerous Woman	4
+Greedy	woo	Dangerous Woman	1
+Hands on Me (Ft. A$AP Ferg)	ah	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	baby	My Everything	6
+Hands on Me (Ft. A$AP Ferg)	bee	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	begging	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	bey	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	birthday	My Everything	5
+Hands on Me (Ft. A$AP Ferg)	body	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	break	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	bumble	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	burning	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	cake	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	candle	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	catch	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	dam	My Everything	2
+Hands on Me (Ft. A$AP Ferg)	dance	My Everything	3
+Hands on Me (Ft. A$AP Ferg)	day	My Everything	5
+Hands on Me (Ft. A$AP Ferg)	eyes	My Everything	4
+Hands on Me (Ft. A$AP Ferg)	fan	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	feels	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	floor	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	fool	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	gon	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	hand	My Everything	7
+Hands on Me (Ft. A$AP Ferg)	hands	My Everything	37
+Hands on Me (Ft. A$AP Ferg)	heels	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	hey	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	hold	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	hot	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	i'ma	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	jay	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	land	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	lemme	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	love	My Everything	3
+Hands on Me (Ft. A$AP Ferg)	marriage	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	mess	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	parachute	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	picture	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	pleased	My Everything	2
+Hands on Me (Ft. A$AP Ferg)	racing	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	ring	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	rocky	My Everything	5
+Hands on Me (Ft. A$AP Ferg)	rush	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	shaking	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	skirt	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	stay	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	sweating	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	sweet	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	swim	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	taking	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	talking	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	tan	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	tonight	My Everything	2
+Hands on Me (Ft. A$AP Ferg)	touch	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	trembling	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	word	My Everything	1
+Hands on Me (Ft. A$AP Ferg)	yeah	My Everything	1
+Honeymoon Avenue	ah	Yours Truly	1
+Honeymoon Avenue	ahead	Yours Truly	2
+Honeymoon Avenue	avenue	Yours Truly	13
+Honeymoon Avenue	ba	Yours Truly	2
+Honeymoon Avenue	baby	Yours Truly	8
+Honeymoon Avenue	bumper	Yours Truly	6
+Honeymoon Avenue	burn	Yours Truly	1
+Honeymoon Avenue	butterflies	Yours Truly	1
+Honeymoon Avenue	change	Yours Truly	3
+Honeymoon Avenue	coastin	Yours Truly	4
+Honeymoon Avenue	continue	Yours Truly	1
+Honeymoon Avenue	crash	Yours Truly	1
+Honeymoon Avenue	crazy	Yours Truly	4
+Honeymoon Avenue	da	Yours Truly	14
+Honeymoon Avenue	death	Yours Truly	2
+Honeymoon Avenue	decided	Yours Truly	3
+Honeymoon Avenue	doo	Yours Truly	6
+Honeymoon Avenue	drive	Yours Truly	3
+Honeymoon Avenue	dum	Yours Truly	2
+Honeymoon Avenue	encountered	Yours Truly	1
+Honeymoon Avenue	fall	Yours Truly	1
+Honeymoon Avenue	feel	Yours Truly	5
+Honeymoon Avenue	fight	Yours Truly	1
+Honeymoon Avenue	fools	Yours Truly	1
+Honeymoon Avenue	found	Yours Truly	2
+Honeymoon Avenue	goin	Yours Truly	4
+Honeymoon Avenue	gon	Yours Truly	1
+Honeymoon Avenue	guess	Yours Truly	1
+Honeymoon Avenue	happened	Yours Truly	1
+Honeymoon Avenue	heart	Yours Truly	5
+Honeymoon Avenue	hey	Yours Truly	2
+Honeymoon Avenue	home	Yours Truly	4
+Honeymoon Avenue	honey	Yours Truly	1
+Honeymoon Avenue	honeymoon	Yours Truly	12
+Honeymoon Avenue	huh	Yours Truly	1
+Honeymoon Avenue	lane	Yours Truly	3
+Honeymoon Avenue	light	Yours Truly	2
+Honeymoon Avenue	looked	Yours Truly	1
+Honeymoon Avenue	lost	Yours Truly	1
+Honeymoon Avenue	lot	Yours Truly	1
+Honeymoon Avenue	love	Yours Truly	1
+Honeymoon Avenue	mirror	Yours Truly	1
+Honeymoon Avenue	mmm	Yours Truly	1
+Honeymoon Avenue	must've	Yours Truly	1
+Honeymoon Avenue	ooh	Yours Truly	1
+Honeymoon Avenue	pressure	Yours Truly	5
+Honeymoon Avenue	rain	Yours Truly	3
+Honeymoon Avenue	rascals	Yours Truly	1
+Honeymoon Avenue	ready	Yours Truly	1
+Honeymoon Avenue	rear	Yours Truly	1
+Honeymoon Avenue	sayin	Yours Truly	1
+Honeymoon Avenue	sense	Yours Truly	1
+Honeymoon Avenue	sha	Yours Truly	2
+Honeymoon Avenue	shoo	Yours Truly	2
+Honeymoon Avenue	sign	Yours Truly	1
+Honeymoon Avenue	start	Yours Truly	1
+Honeymoon Avenue	stop	Yours Truly	1
+Honeymoon Avenue	stuck	Yours Truly	7
+Honeymoon Avenue	talkin	Yours Truly	1
+Honeymoon Avenue	traffic	Yours Truly	4
+Honeymoon Avenue	turnin	Yours Truly	2
+Honeymoon Avenue	uh	Yours Truly	2
+Honeymoon Avenue	view	Yours Truly	1
+Honeymoon Avenue	worry	Yours Truly	1
+Honeymoon Avenue	wrong	Yours Truly	5
+Honeymoon Avenue	yeah	Yours Truly	2
+Honeymoon Avenue	yellow	Yours Truly	2
+I Don't Care	anymore	Dangerous Woman	6
+I Don't Care	bout	Dangerous Woman	1
+I Don't Care	care	Dangerous Woman	6
+I Don't Care	crazy	Dangerous Woman	1
+I Don't Care	cry	Dangerous Woman	1
+I Don't Care	feel	Dangerous Woman	1
+I Don't Care	fuck's	Dangerous Woman	1
+I Don't Care	hold	Dangerous Woman	2
+I Don't Care	laugh	Dangerous Woman	1
+I Don't Care	live	Dangerous Woman	1
+I Don't Care	love	Dangerous Woman	1
+I Don't Care	obligated	Dangerous Woman	1
+I Don't Care	ooh	Dangerous Woman	2
+I Don't Care	people	Dangerous Woman	1
+I Don't Care	shit	Dangerous Woman	1
+I Don't Care	uh	Dangerous Woman	3
+I Don't Care	yeah	Dangerous Woman	5
+​imagine	act	Thank U, Next	1
+​imagine	baby	Thank U, Next	2
+​imagine	bathtub	Thank U, Next	1
+​imagine	breath	Thank U, Next	1
+​imagine	bubbles	Thank U, Next	1
+​imagine	bubbly	Thank U, Next	1
+​imagine	car	Thank U, Next	1
+​imagine	chest	Thank U, Next	2
+​imagine	click	Thank U, Next	6
+​imagine	clothes	Thank U, Next	2
+​imagine	credits	Thank U, Next	1
+​imagine	creep	Thank U, Next	1
+​imagine	deep	Thank U, Next	1
+​imagine	direct	Thank U, Next	1
+​imagine	drip	Thank U, Next	4
+​imagine	dripped	Thank U, Next	2
+​imagine	feel	Thank U, Next	1
+​imagine	feels	Thank U, Next	1
+​imagine	fits	Thank U, Next	2
+​imagine	forever	Thank U, Next	1
+​imagine	gold	Thank U, Next	2
+​imagine	gon	Thank U, Next	1
+​imagine	imagine	Thank U, Next	30
+​imagine	kiss	Thank U, Next	3
+​imagine	love	Thank U, Next	2
+​imagine	makeup	Thank U, Next	1
+​imagine	movies	Thank U, Next	1
+​imagine	neck	Thank U, Next	2
+​imagine	night	Thank U, Next	1
+​imagine	noon	Thank U, Next	1
+​imagine	ooh	Thank U, Next	3
+​imagine	pad	Thank U, Next	1
+​imagine	perfect	Thank U, Next	1
+​imagine	pleasure	Thank U, Next	1
+​imagine	post	Thank U, Next	2
+​imagine	quick	Thank U, Next	6
+​imagine	regular	Thank U, Next	1
+​imagine	secrets	Thank U, Next	1
+​imagine	shit	Thank U, Next	1
+​imagine	skrrt	Thank U, Next	1
+​imagine	sleep	Thank U, Next	3
+​imagine	staying	Thank U, Next	1
+​imagine	step	Thank U, Next	1
+​imagine	thai	Thank U, Next	1
+​imagine	til	Thank U, Next	3
+​imagine	true	Thank U, Next	1
+​imagine	world	Thank U, Next	8
+​in my head	abel	Thank U, Next	5
+​in my head	ah	Thank U, Next	2
+​in my head	angel	Thank U, Next	5
+​in my head	blocks	Thank U, Next	1
+​in my head	boy	Thank U, Next	3
+​in my head	broke	Thank U, Next	2
+​in my head	budding	Thank U, Next	1
+​in my head	cain	Thank U, Next	1
+​in my head	cardio	Thank U, Next	2
+​in my head	caught	Thank U, Next	2
+​in my head	coming	Thank U, Next	1
+​in my head	created	Thank U, Next	1
+​in my head	creative	Thank U, Next	2
+​in my head	credentials	Thank U, Next	1
+​in my head	demon	Thank U, Next	1
+​in my head	drew	Thank U, Next	1
+​in my head	falling	Thank U, Next	8
+​in my head	figured	Thank U, Next	2
+​in my head	fix	Thank U, Next	2
+​in my head	grow	Thank U, Next	1
+​in my head	gucci	Thank U, Next	2
+​in my head	guess	Thank U, Next	1
+​in my head	habit	Thank U, Next	1
+​in my head	half	Thank U, Next	2
+​in my head	halo	Thank U, Next	1
+​in my head	head	Thank U, Next	5
+​in my head	heart	Thank U, Next	6
+​in my head	hmm	Thank U, Next	2
+​in my head	hold	Thank U, Next	1
+​in my head	imagination's	Thank U, Next	2
+​in my head	invented	Thank U, Next	2
+​in my head	issue	Thank U, Next	2
+​in my head	issues	Thank U, Next	2
+​in my head	leave	Thank U, Next	1
+​in my head	love	Thank U, Next	2
+​in my head	moment	Thank U, Next	2
+​in my head	painted	Thank U, Next	2
+​in my head	person	Thank U, Next	2
+​in my head	picture	Thank U, Next	2
+​in my head	potential	Thank U, Next	1
+​in my head	runnin	Thank U, Next	2
+​in my head	seein	Thank U, Next	1
+​in my head	sheets	Thank U, Next	2
+​in my head	shit	Thank U, Next	1
+​in my head	shoes	Thank U, Next	2
+​in my head	skrrt	Thank U, Next	4
+​in my head	tangled	Thank U, Next	2
+​in my head	tennis	Thank U, Next	2
+​in my head	uh	Thank U, Next	1
+​in my head	version	Thank U, Next	1
+​in my head	vision	Thank U, Next	1
+​in my head	willin	Thank U, Next	1
+​in my head	wingless	Thank U, Next	1
+​in my head	yeah	Thank U, Next	5
+Into You	baby	Dangerous Woman	19
+Into You	barely	Dangerous Woman	1
+Into You	bit	Dangerous Woman	6
+Into You	body'cause	Dangerous Woman	7
+Into You	boy	Dangerous Woman	1
+Into You	breathe	Dangerous Woman	1
+Into You	close	Dangerous Woman	2
+Into You	control	Dangerous Woman	1
+Into You	conversation	Dangerous Woman	7
+Into You	cross	Dangerous Woman	1
+Into You	dangerous	Dangerous Woman	6
+Into You	deep	Dangerous Woman	1
+Into You	dice	Dangerous Woman	1
+Into You	edge	Dangerous Woman	1
+Into You	fall	Dangerous Woman	1
+Into You	game	Dangerous Woman	1
+Into You	gonna	Dangerous Woman	2
+Into You	happen	Dangerous Woman	2
+Into You	hey	Dangerous Woman	3
+Into You	light	Dangerous Woman	6
+Into You	line	Dangerous Woman	1
+Into You	mistakes	Dangerous Woman	1
+Into You	move	Dangerous Woman	4
+Into You	ooh	Dangerous Woman	1
+Into You	play	Dangerous Woman	1
+Into You	rising	Dangerous Woman	2
+Into You	roll	Dangerous Woman	1
+Into You	scandalous	Dangerous Woman	4
+Into You	secret	Dangerous Woman	3
+Into You	started	Dangerous Woman	2
+Into You	temperature's	Dangerous Woman	2
+Into You	til	Dangerous Woman	1
+Into You	time	Dangerous Woman	1
+Into You	touch	Dangerous Woman	7
+Into You	wait	Dangerous Woman	1
+Into You	waiting	Dangerous Woman	4
+Into You	wanna	Dangerous Woman	1
+Into You	watchin	Dangerous Woman	4
+Into You	woah	Dangerous Woman	1
+Into You	yeah	Dangerous Woman	5
+Intro	dum	My Everything	8
+Intro	hmm	My Everything	3
+Intro	love	My Everything	1
+Intro	mmm	My Everything	1
+Intro	night	My Everything	1
+Intro	ohh	My Everything	1
+Intro	ooh	My Everything	3
+Intro	promise	My Everything	3
+Intro	road	My Everything	1
+Intro	shining	My Everything	1
+Intro	sky	My Everything	1
+Jason's Song (Gave It Away)	acted	Dangerous Woman	1
+Jason's Song (Gave It Away)	baby	Dangerous Woman	2
+Jason's Song (Gave It Away)	bargain	Dangerous Woman	1
+Jason's Song (Gave It Away)	blew	Dangerous Woman	1
+Jason's Song (Gave It Away)	blind	Dangerous Woman	1
+Jason's Song (Gave It Away)	block	Dangerous Woman	1
+Jason's Song (Gave It Away)	blow	Dangerous Woman	1
+Jason's Song (Gave It Away)	bottom	Dangerous Woman	1
+Jason's Song (Gave It Away)	bought	Dangerous Woman	1
+Jason's Song (Gave It Away)	boy	Dangerous Woman	1
+Jason's Song (Gave It Away)	break	Dangerous Woman	1
+Jason's Song (Gave It Away)	care	Dangerous Woman	1
+Jason's Song (Gave It Away)	decision	Dangerous Woman	1
+Jason's Song (Gave It Away)	design	Dangerous Woman	1
+Jason's Song (Gave It Away)	detail	Dangerous Woman	1
+Jason's Song (Gave It Away)	doll	Dangerous Woman	1
+Jason's Song (Gave It Away)	fine	Dangerous Woman	1
+Jason's Song (Gave It Away)	focused	Dangerous Woman	1
+Jason's Song (Gave It Away)	fragment	Dangerous Woman	1
+Jason's Song (Gave It Away)	free	Dangerous Woman	1
+Jason's Song (Gave It Away)	frustration	Dangerous Woman	1
+Jason's Song (Gave It Away)	girl	Dangerous Woman	3
+Jason's Song (Gave It Away)	goodbye	Dangerous Woman	6
+Jason's Song (Gave It Away)	gotta	Dangerous Woman	1
+Jason's Song (Gave It Away)	grand	Dangerous Woman	1
+Jason's Song (Gave It Away)	hell	Dangerous Woman	1
+Jason's Song (Gave It Away)	hey	Dangerous Woman	5
+Jason's Song (Gave It Away)	lies	Dangerous Woman	1
+Jason's Song (Gave It Away)	line	Dangerous Woman	1
+Jason's Song (Gave It Away)	listen	Dangerous Woman	3
+Jason's Song (Gave It Away)	mine	Dangerous Woman	1
+Jason's Song (Gave It Away)	ooh	Dangerous Woman	1
+Jason's Song (Gave It Away)	outrun	Dangerous Woman	1
+Jason's Song (Gave It Away)	ponytail	Dangerous Woman	1
+Jason's Song (Gave It Away)	sale	Dangerous Woman	1
+Jason's Song (Gave It Away)	scale	Dangerous Woman	1
+Jason's Song (Gave It Away)	shit	Dangerous Woman	1
+Jason's Song (Gave It Away)	slave	Dangerous Woman	1
+Jason's Song (Gave It Away)	spell	Dangerous Woman	1
+Jason's Song (Gave It Away)	taking	Dangerous Woman	5
+Jason's Song (Gave It Away)	told	Dangerous Woman	1
+Jason's Song (Gave It Away)	undersold	Dangerous Woman	1
+Jason's Song (Gave It Away)	vision	Dangerous Woman	1
+Jason's Song (Gave It Away)	yeah	Dangerous Woman	1
+Just a Little Bit of Your Heart	babe	My Everything	1
+Just a Little Bit of Your Heart	baby	My Everything	1
+Just a Little Bit of Your Heart	bit	My Everything	27
+Just a Little Bit of Your Heart	easy	My Everything	1
+Just a Little Bit of Your Heart	feel	My Everything	2
+Just a Little Bit of Your Heart	fool	My Everything	4
+Just a Little Bit of Your Heart	heard	My Everything	1
+Just a Little Bit of Your Heart	heart	My Everything	20
+Just a Little Bit of Your Heart	love	My Everything	1
+Just a Little Bit of Your Heart	nothing's	My Everything	1
+Just a Little Bit of Your Heart	ooh	My Everything	1
+Just a Little Bit of Your Heart	straight	My Everything	1
+Just a Little Bit of Your Heart	words	My Everything	1
+Just a Little Bit of Your Heart	yeah	My Everything	4
+​just like magic	1	Positions	1
+​just like magic	30	Positions	1
+​just like magic	aesthetic	Positions	4
+​just like magic	ah	Positions	2
+​just like magic	attract	Positions	4
+​just like magic	attractive	Positions	3
+​just like magic	ayy	Positions	2
+​just like magic	babe	Positions	1
+​just like magic	baby	Positions	2
+​just like magic	bed	Positions	1
+​just like magic	book	Positions	1
+​just like magic	brain	Positions	1
+​just like magic	connected	Positions	1
+​just like magic	conscience	Positions	2
+​just like magic	day	Positions	1
+​just like magic	disconnect	Positions	1
+​just like magic	dumb	Positions	1
+​just like magic	ego	Positions	1
+​just like magic	em	Positions	1
+​just like magic	finessed	Positions	3
+​just like magic	finger	Positions	3
+​just like magic	friends	Positions	1
+​just like magic	fuckin	Positions	1
+​just like magic	gon	Positions	1
+​just like magic	gotta	Positions	1
+​just like magic	habits	Positions	1
+​just like magic	head	Positions	1
+​just like magic	heaven	Positions	2
+​just like magic	karma	Positions	2
+​just like magic	left	Positions	1
+​just like magic	letters	Positions	2
+​just like magic	light	Positions	1
+​just like magic	listening	Positions	1
+​just like magic	losing	Positions	1
+​just like magic	love	Positions	3
+​just like magic	magic	Positions	12
+​just like magic	magnetic	Positions	2
+​just like magic	manifest	Positions	2
+​just like magic	meditation	Positions	1
+​just like magic	meeting	Positions	1
+​just like magic	middle	Positions	3
+​just like magic	miss	Positions	1
+​just like magic	mmm	Positions	6
+​just like magic	o'clock	Positions	1
+​just like magic	ooh	Positions	2
+​just like magic	password	Positions	1
+​just like magic	pen	Positions	2
+​just like magic	phone	Positions	2
+​just like magic	read	Positions	1
+​just like magic	redesign	Positions	1
+​just like magic	ride	Positions	1
+​just like magic	send	Positions	1
+​just like magic	shit	Positions	3
+​just like magic	slim	Positions	1
+​just like magic	snap	Positions	3
+​just like magic	stay	Positions	1
+​just like magic	studio	Positions	1
+​just like magic	team	Positions	1
+​just like magic	thick	Positions	1
+​just like magic	thumb	Positions	3
+​just like magic	time	Positions	1
+​just like magic	top	Positions	1
+​just like magic	tricky	Positions	1
+​just like magic	tryna	Positions	2
+​just like magic	twelve	Positions	1
+​just like magic	wake	Positions	1
+​just like magic	wallet	Positions	1
+​just like magic	wanna	Positions	2
+​just like magic	waste	Positions	1
+​just like magic	write	Positions	2
+​just like magic	wrote	Positions	1
+​just like magic	yeah	Positions	10
+Knew Better / Forever Boy	ah	Dangerous Woman	4
+Knew Better / Forever Boy	attention	Dangerous Woman	1
+Knew Better / Forever Boy	ayy	Dangerous Woman	1
+Knew Better / Forever Boy	baby	Dangerous Woman	3
+Knew Better / Forever Boy	blew	Dangerous Woman	1
+Knew Better / Forever Boy	boy	Dangerous Woman	19
+Knew Better / Forever Boy	boys	Dangerous Woman	1
+Knew Better / Forever Boy	cry	Dangerous Woman	1
+Knew Better / Forever Boy	feelin	Dangerous Woman	2
+Knew Better / Forever Boy	feeling	Dangerous Woman	1
+Knew Better / Forever Boy	forever	Dangerous Woman	15
+Knew Better / Forever Boy	friends	Dangerous Woman	1
+Knew Better / Forever Boy	game	Dangerous Woman	1
+Knew Better / Forever Boy	happy	Dangerous Woman	2
+Knew Better / Forever Boy	ii	Dangerous Woman	1
+Knew Better / Forever Boy	key	Dangerous Woman	2
+Knew Better / Forever Boy	love	Dangerous Woman	7
+Knew Better / Forever Boy	makes	Dangerous Woman	1
+Knew Better / Forever Boy	means	Dangerous Woman	2
+Knew Better / Forever Boy	mind	Dangerous Woman	1
+Knew Better / Forever Boy	mine	Dangerous Woman	6
+Knew Better / Forever Boy	minute	Dangerous Woman	1
+Knew Better / Forever Boy	mmm	Dangerous Woman	1
+Knew Better / Forever Boy	months	Dangerous Woman	1
+Knew Better / Forever Boy	nah	Dangerous Woman	1
+Knew Better / Forever Boy	play	Dangerous Woman	1
+Knew Better / Forever Boy	pleasure	Dangerous Woman	2
+Knew Better / Forever Boy	songs	Dangerous Woman	1
+Knew Better / Forever Boy	stay	Dangerous Woman	1
+Knew Better / Forever Boy	time	Dangerous Woman	4
+Knew Better / Forever Boy	treasure	Dangerous Woman	2
+Knew Better / Forever Boy	treat	Dangerous Woman	1
+Knew Better / Forever Boy	tryna	Dangerous Woman	1
+Knew Better / Forever Boy	wanna	Dangerous Woman	1
+Knew Better / Forever Boy	whoa	Dangerous Woman	6
+Knew Better / Forever Boy	write	Dangerous Woman	1
+Knew Better / Forever Boy	wrongs	Dangerous Woman	1
+Knew Better / Forever Boy	yeah	Dangerous Woman	1
+Leave Me Lonely (Ft. Macy Gray)	ah	Dangerous Woman	24
+Leave Me Lonely (Ft. Macy Gray)	baby	Dangerous Woman	4
+Leave Me Lonely (Ft. Macy Gray)	begging	Dangerous Woman	3
+Leave Me Lonely (Ft. Macy Gray)	chill	Dangerous Woman	3
+Leave Me Lonely (Ft. Macy Gray)	cry	Dangerous Woman	3
+Leave Me Lonely (Ft. Macy Gray)	danger	Dangerous Woman	3
+Leave Me Lonely (Ft. Macy Gray)	dangerous	Dangerous Woman	7
+Leave Me Lonely (Ft. Macy Gray)	darling	Dangerous Woman	5
+Leave Me Lonely (Ft. Macy Gray)	dollar	Dangerous Woman	3
+Leave Me Lonely (Ft. Macy Gray)	door	Dangerous Woman	2
+Leave Me Lonely (Ft. Macy Gray)	easily	Dangerous Woman	1
+Leave Me Lonely (Ft. Macy Gray)	frightens	Dangerous Woman	3
+Leave Me Lonely (Ft. Macy Gray)	gonna	Dangerous Woman	2
+Leave Me Lonely (Ft. Macy Gray)	goodbye	Dangerous Woman	1
+Leave Me Lonely (Ft. Macy Gray)	hanging	Dangerous Woman	2
+Leave Me Lonely (Ft. Macy Gray)	heart	Dangerous Woman	2
+Leave Me Lonely (Ft. Macy Gray)	hey	Dangerous Woman	1
+Leave Me Lonely (Ft. Macy Gray)	hold	Dangerous Woman	3
+Leave Me Lonely (Ft. Macy Gray)	hurts	Dangerous Woman	2
+Leave Me Lonely (Ft. Macy Gray)	inside	Dangerous Woman	3
+Leave Me Lonely (Ft. Macy Gray)	leave	Dangerous Woman	5
+Leave Me Lonely (Ft. Macy Gray)	lonely	Dangerous Woman	2
+Leave Me Lonely (Ft. Macy Gray)	love	Dangerous Woman	13
+Leave Me Lonely (Ft. Macy Gray)	mind	Dangerous Woman	1
+Leave Me Lonely (Ft. Macy Gray)	mmm	Dangerous Woman	1
+Leave Me Lonely (Ft. Macy Gray)	ooh	Dangerous Woman	13
+Leave Me Lonely (Ft. Macy Gray)	peace	Dangerous Woman	1
+Leave Me Lonely (Ft. Macy Gray)	stay	Dangerous Woman	2
+Leave Me Lonely (Ft. Macy Gray)	stole	Dangerous Woman	1
+Leave Me Lonely (Ft. Macy Gray)	walk	Dangerous Woman	2
+Leave Me Lonely (Ft. Macy Gray)	yeah	Dangerous Woman	3
+Let Me Love You (Ft. Lil Wayne)	2pac	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	ah	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	amnesia	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	ariana	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	baby	Dangerous Woman	5
+Let Me Love You (Ft. Lil Wayne)	biggie	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	bout	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	boy	Dangerous Woman	6
+Let Me Love You (Ft. Lil Wayne)	breath	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	broke	Dangerous Woman	2
+Let Me Love You (Ft. Lil Wayne)	chain	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	change	Dangerous Woman	2
+Let Me Love You (Ft. Lil Wayne)	chest	Dangerous Woman	2
+Let Me Love You (Ft. Lil Wayne)	chill	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	coast	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	coming	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	conversation	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	drowning	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	feature	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	feeling	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	feels	Dangerous Woman	4
+Let Me Love You (Ft. Lil Wayne)	gimme	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	girl	Dangerous Woman	2
+Let Me Love You (Ft. Lil Wayne)	god	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	goddamn	Dangerous Woman	2
+Let Me Love You (Ft. Lil Wayne)	gon	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	gonna	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	goodbye	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	grande	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	grinding	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	guard	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	guess	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	head	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	hey	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	holding	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	hot	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	i'ma	Dangerous Woman	5
+Let Me Love You (Ft. Lil Wayne)	laid	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	lay	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	laying	Dangerous Woman	2
+Let Me Love You (Ft. Lil Wayne)	left	Dangerous Woman	3
+Let Me Love You (Ft. Lil Wayne)	lil	Dangerous Woman	2
+Let Me Love You (Ft. Lil Wayne)	lo	Dangerous Woman	14
+Let Me Love You (Ft. Lil Wayne)	lord	Dangerous Woman	4
+Let Me Love You (Ft. Lil Wayne)	love	Dangerous Woman	30
+Let Me Love You (Ft. Lil Wayne)	mama	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	mess	Dangerous Woman	3
+Let Me Love You (Ft. Lil Wayne)	mind	Dangerous Woman	2
+Let Me Love You (Ft. Lil Wayne)	mmm	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	mood	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	mula	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	night	Dangerous Woman	2
+Let Me Love You (Ft. Lil Wayne)	ooh	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	promise	Dangerous Woman	4
+Let Me Love You (Ft. Lil Wayne)	real	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	rest	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	rush	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	shook	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	single	Dangerous Woman	2
+Let Me Love You (Ft. Lil Wayne)	sit	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	stay	Dangerous Woman	2
+Let Me Love You (Ft. Lil Wayne)	stop	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	telling	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	thinkin	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	thots	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	triple	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	trippin	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	tripping	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	tryna	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	tunechi	Dangerous Woman	1
+Let Me Love You (Ft. Lil Wayne)	wayne	Dangerous Woman	2
+Let Me Love You (Ft. Lil Wayne)	yeah	Dangerous Woman	11
+​love language	ag	Positions	1
+​love language	anxious	Positions	3
+​love language	babe	Positions	2
+​love language	baby	Positions	6
+​love language	babybeen	Positions	1
+​love language	baggage	Positions	1
+​love language	boy	Positions	1
+​love language	claim	Positions	1
+​love language	deny	Positions	1
+​love language	door	Positions	1
+​love language	double	Positions	1
+​love language	expensive	Positions	1
+​love language	feeling	Positions	3
+​love language	fore	Positions	1
+​love language	french	Positions	1
+​love language	girlfriend	Positions	1
+​love language	givenchy	Positions	2
+​love language	gon	Positions	1
+​love language	gonna	Positions	3
+​love language	head	Positions	1
+​love language	hey	Positions	1
+​love language	hold	Positions	2
+​love language	home	Positions	1
+​love language	inside	Positions	1
+​love language	joke	Positions	1
+​love language	language	Positions	6
+​love language	lease	Positions	1
+​love language	leavе	Positions	1
+​love language	lost	Positions	1
+​love language	love	Positions	9
+​love language	medication	Positions	3
+​love language	mine	Positions	1
+​love language	minute	Positions	2
+​love language	minе	Positions	1
+​love language	mmm	Positions	1
+​love language	mo	Positions	2
+​love language	night	Positions	6
+​love language	ooh	Positions	1
+​love language	pardon	Positions	1
+​love language	promise	Positions	1
+​love language	question	Positions	1
+​love language	remind	Positions	1
+​love language	running	Positions	1
+​love language	shit	Positions	9
+​love language	shoes	Positions	1
+​love language	sign	Positions	1
+​love language	slo	Positions	2
+​love language	smoke	Positions	2
+​love language	soothe	Positions	2
+​love language	speak	Positions	3
+​love language	speaking	Positions	6
+​love language	speed	Positions	1
+​love language	sweet	Positions	2
+​love language	talk	Positions	6
+​love language	taste	Positions	1
+​love language	teach	Positions	3
+​love language	thinkin	Positions	1
+​love language	tongues	Positions	1
+​love language	translation	Positions	1
+​love language	treat	Positions	1
+​love language	tryna	Positions	1
+​love language	unlearning	Positions	3
+​love language	wanna	Positions	1
+​love language	woah	Positions	1
+​love language	word	Positions	2
+​love language	ya	Positions	1
+Love Me Harder by Ariana Grande & The Weeknd	baby	My Everything	5
+Love Me Harder by Ariana Grande & The Weeknd	bigger	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	bit	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	bite	My Everything	2
+Love Me Harder by Ariana Grande & The Weeknd	bliss	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	boy	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	breath	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	choose	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	feel	My Everything	2
+Love Me Harder by Ariana Grande & The Weeknd	figure	My Everything	4
+Love Me Harder by Ariana Grande & The Weeknd	gonna	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	gotta	My Everything	34
+Love Me Harder by Ariana Grande & The Weeknd	harder	My Everything	32
+Love Me Harder by Ariana Grande & The Weeknd	hey	My Everything	4
+Love Me Harder by Ariana Grande & The Weeknd	hips	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	i'ma	My Everything	4
+Love Me Harder by Ariana Grande & The Weeknd	invade	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	leave	My Everything	4
+Love Me Harder by Ariana Grande & The Weeknd	lip	My Everything	2
+Love Me Harder by Ariana Grande & The Weeknd	lo	My Everything	2
+Love Me Harder by Ariana Grande & The Weeknd	love	My Everything	40
+Love Me Harder by Ariana Grande & The Weeknd	mine	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	moaning	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	moment	My Everything	3
+Love Me Harder by Ariana Grande & The Weeknd	motives	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	ooh	My Everything	41
+Love Me Harder by Ariana Grande & The Weeknd	pain	My Everything	2
+Love Me Harder by Ariana Grande & The Weeknd	pleasure	My Everything	2
+Love Me Harder by Ariana Grande & The Weeknd	pressure	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	real	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	reason	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	space	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	stay	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	tend	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	time	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	whoa	My Everything	1
+Love Me Harder by Ariana Grande & The Weeknd	yeah	My Everything	1
+Lovin' It	adore	Yours Truly	1
+Lovin' It	affection	Yours Truly	3
+Lovin' It	attention	Yours Truly	3
+Lovin' It	babe	Yours Truly	1
+Lovin' It	baby	Yours Truly	15
+Lovin' It	boy	Yours Truly	11
+Lovin' It	breathe	Yours Truly	1
+Lovin' It	call	Yours Truly	2
+Lovin' It	change	Yours Truly	1
+Lovin' It	chill	Yours Truly	2
+Lovin' It	chills	Yours Truly	2
+Lovin' It	crush	Yours Truly	2
+Lovin' It	days	Yours Truly	2
+Lovin' It	doubt	Yours Truly	2
+Lovin' It	eh	Yours Truly	1
+Lovin' It	fall	Yours Truly	4
+Lovin' It	fallin	Yours Truly	3
+Lovin' It	falling	Yours Truly	2
+Lovin' It	gotta	Yours Truly	3
+Lovin' It	hard	Yours Truly	1
+Lovin' It	hold	Yours Truly	2
+Lovin' It	kiss	Yours Truly	1
+Lovin' It	lips	Yours Truly	1
+Lovin' It	loosen	Yours Truly	1
+Lovin' It	love	Yours Truly	19
+Lovin' It	lovin	Yours Truly	24
+Lovin' It	loving	Yours Truly	6
+Lovin' It	mess	Yours Truly	1
+Lovin' It	plan	Yours Truly	2
+Lovin' It	question	Yours Truly	3
+Lovin' It	rascals	Yours Truly	1
+Lovin' It	shut	Yours Truly	1
+Lovin' It	spend	Yours Truly	2
+Lovin' It	started	Yours Truly	2
+Lovin' It	stay	Yours Truly	1
+Lovin' It	talk	Yours Truly	1
+Lovin' It	taste	Yours Truly	2
+Lovin' It	time	Yours Truly	6
+Lovin' It	trust	Yours Truly	1
+Lovin' It	understand	Yours Truly	2
+Lovin' It	wait	Yours Truly	2
+Lovin' It	wanna	Yours Truly	2
+​make up	ahead	Thank U, Next	1
+​make up	argument	Thank U, Next	1
+​make up	attitude	Thank U, Next	2
+​make up	bag	Thank U, Next	1
+​make up	beauty	Thank U, Next	1
+​make up	bed	Thank U, Next	1
+​make up	bout	Thank U, Next	1
+​make up	box	Thank U, Next	1
+​make up	boy	Thank U, Next	2
+​make up	break	Thank U, Next	1
+​make up	bring	Thank U, Next	1
+​make up	coincide	Thank U, Next	1
+​make up	day	Thank U, Next	2
+​make up	dream	Thank U, Next	2
+​make up	eh	Thank U, Next	32
+​make up	energy	Thank U, Next	1
+​make up	eyeliner	Thank U, Next	1
+​make up	fenty	Thank U, Next	1
+​make up	fix	Thank U, Next	1
+​make up	fuck	Thank U, Next	1
+​make up	head	Thank U, Next	9
+​make up	highlight	Thank U, Next	1
+​make up	huh	Thank U, Next	1
+​make up	kiss	Thank U, Next	1
+​make up	kit	Thank U, Next	1
+​make up	life	Thank U, Next	1
+​make up	lips	Thank U, Next	1
+​make up	love	Thank U, Next	11
+​make up	mad	Thank U, Next	2
+​make up	makeup	Thank U, Next	10
+​make up	match	Thank U, Next	1
+​make up	mine	Thank U, Next	2
+​make up	mmm	Thank U, Next	1
+​make up	mood	Thank U, Next	1
+​make up	pops	Thank U, Next	1
+​make up	promise	Thank U, Next	1
+​make up	ruin	Thank U, Next	10
+​make up	screamin	Thank U, Next	1
+​make up	shut	Thank U, Next	1
+​make up	stay	Thank U, Next	1
+​make up	stayin	Thank U, Next	1
+​make up	stick	Thank U, Next	1
+​make up	surprise	Thank U, Next	2
+​make up	time	Thank U, Next	1
+​make up	tonight	Thank U, Next	1
+​make up	uh	Thank U, Next	1
+​make up	vibe	Thank U, Next	1
+​make up	wake	Thank U, Next	1
+​make up	wanna	Thank U, Next	1
+​make up	yeah	Thank U, Next	32
+​make up	yuh	Thank U, Next	1
+Moonlight	baby	Dangerous Woman	3
+Moonlight	body	Dangerous Woman	1
+Moonlight	bossy	Dangerous Woman	1
+Moonlight	calls	Dangerous Woman	1
+Moonlight	cancel	Dangerous Woman	1
+Moonlight	candy	Dangerous Woman	1
+Moonlight	crushin	Dangerous Woman	1
+Moonlight	dance	Dangerous Woman	1
+Moonlight	dean	Dangerous Woman	1
+Moonlight	elvis	Dangerous Woman	1
+Moonlight	eyes	Dangerous Woman	1
+Moonlight	fallin	Dangerous Woman	2
+Moonlight	fingertips	Dangerous Woman	1
+Moonlight	giving	Dangerous Woman	1
+Moonlight	hands	Dangerous Woman	2
+Moonlight	heart	Dangerous Woman	1
+Moonlight	held	Dangerous Woman	2
+Moonlight	hold	Dangerous Woman	2
+Moonlight	holding	Dangerous Woman	1
+Moonlight	james	Dangerous Woman	1
+Moonlight	kiss	Dangerous Woman	1
+Moonlight	lips	Dangerous Woman	2
+Moonlight	makes	Dangerous Woman	3
+Moonlight	mine	Dangerous Woman	1
+Moonlight	moonlight	Dangerous Woman	9
+Moonlight	movie	Dangerous Woman	1
+Moonlight	neck	Dangerous Woman	2
+Moonlight	night	Dangerous Woman	2
+Moonlight	plans	Dangerous Woman	1
+Moonlight	playing	Dangerous Woman	1
+Moonlight	setting	Dangerous Woman	1
+Moonlight	sit	Dangerous Woman	1
+Moonlight	stay	Dangerous Woman	1
+Moonlight	stop	Dangerous Woman	1
+Moonlight	sun	Dangerous Woman	1
+Moonlight	sweet	Dangerous Woman	1
+Moonlight	tight	Dangerous Woman	1
+Moonlight	til	Dangerous Woman	2
+Moonlight	tonight	Dangerous Woman	1
+Moonlight	touch	Dangerous Woman	2
+Moonlight	tryna	Dangerous Woman	1
+Moonlight	wanna	Dangerous Woman	2
+Moonlight	watching	Dangerous Woman	1
+Moonlight	whip	Dangerous Woman	1
+Moonlight	wishing	Dangerous Woman	1
+​motive by Ariana Grande & Doja Cat	admit	Positions	2
+​motive by Ariana Grande & Doja Cat	ah	Positions	7
+​motive by Ariana Grande & Doja Cat	arm	Positions	1
+​motive by Ariana Grande & Doja Cat	arms	Positions	2
+​motive by Ariana Grande & Doja Cat	ayy	Positions	3
+​motive by Ariana Grande & Doja Cat	baby	Positions	10
+​motive by Ariana Grande & Doja Cat	bonafide	Positions	1
+​motive by Ariana Grande & Doja Cat	bring	Positions	2
+​motive by Ariana Grande & Doja Cat	bullshit	Positions	1
+​motive by Ariana Grande & Doja Cat	call	Positions	1
+​motive by Ariana Grande & Doja Cat	candy	Positions	1
+​motive by Ariana Grande & Doja Cat	comin	Positions	1
+​motive by Ariana Grande & Doja Cat	curve	Positions	1
+​motive by Ariana Grande & Doja Cat	exciting	Positions	2
+​motive by Ariana Grande & Doja Cat	feeling	Positions	2
+​motive by Ariana Grande & Doja Cat	fightin	Positions	1
+​motive by Ariana Grande & Doja Cat	fists	Positions	1
+​motive by Ariana Grande & Doja Cat	gold	Positions	1
+​motive by Ariana Grande & Doja Cat	gon	Positions	2
+​motive by Ariana Grande & Doja Cat	gotta	Positions	1
+​motive by Ariana Grande & Doja Cat	kinda	Positions	2
+​motive by Ariana Grande & Doja Cat	lead	Positions	2
+​motive by Ariana Grande & Doja Cat	lie	Positions	1
+​motive by Ariana Grande & Doja Cat	mile	Positions	1
+​motive by Ariana Grande & Doja Cat	mind	Positions	1
+​motive by Ariana Grande & Doja Cat	motive	Positions	24
+​motive by Ariana Grande & Doja Cat	mu	Positions	3
+​motive by Ariana Grande & Doja Cat	murda	Positions	1
+​motive by Ariana Grande & Doja Cat	neck	Positions	1
+​motive by Ariana Grande & Doja Cat	phonies	Positions	1
+​motive by Ariana Grande & Doja Cat	promise	Positions	1
+​motive by Ariana Grande & Doja Cat	real	Positions	1
+​motive by Ariana Grande & Doja Cat	respect	Positions	1
+​motive by Ariana Grande & Doja Cat	spoil	Positions	1
+​motive by Ariana Grande & Doja Cat	sport	Positions	1
+​motive by Ariana Grande & Doja Cat	straight	Positions	1
+​motive by Ariana Grande & Doja Cat	subliminally	Positions	2
+​motive by Ariana Grande & Doja Cat	sugarcoat	Positions	1
+​motive by Ariana Grande & Doja Cat	talk	Positions	1
+​motive by Ariana Grande & Doja Cat	tonight	Positions	1
+​motive by Ariana Grande & Doja Cat	treat	Positions	1
+​motive by Ariana Grande & Doja Cat	trophy	Positions	1
+​motive by Ariana Grande & Doja Cat	trust	Positions	1
+​motive by Ariana Grande & Doja Cat	tryin	Positions	4
+​motive by Ariana Grande & Doja Cat	wall	Positions	1
+​motive by Ariana Grande & Doja Cat	wanna	Positions	4
+​motive by Ariana Grande & Doja Cat	war	Positions	1
+​motive by Ariana Grande & Doja Cat	wise	Positions	1
+​motive by Ariana Grande & Doja Cat	yeah	Positions	10
+My Everything	bear	My Everything	1
+My Everything	consequence	My Everything	1
+My Everything	cried	My Everything	1
+My Everything	cross	My Everything	1
+My Everything	cure	My Everything	1
+My Everything	deny	My Everything	1
+My Everything	distance	My Everything	1
+My Everything	feeling	My Everything	1
+My Everything	fighting	My Everything	1
+My Everything	guess	My Everything	1
+My Everything	ha	My Everything	1
+My Everything	handle	My Everything	1
+My Everything	heart	My Everything	3
+My Everything	hmm	My Everything	1
+My Everything	hope	My Everything	1
+My Everything	lot	My Everything	2
+My Everything	love	My Everything	1
+My Everything	mind	My Everything	1
+My Everything	miss	My Everything	1
+My Everything	missing	My Everything	2
+My Everything	ooh	My Everything	2
+My Everything	pain	My Everything	1
+My Everything	pride	My Everything	2
+My Everything	push	My Everything	2
+My Everything	reflection	My Everything	1
+My Everything	sake	My Everything	1
+My Everything	taking	My Everything	2
+My Everything	tears	My Everything	1
+My Everything	temporary	My Everything	1
+My Everything	til	My Everything	3
+My Everything	time	My Everything	2
+My Everything	traveling	My Everything	1
+My Everything	worth	My Everything	1
+My Everything	wrong	My Everything	1
+My Everything	yeah	My Everything	1
+​my hair	baby	Positions	5
+​my hair	body	Positions	1
+​my hair	care	Positions	1
+​my hair	dimes	Positions	1
+​my hair	hair	Positions	9
+​my hair	hands	Positions	9
+​my hair	i'ma	Positions	1
+​my hair	inches	Positions	1
+​my hair	instructions	Positions	1
+​my hair	lеt	Positions	1
+​my hair	mind	Positions	1
+​my hair	mmm	Positions	2
+​my hair	mе	Positions	1
+​my hair	ooh	Positions	3
+​my hair	overdue	Positions	1
+​my hair	pass	Positions	1
+​my hair	people	Positions	1
+​my hair	real	Positions	1
+​my hair	run	Positions	9
+​my hair	scared	Positions	5
+​my hair	skin	Positions	1
+​my hair	smooth	Positions	1
+​my hair	softly	Positions	1
+​my hair	spend	Positions	2
+​my hair	time	Positions	1
+​my hair	tonight	Positions	1
+​my hair	touch	Positions	3
+​my hair	tracks	Positions	1
+​my hair	ya	Positions	2
+NASA	ah	Thank U, Next	1
+NASA	align	Thank U, Next	1
+NASA	arms	Thank U, Next	1
+NASA	baby	Thank U, Next	4
+NASA	beneficial	Thank U, Next	2
+NASA	bottom	Thank U, Next	1
+NASA	change	Thank U, Next	2
+NASA	checkin	Thank U, Next	1
+NASA	covers	Thank U, Next	1
+NASA	discover	Thank U, Next	3
+NASA	drag	Thank U, Next	3
+NASA	giant	Thank U, Next	1
+NASA	gravity	Thank U, Next	1
+NASA	hmm	Thank U, Next	1
+NASA	home	Thank U, Next	1
+NASA	i'ma	Thank U, Next	32
+NASA	kiss	Thank U, Next	2
+NASA	leap	Thank U, Next	1
+NASA	leave	Thank U, Next	3
+NASA	line	Thank U, Next	1
+NASA	love	Thank U, Next	3
+NASA	makin	Thank U, Next	1
+NASA	miss	Thank U, Next	4
+NASA	mmm	Thank U, Next	3
+NASA	night	Thank U, Next	1
+NASA	nothin	Thank U, Next	1
+NASA	orbit	Thank U, Next	4
+NASA	page	Thank U, Next	1
+NASA	phone	Thank U, Next	2
+NASA	pulling	Thank U, Next	1
+NASA	rise	Thank U, Next	1
+NASA	sayin	Thank U, Next	1
+NASA	shine	Thank U, Next	1
+NASA	space	Thank U, Next	24
+NASA	star	Thank U, Next	4
+NASA	stars	Thank U, Next	1
+NASA	stay	Thank U, Next	1
+NASA	stayed	Thank U, Next	1
+NASA	step	Thank U, Next	1
+NASA	time	Thank U, Next	3
+NASA	tonight	Thank U, Next	11
+NASA	tryna	Thank U, Next	3
+NASA	universe	Thank U, Next	2
+NASA	wanna	Thank U, Next	4
+NASA	warm	Thank U, Next	1
+NASA	woman	Thank U, Next	2
+NASA	world	Thank U, Next	4
+NASA	wrong	Thank U, Next	2
+NASA	yeah	Thank U, Next	1
+​nasty	ah	Positions	1
+​nasty	baby	Positions	1
+​nasty	bed	Positions	1
+​nasty	behaved	Positions	1
+​nasty	bet	Positions	2
+​nasty	bitch	Positions	1
+​nasty	body's	Positions	1
+​nasty	bounce	Positions	1
+​nasty	boy	Positions	3
+​nasty	break	Positions	1
+​nasty	constellation	Positions	1
+​nasty	conversation	Positions	1
+​nasty	couch	Positions	1
+​nasty	designed	Positions	2
+​nasty	feelin	Positions	1
+​nasty	feels	Positions	1
+​nasty	gon	Positions	2
+​nasty	gonna	Positions	1
+​nasty	gotta	Positions	1
+​nasty	habit	Positions	1
+​nasty	hard	Positions	1
+​nasty	hey	Positions	2
+​nasty	homies	Positions	1
+​nasty	i'ma	Positions	1
+​nasty	inside	Positions	1
+​nasty	life	Positions	1
+​nasty	line	Positions	2
+​nasty	love	Positions	1
+​nasty	mind	Positions	4
+​nasty	mmm	Positions	4
+​nasty	nasty	Positions	14
+​nasty	nice	Positions	2
+​nasty	outta	Positions	2
+​nasty	playin	Positions	1
+​nasty	promise	Positions	2
+​nasty	pussy	Positions	2
+​nasty	real	Positions	3
+​nasty	safe	Positions	1
+​nasty	sayin	Positions	1
+​nasty	sign	Positions	2
+​nasty	speak	Positions	1
+​nasty	swear	Positions	2
+​nasty	sweet	Positions	1
+​nasty	swimming	Positions	1
+​nasty	switch	Positions	1
+​nasty	ten	Positions	2
+​nasty	time	Positions	3
+​nasty	tonight	Positions	14
+​nasty	truth	Positions	1
+​nasty	tryna	Positions	1
+​nasty	vacation	Positions	1
+​nasty	vibes	Positions	1
+​nasty	wait	Positions	11
+​nasty	waitin	Positions	21
+​nasty	wake	Positions	1
+​nasty	wanna	Positions	26
+​nasty	waste	Positions	1
+​nasty	weak	Positions	1
+​nasty	woah	Positions	1
+​nasty	words	Positions	1
+​nasty	ya	Positions	12
+​nasty	yeah	Positions	16
+​needy	admit	Thank U, Next	2
+​needy	ahead	Thank U, Next	1
+​needy	call	Thank U, Next	1
+​needy	close	Thank U, Next	1
+​needy	coaster	Thank U, Next	1
+​needy	damage	Thank U, Next	1
+​needy	damn	Thank U, Next	2
+​needy	dressed	Thank U, Next	2
+​needy	emotions	Thank U, Next	1
+​needy	feels	Thank U, Next	4
+​needy	fucks	Thank U, Next	2
+​needy	hard	Thank U, Next	4
+​needy	heart	Thank U, Next	2
+​needy	hide	Thank U, Next	2
+​needy	hit	Thank U, Next	1
+​needy	hold	Thank U, Next	1
+​needy	i'ma	Thank U, Next	2
+​needy	lil	Thank U, Next	2
+​needy	lot	Thank U, Next	1
+​needy	love	Thank U, Next	4
+​needy	messed	Thank U, Next	2
+​needy	needy	Thank U, Next	8
+​needy	obsessive	Thank U, Next	2
+​needy	overthinking	Thank U, Next	2
+​needy	passionate	Thank U, Next	2
+​needy	promise	Thank U, Next	1
+​needy	react	Thank U, Next	1
+​needy	roller	Thank U, Next	1
+​needy	scream	Thank U, Next	2
+​needy	selfish	Thank U, Next	2
+​needy	shout	Thank U, Next	2
+​needy	touch	Thank U, Next	1
+​needy	trust	Thank U, Next	1
+​needy	tryna	Thank U, Next	1
+​needy	wait	Thank U, Next	1
+​needy	yeah	Thank U, Next	1
+​​no tears left to cry	babe	Sweetener	4
+​​no tears left to cry	body	Sweetener	1
+​​no tears left to cry	boy	Sweetener	2
+​​no tears left to cry	colors	Sweetener	1
+​​no tears left to cry	comin	Sweetener	3
+​​no tears left to cry	cry	Sweetener	10
+​​no tears left to cry	em	Sweetener	4
+​​no tears left to cry	fly	Sweetener	1
+​​no tears left to cry	hate	Sweetener	1
+​​no tears left to cry	hmm	Sweetener	2
+​​no tears left to cry	left	Sweetener	7
+​​no tears left to cry	livin	Sweetener	10
+​​no tears left to cry	lovin	Sweetener	10
+​​no tears left to cry	matter	Sweetener	1
+​​no tears left to cry	mentality	Sweetener	3
+​​no tears left to cry	mind	Sweetener	3
+​​no tears left to cry	mouth	Sweetener	5
+​​no tears left to cry	partake	Sweetener	1
+​​no tears left to cry	pickin	Sweetener	27
+​​no tears left to cry	rainin	Sweetener	3
+​​no tears left to cry	ran	Sweetener	1
+​​no tears left to cry	shut	Sweetener	5
+​​no tears left to cry	stop	Sweetener	5
+​​no tears left to cry	tears	Sweetener	8
+​​no tears left to cry	time	Sweetener	3
+​​no tears left to cry	turnin	Sweetener	7
+​​no tears left to cry	vibin	Sweetener	6
+​​no tears left to cry	wanna	Sweetener	3
+​​no tears left to cry	yeah	Sweetener	19
+​obvious	afternoon	Positions	1
+​obvious	ah	Positions	3
+​obvious	babe	Positions	1
+​obvious	baby	Positions	4
+​obvious	bands	Positions	4
+​obvious	bout	Positions	1
+​obvious	crave	Positions	1
+​obvious	days	Positions	1
+​obvious	dirty	Positions	2
+​obvious	door	Positions	2
+​obvious	evening	Positions	1
+​obvious	feel	Positions	1
+​obvious	feeling	Positions	1
+​obvious	free	Positions	2
+​obvious	fuck	Positions	1
+​obvious	gettin	Positions	1
+​obvious	gotta	Positions	1
+​obvious	hard	Positions	2
+​obvious	healing	Positions	1
+​obvious	impress	Positions	2
+​obvious	leavin	Positions	1
+​obvious	love	Positions	9
+​obvious	loyalty	Positions	2
+​obvious	lucky	Positions	1
+​obvious	makes	Positions	1
+​obvious	mmm	Positions	1
+​obvious	morning	Positions	1
+​obvious	nothin	Positions	2
+​obvious	obvious	Positions	5
+​obvious	ooh	Positions	3
+​obvious	pack	Positions	1
+​obvious	praying	Positions	1
+​obvious	price	Positions	2
+​obvious	promise	Positions	1
+​obvious	real	Positions	2
+​obvious	repeatin	Positions	1
+​obvious	shit	Positions	4
+​obvious	sleepin'never	Positions	1
+​obvious	somethin	Positions	1
+​obvious	spell	Positions	2
+​obvious	stay	Positions	1
+​obvious	steps	Positions	1
+​obvious	suitcase	Positions	1
+​obvious	taste	Positions	1
+​obvious	treadmill	Positions	1
+​obvious	truths	Positions	2
+​obvious	walked	Positions	2
+​obvious	wanna	Positions	1
+​obvious	warm	Positions	1
+​off the table by Ariana Grande & The Weeknd	anymore	Positions	1
+​off the table by Ariana Grande & The Weeknd	arms	Positions	2
+​off the table by Ariana Grande & The Weeknd	babe	Positions	3
+​off the table by Ariana Grande & The Weeknd	baby	Positions	7
+​off the table by Ariana Grande & The Weeknd	bed	Positions	1
+​off the table by Ariana Grande & The Weeknd	boys	Positions	1
+​off the table by Ariana Grande & The Weeknd	calm	Positions	1
+​off the table by Ariana Grande & The Weeknd	cold	Positions	1
+​off the table by Ariana Grande & The Weeknd	completely	Positions	5
+​off the table by Ariana Grande & The Weeknd	completеly	Positions	1
+​off the table by Ariana Grande & The Weeknd	couple	Positions	1
+​off the table by Ariana Grande & The Weeknd	damn	Positions	1
+​off the table by Ariana Grande & The Weeknd	dark	Positions	1
+​off the table by Ariana Grande & The Weeknd	feels	Positions	1
+​off the table by Ariana Grande & The Weeknd	fill	Positions	1
+​off the table by Ariana Grande & The Weeknd	girl	Positions	1
+​off the table by Ariana Grande & The Weeknd	goin	Positions	4
+​off the table by Ariana Grande & The Weeknd	gon	Positions	1
+​off the table by Ariana Grande & The Weeknd	gonna	Positions	1
+​off the table by Ariana Grande & The Weeknd	gotta	Positions	1
+​off the table by Ariana Grande & The Weeknd	hard	Positions	2
+​off the table by Ariana Grande & The Weeknd	harder	Positions	1
+​off the table by Ariana Grande & The Weeknd	haunted	Positions	1
+​off the table by Ariana Grande & The Weeknd	head	Positions	1
+​off the table by Ariana Grande & The Weeknd	healed	Positions	4
+​off the table by Ariana Grande & The Weeknd	heart	Positions	1
+​off the table by Ariana Grande & The Weeknd	hey	Positions	2
+​off the table by Ariana Grande & The Weeknd	hills	Positions	1
+​off the table by Ariana Grande & The Weeknd	hold	Positions	2
+​off the table by Ariana Grande & The Weeknd	hoo	Positions	1
+​off the table by Ariana Grande & The Weeknd	hurt	Positions	1
+​off the table by Ariana Grande & The Weeknd	leave	Positions	2
+​off the table by Ariana Grande & The Weeknd	life	Positions	2
+​off the table by Ariana Grande & The Weeknd	love	Positions	12
+​off the table by Ariana Grande & The Weeknd	love's	Positions	1
+​off the table by Ariana Grande & The Weeknd	nice	Positions	1
+​off the table by Ariana Grande & The Weeknd	ooh	Positions	4
+​off the table by Ariana Grande & The Weeknd	prove	Positions	1
+​off the table by Ariana Grande & The Weeknd	ready	Positions	7
+​off the table by Ariana Grande & The Weeknd	replace	Positions	1
+​off the table by Ariana Grande & The Weeknd	sit	Positions	1
+​off the table by Ariana Grande & The Weeknd	steady	Positions	7
+​off the table by Ariana Grande & The Weeknd	swear	Positions	3
+​off the table by Ariana Grande & The Weeknd	table	Positions	6
+​off the table by Ariana Grande & The Weeknd	thankfully	Positions	1
+​off the table by Ariana Grande & The Weeknd	thеre	Positions	1
+​off the table by Ariana Grande & The Weeknd	touch	Positions	1
+​off the table by Ariana Grande & The Weeknd	toxic	Positions	2
+​off the table by Ariana Grande & The Weeknd	tryna	Positions	1
+​off the table by Ariana Grande & The Weeknd	void	Positions	1
+​off the table by Ariana Grande & The Weeknd	wait	Positions	5
+​off the table by Ariana Grande & The Weeknd	wanna	Positions	6
+​off the table by Ariana Grande & The Weeknd	woah	Positions	2
+​off the table by Ariana Grande & The Weeknd	woo	Positions	1
+​off the table by Ariana Grande & The Weeknd	yeah	Positions	2
+One Last Time	arms	My Everything	3
+One Last Time	babe	My Everything	2
+One Last Time	baby	My Everything	4
+One Last Time	boy	My Everything	2
+One Last Time	care	My Everything	6
+One Last Time	careful	My Everything	1
+One Last Time	deserve	My Everything	2
+One Last Time	failed	My Everything	1
+One Last Time	failure	My Everything	1
+One Last Time	fault	My Everything	1
+One Last Time	feel	My Everything	1
+One Last Time	fire	My Everything	1
+One Last Time	forgive	My Everything	1
+One Last Time	fought	My Everything	2
+One Last Time	heart	My Everything	3
+One Last Time	home	My Everything	8
+One Last Time	honest	My Everything	2
+One Last Time	liar	My Everything	2
+One Last Time	minute	My Everything	2
+One Last Time	promise	My Everything	3
+One Last Time	should've	My Everything	3
+One Last Time	stay	My Everything	2
+One Last Time	swear	My Everything	2
+One Last Time	takes	My Everything	8
+One Last Time	temporarily	My Everything	1
+One Last Time	time	My Everything	10
+One Last Time	wake	My Everything	3
+One Last Time	wanna	My Everything	1
+One Last Time	worth	My Everything	2
+One Last Time	yeah	My Everything	4
+Only 1	baby	My Everything	2
+Only 1	bigger	My Everything	1
+Only 1	competition	My Everything	1
+Only 1	deserving	My Everything	1
+Only 1	dreaming	My Everything	1
+Only 1	eyes	My Everything	1
+Only 1	fairy	My Everything	2
+Only 1	forget	My Everything	4
+Only 1	hard	My Everything	2
+Only 1	inside	My Everything	1
+Only 1	introduce	My Everything	3
+Only 1	laying	My Everything	1
+Only 1	lies	My Everything	2
+Only 1	living	My Everything	2
+Only 1	love	My Everything	6
+Only 1	makes	My Everything	1
+Only 1	malice	My Everything	2
+Only 1	met	My Everything	4
+Only 1	mine	My Everything	2
+Only 1	night	My Everything	1
+Only 1	ooh	My Everything	2
+Only 1	remain	My Everything	1
+Only 1	tale	My Everything	2
+Only 1	thinking	My Everything	1
+Only 1	time	My Everything	1
+Only 1	times	My Everything	4
+Only 1	true	My Everything	1
+Only 1	wished	My Everything	1
+​pete davidson	align	Sweetener	1
+​pete davidson	crying	Sweetener	1
+​pete davidson	fell	Sweetener	1
+​pete davidson	gonna	Sweetener	3
+​pete davidson	happy	Sweetener	25
+​pete davidson	i'ma	Sweetener	8
+​pete davidson	lap	Sweetener	1
+​pete davidson	life	Sweetener	2
+​pete davidson	mind	Sweetener	1
+​pete davidson	mmm	Sweetener	1
+​pete davidson	ooh	Sweetener	4
+​pete davidson	ready	Sweetener	1
+​pete davidson	sky	Sweetener	1
+​pete davidson	soulmate	Sweetener	1
+​pete davidson	time	Sweetener	1
+​pete davidson	universe	Sweetener	1
+​pete davidson	whoa	Sweetener	1
+​pete davidson	yeah	Sweetener	5
+​pete davidson	yuh	Sweetener	2
+Piano	alright	Yours Truly	6
+Piano	arrow	Yours Truly	2
+Piano	baby	Yours Truly	1
+Piano	battered	Yours Truly	2
+Piano	battle	Yours Truly	3
+Piano	boy	Yours Truly	1
+Piano	cupid	Yours Truly	2
+Piano	dance	Yours Truly	4
+Piano	em	Yours Truly	6
+Piano	feeling	Yours Truly	1
+Piano	follow	Yours Truly	6
+Piano	gon	Yours Truly	1
+Piano	grab	Yours Truly	8
+Piano	hand	Yours Truly	2
+Piano	hands	Yours Truly	6
+Piano	hard	Yours Truly	39
+Piano	heart	Yours Truly	2
+Piano	hold	Yours Truly	6
+Piano	losing	Yours Truly	3
+Piano	love	Yours Truly	3
+Piano	lover's	Yours Truly	2
+Piano	makes	Yours Truly	4
+Piano	night	Yours Truly	6
+Piano	piano	Yours Truly	16
+Piano	play	Yours Truly	4
+Piano	radio	Yours Truly	4
+Piano	real	Yours Truly	6
+Piano	rock	Yours Truly	6
+Piano	shooting	Yours Truly	2
+Piano	sing	Yours Truly	5
+Piano	song	Yours Truly	7
+Piano	wanna	Yours Truly	9
+Piano	write	Yours Truly	3
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	ahh	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	askin'how	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	awful	Yours Truly	4
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	bad	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	boy	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	car	Yours Truly	3
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	catch	Yours Truly	4
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	chick	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	clapping	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	classes	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	cleans	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	cool	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	corn	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	dinner	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	dunk	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	em	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	fancy	Yours Truly	3
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	feel	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	field	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	front	Yours Truly	2
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	funny	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	hate	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	hid	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	huh	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	ish	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	joke's	Yours Truly	2
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	laughing	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	learned	Yours Truly	2
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	lookout	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	mess	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	model	Yours Truly	2
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	movies	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	ooh	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	pickin	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	plate	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	pompoms	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	popular	Yours Truly	22
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	pretty	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	puttin	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	putting	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	row	Yours Truly	2
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	scholar	Yours Truly	2
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	school	Yours Truly	2
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	selling	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	singing	Yours Truly	2
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	song	Yours Truly	4
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	songs	Yours Truly	2
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	standing	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	story	Yours Truly	2
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	toilets	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	true	Yours Truly	3
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	uh	Yours Truly	1
+Popular Song [Single Version] by MIKA (Ft. Ariana Grande)	wrong	Yours Truly	1
+​positions	ah	Positions	7
+​positions	babe	Positions	2
+​positions	bedroom	Positions	5
+​positions	boy	Positions	2
+​positions	causе	Positions	1
+​positions	cookin	Positions	5
+​positions	fuck	Positions	1
+​positions	heaven	Positions	1
+​positions	history	Positions	1
+​positions	hoops	Positions	5
+​positions	hopin	Positions	1
+​positions	infinite	Positions	5
+​positions	jumpin	Positions	7
+​positions	kinda	Positions	4
+​positions	kitchen	Positions	5
+​positions	lotta	Positions	2
+​positions	love	Positions	7
+​positions	mama	Positions	2
+​positions	meet	Positions	2
+​positions	mmm	Positions	2
+​positions	monday	Positions	2
+​positions	nothin	Positions	6
+​positions	olympics	Positions	5
+​positions	onе	Positions	1
+​positions	ooh	Positions	1
+​positions	perfect	Positions	2
+​positions	positions	Positions	4
+​positions	repeat	Positions	1
+​positions	runnin	Positions	2
+​positions	shit	Positions	2
+​positions	sunday	Positions	2
+​positions	switchin	Positions	9
+​positions	tired	Positions	1
+​positions	true	Positions	2
+​positions	tryna	Positions	2
+​positions	woah	Positions	1
+​positions	yeah	Positions	6
+​pov	20	Positions	2
+​pov	afraid	Positions	1
+​pov	babe	Positions	1
+​pov	baby	Positions	1
+​pov	baggage	Positions	2
+​pov	deceive	Positions	1
+​pov	ego	Positions	1
+​pov	eyes	Positions	1
+​pov	fadin	Positions	2
+​pov	fallin	Positions	2
+​pov	feel	Positions	1
+​pov	frozen	Positions	1
+​pov	glass	Positions	1
+​pov	grateful	Positions	1
+​pov	gеtting	Positions	2
+​pov	hours	Positions	1
+​pov	i'ma	Positions	1
+​pov	impatient	Positions	1
+​pov	learnin	Positions	2
+​pov	leaving	Positions	1
+​pov	lips	Positions	1
+​pov	love	Positions	14
+​pov	loved	Positions	3
+​pov	mine	Positions	1
+​pov	minutes	Positions	1
+​pov	ooh	Positions	12
+​pov	permeate	Positions	1
+​pov	pretty	Positions	3
+​pov	pride	Positions	1
+​pov	receiving	Positions	1
+​pov	safely	Positions	1
+​pov	scared	Positions	2
+​pov	slowly	Positions	1
+​pov	soul	Positions	1
+​pov	startin	Positions	1
+​pov	stray	Positions	1
+​pov	subside	Positions	1
+​pov	superpowers	Positions	1
+​pov	thawing	Positions	1
+​pov	touch	Positions	1
+​pov	trust	Positions	12
+​pov	ugly	Positions	3
+​pov	view	Positions	6
+​pov	waitin	Positions	1
+​pov	waitin'all	Positions	1
+​pov	wanna	Positions	6
+​pov	yeah	Positions	1
+Problem (Ft. Iggy Azalea)	99	My Everything	1
+Problem (Ft. Iggy Azalea)	babe	My Everything	3
+Problem (Ft. Iggy Azalea)	baby	My Everything	5
+Problem (Ft. Iggy Azalea)	bettin	My Everything	1
+Problem (Ft. Iggy Azalea)	biggie	My Everything	1
+Problem (Ft. Iggy Azalea)	bit	My Everything	1
+Problem (Ft. Iggy Azalea)	boo	My Everything	1
+Problem (Ft. Iggy Azalea)	breathless	My Everything	1
+Problem (Ft. Iggy Azalea)	call	My Everything	1
+Problem (Ft. Iggy Azalea)	clouds	My Everything	3
+Problem (Ft. Iggy Azalea)	doubt	My Everything	1
+Problem (Ft. Iggy Azalea)	dumb	My Everything	1
+Problem (Ft. Iggy Azalea)	easy	My Everything	1
+Problem (Ft. Iggy Azalea)	exit	My Everything	1
+Problem (Ft. Iggy Azalea)	finally	My Everything	1
+Problem (Ft. Iggy Azalea)	forgettin	My Everything	1
+Problem (Ft. Iggy Azalea)	forgive	My Everything	1
+Problem (Ft. Iggy Azalea)	girl	My Everything	1
+Problem (Ft. Iggy Azalea)	gonna	My Everything	1
+Problem (Ft. Iggy Azalea)	gotta	My Everything	2
+Problem (Ft. Iggy Azalea)	half	My Everything	1
+Problem (Ft. Iggy Azalea)	hate	My Everything	1
+Problem (Ft. Iggy Azalea)	head	My Everything	3
+Problem (Ft. Iggy Azalea)	hey	My Everything	4
+Problem (Ft. Iggy Azalea)	huh	My Everything	1
+Problem (Ft. Iggy Azalea)	iggs	My Everything	2
+Problem (Ft. Iggy Azalea)	iggy	My Everything	4
+Problem (Ft. Iggy Azalea)	knowin	My Everything	1
+Problem (Ft. Iggy Azalea)	learned	My Everything	1
+Problem (Ft. Iggy Azalea)	leave	My Everything	1
+Problem (Ft. Iggy Azalea)	lesson	My Everything	1
+Problem (Ft. Iggy Azalea)	life	My Everything	1
+Problem (Ft. Iggy Azalea)	listenin	My Everything	1
+Problem (Ft. Iggy Azalea)	love	My Everything	4
+Problem (Ft. Iggy Azalea)	million	My Everything	1
+Problem (Ft. Iggy Azalea)	mmm	My Everything	2
+Problem (Ft. Iggy Azalea)	money	My Everything	1
+Problem (Ft. Iggy Azalea)	na	My Everything	1
+Problem (Ft. Iggy Azalea)	nah	My Everything	1
+Problem (Ft. Iggy Azalea)	ooh	My Everything	4
+Problem (Ft. Iggy Azalea)	playin	My Everything	1
+Problem (Ft. Iggy Azalea)	presence	My Everything	1
+Problem (Ft. Iggy Azalea)	realize	My Everything	3
+Problem (Ft. Iggy Azalea)	sayin	My Everything	2
+Problem (Ft. Iggy Azalea)	shoulders	My Everything	3
+Problem (Ft. Iggy Azalea)	smart	My Everything	1
+Problem (Ft. Iggy Azalea)	steppin	My Everything	1
+Problem (Ft. Iggy Azalea)	stressin	My Everything	1
+Problem (Ft. Iggy Azalea)	thinkin	My Everything	1
+Problem (Ft. Iggy Azalea)	time	My Everything	2
+Problem (Ft. Iggy Azalea)	touch	My Everything	1
+Problem (Ft. Iggy Azalea)	uh	My Everything	2
+Problem (Ft. Iggy Azalea)	understand	My Everything	1
+Problem (Ft. Iggy Azalea)	wake	My Everything	1
+Problem (Ft. Iggy Azalea)	wanna	My Everything	1
+Problem (Ft. Iggy Azalea)	weight	My Everything	3
+Problem (Ft. Iggy Azalea)	wiser	My Everything	3
+Problem (Ft. Iggy Azalea)	woah	My Everything	1
+Problem (Ft. Iggy Azalea)	woo	My Everything	1
+Problem (Ft. Iggy Azalea)	ya	My Everything	24
+Problem (Ft. Iggy Azalea)	yeah	My Everything	4
+Problem (Ft. Iggy Azalea)	you's	My Everything	1
+​R.E.M.	asleep	Sweetener	1
+​R.E.M.	babe	Sweetener	1
+​R.E.M.	baby	Sweetener	1
+​R.E.M.	beat	Sweetener	1
+​R.E.M.	bells	Sweetener	1
+​R.E.M.	boy	Sweetener	8
+​R.E.M.	bug	Sweetener	1
+​R.E.M.	bum	Sweetener	22
+​R.E.M.	buy	Sweetener	2
+​R.E.M.	conversation	Sweetener	2
+​R.E.M.	couple	Sweetener	1
+​R.E.M.	cut	Sweetener	1
+​R.E.M.	dare	Sweetener	1
+​R.E.M.	day	Sweetener	1
+​R.E.M.	dream	Sweetener	8
+​R.E.M.	dreams	Sweetener	1
+​R.E.M.	duffel	Sweetener	1
+​R.E.M.	eat	Sweetener	1
+​R.E.M.	em	Sweetener	1
+​R.E.M.	excuse	Sweetener	1
+​R.E.M.	girls	Sweetener	1
+​R.E.M.	gonna	Sweetener	1
+​R.E.M.	happened	Sweetener	1
+​R.E.M.	heard	Sweetener	1
+​R.E.M.	hide	Sweetener	1
+​R.E.M.	housekeeping	Sweetener	1
+​R.E.M.	hug	Sweetener	1
+​R.E.M.	la	Sweetener	1
+​R.E.M.	lay	Sweetener	1
+​R.E.M.	leave	Sweetener	1
+​R.E.M.	loud	Sweetener	1
+​R.E.M.	love	Sweetener	2
+​R.E.M.	met	Sweetener	1
+​R.E.M.	mhm	Sweetener	1
+​R.E.M.	mind	Sweetener	1
+​R.E.M.	mmm	Sweetener	6
+​R.E.M.	month	Sweetener	1
+​R.E.M.	move	Sweetener	3
+​R.E.M.	night	Sweetener	1
+​R.E.M.	peep	Sweetener	1
+​R.E.M.	people	Sweetener	1
+​R.E.M.	perla	Sweetener	1
+​R.E.M.	picture	Sweetener	1
+​R.E.M.	playing	Sweetener	1
+​R.E.M.	psh	Sweetener	1
+​R.E.M.	real	Sweetener	3
+​R.E.M.	seal	Sweetener	1
+​R.E.M.	secret	Sweetener	2
+​R.E.M.	shh	Sweetener	2
+​R.E.M.	single	Sweetener	1
+​R.E.M.	sleep	Sweetener	1
+​R.E.M.	smart	Sweetener	1
+​R.E.M.	speak	Sweetener	3
+​R.E.M.	stand	Sweetener	1
+​R.E.M.	start	Sweetener	1
+​R.E.M.	starts	Sweetener	1
+​R.E.M.	stop	Sweetener	1
+​R.E.M.	thinking	Sweetener	1
+​R.E.M.	touch	Sweetener	1
+​R.E.M.	treat	Sweetener	1
+​R.E.M.	trouble	Sweetener	1
+​R.E.M.	tryna	Sweetener	1
+​R.E.M.	um	Sweetener	1
+​R.E.M.	vickie	Sweetener	1
+​R.E.M.	wa	Sweetener	2
+​R.E.M.	wake	Sweetener	24
+​R.E.M.	wanna	Sweetener	6
+​R.E.M.	watch	Sweetener	1
+​R.E.M.	wedding	Sweetener	1
+​R.E.M.	woah	Sweetener	1
+​R.E.M.	worries	Sweetener	1
+​R.E.M.	yeah	Sweetener	3
+​R.E.M.	yell	Sweetener	1
+​raindrops (an angel cried)	angel	Sweetener	2
+​raindrops (an angel cried)	cried	Sweetener	4
+​raindrops (an angel cried)	day	Sweetener	1
+​raindrops (an angel cried)	fell	Sweetener	1
+​raindrops (an angel cried)	left	Sweetener	1
+​raindrops (an angel cried)	raindrops	Sweetener	1
+​raindrops (an angel cried)	sky	Sweetener	1
+Right There (Ft. Big Sean)	adjacent	Yours Truly	1
+Right There (Ft. Big Sean)	align	Yours Truly	1
+Right There (Ft. Big Sean)	alright	Yours Truly	3
+Right There (Ft. Big Sean)	apollo	Yours Truly	1
+Right There (Ft. Big Sean)	ayy	Yours Truly	4
+Right There (Ft. Big Sean)	b.i.g	Yours Truly	1
+Right There (Ft. Big Sean)	babe	Yours Truly	11
+Right There (Ft. Big Sean)	baby	Yours Truly	2
+Right There (Ft. Big Sean)	bathroom	Yours Truly	1
+Right There (Ft. Big Sean)	benz	Yours Truly	1
+Right There (Ft. Big Sean)	bible	Yours Truly	1
+Right There (Ft. Big Sean)	black	Yours Truly	1
+Right There (Ft. Big Sean)	book	Yours Truly	1
+Right There (Ft. Big Sean)	bottle	Yours Truly	1
+Right There (Ft. Big Sean)	boy	Yours Truly	2
+Right There (Ft. Big Sean)	butterflies	Yours Truly	1
+Right There (Ft. Big Sean)	call	Yours Truly	3
+Right There (Ft. Big Sean)	candles	Yours Truly	1
+Right There (Ft. Big Sean)	care	Yours Truly	3
+Right There (Ft. Big Sean)	carry	Yours Truly	1
+Right There (Ft. Big Sean)	catch	Yours Truly	2
+Right There (Ft. Big Sean)	change	Yours Truly	7
+Right There (Ft. Big Sean)	compares	Yours Truly	3
+Right There (Ft. Big Sean)	daydreaming	Yours Truly	1
+Right There (Ft. Big Sean)	dictionary	Yours Truly	1
+Right There (Ft. Big Sean)	don	Yours Truly	2
+Right There (Ft. Big Sean)	drive	Yours Truly	1
+Right There (Ft. Big Sean)	easy	Yours Truly	1
+Right There (Ft. Big Sean)	eyes	Yours Truly	1
+Right There (Ft. Big Sean)	feel	Yours Truly	1
+Right There (Ft. Big Sean)	feels	Yours Truly	2
+Right There (Ft. Big Sean)	fell	Yours Truly	1
+Right There (Ft. Big Sean)	finally	Yours Truly	1
+Right There (Ft. Big Sean)	genies	Yours Truly	1
+Right There (Ft. Big Sean)	girl	Yours Truly	2
+Right There (Ft. Big Sean)	girls	Yours Truly	1
+Right There (Ft. Big Sean)	god	Yours Truly	1
+Right There (Ft. Big Sean)	gods	Yours Truly	1
+Right There (Ft. Big Sean)	gonna	Yours Truly	11
+Right There (Ft. Big Sean)	hands	Yours Truly	15
+Right There (Ft. Big Sean)	heart	Yours Truly	1
+Right There (Ft. Big Sean)	hey	Yours Truly	3
+Right There (Ft. Big Sean)	home	Yours Truly	1
+Right There (Ft. Big Sean)	hour	Yours Truly	1
+Right There (Ft. Big Sean)	huh	Yours Truly	1
+Right There (Ft. Big Sean)	listen	Yours Truly	3
+Right There (Ft. Big Sean)	lose	Yours Truly	1
+Right There (Ft. Big Sean)	lost	Yours Truly	1
+Right There (Ft. Big Sean)	love	Yours Truly	5
+Right There (Ft. Big Sean)	lucky	Yours Truly	1
+Right There (Ft. Big Sean)	meals	Yours Truly	1
+Right There (Ft. Big Sean)	mind	Yours Truly	4
+Right There (Ft. Big Sean)	mine	Yours Truly	1
+Right There (Ft. Big Sean)	missionary	Yours Truly	1
+Right There (Ft. Big Sean)	model	Yours Truly	1
+Right There (Ft. Big Sean)	moon	Yours Truly	1
+Right There (Ft. Big Sean)	ooh	Yours Truly	7
+Right There (Ft. Big Sean)	party	Yours Truly	13
+Right There (Ft. Big Sean)	pavement	Yours Truly	1
+Right There (Ft. Big Sean)	player	Yours Truly	1
+Right There (Ft. Big Sean)	public	Yours Truly	1
+Right There (Ft. Big Sean)	recycled	Yours Truly	1
+Right There (Ft. Big Sean)	sean	Yours Truly	2
+Right There (Ft. Big Sean)	spent	Yours Truly	1
+Right There (Ft. Big Sean)	spot	Yours Truly	1
+Right There (Ft. Big Sean)	stars	Yours Truly	1
+Right There (Ft. Big Sean)	stay	Yours Truly	7
+Right There (Ft. Big Sean)	swear	Yours Truly	1
+Right There (Ft. Big Sean)	thicker	Yours Truly	1
+Right There (Ft. Big Sean)	thinking	Yours Truly	1
+Right There (Ft. Big Sean)	time	Yours Truly	2
+Right There (Ft. Big Sean)	title	Yours Truly	1
+Right There (Ft. Big Sean)	top	Yours Truly	1
+Right There (Ft. Big Sean)	track	Yours Truly	2
+Right There (Ft. Big Sean)	transportation	Yours Truly	1
+Right There (Ft. Big Sean)	visionary	Yours Truly	1
+Right There (Ft. Big Sean)	waiting	Yours Truly	1
+Right There (Ft. Big Sean)	walked	Yours Truly	1
+Right There (Ft. Big Sean)	wanna	Yours Truly	13
+Right There (Ft. Big Sean)	wrong	Yours Truly	2
+Right There (Ft. Big Sean)	ya	Yours Truly	1
+Right There (Ft. Big Sean)	yeah	Yours Truly	5
+​safety net (Ft. Ty Dolla $ign)	ah	Positions	2
+​safety net (Ft. Ty Dolla $ign)	ayy	Positions	1
+​safety net (Ft. Ty Dolla $ign)	baby	Positions	4
+​safety net (Ft. Ty Dolla $ign)	ball	Positions	1
+​safety net (Ft. Ty Dolla $ign)	boy	Positions	3
+​safety net (Ft. Ty Dolla $ign)	coming	Positions	1
+​safety net (Ft. Ty Dolla $ign)	damn	Positions	1
+​safety net (Ft. Ty Dolla $ign)	day	Positions	1
+​safety net (Ft. Ty Dolla $ign)	falling	Positions	6
+​safety net (Ft. Ty Dolla $ign)	fallouts	Positions	1
+​safety net (Ft. Ty Dolla $ign)	fast	Positions	1
+​safety net (Ft. Ty Dolla $ign)	feel	Positions	5
+​safety net (Ft. Ty Dolla $ign)	feelings	Positions	2
+​safety net (Ft. Ty Dolla $ign)	fight	Positions	2
+​safety net (Ft. Ty Dolla $ign)	fly	Positions	2
+​safety net (Ft. Ty Dolla $ign)	forget	Positions	1
+​safety net (Ft. Ty Dolla $ign)	girl	Positions	5
+​safety net (Ft. Ty Dolla $ign)	gon	Positions	1
+​safety net (Ft. Ty Dolla $ign)	guard	Positions	1
+​safety net (Ft. Ty Dolla $ign)	head	Positions	8
+​safety net (Ft. Ty Dolla $ign)	hey	Positions	1
+​safety net (Ft. Ty Dolla $ign)	hit	Positions	1
+​safety net (Ft. Ty Dolla $ign)	ice	Positions	1
+​safety net (Ft. Ty Dolla $ign)	ignore	Positions	2
+​safety net (Ft. Ty Dolla $ign)	jewelry	Positions	1
+​safety net (Ft. Ty Dolla $ign)	mind	Positions	4
+​safety net (Ft. Ty Dolla $ign)	mine	Positions	1
+​safety net (Ft. Ty Dolla $ign)	mmm	Positions	2
+​safety net (Ft. Ty Dolla $ign)	net	Positions	8
+​safety net (Ft. Ty Dolla $ign)	ooh	Positions	2
+​safety net (Ft. Ty Dolla $ign)	past	Positions	1
+​safety net (Ft. Ty Dolla $ign)	path	Positions	1
+​safety net (Ft. Ty Dolla $ign)	peace	Positions	1
+​safety net (Ft. Ty Dolla $ign)	play	Positions	1
+​safety net (Ft. Ty Dolla $ign)	real	Positions	3
+​safety net (Ft. Ty Dolla $ign)	run	Positions	4
+​safety net (Ft. Ty Dolla $ign)	safe	Positions	1
+​safety net (Ft. Ty Dolla $ign)	safety	Positions	8
+​safety net (Ft. Ty Dolla $ign)	scared	Positions	2
+​safety net (Ft. Ty Dolla $ign)	sheesh	Positions	1
+​safety net (Ft. Ty Dolla $ign)	storе	Positions	1
+​safety net (Ft. Ty Dolla $ign)	thaw	Positions	1
+​safety net (Ft. Ty Dolla $ign)	time	Positions	5
+​safety net (Ft. Ty Dolla $ign)	timе	Positions	1
+​safety net (Ft. Ty Dolla $ign)	track	Positions	1
+​safety net (Ft. Ty Dolla $ign)	tripping	Positions	6
+​safety net (Ft. Ty Dolla $ign)	ups	Positions	1
+​safety net (Ft. Ty Dolla $ign)	woo	Positions	1
+​safety net (Ft. Ty Dolla $ign)	yeah	Positions	6
+​shut up	ah	Positions	2
+​shut up	appetite	Positions	1
+​shut up	aura	Positions	1
+​shut up	bout	Positions	2
+​shut up	bright	Positions	1
+​shut up	causе	Positions	1
+​shut up	circle	Positions	1
+​shut up	clicked	Positions	1
+​shut up	demons	Positions	1
+​shut up	diamonds	Positions	1
+​shut up	drugs	Positions	1
+​shut up	dumb	Positions	10
+​shut up	fuckin	Positions	1
+​shut up	game	Positions	1
+​shut up	guess	Positions	1
+​shut up	hell	Positions	1
+​shut up	helped	Positions	1
+​shut up	lit	Positions	1
+​shut up	love	Positions	1
+​shut up	mine	Positions	4
+​shut up	miss	Positions	1
+​shut up	mmm	Positions	5
+​shut up	muted	Positions	1
+​shut up	nevеr	Positions	1
+​shut up	night	Positions	1
+​shut up	opinions	Positions	1
+​shut up	presence	Positions	1
+​shut up	sad	Positions	1
+​shut up	shit	Positions	3
+​shut up	shut	Positions	8
+​shut up	sound	Positions	4
+​shut up	spending	Positions	2
+​shut up	sweet	Positions	1
+​shut up	time	Positions	2
+​shut up	tongue	Positions	2
+​shut up	vibrate	Positions	1
+​shut up	worried	Positions	2
+​shut up	yeah	Positions	4
+​shut up	yep	Positions	1
+Side To Side (Ft. Nicki Minaj)	ariana	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	baby	Dangerous Woman	9
+Side To Side (Ft. Nicki Minaj)	bad	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	bicycle	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	bitches	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	blow	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	blue	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	body	Dangerous Woman	3
+Side To Side (Ft. Nicki Minaj)	bout	Dangerous Woman	4
+Side To Side (Ft. Nicki Minaj)	box	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	boy	Dangerous Woman	9
+Side To Side (Ft. Nicki Minaj)	call	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	chill	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	chimney	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	comin	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	copped	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	curry	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	day	Dangerous Woman	9
+Side To Side (Ft. Nicki Minaj)	deals	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	devil	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	dick	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	eh	Dangerous Woman	4
+Side To Side (Ft. Nicki Minaj)	em	Dangerous Woman	3
+Side To Side (Ft. Nicki Minaj)	feelin	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	feeling	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	feelings	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	flow	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	flows	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	fresh	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	friends	Dangerous Woman	3
+Side To Side (Ft. Nicki Minaj)	fucks	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	gonna	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	gotta	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	gum	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	gun	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	hear	Dangerous Woman	3
+Side To Side (Ft. Nicki Minaj)	hey	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	hide	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	hoes	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	hurt	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	icicle	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	kissing	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	makin	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	matter	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	ménage	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	minaj	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	mini	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	nah	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	nicki	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	night	Dangerous Woman	11
+Side To Side (Ft. Nicki Minaj)	nothin	Dangerous Woman	4
+Side To Side (Ft. Nicki Minaj)	ooh	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	pop	Dangerous Woman	3
+Side To Side (Ft. Nicki Minaj)	queen	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	rap	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	rappers	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	reputation	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	ride	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	rock	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	run	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	shot	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	smoking	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	solo	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	standing	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	stephanie	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	style	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	talkin	Dangerous Woman	4
+Side To Side (Ft. Nicki Minaj)	temptation	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	tiffany	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	tonight	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	tricycle	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	trouble	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	tryna	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	type	Dangerous Woman	4
+Side To Side (Ft. Nicki Minaj)	uh	Dangerous Woman	3
+Side To Side (Ft. Nicki Minaj)	walkin	Dangerous Woman	7
+Side To Side (Ft. Nicki Minaj)	wanna	Dangerous Woman	1
+Side To Side (Ft. Nicki Minaj)	wrist	Dangerous Woman	2
+Side To Side (Ft. Nicki Minaj)	ya	Dangerous Woman	3
+Side To Side (Ft. Nicki Minaj)	yeah	Dangerous Woman	5
+Side To Side (Ft. Nicki Minaj)	yo	Dangerous Woman	2
+​six thirty	2	Positions	1
+​six thirty	act	Positions	1
+​six thirty	ah	Positions	1
+​six thirty	baby	Positions	2
+​six thirty	bored	Positions	1
+​six thirty	boy	Positions	2
+​six thirty	bullshit	Positions	3
+​six thirty	causе	Positions	1
+​six thirty	change	Positions	1
+​six thirty	chest	Positions	3
+​six thirty	crazy	Positions	5
+​six thirty	crush	Positions	1
+​six thirty	day	Positions	2
+​six thirty	delicious	Positions	1
+​six thirty	directly	Positions	3
+​six thirty	dopamine	Positions	1
+​six thirty	driving	Positions	1
+​six thirty	foot	Positions	2
+​six thirty	friend	Positions	1
+​six thirty	games	Positions	1
+​six thirty	gas	Positions	2
+​six thirty	gon	Positions	1
+​six thirty	gonna	Positions	4
+​six thirty	head	Positions	3
+​six thirty	heavy	Positions	3
+​six thirty	hey	Positions	1
+​six thirty	impatient	Positions	1
+​six thirty	kinda	Positions	2
+​six thirty	kisses	Positions	1
+​six thirty	lose	Positions	2
+​six thirty	love	Positions	3
+​six thirty	mad	Positions	1
+​six thirty	mind	Positions	1
+​six thirty	minute	Positions	1
+​six thirty	mmm	Positions	5
+​six thirty	mе	Positions	1
+​six thirty	ooh	Positions	2
+​six thirty	play	Positions	1
+​six thirty	possessive	Positions	1
+​six thirty	ready	Positions	2
+​six thirty	release	Positions	1
+​six thirty	ride	Positions	1
+​six thirty	scared	Positions	1
+​six thirty	shit	Positions	2
+​six thirty	skrrt	Positions	4
+​six thirty	stay	Positions	3
+​six thirty	stuff	Positions	1
+​six thirty	sunsets	Positions	4
+​six thirty	supposed	Positions	1
+​six thirty	thirty	Positions	13
+​six thirty	til	Positions	1
+​six thirty	ugly	Positions	1
+​six thirty	video	Positions	1
+​six thirty	waiting	Positions	1
+​six thirty	wanna	Positions	3
+​six thirty	whip	Positions	1
+​six thirty	yeah	Positions	3
+Sometimes	babe	Dangerous Woman	1
+Sometimes	baby	Dangerous Woman	6
+Sometimes	beautiful	Dangerous Woman	2
+Sometimes	boy	Dangerous Woman	2
+Sometimes	breathe	Dangerous Woman	3
+Sometimes	caught	Dangerous Woman	1
+Sometimes	cautious	Dangerous Woman	1
+Sometimes	collectin	Dangerous Woman	4
+Sometimes	dust	Dangerous Woman	1
+Sometimes	easy	Dangerous Woman	1
+Sometimes	emotions	Dangerous Woman	2
+Sometimes	fear	Dangerous Woman	1
+Sometimes	feel	Dangerous Woman	1
+Sometimes	hard	Dangerous Woman	3
+Sometimes	honest	Dangerous Woman	2
+Sometimes	kissing	Dangerous Woman	1
+Sometimes	la	Dangerous Woman	105
+Sometimes	leaving	Dangerous Woman	7
+Sometimes	letting	Dangerous Woman	7
+Sometimes	love	Dangerous Woman	1
+Sometimes	lust	Dangerous Woman	1
+Sometimes	mind	Dangerous Woman	4
+Sometimes	moments	Dangerous Woman	4
+Sometimes	ooh	Dangerous Woman	5
+Sometimes	reckless	Dangerous Woman	1
+Sometimes	road	Dangerous Woman	3
+Sometimes	should've	Dangerous Woman	1
+Sometimes	steal	Dangerous Woman	1
+Sometimes	tattoos	Dangerous Woman	4
+Sometimes	tempted	Dangerous Woman	2
+Sometimes	touching	Dangerous Woman	1
+Sometimes	unusual	Dangerous Woman	2
+Sometimes	yeah	Dangerous Woman	2
+Step on Up	arrest	Dangerous Woman	1
+Step on Up	art	Dangerous Woman	3
+Step on Up	ashamed	Dangerous Woman	4
+Step on Up	babe	Dangerous Woman	12
+Step on Up	bad	Dangerous Woman	1
+Step on Up	boy	Dangerous Woman	2
+Step on Up	chasing	Dangerous Woman	1
+Step on Up	classy	Dangerous Woman	1
+Step on Up	coming	Dangerous Woman	2
+Step on Up	crazy	Dangerous Woman	7
+Step on Up	ey	Dangerous Woman	1
+Step on Up	forget	Dangerous Woman	1
+Step on Up	gonna	Dangerous Woman	2
+Step on Up	hey	Dangerous Woman	5
+Step on Up	ladies	Dangerous Woman	1
+Step on Up	life	Dangerous Woman	2
+Step on Up	love	Dangerous Woman	10
+Step on Up	mind	Dangerous Woman	1
+Step on Up	moving	Dangerous Woman	1
+Step on Up	music	Dangerous Woman	1
+Step on Up	nasty	Dangerous Woman	1
+Step on Up	ooh	Dangerous Woman	1
+Step on Up	rock	Dangerous Woman	1
+Step on Up	sexy	Dangerous Woman	1
+Step on Up	shame	Dangerous Woman	1
+Step on Up	standing	Dangerous Woman	1
+Step on Up	step	Dangerous Woman	30
+Step on Up	stop	Dangerous Woman	1
+Step on Up	time	Dangerous Woman	5
+Step on Up	treat	Dangerous Woman	2
+Step on Up	uh	Dangerous Woman	2
+Step on Up	waiting	Dangerous Woman	4
+Step on Up	yeah	Dangerous Woman	1
+​successful	ah	Sweetener	2
+​successful	babe	Sweetener	8
+​successful	baby	Sweetener	4
+​successful	bae	Sweetener	4
+​successful	baller	Sweetener	6
+​successful	beautiful	Sweetener	3
+​successful	beneath	Sweetener	6
+​successful	bout	Sweetener	1
+​successful	boy	Sweetener	8
+​successful	chills	Sweetener	2
+​successful	cold	Sweetener	1
+​successful	eh	Sweetener	1
+​successful	excited	Sweetener	1
+​successful	eyes	Sweetener	1
+​successful	favorite	Sweetener	1
+​successful	feel	Sweetener	2
+​successful	feels	Sweetener	3
+​successful	fun	Sweetener	3
+​successful	girl	Sweetener	3
+​successful	goin	Sweetener	1
+​successful	hands	Sweetener	1
+​successful	hard	Sweetener	1
+​successful	hmm	Sweetener	3
+​successful	hold	Sweetener	1
+​successful	i'ma	Sweetener	2
+​successful	imagine	Sweetener	1
+​successful	listen	Sweetener	1
+​successful	mhm	Sweetener	1
+​successful	mmm	Sweetener	3
+​successful	news	Sweetener	1
+​successful	ooh	Sweetener	2
+​successful	ordinary	Sweetener	1
+​successful	play	Sweetener	3
+​successful	ready	Sweetener	1
+​successful	real	Sweetener	1
+​successful	special	Sweetener	1
+​successful	successful	Sweetener	12
+​successful	surprise	Sweetener	25
+​successful	tonight	Sweetener	6
+​successful	wait	Sweetener	2
+​successful	wanna	Sweetener	1
+​successful	woah	Sweetener	2
+​successful	ya	Sweetener	2
+​successful	yeah	Sweetener	18
+​successful	yee	Sweetener	4
+​sweetener	ayy	Sweetener	79
+​sweetener	babe	Sweetener	1
+​sweetener	bitter	Sweetener	4
+​sweetener	bout	Sweetener	1
+​sweetener	bowl	Sweetener	2
+​sweetener	bring	Sweetener	4
+​sweetener	cards	Sweetener	4
+​sweetener	deals	Sweetener	4
+​sweetener	experience	Sweetener	1
+​sweetener	flip	Sweetener	12
+​sweetener	followin	Sweetener	1
+​sweetener	fun	Sweetener	1
+​sweetener	halt	Sweetener	4
+​sweetener	heights	Sweetener	1
+​sweetener	hey	Sweetener	2
+​sweetener	hit	Sweetener	16
+​sweetener	hoping	Sweetener	1
+​sweetener	horoscopes	Sweetener	2
+​sweetener	kiss	Sweetener	12
+​sweetener	lay	Sweetener	1
+​sweetener	lick	Sweetener	2
+​sweetener	life	Sweetener	7
+​sweetener	lifts	Sweetener	1
+​sweetener	light	Sweetener	1
+​sweetener	mama	Sweetener	1
+​sweetener	method	Sweetener	1
+​sweetener	mix	Sweetener	16
+​sweetener	night	Sweetener	1
+​sweetener	ooh	Sweetener	3
+​sweetener	rest	Sweetener	1
+​sweetener	salt	Sweetener	4
+​sweetener	sheesh	Sweetener	33
+​sweetener	smile	Sweetener	1
+​sweetener	soul	Sweetener	2
+​sweetener	sour	Sweetener	1
+​sweetener	sweet	Sweetener	1
+​sweetener	sweetener	Sweetener	21
+​sweetener	talk	Sweetener	1
+​sweetener	talking	Sweetener	1
+​sweetener	taste	Sweetener	8
+​sweetener	touches	Sweetener	2
+​sweetener	twist	Sweetener	16
+​sweetener	unfold	Sweetener	2
+​sweetener	unknown	Sweetener	1
+​sweetener	wanna	Sweetener	1
+​sweetener	watching	Sweetener	2
+​sweetener	wrong	Sweetener	1
+​sweetener	yeah	Sweetener	3
+Tattooed Heart	1954	Yours Truly	1
+Tattooed Heart	baby	Yours Truly	1
+Tattooed Heart	bed	Yours Truly	1
+Tattooed Heart	blood	Yours Truly	1
+Tattooed Heart	call	Yours Truly	1
+Tattooed Heart	crazy	Yours Truly	1
+Tattooed Heart	darling	Yours Truly	1
+Tattooed Heart	forever	Yours Truly	1
+Tattooed Heart	games	Yours Truly	1
+Tattooed Heart	heart	Yours Truly	23
+Tattooed Heart	honey	Yours Truly	1
+Tattooed Heart	jacket	Yours Truly	1
+Tattooed Heart	kiss	Yours Truly	1
+Tattooed Heart	lay	Yours Truly	1
+Tattooed Heart	lines	Yours Truly	1
+Tattooed Heart	lot	Yours Truly	1
+Tattooed Heart	lovin	Yours Truly	1
+Tattooed Heart	money	Yours Truly	1
+Tattooed Heart	moonlight	Yours Truly	1
+Tattooed Heart	past	Yours Truly	1
+Tattooed Heart	play	Yours Truly	1
+Tattooed Heart	rushing	Yours Truly	1
+Tattooed Heart	steady	Yours Truly	1
+Tattooed Heart	tattooed	Yours Truly	23
+Tattooed Heart	trace	Yours Truly	1
+Tattooed Heart	underneath	Yours Truly	1
+Tattooed Heart	veins	Yours Truly	1
+Tattooed Heart	wanna	Yours Truly	1
+Tattooed Heart	worry	Yours Truly	1
+Tattooed Heart	wrap	Yours Truly	1
+Tattooed Heart	yeah	Yours Truly	1
+​thank u, next	aisle	Thank U, Next	1
+​thank u, next	amazing	Thank U, Next	5
+​thank u, next	angel	Thank U, Next	1
+​thank u, next	ari	Thank U, Next	1
+​thank u, next	bad	Thank U, Next	1
+​thank u, next	bout	Thank U, Next	1
+​thank u, next	dad	Thank U, Next	1
+​thank u, next	day	Thank U, Next	1
+​thank u, next	discussions	Thank U, Next	1
+​thank u, next	drama	Thank U, Next	1
+​thank u, next	fast	Thank U, Next	1
+​thank u, next	forbid	Thank U, Next	1
+​thank u, next	found	Thank U, Next	2
+​thank u, next	friends	Thank U, Next	1
+​thank u, next	fuckin	Thank U, Next	7
+​thank u, next	god	Thank U, Next	1
+​thank u, next	gon	Thank U, Next	2
+​thank u, next	grateful	Thank U, Next	5
+​thank u, next	grew	Thank U, Next	1
+​thank u, next	handles	Thank U, Next	1
+​thank u, next	hands	Thank U, Next	1
+​thank u, next	havin	Thank U, Next	1
+​thank u, next	holding	Thank U, Next	1
+​thank u, next	laugh	Thank U, Next	1
+​thank u, next	learned	Thank U, Next	1
+​thank u, next	listen	Thank U, Next	1
+​thank u, next	lost	Thank U, Next	3
+​thank u, next	love	Thank U, Next	5
+​thank u, next	loved	Thank U, Next	3
+​thank u, next	malcolm	Thank U, Next	1
+​thank u, next	mama	Thank U, Next	1
+​thank u, next	married	Thank U, Next	1
+​thank u, next	match	Thank U, Next	1
+​thank u, next	met	Thank U, Next	1
+​thank u, next	move	Thank U, Next	1
+​thank u, next	nothin'plus	Thank U, Next	1
+​thank u, next	pain	Thank U, Next	5
+​thank u, next	patience	Thank U, Next	5
+​thank u, next	pete	Thank U, Next	1
+​thank u, next	real	Thank U, Next	1
+​thank u, next	ricky	Thank U, Next	1
+​thank u, next	sean	Thank U, Next	1
+​thank u, next	searching	Thank U, Next	2
+​thank u, next	shit	Thank U, Next	1
+​thank u, next	shit's	Thank U, Next	1
+​thank u, next	smash	Thank U, Next	2
+​thank u, next	song	Thank U, Next	2
+​thank u, next	songs	Thank U, Next	1
+​thank u, next	spend	Thank U, Next	1
+​thank u, next	taught	Thank U, Next	6
+​thank u, next	thankful	Thank U, Next	1
+​thank u, next	thanking	Thank U, Next	1
+​thank u, next	time	Thank U, Next	1
+​thank u, next	walk	Thank U, Next	1
+​thank u, next	wanna	Thank U, Next	1
+​thank u, next	worried	Thank U, Next	1
+​thank u, next	wrote	Thank U, Next	1
+​thank u, next	yeah	Thank U, Next	15
+​thank u, next	yee	Thank U, Next	2
+​the light is coming (Ft. Nicki Minaj)	ah	Sweetener	4
+​the light is coming (Ft. Nicki Minaj)	ariana	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	aww	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	ay	Sweetener	6
+​the light is coming (Ft. Nicki Minaj)	ayo	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	bad	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	benched	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	blow	Sweetener	4
+​the light is coming (Ft. Nicki Minaj)	bottom	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	box	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	boy	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	break	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	bum	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	burns	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	ca	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	call	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	cares	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	chances	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	chemistry	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	chun	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	clings	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	clumsy	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	coming	Sweetener	18
+​the light is coming (Ft. Nicki Minaj)	confused	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	darkness	Sweetener	18
+​the light is coming (Ft. Nicki Minaj)	doin	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	dreams	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	drive	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	eff	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	em	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	glow	Sweetener	4
+​the light is coming (Ft. Nicki Minaj)	gonna	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	guess	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	guy	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	gyal	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	inst	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	knee	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	li	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	light	Sweetener	18
+​the light is coming (Ft. Nicki Minaj)	line	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	listen	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	love	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	mi	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	nice	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	ooh	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	peeped	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	rationale	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	respect	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	round	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	shade	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	shit	Sweetener	4
+​the light is coming (Ft. Nicki Minaj)	shooting	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	shot	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	sips	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	sleep	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	slippin	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	speak	Sweetener	22
+​the light is coming (Ft. Nicki Minaj)	speed	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	st	Sweetener	8
+​the light is coming (Ft. Nicki Minaj)	stay	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	stole	Sweetener	32
+​the light is coming (Ft. Nicki Minaj)	tea	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	tellin	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	throw	Sweetener	4
+​the light is coming (Ft. Nicki Minaj)	time	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	trophy	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	trouble	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	unsee	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	unsweet	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	vibes	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	view	Sweetener	2
+​the light is coming (Ft. Nicki Minaj)	wait	Sweetener	4
+​the light is coming (Ft. Nicki Minaj)	wife	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	wings	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	woke	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	won	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	yeah	Sweetener	6
+​the light is coming (Ft. Nicki Minaj)	yep	Sweetener	1
+​the light is coming (Ft. Nicki Minaj)	yo	Sweetener	1
+The Way (Ft. Mac Miller)	admit	Yours Truly	3
+The Way (Ft. Mac Miller)	adventure	Yours Truly	1
+The Way (Ft. Mac Miller)	almighty	Yours Truly	1
+The Way (Ft. Mac Miller)	american	Yours Truly	1
+The Way (Ft. Mac Miller)	ayy	Yours Truly	1
+The Way (Ft. Mac Miller)	babe	Yours Truly	3
+The Way (Ft. Mac Miller)	baby	Yours Truly	8
+The Way (Ft. Mac Miller)	bad	Yours Truly	3
+The Way (Ft. Mac Miller)	beauty	Yours Truly	1
+The Way (Ft. Mac Miller)	bed	Yours Truly	1
+The Way (Ft. Mac Miller)	bored	Yours Truly	1
+The Way (Ft. Mac Miller)	bout	Yours Truly	1
+The Way (Ft. Mac Miller)	boy	Yours Truly	4
+The Way (Ft. Mac Miller)	bruce	Yours Truly	1
+The Way (Ft. Mac Miller)	care	Yours Truly	3
+The Way (Ft. Mac Miller)	celly	Yours Truly	1
+The Way (Ft. Mac Miller)	closer	Yours Truly	1
+The Way (Ft. Mac Miller)	crazy	Yours Truly	1
+The Way (Ft. Mac Miller)	day	Yours Truly	3
+The Way (Ft. Mac Miller)	explore	Yours Truly	1
+The Way (Ft. Mac Miller)	feel	Yours Truly	17
+The Way (Ft. Mac Miller)	feelin	Yours Truly	1
+The Way (Ft. Mac Miller)	feelings	Yours Truly	1
+The Way (Ft. Mac Miller)	fine	Yours Truly	2
+The Way (Ft. Mac Miller)	flowers	Yours Truly	1
+The Way (Ft. Mac Miller)	freak	Yours Truly	1
+The Way (Ft. Mac Miller)	friend	Yours Truly	1
+The Way (Ft. Mac Miller)	gonna	Yours Truly	1
+The Way (Ft. Mac Miller)	gotta	Yours Truly	1
+The Way (Ft. Mac Miller)	groovy	Yours Truly	1
+The Way (Ft. Mac Miller)	heart	Yours Truly	4
+The Way (Ft. Mac Miller)	hey	Yours Truly	9
+The Way (Ft. Mac Miller)	hide	Yours Truly	3
+The Way (Ft. Mac Miller)	hit	Yours Truly	1
+The Way (Ft. Mac Miller)	honey	Yours Truly	1
+The Way (Ft. Mac Miller)	hope	Yours Truly	1
+The Way (Ft. Mac Miller)	hour	Yours Truly	1
+The Way (Ft. Mac Miller)	huh	Yours Truly	1
+The Way (Ft. Mac Miller)	hundred	Yours Truly	1
+The Way (Ft. Mac Miller)	jumpin	Yours Truly	1
+The Way (Ft. Mac Miller)	keeper	Yours Truly	2
+The Way (Ft. Mac Miller)	kinda	Yours Truly	1
+The Way (Ft. Mac Miller)	leave	Yours Truly	2
+The Way (Ft. Mac Miller)	lips	Yours Truly	1
+The Way (Ft. Mac Miller)	lonely	Yours Truly	1
+The Way (Ft. Mac Miller)	love	Yours Truly	54
+The Way (Ft. Mac Miller)	lover	Yours Truly	1
+The Way (Ft. Mac Miller)	mind	Yours Truly	1
+The Way (Ft. Mac Miller)	mine	Yours Truly	2
+The Way (Ft. Mac Miller)	move	Yours Truly	1
+The Way (Ft. Mac Miller)	movie	Yours Truly	1
+The Way (Ft. Mac Miller)	ooh	Yours Truly	5
+The Way (Ft. Mac Miller)	petals	Yours Truly	1
+The Way (Ft. Mac Miller)	pickin	Yours Truly	1
+The Way (Ft. Mac Miller)	player	Yours Truly	1
+The Way (Ft. Mac Miller)	princess	Yours Truly	1
+The Way (Ft. Mac Miller)	public	Yours Truly	1
+The Way (Ft. Mac Miller)	qu	Yours Truly	2
+The Way (Ft. Mac Miller)	question	Yours Truly	2
+The Way (Ft. Mac Miller)	scale	Yours Truly	1
+The Way (Ft. Mac Miller)	shower	Yours Truly	1
+The Way (Ft. Mac Miller)	singin	Yours Truly	1
+The Way (Ft. Mac Miller)	sleepin	Yours Truly	1
+The Way (Ft. Mac Miller)	sneak	Yours Truly	1
+The Way (Ft. Mac Miller)	somethin	Yours Truly	1
+The Way (Ft. Mac Miller)	stay	Yours Truly	3
+The Way (Ft. Mac Miller)	ten	Yours Truly	1
+The Way (Ft. Mac Miller)	thinkin	Yours Truly	1
+The Way (Ft. Mac Miller)	time	Yours Truly	3
+The Way (Ft. Mac Miller)	uh	Yours Truly	1
+The Way (Ft. Mac Miller)	watch	Yours Truly	1
+The Way (Ft. Mac Miller)	woo	Yours Truly	1
+The Way (Ft. Mac Miller)	worry	Yours Truly	3
+The Way (Ft. Mac Miller)	ya	Yours Truly	4
+The Way (Ft. Mac Miller)	yeah	Yours Truly	5
+The Way (Spanglish Version) (Ft. Mac Miller)	100	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	acaríciame	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	admit	Yours Truly	3
+The Way (Spanglish Version) (Ft. Mac Miller)	adventure	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	al	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	almighty	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	american	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	amo	Yours Truly	8
+The Way (Spanglish Version) (Ft. Mac Miller)	amor	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	babe	Yours Truly	3
+The Way (Spanglish Version) (Ft. Mac Miller)	baby	Yours Truly	2
+The Way (Spanglish Version) (Ft. Mac Miller)	bad	Yours Truly	3
+The Way (Spanglish Version) (Ft. Mac Miller)	beauty	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	bed	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	beso	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	bored	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	bout	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	boy	Yours Truly	3
+The Way (Spanglish Version) (Ft. Mac Miller)	bruce	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	care	Yours Truly	3
+The Way (Spanglish Version) (Ft. Mac Miller)	celly	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	cielo	Yours Truly	3
+The Way (Spanglish Version) (Ft. Mac Miller)	closer	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	con	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	contigo	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	dame	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	day	Yours Truly	2
+The Way (Spanglish Version) (Ft. Mac Miller)	de	Yours Truly	2
+The Way (Spanglish Version) (Ft. Mac Miller)	dejarte	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	digo	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	el	Yours Truly	2
+The Way (Spanglish Version) (Ft. Mac Miller)	enamórame	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	eres	Yours Truly	5
+The Way (Spanglish Version) (Ft. Mac Miller)	escucha	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	estar	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	estoy	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	explore	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	feel	Yours Truly	12
+The Way (Spanglish Version) (Ft. Mac Miller)	feeling	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	feelings	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	fine	Yours Truly	2
+The Way (Spanglish Version) (Ft. Mac Miller)	flowers	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	freak	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	gon	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	groovy	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	hablar	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	hasta	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	heart	Yours Truly	3
+The Way (Spanglish Version) (Ft. Mac Miller)	hide	Yours Truly	3
+The Way (Spanglish Version) (Ft. Mac Miller)	hit	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	hope	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	hour	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	keeper	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	kinda	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	leave	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	llévame	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	llevas	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	lo	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	loca	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	lonely	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	love	Yours Truly	32
+The Way (Spanglish Version) (Ft. Mac Miller)	mi	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	mí	Yours Truly	5
+The Way (Spanglish Version) (Ft. Mac Miller)	mind	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	mine	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	modo	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	move	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	movie	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	na	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	necesito	Yours Truly	3
+The Way (Spanglish Version) (Ft. Mac Miller)	para	Yours Truly	5
+The Way (Spanglish Version) (Ft. Mac Miller)	pensar	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	petals	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	picking	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	player	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	princess	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	public	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	puedo	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	quiero	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	scale	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	sé	Yours Truly	10
+The Way (Spanglish Version) (Ft. Mac Miller)	shower	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	singing	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	sleeping	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	sneak	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	stay	Yours Truly	2
+The Way (Spanglish Version) (Ft. Mac Miller)	te	Yours Truly	12
+The Way (Spanglish Version) (Ft. Mac Miller)	ten	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	thinking	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	time	Yours Truly	2
+The Way (Spanglish Version) (Ft. Mac Miller)	todo	Yours Truly	5
+The Way (Spanglish Version) (Ft. Mac Miller)	tu	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	tú	Yours Truly	6
+The Way (Spanglish Version) (Ft. Mac Miller)	uh	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	vayas	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	vivir	Yours Truly	10
+The Way (Spanglish Version) (Ft. Mac Miller)	wanna	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	watch	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	worry	Yours Truly	3
+The Way (Spanglish Version) (Ft. Mac Miller)	ya	Yours Truly	2
+The Way (Spanglish Version) (Ft. Mac Miller)	yeah	Yours Truly	1
+The Way (Spanglish Version) (Ft. Mac Miller)	yo	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	acaríciame	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	admit	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	al	Yours Truly	2
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	amo	Yours Truly	8
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	amor	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	aquí	Yours Truly	2
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	aunque	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	babe	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	baby	Yours Truly	4
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	bad	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	balvin	Yours Truly	2
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	beso	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	bien	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	boy	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	canino	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	care	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	cariño	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	casa	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	cielo	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	colombia	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	como	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	con	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	contigo	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	continente	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	dame	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	day	Yours Truly	2
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	de	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	dejarte	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	diferente	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	digo	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	dile	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	el	Yours Truly	4
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	enamórame	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	entre	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	eres	Yours Truly	5
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	es	Yours Truly	2
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	escucha	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	estar	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	este	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	estoy	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	favor	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	feel	Yours Truly	10
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	fino	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	gente	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	goin	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	gusten	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	hablar	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	hasta	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	heart	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	hey	Yours Truly	9
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	hide	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	hundred	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	inteligente	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	keeper	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	la	Yours Truly	2
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	latino	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	le	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	leave	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	llévame	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	llevas	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	lo	Yours Truly	2
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	loca	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	loco	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	love	Yours Truly	34
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	madre	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	más	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	mi	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	mí	Yours Truly	5
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	mis	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	modo	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	na	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	necesito	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	ooh	Yours Truly	4
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	para	Yours Truly	5
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	pensar	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	perro	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	pierdas	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	por	Yours Truly	2
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	puedo	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	pues	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	quien	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	quiero	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	resto	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	sabes	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	saca	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	salvaje	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	scale	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	sé	Yours Truly	11
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	si	Yours Truly	2
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	sigo	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	solo	Yours Truly	2
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	somethin	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	soy	Yours Truly	5
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	stand	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	stay	Yours Truly	2
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	suficiente	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	tatuajes	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	te	Yours Truly	13
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	ten	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	ti	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	tiempo	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	time	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	todo	Yours Truly	6
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	trátame	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	tu	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	tú	Yours Truly	6
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	vayas	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	ven	Yours Truly	2
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	viajaría	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	viejo	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	vino	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	vivir	Yours Truly	10
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	worry	Yours Truly	3
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	ya	Yours Truly	2
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	yeah	Yours Truly	1
+The Way (Spanglish Version) [feat. J Balvin] (Ft. J Balvin)	yo	Yours Truly	5
+Thinking Bout You	ah	Dangerous Woman	3
+Thinking Bout You	arching	Dangerous Woman	1
+Thinking Bout You	baby	Dangerous Woman	3
+Thinking Bout You	bout	Dangerous Woman	32
+Thinking Bout You	breath	Dangerous Woman	1
+Thinking Bout You	choice	Dangerous Woman	1
+Thinking Bout You	control	Dangerous Woman	2
+Thinking Bout You	eyes	Dangerous Woman	1
+Thinking Bout You	forget	Dangerous Woman	1
+Thinking Bout You	head	Dangerous Woman	1
+Thinking Bout You	hear	Dangerous Woman	1
+Thinking Bout You	hell	Dangerous Woman	1
+Thinking Bout You	home	Dangerous Woman	1
+Thinking Bout You	hurry	Dangerous Woman	2
+Thinking Bout You	losing	Dangerous Woman	1
+Thinking Bout You	love	Dangerous Woman	1
+Thinking Bout You	memory	Dangerous Woman	3
+Thinking Bout You	mind	Dangerous Woman	2
+Thinking Bout You	missing	Dangerous Woman	1
+Thinking Bout You	night	Dangerous Woman	2
+Thinking Bout You	ooh	Dangerous Woman	1
+Thinking Bout You	patient	Dangerous Woman	1
+Thinking Bout You	patiently	Dangerous Woman	1
+Thinking Bout You	rolling	Dangerous Woman	1
+Thinking Bout You	thinkin	Dangerous Woman	27
+Thinking Bout You	til	Dangerous Woman	1
+Thinking Bout You	voice	Dangerous Woman	1
+Thinking Bout You	wait	Dangerous Woman	1
+Thinking Bout You	waiting	Dangerous Woman	1
+Thinking Bout You	yeah	Dangerous Woman	5
+Too Close	baby	My Everything	3
+Too Close	boy	My Everything	8
+Too Close	boyfriend	My Everything	1
+Too Close	close	My Everything	11
+Too Close	dare	My Everything	1
+Too Close	daring	My Everything	1
+Too Close	date	My Everything	1
+Too Close	feel	My Everything	3
+Too Close	friends	My Everything	2
+Too Close	girl	My Everything	1
+Too Close	killing	My Everything	3
+Too Close	kiss	My Everything	1
+Too Close	ladies	My Everything	12
+Too Close	love	My Everything	1
+Too Close	loved	My Everything	1
+Too Close	mind	My Everything	1
+Too Close	noise	My Everything	4
+Too Close	perfect	My Everything	2
+Too Close	playing	My Everything	1
+Too Close	remember	My Everything	1
+Too Close	thinking	My Everything	3
+Too Close	truth	My Everything	1
+Too Close	woah	My Everything	3
+Too Close	wrong	My Everything	2
+Touch It	ah	Dangerous Woman	2
+Touch It	ahh	Dangerous Woman	5
+Touch It	baby	Dangerous Woman	10
+Touch It	bae	Dangerous Woman	1
+Touch It	behave	Dangerous Woman	4
+Touch It	bo	Dangerous Woman	1
+Touch It	break	Dangerous Woman	2
+Touch It	breath	Dangerous Woman	1
+Touch It	breathing	Dangerous Woman	1
+Touch It	care	Dangerous Woman	1
+Touch It	coming	Dangerous Woman	1
+Touch It	danger	Dangerous Woman	1
+Touch It	dy	Dangerous Woman	1
+Touch It	eh	Dangerous Woman	3
+Touch It	ey	Dangerous Woman	2
+Touch It	fall	Dangerous Woman	3
+Touch It	feel	Dangerous Woman	1
+Touch It	forget	Dangerous Woman	2
+Touch It	gonna	Dangerous Woman	15
+Touch It	hey	Dangerous Woman	1
+Touch It	hmm	Dangerous Woman	2
+Touch It	holding	Dangerous Woman	1
+Touch It	insane	Dangerous Woman	2
+Touch It	love	Dangerous Woman	4
+Touch It	mm	Dangerous Woman	1
+Touch It	night	Dangerous Woman	1
+Touch It	ooh	Dangerous Woman	14
+Touch It	pace	Dangerous Woman	4
+Touch It	patient	Dangerous Woman	4
+Touch It	phone	Dangerous Woman	1
+Touch It	pick	Dangerous Woman	4
+Touch It	remember	Dangerous Woman	3
+Touch It	remind	Dangerous Woman	2
+Touch It	ring	Dangerous Woman	1
+Touch It	skin	Dangerous Woman	1
+Touch It	taking	Dangerous Woman	2
+Touch It	time	Dangerous Woman	7
+Touch It	tired	Dangerous Woman	3
+Touch It	touch	Dangerous Woman	28
+Touch It	wanna	Dangerous Woman	8
+Touch It	woah	Dangerous Woman	1
+Touch It	yeah	Dangerous Woman	3
+Touch It	zone	Dangerous Woman	3
+​west side	babe	Positions	2
+​west side	baby	Positions	1
+​west side	bring	Positions	5
+​west side	chill	Positions	1
+​west side	closing	Positions	2
+​west side	door	Positions	2
+​west side	em	Positions	2
+​west side	emotions	Positions	5
+​west side	favorite	Positions	2
+​west side	feel	Positions	1
+​west side	follow	Positions	4
+​west side	gonna	Positions	4
+​west side	gotta	Positions	1
+​west side	hold	Positions	9
+​west side	life	Positions	5
+​west side	light	Positions	2
+​west side	love	Positions	4
+​west side	meet	Positions	4
+​west side	mmm	Positions	1
+​west side	real	Positions	1
+​west side	roll	Positions	5
+​west side	rush	Positions	1
+​west side	stuff	Positions	1
+​west side	time	Positions	1
+​west side	touch	Positions	1
+​west side	wanna	Positions	2
+​west side	west	Positions	3
+​west side	wife	Positions	1
+​west side	yeah	Positions	1
+Why Try	angels	My Everything	8
+Why Try	ay	My Everything	2
+Why Try	baby	My Everything	5
+Why Try	beautiful	My Everything	1
+Why Try	boat	My Everything	2
+Why Try	cut	My Everything	1
+Why Try	devils	My Everything	7
+Why Try	drive	My Everything	3
+Why Try	heart	My Everything	4
+Why Try	insane	My Everything	3
+Why Try	kills	My Everything	1
+Why Try	live	My Everything	3
+Why Try	livin	My Everything	4
+Why Try	living	My Everything	2
+Why Try	louder	My Everything	3
+Why Try	love	My Everything	2
+Why Try	lovesick	My Everything	3
+Why Try	lovin	My Everything	4
+Why Try	loving	My Everything	2
+Why Try	na	My Everything	126
+Why Try	ooh	My Everything	6
+Why Try	pain	My Everything	3
+Why Try	realize	My Everything	1
+Why Try	redefine	My Everything	1
+Why Try	screaming	My Everything	3
+Why Try	skip	My Everything	4
+Why Try	wanna	My Everything	3
+Why Try	yeah	My Everything	10
+Why Try	yelling	My Everything	1
+You Don't Know Me	arguments	My Everything	1
+You Don't Know Me	attention	My Everything	1
+You Don't Know Me	center	My Everything	1
+You Don't Know Me	control	My Everything	4
+You Don't Know Me	dear	My Everything	2
+You Don't Know Me	girl	My Everything	1
+You Don't Know Me	happen	My Everything	1
+You Don't Know Me	idea	My Everything	3
+You Don't Know Me	judge	My Everything	1
+You Don't Know Me	life	My Everything	4
+You Don't Know Me	live	My Everything	4
+You Don't Know Me	love	My Everything	5
+You Don't Know Me	me'cause	My Everything	1
+You Don't Know Me	mile	My Everything	4
+You Don't Know Me	perfect	My Everything	4
+You Don't Know Me	photographs	My Everything	1
+You Don't Know Me	picture	My Everything	4
+You Don't Know Me	reality	My Everything	1
+You Don't Know Me	reason	My Everything	1
+You Don't Know Me	rules	My Everything	4
+You Don't Know Me	shoes	My Everything	4
+You Don't Know Me	thinking	My Everything	4
+You Don't Know Me	time	My Everything	2
+You Don't Know Me	told	My Everything	4
+You Don't Know Me	truth	My Everything	4
+You Don't Know Me	understand	My Everything	6
+You Don't Know Me	walked	My Everything	4
+You Don't Know Me	watch	My Everything	1
+You'll Never Know	baby	Yours Truly	2
+You'll Never Know	bit	Yours Truly	1
+You'll Never Know	blame	Yours Truly	1
+You'll Never Know	boy	Yours Truly	15
+You'll Never Know	chance	Yours Truly	1
+You'll Never Know	change	Yours Truly	1
+You'll Never Know	could've	Yours Truly	2
+You'll Never Know	drama	Yours Truly	1
+You'll Never Know	fault	Yours Truly	1
+You'll Never Know	feel	Yours Truly	1
+You'll Never Know	finally	Yours Truly	1
+You'll Never Know	girl	Yours Truly	1
+You'll Never Know	gotta	Yours Truly	3
+You'll Never Know	guess	Yours Truly	1
+You'll Never Know	hand	Yours Truly	2
+You'll Never Know	hands	Yours Truly	1
+You'll Never Know	hard	Yours Truly	1
+You'll Never Know	head	Yours Truly	2
+You'll Never Know	hear	Yours Truly	1
+You'll Never Know	heart	Yours Truly	1
+You'll Never Know	late	Yours Truly	2
+You'll Never Know	left	Yours Truly	1
+You'll Never Know	listened	Yours Truly	2
+You'll Never Know	loves	Yours Truly	2
+You'll Never Know	mad	Yours Truly	1
+You'll Never Know	manned	Yours Truly	2
+You'll Never Know	mess	Yours Truly	2
+You'll Never Know	mind	Yours Truly	1
+You'll Never Know	overkill	Yours Truly	1
+You'll Never Know	replaced	Yours Truly	1
+You'll Never Know	should've	Yours Truly	4
+You'll Never Know	shoulda	Yours Truly	3
+You'll Never Know	shown	Yours Truly	5
+You'll Never Know	spoke	Yours Truly	2
+You'll Never Know	stand	Yours Truly	2
+You'll Never Know	sucks	Yours Truly	2
+You'll Never Know	thousand	Yours Truly	1
+You'll Never Know	time	Yours Truly	1
+You'll Never Know	times	Yours Truly	1
+You'll Never Know	told	Yours Truly	4
+You'll Never Know	uh	Yours Truly	2
+You'll Never Know	understand	Yours Truly	1
+You'll Never Know	waste	Yours Truly	1
+You'll Never Know	wipe	Yours Truly	1
+You'll Never Know	wondering	Yours Truly	2
+You'll Never Know	words	Yours Truly	1
+You'll Never Know	would've	Yours Truly	7
+You'll Never Know	woulda	Yours Truly	2
+You'll Never Know	yup	Yours Truly	12

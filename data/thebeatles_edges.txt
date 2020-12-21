@@ -1,0 +1,4411 @@
+from	to	value
+Revolution 9 (Ft. Yoko Ono)	Sun King	aaah
+I Want to Tell You	Sgt. Pepper's Lonely Hearts Club Band	act
+I Want to Tell You	You Won't See Me	act
+Sgt. Pepper's Lonely Hearts Club Band	You Won't See Me	act
+For No One	Sgt. Pepper's Lonely Hearts Club Band	ago
+Because	Eleanor Rigby	ah
+Because	Fixing a Hole	ah
+Because	Getting Better	ah
+Because	Girl	ah
+Because	Honey Pie	ah
+Because	I'm Looking Through You	ah
+Because	If I Needed Someone	ah
+Because	Lovely Rita	ah
+Eleanor Rigby	Fixing a Hole	ah
+Eleanor Rigby	Getting Better	ah
+Eleanor Rigby	Girl	ah
+Eleanor Rigby	Honey Pie	ah
+Eleanor Rigby	I'm Looking Through You	ah
+Eleanor Rigby	If I Needed Someone	ah
+Eleanor Rigby	Lovely Rita	ah
+Fixing a Hole	Getting Better	ah
+Fixing a Hole	Girl	ah
+Fixing a Hole	Honey Pie	ah
+Fixing a Hole	I'm Looking Through You	ah
+Fixing a Hole	If I Needed Someone	ah
+Fixing a Hole	Lovely Rita	ah
+Getting Better	Girl	ah
+Getting Better	Honey Pie	ah
+Getting Better	I'm Looking Through You	ah
+Getting Better	If I Needed Someone	ah
+Getting Better	Lovely Rita	ah
+Girl	Honey Pie	ah
+Girl	I'm Looking Through You	ah
+Girl	If I Needed Someone	ah
+Girl	Lovely Rita	ah
+Honey Pie	I'm Looking Through You	ah
+Honey Pie	If I Needed Someone	ah
+Honey Pie	Lovely Rita	ah
+I'm Looking Through You	If I Needed Someone	ah
+I'm Looking Through You	Lovely Rita	ah
+If I Needed Someone	Lovely Rita	ah
+Because	Lovely Rita	ahh
+Because	Lucy in the Sky with Diamonds	ahh
+Lovely Rita	Lucy in the Sky with Diamonds	ahh
+Don't Pass Me By	Revolution 9 (Ft. Yoko Ono)	alright
+Don't Pass Me By	The End	alright
+Revolution 9 (Ft. Yoko Ono)	The End	alright
+Helter Skelter	Lucy in the Sky with Diamonds	answer
+Helter Skelter	She Came in Through the Bathroom Window	answer
+Helter Skelter	When I'm Sixty-Four	answer
+Lucy in the Sky with Diamonds	She Came in Through the Bathroom Window	answer
+Lucy in the Sky with Diamonds	When I'm Sixty-Four	answer
+She Came in Through the Bathroom Window	When I'm Sixty-Four	answer
+Drive My Car	I Want You (She's So Heavy)	babe
+Cry Baby Cry	Drive My Car	baby
+Cry Baby Cry	I'm Looking Through You	baby
+Cry Baby Cry	Run for Your Life	baby
+Drive My Car	I'm Looking Through You	baby
+Drive My Car	Run for Your Life	baby
+I'm Looking Through You	Run for Your Life	baby
+I Want You (She's So Heavy)	The Word	bad
+Back in the U.S.S.R.	Come Together	bag
+Back in the U.S.S.R.	Lovely Rita	bag
+Back in the U.S.S.R.	Polythene Pam	bag
+Come Together	Lovely Rita	bag
+Come Together	Polythene Pam	bag
+Lovely Rita	Polythene Pam	bag
+Being for the Benefit of Mr. Kite!	Ob-La-Di, Ob-La-Da	band
+Being for the Benefit of Mr. Kite!	Sgt. Pepper's Lonely Hearts Club Band	band
+Being for the Benefit of Mr. Kite!	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	band
+Being for the Benefit of Mr. Kite!	Yellow Submarine	band
+Ob-La-Di, Ob-La-Da	Sgt. Pepper's Lonely Hearts Club Band	band
+Ob-La-Di, Ob-La-Da	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	band
+Ob-La-Di, Ob-La-Da	Yellow Submarine	band
+Sgt. Pepper's Lonely Hearts Club Band	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	band
+Sgt. Pepper's Lonely Hearts Club Band	Yellow Submarine	band
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	Yellow Submarine	band
+Happiness is a Warm Gun	Maxwell's Silver Hammer	bang
+A Day in the Life	Back in the U.S.S.R.	bed
+A Day in the Life	I'm Only Sleeping	bed
+A Day in the Life	Norwegian Wood (This Bird Has Flown)	bed
+A Day in the Life	Octopus's Garden	bed
+Back in the U.S.S.R.	I'm Only Sleeping	bed
+Back in the U.S.S.R.	Norwegian Wood (This Bird Has Flown)	bed
+Back in the U.S.S.R.	Octopus's Garden	bed
+I'm Only Sleeping	Norwegian Wood (This Bird Has Flown)	bed
+I'm Only Sleeping	Octopus's Garden	bed
+Norwegian Wood (This Bird Has Flown)	Octopus's Garden	bed
+The Word	Tomorrow Never Knows	beginning
+Being for the Benefit of Mr. Kite!	Good Night	begins
+Being for the Benefit of Mr. Kite!	Ob-La-Di, Ob-La-Da	begins
+Being for the Benefit of Mr. Kite!	She's Leaving Home	begins
+Being for the Benefit of Mr. Kite!	Yellow Submarine	begins
+Good Night	Ob-La-Di, Ob-La-Da	begins
+Good Night	She's Leaving Home	begins
+Good Night	Yellow Submarine	begins
+Ob-La-Di, Ob-La-Da	She's Leaving Home	begins
+Ob-La-Di, Ob-La-Da	Yellow Submarine	begins
+She's Leaving Home	Yellow Submarine	begins
+Here, There and Everywhere	Tomorrow Never Knows	believing
+Eleanor Rigby	Fixing a Hole	belong
+Eleanor Rigby	Honey Pie	belong
+Fixing a Hole	Honey Pie	belong
+Good Day Sunshine	Mother Nature's Son	beneath
+Good Day Sunshine	Octopus's Garden	beneath
+Good Day Sunshine	Yellow Submarine	beneath
+Mother Nature's Son	Octopus's Garden	beneath
+Mother Nature's Son	Yellow Submarine	beneath
+Octopus's Garden	Yellow Submarine	beneath
+Being for the Benefit of Mr. Kite!	Lovely Rita	bill
+Being for the Benefit of Mr. Kite!	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	bill
+Lovely Rita	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	bill
+Sgt. Pepper's Lonely Hearts Club Band	With a Little Help from My Friends	billy
+And Your Bird Can Sing	Cry Baby Cry	bird
+And Your Bird Can Sing	Norwegian Wood (This Bird Has Flown)	bird
+Cry Baby Cry	Norwegian Wood (This Bird Has Flown)	bird
+Dear Prudence	Revolution 9 (Ft. Yoko Ono)	birds
+Birthday	When I'm Sixty-Four	birthday
+Martha My Dear	Nowhere Man	bit
+Martha My Dear	Revolution 9 (Ft. Yoko Ono)	bit
+Nowhere Man	Revolution 9 (Ft. Yoko Ono)	bit
+Ob-La-Di, Ob-La-Da	Savoy Truffle	bla
+Blackbird	Rocky Raccoon	black
+Blackbird	Yer Blues	black
+Rocky Raccoon	Yer Blues	black
+A Day in the Life	Honey Pie	blew
+Nowhere Man	What Goes On	blind
+Because	Savoy Truffle	blows
+Because	Dear Prudence	blue
+Because	Don't Pass Me By	blue
+Because	Yellow Submarine	blue
+Because	Yer Blues	blue
+Dear Prudence	Don't Pass Me By	blue
+Dear Prudence	Yellow Submarine	blue
+Dear Prudence	Yer Blues	blue
+Don't Pass Me By	Yellow Submarine	blue
+Don't Pass Me By	Yer Blues	blue
+Yellow Submarine	Yer Blues	blue
+Honey Pie	Savoy Truffle	blues
+Honey Pie	Lucy in the Sky with Diamonds	boat
+A Day in the Life	Lovely Rita	book
+Mother Nature's Son	Run for Your Life	born
+Mother Nature's Son	She Said She Said	born
+Mother Nature's Son	Yellow Submarine	born
+Run for Your Life	She Said She Said	born
+Run for Your Life	Yellow Submarine	born
+She Said She Said	Yellow Submarine	born
+Revolution 9 (Ft. Yoko Ono)	When I'm Sixty-Four	bottle
+Love You To	While My Guitar Gently Weeps (Ft. Eric Clapton)	bought
+A Day in the Life	Back in the U.S.S.R.	boy
+A Day in the Life	Carry That Weight	boy
+A Day in the Life	Good Morning Good Morning	boy
+A Day in the Life	Maxwell's Silver Hammer	boy
+A Day in the Life	Mother Nature's Son	boy
+A Day in the Life	Octopus's Garden	boy
+A Day in the Life	Rocky Raccoon	boy
+A Day in the Life	She Said She Said	boy
+Back in the U.S.S.R.	Carry That Weight	boy
+Back in the U.S.S.R.	Good Morning Good Morning	boy
+Back in the U.S.S.R.	Maxwell's Silver Hammer	boy
+Back in the U.S.S.R.	Mother Nature's Son	boy
+Back in the U.S.S.R.	Octopus's Garden	boy
+Back in the U.S.S.R.	Rocky Raccoon	boy
+Back in the U.S.S.R.	She Said She Said	boy
+Carry That Weight	Good Morning Good Morning	boy
+Carry That Weight	Maxwell's Silver Hammer	boy
+Carry That Weight	Mother Nature's Son	boy
+Carry That Weight	Octopus's Garden	boy
+Carry That Weight	Rocky Raccoon	boy
+Carry That Weight	She Said She Said	boy
+Good Morning Good Morning	Maxwell's Silver Hammer	boy
+Good Morning Good Morning	Mother Nature's Son	boy
+Good Morning Good Morning	Octopus's Garden	boy
+Good Morning Good Morning	Rocky Raccoon	boy
+Good Morning Good Morning	She Said She Said	boy
+Maxwell's Silver Hammer	Mother Nature's Son	boy
+Maxwell's Silver Hammer	Octopus's Garden	boy
+Maxwell's Silver Hammer	Rocky Raccoon	boy
+Maxwell's Silver Hammer	She Said She Said	boy
+Mother Nature's Son	Octopus's Garden	boy
+Mother Nature's Son	Rocky Raccoon	boy
+Mother Nature's Son	She Said She Said	boy
+Octopus's Garden	Rocky Raccoon	boy
+Octopus's Garden	She Said She Said	boy
+Rocky Raccoon	She Said She Said	boy
+Carry That Weight	Girl	break
+Carry That Weight	Helter Skelter	break
+Carry That Weight	What Goes On	break
+Carry That Weight	You Never Give Me Your Money	break
+Girl	Helter Skelter	break
+Girl	What Goes On	break
+Girl	You Never Give Me Your Money	break
+Helter Skelter	What Goes On	break
+Helter Skelter	You Never Give Me Your Money	break
+What Goes On	You Never Give Me Your Money	break
+For No One	She's Leaving Home	breaks
+For No One	Wait	breaks
+She's Leaving Home	Wait	breaks
+Oh! Darling	Sexy Sadie	broke
+And Your Bird Can Sing	Blackbird	broken
+And Your Bird Can Sing	Revolution 9 (Ft. Yoko Ono)	broken
+And Your Bird Can Sing	Rocky Raccoon	broken
+Blackbird	Revolution 9 (Ft. Yoko Ono)	broken
+Blackbird	Rocky Raccoon	broken
+Revolution 9 (Ft. Yoko Ono)	Rocky Raccoon	broken
+Cry Baby Cry	Revolution 1	brother
+Cry Baby Cry	Revolution 9 (Ft. Yoko Ono)	brother
+Revolution 1	Revolution 9 (Ft. Yoko Ono)	brother
+Ob-La-Di, Ob-La-Da	Polythene Pam	built
+Mean Mr. Mustard	She's Leaving Home	buy
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	She's Leaving Home	bye
+Doctor Robert	Good Morning Good Morning	call
+Doctor Robert	I'm So Tired	call
+Doctor Robert	If I Needed Someone	call
+Doctor Robert	You Won't See Me	call
+Good Morning Good Morning	I'm So Tired	call
+Good Morning Good Morning	If I Needed Someone	call
+Good Morning Good Morning	You Won't See Me	call
+I'm So Tired	If I Needed Someone	call
+I'm So Tired	You Won't See Me	call
+If I Needed Someone	You Won't See Me	call
+Revolution 9 (Ft. Yoko Ono)	Rocky Raccoon	called
+Julia	Lucy in the Sky with Diamonds	calls
+Julia	Maxwell's Silver Hammer	calls
+Lucy in the Sky with Diamonds	Maxwell's Silver Hammer	calls
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	Yellow Submarine	captain
+A Day in the Life	Don't Pass Me By	car
+A Day in the Life	Drive My Car	car
+A Day in the Life	Taxman	car
+Don't Pass Me By	Drive My Car	car
+Don't Pass Me By	Taxman	car
+Drive My Car	Taxman	car
+Eleanor Rigby	Here, There and Everywhere	care
+Eleanor Rigby	Piggies	care
+Here, There and Everywhere	Piggies	care
+I Will	Run for Your Life	catch
+Lovely Rita	Maxwell's Silver Hammer	caught
+Norwegian Wood (This Bird Has Flown)	Revolution 9 (Ft. Yoko Ono)	chair
+Birthday	The Word	chance
+Revolution 1	Within You Without You	change
+A Day in the Life	Good Morning Good Morning	changed
+A Day in the Life	I'm Looking Through You	changed
+A Day in the Life	In My Life	changed
+Good Morning Good Morning	I'm Looking Through You	changed
+Good Morning Good Morning	In My Life	changed
+I'm Looking Through You	In My Life	changed
+Getting Better	Here, There and Everywhere	changing
+Dear Prudence	Julia	child
+Cry Baby Cry	Ob-La-Di, Ob-La-Da	children
+Cry Baby Cry	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	children
+Cry Baby Cry	You Never Give Me Your Money	children
+Ob-La-Di, Ob-La-Da	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	children
+Ob-La-Di, Ob-La-Da	You Never Give Me Your Money	children
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	You Never Give Me Your Money	children
+A Day in the Life	Don't Pass Me By	clock
+Glass Onion	Good Night	close
+Glass Onion	Think for Yourself	close
+Good Night	Think for Yourself	close
+Julia	Yer Blues	cloud
+Dear Prudence	Lucy in the Sky with Diamonds	clouds
+Sgt. Pepper's Lonely Hearts Club Band	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	club
+Piggies	She's Leaving Home	clutching
+Here Comes the Sun	Taxman	cold
+Here Comes the Sun	Within You Without You	cold
+Taxman	Within You Without You	cold
+Don't Pass Me By	Helter Skelter	coming
+Don't Pass Me By	Wait	coming
+Helter Skelter	Wait	coming
+Getting Better	Girl	cool
+Getting Better	Good Morning Good Morning	cool
+Getting Better	Savoy Truffle	cool
+Girl	Good Morning Good Morning	cool
+Girl	Savoy Truffle	cool
+Good Morning Good Morning	Savoy Truffle	cool
+A Day in the Life	Revolution 1	count
+Honey Pie	I'm Only Sleeping	crazy
+For No One	Oh! Darling	cried
+For No One	Wait	cried
+Oh! Darling	Wait	cried
+A Day in the Life	Happiness is a Warm Gun	crowd
+Because	Cry Baby Cry	cry
+Because	Don't Pass Me By	cry
+Because	Girl	cry
+Because	Golden Slumbers	cry
+Cry Baby Cry	Don't Pass Me By	cry
+Cry Baby Cry	Girl	cry
+Cry Baby Cry	Golden Slumbers	cry
+Don't Pass Me By	Girl	cry
+Don't Pass Me By	Golden Slumbers	cry
+Girl	Golden Slumbers	cry
+A Day in the Life	Doctor Robert	cup
+Revolution 9 (Ft. Yoko Ono)	Savoy Truffle	cuts
+Here Comes the Sun	Lovely Rita	da
+Here Comes the Sun	Ob-La-Di, Ob-La-Da	da
+Here Comes the Sun	Revolution 9 (Ft. Yoko Ono)	da
+Here Comes the Sun	Savoy Truffle	da
+Lovely Rita	Ob-La-Di, Ob-La-Da	da
+Lovely Rita	Revolution 9 (Ft. Yoko Ono)	da
+Lovely Rita	Savoy Truffle	da
+Ob-La-Di, Ob-La-Da	Revolution 9 (Ft. Yoko Ono)	da
+Ob-La-Di, Ob-La-Da	Savoy Truffle	da
+Revolution 9 (Ft. Yoko Ono)	Savoy Truffle	da
+Being for the Benefit of Mr. Kite!	Birthday	dance
+Being for the Benefit of Mr. Kite!	Octopus's Garden	dance
+Birthday	Octopus's Garden	dance
+Helter Skelter	She Came in Through the Bathroom Window	dancer
+Blackbird	Cry Baby Cry	dark
+Blackbird	Good Morning Good Morning	dark
+Blackbird	Lovely Rita	dark
+Blackbird	Mean Mr. Mustard	dark
+Cry Baby Cry	Good Morning Good Morning	dark
+Cry Baby Cry	Lovely Rita	dark
+Cry Baby Cry	Mean Mr. Mustard	dark
+Good Morning Good Morning	Lovely Rita	dark
+Good Morning Good Morning	Mean Mr. Mustard	dark
+Lovely Rita	Mean Mr. Mustard	dark
+Don't Pass Me By	Golden Slumbers	darling
+Don't Pass Me By	Here Comes the Sun	darling
+Don't Pass Me By	Oh! Darling	darling
+Golden Slumbers	Here Comes the Sun	darling
+Golden Slumbers	Oh! Darling	darling
+Here Comes the Sun	Oh! Darling	darling
+Dear Prudence	Doctor Robert	day
+Dear Prudence	For No One	day
+Dear Prudence	Girl	day
+Dear Prudence	Good Day Sunshine	day
+Dear Prudence	Good Morning Good Morning	day
+Dear Prudence	Got to Get You into My Life	day
+Dear Prudence	Her Majesty	day
+Dear Prudence	Here, There and Everywhere	day
+Dear Prudence	I'm Only Sleeping	day
+Dear Prudence	If I Needed Someone	day
+Dear Prudence	Love You To	day
+Dear Prudence	Mother Nature's Son	day
+Dear Prudence	Rocky Raccoon	day
+Dear Prudence	Sexy Sadie	day
+Dear Prudence	She Came in Through the Bathroom Window	day
+Dear Prudence	She's Leaving Home	day
+Dear Prudence	What Goes On	day
+Dear Prudence	With a Little Help from My Friends	day
+Doctor Robert	For No One	day
+Doctor Robert	Girl	day
+Doctor Robert	Good Day Sunshine	day
+Doctor Robert	Good Morning Good Morning	day
+Doctor Robert	Got to Get You into My Life	day
+Doctor Robert	Her Majesty	day
+Doctor Robert	Here, There and Everywhere	day
+Doctor Robert	I'm Only Sleeping	day
+Doctor Robert	If I Needed Someone	day
+Doctor Robert	Love You To	day
+Doctor Robert	Mother Nature's Son	day
+Doctor Robert	Rocky Raccoon	day
+Doctor Robert	Sexy Sadie	day
+Doctor Robert	She Came in Through the Bathroom Window	day
+Doctor Robert	She's Leaving Home	day
+Doctor Robert	What Goes On	day
+Doctor Robert	With a Little Help from My Friends	day
+For No One	Girl	day
+For No One	Good Day Sunshine	day
+For No One	Good Morning Good Morning	day
+For No One	Got to Get You into My Life	day
+For No One	Her Majesty	day
+For No One	Here, There and Everywhere	day
+For No One	I'm Only Sleeping	day
+For No One	If I Needed Someone	day
+For No One	Love You To	day
+For No One	Mother Nature's Son	day
+For No One	Rocky Raccoon	day
+For No One	Sexy Sadie	day
+For No One	She Came in Through the Bathroom Window	day
+For No One	She's Leaving Home	day
+For No One	What Goes On	day
+For No One	With a Little Help from My Friends	day
+Girl	Good Day Sunshine	day
+Girl	Good Morning Good Morning	day
+Girl	Got to Get You into My Life	day
+Girl	Her Majesty	day
+Girl	Here, There and Everywhere	day
+Girl	I'm Only Sleeping	day
+Girl	If I Needed Someone	day
+Girl	Love You To	day
+Girl	Mother Nature's Son	day
+Girl	Rocky Raccoon	day
+Girl	Sexy Sadie	day
+Girl	She Came in Through the Bathroom Window	day
+Girl	She's Leaving Home	day
+Girl	What Goes On	day
+Girl	With a Little Help from My Friends	day
+Good Day Sunshine	Good Morning Good Morning	day
+Good Day Sunshine	Got to Get You into My Life	day
+Good Day Sunshine	Her Majesty	day
+Good Day Sunshine	Here, There and Everywhere	day
+Good Day Sunshine	I'm Only Sleeping	day
+Good Day Sunshine	If I Needed Someone	day
+Good Day Sunshine	Love You To	day
+Good Day Sunshine	Mother Nature's Son	day
+Good Day Sunshine	Rocky Raccoon	day
+Good Day Sunshine	Sexy Sadie	day
+Good Day Sunshine	She Came in Through the Bathroom Window	day
+Good Day Sunshine	She's Leaving Home	day
+Good Day Sunshine	What Goes On	day
+Good Day Sunshine	With a Little Help from My Friends	day
+Good Morning Good Morning	Got to Get You into My Life	day
+Good Morning Good Morning	Her Majesty	day
+Good Morning Good Morning	Here, There and Everywhere	day
+Good Morning Good Morning	I'm Only Sleeping	day
+Good Morning Good Morning	If I Needed Someone	day
+Good Morning Good Morning	Love You To	day
+Good Morning Good Morning	Mother Nature's Son	day
+Good Morning Good Morning	Rocky Raccoon	day
+Good Morning Good Morning	Sexy Sadie	day
+Good Morning Good Morning	She Came in Through the Bathroom Window	day
+Good Morning Good Morning	She's Leaving Home	day
+Good Morning Good Morning	What Goes On	day
+Good Morning Good Morning	With a Little Help from My Friends	day
+Got to Get You into My Life	Her Majesty	day
+Got to Get You into My Life	Here, There and Everywhere	day
+Got to Get You into My Life	I'm Only Sleeping	day
+Got to Get You into My Life	If I Needed Someone	day
+Got to Get You into My Life	Love You To	day
+Got to Get You into My Life	Mother Nature's Son	day
+Got to Get You into My Life	Rocky Raccoon	day
+Got to Get You into My Life	Sexy Sadie	day
+Got to Get You into My Life	She Came in Through the Bathroom Window	day
+Got to Get You into My Life	She's Leaving Home	day
+Got to Get You into My Life	What Goes On	day
+Got to Get You into My Life	With a Little Help from My Friends	day
+Her Majesty	Here, There and Everywhere	day
+Her Majesty	I'm Only Sleeping	day
+Her Majesty	If I Needed Someone	day
+Her Majesty	Love You To	day
+Her Majesty	Mother Nature's Son	day
+Her Majesty	Rocky Raccoon	day
+Her Majesty	Sexy Sadie	day
+Her Majesty	She Came in Through the Bathroom Window	day
+Her Majesty	She's Leaving Home	day
+Her Majesty	What Goes On	day
+Her Majesty	With a Little Help from My Friends	day
+Here, There and Everywhere	I'm Only Sleeping	day
+Here, There and Everywhere	If I Needed Someone	day
+Here, There and Everywhere	Love You To	day
+Here, There and Everywhere	Mother Nature's Son	day
+Here, There and Everywhere	Rocky Raccoon	day
+Here, There and Everywhere	Sexy Sadie	day
+Here, There and Everywhere	She Came in Through the Bathroom Window	day
+Here, There and Everywhere	She's Leaving Home	day
+Here, There and Everywhere	What Goes On	day
+Here, There and Everywhere	With a Little Help from My Friends	day
+I'm Only Sleeping	If I Needed Someone	day
+I'm Only Sleeping	Love You To	day
+I'm Only Sleeping	Mother Nature's Son	day
+I'm Only Sleeping	Rocky Raccoon	day
+I'm Only Sleeping	Sexy Sadie	day
+I'm Only Sleeping	She Came in Through the Bathroom Window	day
+I'm Only Sleeping	She's Leaving Home	day
+I'm Only Sleeping	What Goes On	day
+I'm Only Sleeping	With a Little Help from My Friends	day
+If I Needed Someone	Love You To	day
+If I Needed Someone	Mother Nature's Son	day
+If I Needed Someone	Rocky Raccoon	day
+If I Needed Someone	Sexy Sadie	day
+If I Needed Someone	She Came in Through the Bathroom Window	day
+If I Needed Someone	She's Leaving Home	day
+If I Needed Someone	What Goes On	day
+If I Needed Someone	With a Little Help from My Friends	day
+Love You To	Mother Nature's Son	day
+Love You To	Rocky Raccoon	day
+Love You To	Sexy Sadie	day
+Love You To	She Came in Through the Bathroom Window	day
+Love You To	She's Leaving Home	day
+Love You To	What Goes On	day
+Love You To	With a Little Help from My Friends	day
+Mother Nature's Son	Rocky Raccoon	day
+Mother Nature's Son	Sexy Sadie	day
+Mother Nature's Son	She Came in Through the Bathroom Window	day
+Mother Nature's Son	She's Leaving Home	day
+Mother Nature's Son	What Goes On	day
+Mother Nature's Son	With a Little Help from My Friends	day
+Rocky Raccoon	Sexy Sadie	day
+Rocky Raccoon	She Came in Through the Bathroom Window	day
+Rocky Raccoon	She's Leaving Home	day
+Rocky Raccoon	What Goes On	day
+Rocky Raccoon	With a Little Help from My Friends	day
+Sexy Sadie	She Came in Through the Bathroom Window	day
+Sexy Sadie	She's Leaving Home	day
+Sexy Sadie	What Goes On	day
+Sexy Sadie	With a Little Help from My Friends	day
+She Came in Through the Bathroom Window	She's Leaving Home	day
+She Came in Through the Bathroom Window	What Goes On	day
+She Came in Through the Bathroom Window	With a Little Help from My Friends	day
+She's Leaving Home	What Goes On	day
+She's Leaving Home	With a Little Help from My Friends	day
+What Goes On	With a Little Help from My Friends	day
+Being for the Benefit of Mr. Kite!	Martha My Dear	days
+Being for the Benefit of Mr. Kite!	Revolution 9 (Ft. Yoko Ono)	days
+Being for the Benefit of Mr. Kite!	You Won't See Me	days
+Martha My Dear	Revolution 9 (Ft. Yoko Ono)	days
+Martha My Dear	You Won't See Me	days
+Revolution 9 (Ft. Yoko Ono)	You Won't See Me	days
+Blackbird	For No One	dead
+Blackbird	Girl	dead
+Blackbird	In My Life	dead
+Blackbird	Love You To	dead
+Blackbird	Maxwell's Silver Hammer	dead
+Blackbird	Run for Your Life	dead
+Blackbird	She Said She Said	dead
+Blackbird	Tomorrow Never Knows	dead
+Blackbird	Yer Blues	dead
+For No One	Girl	dead
+For No One	In My Life	dead
+For No One	Love You To	dead
+For No One	Maxwell's Silver Hammer	dead
+For No One	Run for Your Life	dead
+For No One	She Said She Said	dead
+For No One	Tomorrow Never Knows	dead
+For No One	Yer Blues	dead
+Girl	In My Life	dead
+Girl	Love You To	dead
+Girl	Maxwell's Silver Hammer	dead
+Girl	Run for Your Life	dead
+Girl	She Said She Said	dead
+Girl	Tomorrow Never Knows	dead
+Girl	Yer Blues	dead
+In My Life	Love You To	dead
+In My Life	Maxwell's Silver Hammer	dead
+In My Life	Run for Your Life	dead
+In My Life	She Said She Said	dead
+In My Life	Tomorrow Never Knows	dead
+In My Life	Yer Blues	dead
+Love You To	Maxwell's Silver Hammer	dead
+Love You To	Run for Your Life	dead
+Love You To	She Said She Said	dead
+Love You To	Tomorrow Never Knows	dead
+Love You To	Yer Blues	dead
+Maxwell's Silver Hammer	Run for Your Life	dead
+Maxwell's Silver Hammer	She Said She Said	dead
+Maxwell's Silver Hammer	Tomorrow Never Knows	dead
+Maxwell's Silver Hammer	Yer Blues	dead
+Run for Your Life	She Said She Said	dead
+Run for Your Life	Tomorrow Never Knows	dead
+Run for Your Life	Yer Blues	dead
+She Said She Said	Tomorrow Never Knows	dead
+She Said She Said	Yer Blues	dead
+Tomorrow Never Knows	Yer Blues	dead
+Dear Prudence	Don't Pass Me By	dear
+Dear Prudence	Martha My Dear	dear
+Dear Prudence	When I'm Sixty-Four	dear
+Don't Pass Me By	Martha My Dear	dear
+Don't Pass Me By	When I'm Sixty-Four	dear
+Martha My Dear	When I'm Sixty-Four	dear
+Ob-La-Di, Ob-La-Da	Savoy Truffle	di
+Taxman	What Goes On	die
+Taxman	Yer Blues	die
+What Goes On	Yer Blues	die
+Eleanor Rigby	Oh! Darling	died
+Lovely Rita	Piggies	dinner
+Eleanor Rigby	Piggies	dirt
+Maxwell's Silver Hammer	Mean Mr. Mustard	dirty
+Doctor Robert	Rocky Raccoon	doctor
+Don't Pass Me By	Eleanor Rigby	door
+Don't Pass Me By	Fixing a Hole	door
+Don't Pass Me By	Maxwell's Silver Hammer	door
+Don't Pass Me By	Ob-La-Di, Ob-La-Da	door
+Don't Pass Me By	She's Leaving Home	door
+Don't Pass Me By	When I'm Sixty-Four	door
+Don't Pass Me By	Yellow Submarine	door
+Eleanor Rigby	Fixing a Hole	door
+Eleanor Rigby	Maxwell's Silver Hammer	door
+Eleanor Rigby	Ob-La-Di, Ob-La-Da	door
+Eleanor Rigby	She's Leaving Home	door
+Eleanor Rigby	When I'm Sixty-Four	door
+Eleanor Rigby	Yellow Submarine	door
+Fixing a Hole	Maxwell's Silver Hammer	door
+Fixing a Hole	Ob-La-Di, Ob-La-Da	door
+Fixing a Hole	She's Leaving Home	door
+Fixing a Hole	When I'm Sixty-Four	door
+Fixing a Hole	Yellow Submarine	door
+Maxwell's Silver Hammer	Ob-La-Di, Ob-La-Da	door
+Maxwell's Silver Hammer	She's Leaving Home	door
+Maxwell's Silver Hammer	When I'm Sixty-Four	door
+Maxwell's Silver Hammer	Yellow Submarine	door
+Ob-La-Di, Ob-La-Da	She's Leaving Home	door
+Ob-La-Di, Ob-La-Da	When I'm Sixty-Four	door
+Ob-La-Di, Ob-La-Da	Yellow Submarine	door
+She's Leaving Home	When I'm Sixty-Four	door
+She's Leaving Home	Yellow Submarine	door
+When I'm Sixty-Four	Yellow Submarine	door
+I Want to Tell You	Polythene Pam	drag
+A Day in the Life	Eleanor Rigby	dream
+A Day in the Life	Good Night	dream
+A Day in the Life	I'm Only Sleeping	dream
+A Day in the Life	You Never Give Me Your Money	dream
+Eleanor Rigby	Good Night	dream
+Eleanor Rigby	I'm Only Sleeping	dream
+Eleanor Rigby	You Never Give Me Your Money	dream
+Good Night	I'm Only Sleeping	dream
+Good Night	You Never Give Me Your Money	dream
+I'm Only Sleeping	You Never Give Me Your Money	dream
+Good Night	Rocky Raccoon	dreams
+Good Night	The End	dreams
+Good Night	Tomorrow Never Knows	dreams
+Rocky Raccoon	The End	dreams
+Rocky Raccoon	Tomorrow Never Knows	dreams
+The End	Tomorrow Never Knows	dreams
+Doctor Robert	I'm So Tired	drink
+Don't Pass Me By	Drive My Car	drive
+Don't Pass Me By	Taxman	drive
+Drive My Car	Taxman	drive
+Honey Pie	I Want You (She's So Heavy)	driving
+When I'm Sixty-Four	Yellow Submarine	drop
+Girl	Yer Blues	earth
+Everybody's Got Something to Hide Except Me and My Monkey	I Will	easy
+Everybody's Got Something to Hide Except Me and My Monkey	What Goes On	easy
+I Will	What Goes On	easy
+Lucy in the Sky with Diamonds	Piggies	eat
+Lucy in the Sky with Diamonds	Savoy Truffle	eat
+Piggies	Savoy Truffle	eat
+Ob-La-Di, Ob-La-Da	Sgt. Pepper's Lonely Hearts Club Band	evening
+Ob-La-Di, Ob-La-Da	Yer Blues	evening
+Sgt. Pepper's Lonely Hearts Club Band	Yer Blues	evening
+Everybody's Got Something to Hide Except Me and My Monkey	Sun King	everybody's
+I'm Only Sleeping	Rocky Raccoon	eye
+I'm Only Sleeping	Yer Blues	eye
+Rocky Raccoon	Yer Blues	eye
+Blackbird	Dear Prudence	eyes
+Blackbird	For No One	eyes
+Blackbird	Golden Slumbers	eyes
+Blackbird	Good Night	eyes
+Blackbird	Happiness is a Warm Gun	eyes
+Blackbird	Here, There and Everywhere	eyes
+Blackbird	Julia	eyes
+Blackbird	Lucy in the Sky with Diamonds	eyes
+Blackbird	Revolution 9 (Ft. Yoko Ono)	eyes
+Blackbird	Taxman	eyes
+Blackbird	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	eyes
+Blackbird	Think for Yourself	eyes
+Dear Prudence	For No One	eyes
+Dear Prudence	Golden Slumbers	eyes
+Dear Prudence	Good Night	eyes
+Dear Prudence	Happiness is a Warm Gun	eyes
+Dear Prudence	Here, There and Everywhere	eyes
+Dear Prudence	Julia	eyes
+Dear Prudence	Lucy in the Sky with Diamonds	eyes
+Dear Prudence	Revolution 9 (Ft. Yoko Ono)	eyes
+Dear Prudence	Taxman	eyes
+Dear Prudence	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	eyes
+Dear Prudence	Think for Yourself	eyes
+For No One	Golden Slumbers	eyes
+For No One	Good Night	eyes
+For No One	Happiness is a Warm Gun	eyes
+For No One	Here, There and Everywhere	eyes
+For No One	Julia	eyes
+For No One	Lucy in the Sky with Diamonds	eyes
+For No One	Revolution 9 (Ft. Yoko Ono)	eyes
+For No One	Taxman	eyes
+For No One	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	eyes
+For No One	Think for Yourself	eyes
+Golden Slumbers	Good Night	eyes
+Golden Slumbers	Happiness is a Warm Gun	eyes
+Golden Slumbers	Here, There and Everywhere	eyes
+Golden Slumbers	Julia	eyes
+Golden Slumbers	Lucy in the Sky with Diamonds	eyes
+Golden Slumbers	Revolution 9 (Ft. Yoko Ono)	eyes
+Golden Slumbers	Taxman	eyes
+Golden Slumbers	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	eyes
+Golden Slumbers	Think for Yourself	eyes
+Good Night	Happiness is a Warm Gun	eyes
+Good Night	Here, There and Everywhere	eyes
+Good Night	Julia	eyes
+Good Night	Lucy in the Sky with Diamonds	eyes
+Good Night	Revolution 9 (Ft. Yoko Ono)	eyes
+Good Night	Taxman	eyes
+Good Night	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	eyes
+Good Night	Think for Yourself	eyes
+Happiness is a Warm Gun	Here, There and Everywhere	eyes
+Happiness is a Warm Gun	Julia	eyes
+Happiness is a Warm Gun	Lucy in the Sky with Diamonds	eyes
+Happiness is a Warm Gun	Revolution 9 (Ft. Yoko Ono)	eyes
+Happiness is a Warm Gun	Taxman	eyes
+Happiness is a Warm Gun	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	eyes
+Happiness is a Warm Gun	Think for Yourself	eyes
+Here, There and Everywhere	Julia	eyes
+Here, There and Everywhere	Lucy in the Sky with Diamonds	eyes
+Here, There and Everywhere	Revolution 9 (Ft. Yoko Ono)	eyes
+Here, There and Everywhere	Taxman	eyes
+Here, There and Everywhere	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	eyes
+Here, There and Everywhere	Think for Yourself	eyes
+Julia	Lucy in the Sky with Diamonds	eyes
+Julia	Revolution 9 (Ft. Yoko Ono)	eyes
+Julia	Taxman	eyes
+Julia	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	eyes
+Julia	Think for Yourself	eyes
+Lucy in the Sky with Diamonds	Revolution 9 (Ft. Yoko Ono)	eyes
+Lucy in the Sky with Diamonds	Taxman	eyes
+Lucy in the Sky with Diamonds	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	eyes
+Lucy in the Sky with Diamonds	Think for Yourself	eyes
+Revolution 9 (Ft. Yoko Ono)	Taxman	eyes
+Revolution 9 (Ft. Yoko Ono)	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	eyes
+Revolution 9 (Ft. Yoko Ono)	Think for Yourself	eyes
+Taxman	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	eyes
+Taxman	Think for Yourself	eyes
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	Think for Yourself	eyes
+Helter Skelter	Love You To	fast
+Eleanor Rigby	She's Leaving Home	father
+Eleanor Rigby	Yer Blues	father
+She's Leaving Home	Yer Blues	father
+Come Together	For No One	feel
+Come Together	Girl	feel
+Come Together	Good Day Sunshine	feel
+Come Together	Good Morning Good Morning	feel
+Come Together	Happiness is a Warm Gun	feel
+Come Together	Here Comes the Sun	feel
+Come Together	I Want to Tell You	feel
+Come Together	I Will	feel
+Come Together	Savoy Truffle	feel
+Come Together	She Said She Said	feel
+Come Together	The Word	feel
+Come Together	Wait	feel
+Come Together	What Goes On	feel
+Come Together	With a Little Help from My Friends	feel
+Come Together	Yer Blues	feel
+For No One	Girl	feel
+For No One	Good Day Sunshine	feel
+For No One	Good Morning Good Morning	feel
+For No One	Happiness is a Warm Gun	feel
+For No One	Here Comes the Sun	feel
+For No One	I Want to Tell You	feel
+For No One	I Will	feel
+For No One	Savoy Truffle	feel
+For No One	She Said She Said	feel
+For No One	The Word	feel
+For No One	Wait	feel
+For No One	What Goes On	feel
+For No One	With a Little Help from My Friends	feel
+For No One	Yer Blues	feel
+Girl	Good Day Sunshine	feel
+Girl	Good Morning Good Morning	feel
+Girl	Happiness is a Warm Gun	feel
+Girl	Here Comes the Sun	feel
+Girl	I Want to Tell You	feel
+Girl	I Will	feel
+Girl	Savoy Truffle	feel
+Girl	She Said She Said	feel
+Girl	The Word	feel
+Girl	Wait	feel
+Girl	What Goes On	feel
+Girl	With a Little Help from My Friends	feel
+Girl	Yer Blues	feel
+Good Day Sunshine	Good Morning Good Morning	feel
+Good Day Sunshine	Happiness is a Warm Gun	feel
+Good Day Sunshine	Here Comes the Sun	feel
+Good Day Sunshine	I Want to Tell You	feel
+Good Day Sunshine	I Will	feel
+Good Day Sunshine	Savoy Truffle	feel
+Good Day Sunshine	She Said She Said	feel
+Good Day Sunshine	The Word	feel
+Good Day Sunshine	Wait	feel
+Good Day Sunshine	What Goes On	feel
+Good Day Sunshine	With a Little Help from My Friends	feel
+Good Day Sunshine	Yer Blues	feel
+Good Morning Good Morning	Happiness is a Warm Gun	feel
+Good Morning Good Morning	Here Comes the Sun	feel
+Good Morning Good Morning	I Want to Tell You	feel
+Good Morning Good Morning	I Will	feel
+Good Morning Good Morning	Savoy Truffle	feel
+Good Morning Good Morning	She Said She Said	feel
+Good Morning Good Morning	The Word	feel
+Good Morning Good Morning	Wait	feel
+Good Morning Good Morning	What Goes On	feel
+Good Morning Good Morning	With a Little Help from My Friends	feel
+Good Morning Good Morning	Yer Blues	feel
+Happiness is a Warm Gun	Here Comes the Sun	feel
+Happiness is a Warm Gun	I Want to Tell You	feel
+Happiness is a Warm Gun	I Will	feel
+Happiness is a Warm Gun	Savoy Truffle	feel
+Happiness is a Warm Gun	She Said She Said	feel
+Happiness is a Warm Gun	The Word	feel
+Happiness is a Warm Gun	Wait	feel
+Happiness is a Warm Gun	What Goes On	feel
+Happiness is a Warm Gun	With a Little Help from My Friends	feel
+Happiness is a Warm Gun	Yer Blues	feel
+Here Comes the Sun	I Want to Tell You	feel
+Here Comes the Sun	I Will	feel
+Here Comes the Sun	Savoy Truffle	feel
+Here Comes the Sun	She Said She Said	feel
+Here Comes the Sun	The Word	feel
+Here Comes the Sun	Wait	feel
+Here Comes the Sun	What Goes On	feel
+Here Comes the Sun	With a Little Help from My Friends	feel
+Here Comes the Sun	Yer Blues	feel
+I Want to Tell You	I Will	feel
+I Want to Tell You	Savoy Truffle	feel
+I Want to Tell You	She Said She Said	feel
+I Want to Tell You	The Word	feel
+I Want to Tell You	Wait	feel
+I Want to Tell You	What Goes On	feel
+I Want to Tell You	With a Little Help from My Friends	feel
+I Want to Tell You	Yer Blues	feel
+I Will	Savoy Truffle	feel
+I Will	She Said She Said	feel
+I Will	The Word	feel
+I Will	Wait	feel
+I Will	What Goes On	feel
+I Will	With a Little Help from My Friends	feel
+I Will	Yer Blues	feel
+Savoy Truffle	She Said She Said	feel
+Savoy Truffle	The Word	feel
+Savoy Truffle	Wait	feel
+Savoy Truffle	What Goes On	feel
+Savoy Truffle	With a Little Help from My Friends	feel
+Savoy Truffle	Yer Blues	feel
+She Said She Said	The Word	feel
+She Said She Said	Wait	feel
+She Said She Said	What Goes On	feel
+She Said She Said	With a Little Help from My Friends	feel
+She Said She Said	Yer Blues	feel
+The Word	Wait	feel
+The Word	What Goes On	feel
+The Word	With a Little Help from My Friends	feel
+The Word	Yer Blues	feel
+Wait	What Goes On	feel
+Wait	With a Little Help from My Friends	feel
+Wait	Yer Blues	feel
+What Goes On	With a Little Help from My Friends	feel
+What Goes On	Yer Blues	feel
+With a Little Help from My Friends	Yer Blues	feel
+Doctor Robert	Good Morning Good Morning	feeling
+Doctor Robert	I'm Only Sleeping	feeling
+Doctor Robert	I'm So Tired	feeling
+Doctor Robert	You Never Give Me Your Money	feeling
+Good Morning Good Morning	I'm Only Sleeping	feeling
+Good Morning Good Morning	I'm So Tired	feeling
+Good Morning Good Morning	You Never Give Me Your Money	feeling
+I'm Only Sleeping	I'm So Tired	feeling
+I'm Only Sleeping	You Never Give Me Your Money	feeling
+I'm So Tired	You Never Give Me Your Money	feeling
+Good Day Sunshine	Here Comes the Sun	feels
+Good Day Sunshine	You Won't See Me	feels
+Here Comes the Sun	You Won't See Me	feels
+Come Together	Good Day Sunshine	feet
+Come Together	Taxman	feet
+Good Day Sunshine	Taxman	feet
+A Day in the Life	Oh! Darling	fell
+A Day in the Life	Rocky Raccoon	fell
+Oh! Darling	Rocky Raccoon	fell
+A Day in the Life	For No One	fill
+A Day in the Life	Golden Slumbers	fill
+A Day in the Life	I Will	fill
+A Day in the Life	Love You To	fill
+A Day in the Life	Savoy Truffle	fill
+A Day in the Life	When I'm Sixty-Four	fill
+For No One	Golden Slumbers	fill
+For No One	I Will	fill
+For No One	Love You To	fill
+For No One	Savoy Truffle	fill
+For No One	When I'm Sixty-Four	fill
+Golden Slumbers	I Will	fill
+Golden Slumbers	Love You To	fill
+Golden Slumbers	Savoy Truffle	fill
+Golden Slumbers	When I'm Sixty-Four	fill
+I Will	Love You To	fill
+I Will	Savoy Truffle	fill
+I Will	When I'm Sixty-Four	fill
+Love You To	Savoy Truffle	fill
+Love You To	When I'm Sixty-Four	fill
+Savoy Truffle	When I'm Sixty-Four	fill
+I Want to Tell You	You Won't See Me	filled
+Fixing a Hole	Getting Better	filling
+Fixing a Hole	Lovely Rita	filling
+Getting Better	Lovely Rita	filling
+Doctor Robert	Drive My Car	fine
+Doctor Robert	Good Day Sunshine	fine
+Doctor Robert	The Word	fine
+Drive My Car	Good Day Sunshine	fine
+Drive My Car	The Word	fine
+Good Day Sunshine	The Word	fine
+Come Together	Happiness is a Warm Gun	finger
+Being for the Benefit of Mr. Kite!	Norwegian Wood (This Bird Has Flown)	fire
+Happiness is a Warm Gun	I'm So Tired	fix
+Fixing a Hole	Glass Onion	fixing
+A Day in the Life	Come Together	flat
+Being for the Benefit of Mr. Kite!	Mother Nature's Son	flies
+I'm Only Sleeping	Tomorrow Never Knows	float
+Cry Baby Cry	Lucy in the Sky with Diamonds	flowers
+Glass Onion	Within You Without You	flows
+Blackbird	Everybody's Got Something to Hide Except Me and My Monkey	fly
+Getting Better	Girl	fool
+Getting Better	Glass Onion	fool
+Getting Better	Maxwell's Silver Hammer	fool
+Getting Better	Sexy Sadie	fool
+Girl	Glass Onion	fool
+Girl	Maxwell's Silver Hammer	fool
+Girl	Sexy Sadie	fool
+Glass Onion	Maxwell's Silver Hammer	fool
+Glass Onion	Sexy Sadie	fool
+Maxwell's Silver Hammer	Sexy Sadie	fool
+I Want to Tell You	I Will	forever
+I Want to Tell You	In My Life	forever
+I Will	In My Life	forever
+For No One	Martha My Dear	forget
+For No One	Wait	forget
+Martha My Dear	Wait	forget
+A Day in the Life	Drive My Car	found
+A Day in the Life	Long, Long, Long	found
+A Day in the Life	Octopus's Garden	found
+A Day in the Life	Yellow Submarine	found
+Drive My Car	Long, Long, Long	found
+Drive My Car	Octopus's Garden	found
+Drive My Car	Yellow Submarine	found
+Long, Long, Long	Octopus's Garden	found
+Long, Long, Long	Yellow Submarine	found
+Octopus's Garden	Yellow Submarine	found
+Blackbird	Come Together	free
+Blackbird	Lovely Rita	free
+Blackbird	Maxwell's Silver Hammer	free
+Blackbird	Revolution 1	free
+Blackbird	She's Leaving Home	free
+Blackbird	The Word	free
+Come Together	Lovely Rita	free
+Come Together	Maxwell's Silver Hammer	free
+Come Together	Revolution 1	free
+Come Together	She's Leaving Home	free
+Come Together	The Word	free
+Lovely Rita	Maxwell's Silver Hammer	free
+Lovely Rita	Revolution 1	free
+Lovely Rita	She's Leaving Home	free
+Lovely Rita	The Word	free
+Maxwell's Silver Hammer	Revolution 1	free
+Maxwell's Silver Hammer	She's Leaving Home	free
+Maxwell's Silver Hammer	The Word	free
+Revolution 1	She's Leaving Home	free
+Revolution 1	The Word	free
+She's Leaving Home	The Word	free
+Cry Baby Cry	Doctor Robert	friend
+Cry Baby Cry	If I Needed Someone	friend
+Doctor Robert	If I Needed Someone	friend
+Girl	In My Life	friends
+Girl	Octopus's Garden	friends
+Girl	With a Little Help from My Friends	friends
+Girl	Yellow Submarine	friends
+In My Life	Octopus's Garden	friends
+In My Life	With a Little Help from My Friends	friends
+In My Life	Yellow Submarine	friends
+Octopus's Garden	With a Little Help from My Friends	friends
+Octopus's Garden	Yellow Submarine	friends
+With a Little Help from My Friends	Yellow Submarine	friends
+Ob-La-Di, Ob-La-Da	She's Leaving Home	fun
+Think for Yourself	What Goes On	future
+Think for Yourself	You Never Give Me Your Money	future
+What Goes On	You Never Give Me Your Money	future
+I'm Looking Through You	Tomorrow Never Knows	game
+Cry Baby Cry	Octopus's Garden	garden
+Cry Baby Cry	When I'm Sixty-Four	garden
+Octopus's Garden	When I'm Sixty-Four	garden
+Drive My Car	Girl	girl
+Drive My Car	Happiness is a Warm Gun	girl
+Drive My Car	Her Majesty	girl
+Drive My Car	Honey Pie	girl
+Drive My Car	Lucy in the Sky with Diamonds	girl
+Drive My Car	Martha My Dear	girl
+Drive My Car	Norwegian Wood (This Bird Has Flown)	girl
+Drive My Car	Ob-La-Di, Ob-La-Da	girl
+Drive My Car	Octopus's Garden	girl
+Drive My Car	Polythene Pam	girl
+Drive My Car	Rocky Raccoon	girl
+Drive My Car	Run for Your Life	girl
+Drive My Car	What Goes On	girl
+Drive My Car	Yer Blues	girl
+Drive My Car	You Won't See Me	girl
+Girl	Happiness is a Warm Gun	girl
+Girl	Her Majesty	girl
+Girl	Honey Pie	girl
+Girl	Lucy in the Sky with Diamonds	girl
+Girl	Martha My Dear	girl
+Girl	Norwegian Wood (This Bird Has Flown)	girl
+Girl	Ob-La-Di, Ob-La-Da	girl
+Girl	Octopus's Garden	girl
+Girl	Polythene Pam	girl
+Girl	Rocky Raccoon	girl
+Girl	Run for Your Life	girl
+Girl	What Goes On	girl
+Girl	Yer Blues	girl
+Girl	You Won't See Me	girl
+Happiness is a Warm Gun	Her Majesty	girl
+Happiness is a Warm Gun	Honey Pie	girl
+Happiness is a Warm Gun	Lucy in the Sky with Diamonds	girl
+Happiness is a Warm Gun	Martha My Dear	girl
+Happiness is a Warm Gun	Norwegian Wood (This Bird Has Flown)	girl
+Happiness is a Warm Gun	Ob-La-Di, Ob-La-Da	girl
+Happiness is a Warm Gun	Octopus's Garden	girl
+Happiness is a Warm Gun	Polythene Pam	girl
+Happiness is a Warm Gun	Rocky Raccoon	girl
+Happiness is a Warm Gun	Run for Your Life	girl
+Happiness is a Warm Gun	What Goes On	girl
+Happiness is a Warm Gun	Yer Blues	girl
+Happiness is a Warm Gun	You Won't See Me	girl
+Her Majesty	Honey Pie	girl
+Her Majesty	Lucy in the Sky with Diamonds	girl
+Her Majesty	Martha My Dear	girl
+Her Majesty	Norwegian Wood (This Bird Has Flown)	girl
+Her Majesty	Ob-La-Di, Ob-La-Da	girl
+Her Majesty	Octopus's Garden	girl
+Her Majesty	Polythene Pam	girl
+Her Majesty	Rocky Raccoon	girl
+Her Majesty	Run for Your Life	girl
+Her Majesty	What Goes On	girl
+Her Majesty	Yer Blues	girl
+Her Majesty	You Won't See Me	girl
+Honey Pie	Lucy in the Sky with Diamonds	girl
+Honey Pie	Martha My Dear	girl
+Honey Pie	Norwegian Wood (This Bird Has Flown)	girl
+Honey Pie	Ob-La-Di, Ob-La-Da	girl
+Honey Pie	Octopus's Garden	girl
+Honey Pie	Polythene Pam	girl
+Honey Pie	Rocky Raccoon	girl
+Honey Pie	Run for Your Life	girl
+Honey Pie	What Goes On	girl
+Honey Pie	Yer Blues	girl
+Honey Pie	You Won't See Me	girl
+Lucy in the Sky with Diamonds	Martha My Dear	girl
+Lucy in the Sky with Diamonds	Norwegian Wood (This Bird Has Flown)	girl
+Lucy in the Sky with Diamonds	Ob-La-Di, Ob-La-Da	girl
+Lucy in the Sky with Diamonds	Octopus's Garden	girl
+Lucy in the Sky with Diamonds	Polythene Pam	girl
+Lucy in the Sky with Diamonds	Rocky Raccoon	girl
+Lucy in the Sky with Diamonds	Run for Your Life	girl
+Lucy in the Sky with Diamonds	What Goes On	girl
+Lucy in the Sky with Diamonds	Yer Blues	girl
+Lucy in the Sky with Diamonds	You Won't See Me	girl
+Martha My Dear	Norwegian Wood (This Bird Has Flown)	girl
+Martha My Dear	Ob-La-Di, Ob-La-Da	girl
+Martha My Dear	Octopus's Garden	girl
+Martha My Dear	Polythene Pam	girl
+Martha My Dear	Rocky Raccoon	girl
+Martha My Dear	Run for Your Life	girl
+Martha My Dear	What Goes On	girl
+Martha My Dear	Yer Blues	girl
+Martha My Dear	You Won't See Me	girl
+Norwegian Wood (This Bird Has Flown)	Ob-La-Di, Ob-La-Da	girl
+Norwegian Wood (This Bird Has Flown)	Octopus's Garden	girl
+Norwegian Wood (This Bird Has Flown)	Polythene Pam	girl
+Norwegian Wood (This Bird Has Flown)	Rocky Raccoon	girl
+Norwegian Wood (This Bird Has Flown)	Run for Your Life	girl
+Norwegian Wood (This Bird Has Flown)	What Goes On	girl
+Norwegian Wood (This Bird Has Flown)	Yer Blues	girl
+Norwegian Wood (This Bird Has Flown)	You Won't See Me	girl
+Ob-La-Di, Ob-La-Da	Octopus's Garden	girl
+Ob-La-Di, Ob-La-Da	Polythene Pam	girl
+Ob-La-Di, Ob-La-Da	Rocky Raccoon	girl
+Ob-La-Di, Ob-La-Da	Run for Your Life	girl
+Ob-La-Di, Ob-La-Da	What Goes On	girl
+Ob-La-Di, Ob-La-Da	Yer Blues	girl
+Ob-La-Di, Ob-La-Da	You Won't See Me	girl
+Octopus's Garden	Polythene Pam	girl
+Octopus's Garden	Rocky Raccoon	girl
+Octopus's Garden	Run for Your Life	girl
+Octopus's Garden	What Goes On	girl
+Octopus's Garden	Yer Blues	girl
+Octopus's Garden	You Won't See Me	girl
+Polythene Pam	Rocky Raccoon	girl
+Polythene Pam	Run for Your Life	girl
+Polythene Pam	What Goes On	girl
+Polythene Pam	Yer Blues	girl
+Polythene Pam	You Won't See Me	girl
+Rocky Raccoon	Run for Your Life	girl
+Rocky Raccoon	What Goes On	girl
+Rocky Raccoon	Yer Blues	girl
+Rocky Raccoon	You Won't See Me	girl
+Run for Your Life	What Goes On	girl
+Run for Your Life	Yer Blues	girl
+Run for Your Life	You Won't See Me	girl
+What Goes On	Yer Blues	girl
+What Goes On	You Won't See Me	girl
+Yer Blues	You Won't See Me	girl
+Birthday	Good Morning Good Morning	glad
+Glass Onion	Lucy in the Sky with Diamonds	glass
+Lovely Rita	Within You Without You	glimpse
+Golden Slumbers	Ob-La-Di, Ob-La-Da	golden
+Birthday	Carry That Weight	gonna
+Birthday	Drive My Car	gonna
+Birthday	Revolution 1	gonna
+Birthday	Rocky Raccoon	gonna
+Birthday	Think for Yourself	gonna
+Birthday	With a Little Help from My Friends	gonna
+Carry That Weight	Drive My Car	gonna
+Carry That Weight	Revolution 1	gonna
+Carry That Weight	Rocky Raccoon	gonna
+Carry That Weight	Think for Yourself	gonna
+Carry That Weight	With a Little Help from My Friends	gonna
+Drive My Car	Revolution 1	gonna
+Drive My Car	Rocky Raccoon	gonna
+Drive My Car	Think for Yourself	gonna
+Drive My Car	With a Little Help from My Friends	gonna
+Revolution 1	Rocky Raccoon	gonna
+Revolution 1	Think for Yourself	gonna
+Revolution 1	With a Little Help from My Friends	gonna
+Rocky Raccoon	Think for Yourself	gonna
+Rocky Raccoon	With a Little Help from My Friends	gonna
+Think for Yourself	With a Little Help from My Friends	gonna
+And Your Bird Can Sing	Lucy in the Sky with Diamonds	green
+And Your Bird Can Sing	Yellow Submarine	green
+Lucy in the Sky with Diamonds	Yellow Submarine	green
+Being for the Benefit of Mr. Kite!	Good Day Sunshine	ground
+Being for the Benefit of Mr. Kite!	Love You To	ground
+Good Day Sunshine	Love You To	ground
+Lucy in the Sky with Diamonds	Something	grow
+Being for the Benefit of Mr. Kite!	Sgt. Pepper's Lonely Hearts Club Band	guaranteed
+Happiness is a Warm Gun	Rocky Raccoon	gun
+Happiness is a Warm Gun	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	gun
+Rocky Raccoon	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	gun
+Rocky Raccoon	Run for Your Life	guy
+Ob-La-Di, Ob-La-Da	Yellow Submarine	ha
+Come Together	Don't Pass Me By	hair
+Come Together	Here, There and Everywhere	hair
+Come Together	Julia	hair
+Come Together	Revolution 9 (Ft. Yoko Ono)	hair
+Come Together	When I'm Sixty-Four	hair
+Don't Pass Me By	Here, There and Everywhere	hair
+Don't Pass Me By	Julia	hair
+Don't Pass Me By	Revolution 9 (Ft. Yoko Ono)	hair
+Don't Pass Me By	When I'm Sixty-Four	hair
+Here, There and Everywhere	Julia	hair
+Here, There and Everywhere	Revolution 9 (Ft. Yoko Ono)	hair
+Here, There and Everywhere	When I'm Sixty-Four	hair
+Julia	Revolution 9 (Ft. Yoko Ono)	hair
+Julia	When I'm Sixty-Four	hair
+Revolution 9 (Ft. Yoko Ono)	When I'm Sixty-Four	hair
+Glass Onion	Good Morning Good Morning	half
+Glass Onion	Julia	half
+Good Morning Good Morning	Julia	half
+Happiness is a Warm Gun	Here, There and Everywhere	hand
+Happiness is a Warm Gun	Martha My Dear	hand
+Happiness is a Warm Gun	Nowhere Man	hand
+Happiness is a Warm Gun	Ob-La-Di, Ob-La-Da	hand
+Here, There and Everywhere	Martha My Dear	hand
+Here, There and Everywhere	Nowhere Man	hand
+Here, There and Everywhere	Ob-La-Di, Ob-La-Da	hand
+Martha My Dear	Nowhere Man	hand
+Martha My Dear	Ob-La-Di, Ob-La-Da	hand
+Nowhere Man	Ob-La-Di, Ob-La-Da	hand
+Don't Pass Me By	Eleanor Rigby	hands
+Don't Pass Me By	Happiness is a Warm Gun	hands
+Don't Pass Me By	Here, There and Everywhere	hands
+Don't Pass Me By	Revolution 9 (Ft. Yoko Ono)	hands
+Don't Pass Me By	You Won't See Me	hands
+Eleanor Rigby	Happiness is a Warm Gun	hands
+Eleanor Rigby	Here, There and Everywhere	hands
+Eleanor Rigby	Revolution 9 (Ft. Yoko Ono)	hands
+Eleanor Rigby	You Won't See Me	hands
+Happiness is a Warm Gun	Here, There and Everywhere	hands
+Happiness is a Warm Gun	Revolution 9 (Ft. Yoko Ono)	hands
+Happiness is a Warm Gun	You Won't See Me	hands
+Here, There and Everywhere	Revolution 9 (Ft. Yoko Ono)	hands
+Here, There and Everywhere	You Won't See Me	hands
+Revolution 9 (Ft. Yoko Ono)	You Won't See Me	hands
+Birthday	Long, Long, Long	happy
+Birthday	Ob-La-Di, Ob-La-Da	happy
+Birthday	Octopus's Garden	happy
+Birthday	Sun King	happy
+Long, Long, Long	Ob-La-Di, Ob-La-Da	happy
+Long, Long, Long	Octopus's Garden	happy
+Long, Long, Long	Sun King	happy
+Ob-La-Di, Ob-La-Da	Octopus's Garden	happy
+Ob-La-Di, Ob-La-Da	Sun King	happy
+Octopus's Garden	Sun King	happy
+Come Together	Girl	hard
+Come Together	She's Leaving Home	hard
+Come Together	You Won't See Me	hard
+Girl	She's Leaving Home	hard
+Girl	You Won't See Me	hard
+She's Leaving Home	You Won't See Me	hard
+Happiness is a Warm Gun	I'm So Tired	harm
+Happiness is a Warm Gun	Oh! Darling	harm
+I'm So Tired	Oh! Darling	harm
+Don't Pass Me By	Revolution 1	hate
+Don't Pass Me By	Tomorrow Never Knows	hate
+Don't Pass Me By	Yer Blues	hate
+Revolution 1	Tomorrow Never Knows	hate
+Revolution 1	Yer Blues	hate
+Tomorrow Never Knows	Yer Blues	hate
+A Day in the Life	For No One	head
+A Day in the Life	Getting Better	head
+A Day in the Life	I Want to Tell You	head
+A Day in the Life	I'm Only Sleeping	head
+A Day in the Life	Lucy in the Sky with Diamonds	head
+A Day in the Life	Martha My Dear	head
+A Day in the Life	Maxwell's Silver Hammer	head
+A Day in the Life	Octopus's Garden	head
+A Day in the Life	Revolution 1	head
+A Day in the Life	Run for Your Life	head
+A Day in the Life	Savoy Truffle	head
+A Day in the Life	She Said She Said	head
+For No One	Getting Better	head
+For No One	I Want to Tell You	head
+For No One	I'm Only Sleeping	head
+For No One	Lucy in the Sky with Diamonds	head
+For No One	Martha My Dear	head
+For No One	Maxwell's Silver Hammer	head
+For No One	Octopus's Garden	head
+For No One	Revolution 1	head
+For No One	Run for Your Life	head
+For No One	Savoy Truffle	head
+For No One	She Said She Said	head
+Getting Better	I Want to Tell You	head
+Getting Better	I'm Only Sleeping	head
+Getting Better	Lucy in the Sky with Diamonds	head
+Getting Better	Martha My Dear	head
+Getting Better	Maxwell's Silver Hammer	head
+Getting Better	Octopus's Garden	head
+Getting Better	Revolution 1	head
+Getting Better	Run for Your Life	head
+Getting Better	Savoy Truffle	head
+Getting Better	She Said She Said	head
+I Want to Tell You	I'm Only Sleeping	head
+I Want to Tell You	Lucy in the Sky with Diamonds	head
+I Want to Tell You	Martha My Dear	head
+I Want to Tell You	Maxwell's Silver Hammer	head
+I Want to Tell You	Octopus's Garden	head
+I Want to Tell You	Revolution 1	head
+I Want to Tell You	Run for Your Life	head
+I Want to Tell You	Savoy Truffle	head
+I Want to Tell You	She Said She Said	head
+I'm Only Sleeping	Lucy in the Sky with Diamonds	head
+I'm Only Sleeping	Martha My Dear	head
+I'm Only Sleeping	Maxwell's Silver Hammer	head
+I'm Only Sleeping	Octopus's Garden	head
+I'm Only Sleeping	Revolution 1	head
+I'm Only Sleeping	Run for Your Life	head
+I'm Only Sleeping	Savoy Truffle	head
+I'm Only Sleeping	She Said She Said	head
+Lucy in the Sky with Diamonds	Martha My Dear	head
+Lucy in the Sky with Diamonds	Maxwell's Silver Hammer	head
+Lucy in the Sky with Diamonds	Octopus's Garden	head
+Lucy in the Sky with Diamonds	Revolution 1	head
+Lucy in the Sky with Diamonds	Run for Your Life	head
+Lucy in the Sky with Diamonds	Savoy Truffle	head
+Lucy in the Sky with Diamonds	She Said She Said	head
+Martha My Dear	Maxwell's Silver Hammer	head
+Martha My Dear	Octopus's Garden	head
+Martha My Dear	Revolution 1	head
+Martha My Dear	Run for Your Life	head
+Martha My Dear	Savoy Truffle	head
+Martha My Dear	She Said She Said	head
+Maxwell's Silver Hammer	Octopus's Garden	head
+Maxwell's Silver Hammer	Revolution 1	head
+Maxwell's Silver Hammer	Run for Your Life	head
+Maxwell's Silver Hammer	Savoy Truffle	head
+Maxwell's Silver Hammer	She Said She Said	head
+Octopus's Garden	Revolution 1	head
+Octopus's Garden	Run for Your Life	head
+Octopus's Garden	Savoy Truffle	head
+Octopus's Garden	She Said She Said	head
+Revolution 1	Run for Your Life	head
+Revolution 1	Savoy Truffle	head
+Revolution 1	She Said She Said	head
+Run for Your Life	Savoy Truffle	head
+Run for Your Life	She Said She Said	head
+Savoy Truffle	She Said She Said	head
+And Your Bird Can Sing	Back in the U.S.S.R.	hear
+And Your Bird Can Sing	Don't Pass Me By	hear
+And Your Bird Can Sing	Eleanor Rigby	hear
+And Your Bird Can Sing	Got to Get You into My Life	hear
+And Your Bird Can Sing	Honey Pie	hear
+And Your Bird Can Sing	I Will	hear
+And Your Bird Can Sing	I'm Looking Through You	hear
+And Your Bird Can Sing	The Word	hear
+Back in the U.S.S.R.	Don't Pass Me By	hear
+Back in the U.S.S.R.	Eleanor Rigby	hear
+Back in the U.S.S.R.	Got to Get You into My Life	hear
+Back in the U.S.S.R.	Honey Pie	hear
+Back in the U.S.S.R.	I Will	hear
+Back in the U.S.S.R.	I'm Looking Through You	hear
+Back in the U.S.S.R.	The Word	hear
+Don't Pass Me By	Eleanor Rigby	hear
+Don't Pass Me By	Got to Get You into My Life	hear
+Don't Pass Me By	Honey Pie	hear
+Don't Pass Me By	I Will	hear
+Don't Pass Me By	I'm Looking Through You	hear
+Don't Pass Me By	The Word	hear
+Eleanor Rigby	Got to Get You into My Life	hear
+Eleanor Rigby	Honey Pie	hear
+Eleanor Rigby	I Will	hear
+Eleanor Rigby	I'm Looking Through You	hear
+Eleanor Rigby	The Word	hear
+Got to Get You into My Life	Honey Pie	hear
+Got to Get You into My Life	I Will	hear
+Got to Get You into My Life	I'm Looking Through You	hear
+Got to Get You into My Life	The Word	hear
+Honey Pie	I Will	hear
+Honey Pie	I'm Looking Through You	hear
+Honey Pie	The Word	hear
+I Will	I'm Looking Through You	hear
+I Will	The Word	hear
+I'm Looking Through You	The Word	hear
+And Your Bird Can Sing	Getting Better	heard
+And Your Bird Can Sing	The Word	heard
+And Your Bird Can Sing	You Won't See Me	heard
+Getting Better	The Word	heard
+Getting Better	You Won't See Me	heard
+The Word	You Won't See Me	heard
+Drive My Car	I Will	heart
+Drive My Car	Julia	heart
+Drive My Car	Lovely Rita	heart
+Drive My Car	Savoy Truffle	heart
+Drive My Car	Wait	heart
+Drive My Car	What Goes On	heart
+I Will	Julia	heart
+I Will	Lovely Rita	heart
+I Will	Savoy Truffle	heart
+I Will	Wait	heart
+I Will	What Goes On	heart
+Julia	Lovely Rita	heart
+Julia	Savoy Truffle	heart
+Julia	Wait	heart
+Julia	What Goes On	heart
+Lovely Rita	Savoy Truffle	heart
+Lovely Rita	Wait	heart
+Lovely Rita	What Goes On	heart
+Savoy Truffle	Wait	heart
+Savoy Truffle	What Goes On	heart
+Wait	What Goes On	heart
+Sgt. Pepper's Lonely Hearts Club Band	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	hearts
+Back in the U.S.S.R.	Dear Prudence	hey
+Back in the U.S.S.R.	Everybody's Got Something to Hide Except Me and My Monkey	hey
+Back in the U.S.S.R.	Fixing a Hole	hey
+Back in the U.S.S.R.	Polythene Pam	hey
+Back in the U.S.S.R.	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	hey
+Dear Prudence	Everybody's Got Something to Hide Except Me and My Monkey	hey
+Dear Prudence	Fixing a Hole	hey
+Dear Prudence	Polythene Pam	hey
+Dear Prudence	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	hey
+Everybody's Got Something to Hide Except Me and My Monkey	Fixing a Hole	hey
+Everybody's Got Something to Hide Except Me and My Monkey	Polythene Pam	hey
+Everybody's Got Something to Hide Except Me and My Monkey	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	hey
+Fixing a Hole	Polythene Pam	hey
+Fixing a Hole	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	hey
+Polythene Pam	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	hey
+Everybody's Got Something to Hide Except Me and My Monkey	Octopus's Garden	hide
+Everybody's Got Something to Hide Except Me and My Monkey	Run for Your Life	hide
+Everybody's Got Something to Hide Except Me and My Monkey	Within You Without You	hide
+Everybody's Got Something to Hide Except Me and My Monkey	You Won't See Me	hide
+Octopus's Garden	Run for Your Life	hide
+Octopus's Garden	Within You Without You	hide
+Octopus's Garden	You Won't See Me	hide
+Run for Your Life	Within You Without You	hide
+Run for Your Life	You Won't See Me	hide
+Within You Without You	You Won't See Me	hide
+Honey Pie	Rocky Raccoon	hit
+Come Together	Got to Get You into My Life	hold
+Come Together	Happiness is a Warm Gun	hold
+Come Together	Martha My Dear	hold
+Come Together	Revolution 9 (Ft. Yoko Ono)	hold
+Come Together	Wait	hold
+Come Together	Within You Without You	hold
+Got to Get You into My Life	Happiness is a Warm Gun	hold
+Got to Get You into My Life	Martha My Dear	hold
+Got to Get You into My Life	Revolution 9 (Ft. Yoko Ono)	hold
+Got to Get You into My Life	Wait	hold
+Got to Get You into My Life	Within You Without You	hold
+Happiness is a Warm Gun	Martha My Dear	hold
+Happiness is a Warm Gun	Revolution 9 (Ft. Yoko Ono)	hold
+Happiness is a Warm Gun	Wait	hold
+Happiness is a Warm Gun	Within You Without You	hold
+Martha My Dear	Revolution 9 (Ft. Yoko Ono)	hold
+Martha My Dear	Wait	hold
+Martha My Dear	Within You Without You	hold
+Revolution 9 (Ft. Yoko Ono)	Wait	hold
+Revolution 9 (Ft. Yoko Ono)	Within You Without You	hold
+Wait	Within You Without You	hold
+Fixing a Hole	Glass Onion	hole
+Fixing a Hole	Mean Mr. Mustard	hole
+Glass Onion	Mean Mr. Mustard	hole
+Back in the U.S.S.R.	For No One	home
+Back in the U.S.S.R.	Golden Slumbers	home
+Back in the U.S.S.R.	Good Morning Good Morning	home
+Back in the U.S.S.R.	Honey Pie	home
+Back in the U.S.S.R.	Lovely Rita	home
+Back in the U.S.S.R.	Maxwell's Silver Hammer	home
+Back in the U.S.S.R.	Ob-La-Di, Ob-La-Da	home
+Back in the U.S.S.R.	Sgt. Pepper's Lonely Hearts Club Band	home
+Back in the U.S.S.R.	She's Leaving Home	home
+Back in the U.S.S.R.	Wait	home
+For No One	Golden Slumbers	home
+For No One	Good Morning Good Morning	home
+For No One	Honey Pie	home
+For No One	Lovely Rita	home
+For No One	Maxwell's Silver Hammer	home
+For No One	Ob-La-Di, Ob-La-Da	home
+For No One	Sgt. Pepper's Lonely Hearts Club Band	home
+For No One	She's Leaving Home	home
+For No One	Wait	home
+Golden Slumbers	Good Morning Good Morning	home
+Golden Slumbers	Honey Pie	home
+Golden Slumbers	Lovely Rita	home
+Golden Slumbers	Maxwell's Silver Hammer	home
+Golden Slumbers	Ob-La-Di, Ob-La-Da	home
+Golden Slumbers	Sgt. Pepper's Lonely Hearts Club Band	home
+Golden Slumbers	She's Leaving Home	home
+Golden Slumbers	Wait	home
+Good Morning Good Morning	Honey Pie	home
+Good Morning Good Morning	Lovely Rita	home
+Good Morning Good Morning	Maxwell's Silver Hammer	home
+Good Morning Good Morning	Ob-La-Di, Ob-La-Da	home
+Good Morning Good Morning	Sgt. Pepper's Lonely Hearts Club Band	home
+Good Morning Good Morning	She's Leaving Home	home
+Good Morning Good Morning	Wait	home
+Honey Pie	Lovely Rita	home
+Honey Pie	Maxwell's Silver Hammer	home
+Honey Pie	Ob-La-Di, Ob-La-Da	home
+Honey Pie	Sgt. Pepper's Lonely Hearts Club Band	home
+Honey Pie	She's Leaving Home	home
+Honey Pie	Wait	home
+Lovely Rita	Maxwell's Silver Hammer	home
+Lovely Rita	Ob-La-Di, Ob-La-Da	home
+Lovely Rita	Sgt. Pepper's Lonely Hearts Club Band	home
+Lovely Rita	She's Leaving Home	home
+Lovely Rita	Wait	home
+Maxwell's Silver Hammer	Ob-La-Di, Ob-La-Da	home
+Maxwell's Silver Hammer	Sgt. Pepper's Lonely Hearts Club Band	home
+Maxwell's Silver Hammer	She's Leaving Home	home
+Maxwell's Silver Hammer	Wait	home
+Ob-La-Di, Ob-La-Da	Sgt. Pepper's Lonely Hearts Club Band	home
+Ob-La-Di, Ob-La-Da	She's Leaving Home	home
+Ob-La-Di, Ob-La-Da	Wait	home
+Sgt. Pepper's Lonely Hearts Club Band	She's Leaving Home	home
+Sgt. Pepper's Lonely Hearts Club Band	Wait	home
+She's Leaving Home	Wait	home
+Back in the U.S.S.R.	Honey Pie	honey
+Back in the U.S.S.R.	Wild Honey Pie	honey
+Honey Pie	Wild Honey Pie	honey
+Good Morning Good Morning	Sgt. Pepper's Lonely Hearts Club Band	hope
+Good Morning Good Morning	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	hope
+Sgt. Pepper's Lonely Hearts Club Band	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	hope
+Here, There and Everywhere	Michelle	hoping
+Being for the Benefit of Mr. Kite!	Lucy in the Sky with Diamonds	horse
+Honey Pie	Rocky Raccoon	hot
+For No One	Nowhere Man	hurry
+Everybody's Got Something to Hide Except Me and My Monkey	She's Leaving Home	inside
+Ob-La-Di, Ob-La-Da	Yer Blues	jones
+Everybody's Got Something to Hide Except Me and My Monkey	Octopus's Garden	joy
+She's Leaving Home	With a Little Help from My Friends	key
+Cry Baby Cry	Sun King	king
+Cry Baby Cry	She's Leaving Home	kitchen
+Back in the U.S.S.R.	Come Together	knee
+Back in the U.S.S.R.	Honey Pie	knee
+Back in the U.S.S.R.	When I'm Sixty-Four	knee
+Come Together	Honey Pie	knee
+Come Together	When I'm Sixty-Four	knee
+Honey Pie	When I'm Sixty-Four	knee
+Back in the U.S.S.R.	Don't Pass Me By	knock
+Back in the U.S.S.R.	Maxwell's Silver Hammer	knock
+Don't Pass Me By	Maxwell's Silver Hammer	knock
+Here, There and Everywhere	Octopus's Garden	knowing
+Here, There and Everywhere	Tomorrow Never Knows	knowing
+Octopus's Garden	Tomorrow Never Knows	knowing
+Ob-La-Di, Ob-La-Da	Savoy Truffle	la
+Ob-La-Di, Ob-La-Da	You Won't See Me	la
+Savoy Truffle	You Won't See Me	la
+Nowhere Man	Yellow Submarine	land
+A Day in the Life	Being for the Benefit of Mr. Kite!	late
+A Day in the Life	Cry Baby Cry	late
+A Day in the Life	Don't Pass Me By	late
+A Day in the Life	Maxwell's Silver Hammer	late
+A Day in the Life	Revolution 9 (Ft. Yoko Ono)	late
+A Day in the Life	Within You Without You	late
+Being for the Benefit of Mr. Kite!	Cry Baby Cry	late
+Being for the Benefit of Mr. Kite!	Don't Pass Me By	late
+Being for the Benefit of Mr. Kite!	Maxwell's Silver Hammer	late
+Being for the Benefit of Mr. Kite!	Revolution 9 (Ft. Yoko Ono)	late
+Being for the Benefit of Mr. Kite!	Within You Without You	late
+Cry Baby Cry	Don't Pass Me By	late
+Cry Baby Cry	Maxwell's Silver Hammer	late
+Cry Baby Cry	Revolution 9 (Ft. Yoko Ono)	late
+Cry Baby Cry	Within You Without You	late
+Don't Pass Me By	Maxwell's Silver Hammer	late
+Don't Pass Me By	Revolution 9 (Ft. Yoko Ono)	late
+Don't Pass Me By	Within You Without You	late
+Maxwell's Silver Hammer	Revolution 9 (Ft. Yoko Ono)	late
+Maxwell's Silver Hammer	Within You Without You	late
+Revolution 9 (Ft. Yoko Ono)	Within You Without You	late
+A Day in the Life	Good Day Sunshine	laugh
+A Day in the Life	Lovely Rita	laugh
+A Day in the Life	Norwegian Wood (This Bird Has Flown)	laugh
+Good Day Sunshine	Lovely Rita	laugh
+Good Day Sunshine	Norwegian Wood (This Bird Has Flown)	laugh
+Lovely Rita	Norwegian Wood (This Bird Has Flown)	laugh
+Honey Pie	I'm Only Sleeping	lazy
+Honey Pie	Mother Nature's Son	lazy
+I'm Only Sleeping	Mother Nature's Son	lazy
+Girl	Here, There and Everywhere	lead
+Back in the U.S.S.R.	Girl	leave
+Back in the U.S.S.R.	Got to Get You into My Life	leave
+Back in the U.S.S.R.	I'm Only Sleeping	leave
+Back in the U.S.S.R.	Nowhere Man	leave
+Back in the U.S.S.R.	Oh! Darling	leave
+Back in the U.S.S.R.	She Said She Said	leave
+Back in the U.S.S.R.	Something	leave
+Girl	Got to Get You into My Life	leave
+Girl	I'm Only Sleeping	leave
+Girl	Nowhere Man	leave
+Girl	Oh! Darling	leave
+Girl	She Said She Said	leave
+Girl	Something	leave
+Got to Get You into My Life	I'm Only Sleeping	leave
+Got to Get You into My Life	Nowhere Man	leave
+Got to Get You into My Life	Oh! Darling	leave
+Got to Get You into My Life	She Said She Said	leave
+Got to Get You into My Life	Something	leave
+I'm Only Sleeping	Nowhere Man	leave
+I'm Only Sleeping	Oh! Darling	leave
+I'm Only Sleeping	She Said She Said	leave
+I'm Only Sleeping	Something	leave
+Nowhere Man	Oh! Darling	leave
+Nowhere Man	She Said She Said	leave
+Nowhere Man	Something	leave
+Oh! Darling	She Said She Said	leave
+Oh! Darling	Something	leave
+She Said She Said	Something	leave
+Maxwell's Silver Hammer	Revolution 9 (Ft. Yoko Ono)	leaving
+Maxwell's Silver Hammer	She's Leaving Home	leaving
+Revolution 9 (Ft. Yoko Ono)	She's Leaving Home	leaving
+Happiness is a Warm Gun	Rocky Raccoon	left
+Happiness is a Warm Gun	Think for Yourself	left
+Rocky Raccoon	Think for Yourself	left
+Ob-La-Di, Ob-La-Da	With a Little Help from My Friends	lend
+Good Day Sunshine	Got to Get You into My Life	lie
+Good Day Sunshine	Rocky Raccoon	lie
+Good Day Sunshine	What Goes On	lie
+Got to Get You into My Life	Rocky Raccoon	lie
+Got to Get You into My Life	What Goes On	lie
+Rocky Raccoon	What Goes On	lie
+Octopus's Garden	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	lies
+Octopus's Garden	Think for Yourself	lies
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	Think for Yourself	lies
+Blackbird	Good Morning Good Morning	life
+Blackbird	Got to Get You into My Life	life
+Blackbird	Here, There and Everywhere	life
+Blackbird	In My Life	life
+Blackbird	Ob-La-Di, Ob-La-Da	life
+Blackbird	Piggies	life
+Blackbird	Run for Your Life	life
+Blackbird	Think for Yourself	life
+Blackbird	Within You Without You	life
+Blackbird	Yellow Submarine	life
+Good Morning Good Morning	Got to Get You into My Life	life
+Good Morning Good Morning	Here, There and Everywhere	life
+Good Morning Good Morning	In My Life	life
+Good Morning Good Morning	Ob-La-Di, Ob-La-Da	life
+Good Morning Good Morning	Piggies	life
+Good Morning Good Morning	Run for Your Life	life
+Good Morning Good Morning	Think for Yourself	life
+Good Morning Good Morning	Within You Without You	life
+Good Morning Good Morning	Yellow Submarine	life
+Got to Get You into My Life	Here, There and Everywhere	life
+Got to Get You into My Life	In My Life	life
+Got to Get You into My Life	Ob-La-Di, Ob-La-Da	life
+Got to Get You into My Life	Piggies	life
+Got to Get You into My Life	Run for Your Life	life
+Got to Get You into My Life	Think for Yourself	life
+Got to Get You into My Life	Within You Without You	life
+Got to Get You into My Life	Yellow Submarine	life
+Here, There and Everywhere	In My Life	life
+Here, There and Everywhere	Ob-La-Di, Ob-La-Da	life
+Here, There and Everywhere	Piggies	life
+Here, There and Everywhere	Run for Your Life	life
+Here, There and Everywhere	Think for Yourself	life
+Here, There and Everywhere	Within You Without You	life
+Here, There and Everywhere	Yellow Submarine	life
+In My Life	Ob-La-Di, Ob-La-Da	life
+In My Life	Piggies	life
+In My Life	Run for Your Life	life
+In My Life	Think for Yourself	life
+In My Life	Within You Without You	life
+In My Life	Yellow Submarine	life
+Ob-La-Di, Ob-La-Da	Piggies	life
+Ob-La-Di, Ob-La-Da	Run for Your Life	life
+Ob-La-Di, Ob-La-Da	Think for Yourself	life
+Ob-La-Di, Ob-La-Da	Within You Without You	life
+Ob-La-Di, Ob-La-Da	Yellow Submarine	life
+Piggies	Run for Your Life	life
+Piggies	Think for Yourself	life
+Piggies	Within You Without You	life
+Piggies	Yellow Submarine	life
+Run for Your Life	Think for Yourself	life
+Run for Your Life	Within You Without You	life
+Run for Your Life	Yellow Submarine	life
+Think for Yourself	Within You Without You	life
+Think for Yourself	Yellow Submarine	life
+Within You Without You	Yellow Submarine	life
+I Will	Love You To	lifetime
+Blackbird	Good Night	light
+Blackbird	The Word	light
+Blackbird	With a Little Help from My Friends	light
+Good Night	The Word	light
+Good Night	With a Little Help from My Friends	light
+The Word	With a Little Help from My Friends	light
+A Day in the Life	When I'm Sixty-Four	lights
+Revolution 9 (Ft. Yoko Ono)	Run for Your Life	line
+Revolution 9 (Ft. Yoko Ono)	When I'm Sixty-Four	line
+Run for Your Life	When I'm Sixty-Four	line
+I'm Looking Through You	Maxwell's Silver Hammer	lips
+Don't Pass Me By	Drive My Car	listen
+Don't Pass Me By	Girl	listen
+Don't Pass Me By	Glass Onion	listen
+Don't Pass Me By	Mother Nature's Son	listen
+Don't Pass Me By	Nowhere Man	listen
+Don't Pass Me By	She Came in Through the Bathroom Window	listen
+Don't Pass Me By	Tomorrow Never Knows	listen
+Don't Pass Me By	You Won't See Me	listen
+Drive My Car	Girl	listen
+Drive My Car	Glass Onion	listen
+Drive My Car	Mother Nature's Son	listen
+Drive My Car	Nowhere Man	listen
+Drive My Car	She Came in Through the Bathroom Window	listen
+Drive My Car	Tomorrow Never Knows	listen
+Drive My Car	You Won't See Me	listen
+Girl	Glass Onion	listen
+Girl	Mother Nature's Son	listen
+Girl	Nowhere Man	listen
+Girl	She Came in Through the Bathroom Window	listen
+Girl	Tomorrow Never Knows	listen
+Girl	You Won't See Me	listen
+Glass Onion	Mother Nature's Son	listen
+Glass Onion	Nowhere Man	listen
+Glass Onion	She Came in Through the Bathroom Window	listen
+Glass Onion	Tomorrow Never Knows	listen
+Glass Onion	You Won't See Me	listen
+Mother Nature's Son	Nowhere Man	listen
+Mother Nature's Son	She Came in Through the Bathroom Window	listen
+Mother Nature's Son	Tomorrow Never Knows	listen
+Mother Nature's Son	You Won't See Me	listen
+Nowhere Man	She Came in Through the Bathroom Window	listen
+Nowhere Man	Tomorrow Never Knows	listen
+Nowhere Man	You Won't See Me	listen
+She Came in Through the Bathroom Window	Tomorrow Never Knows	listen
+She Came in Through the Bathroom Window	You Won't See Me	listen
+Tomorrow Never Knows	You Won't See Me	listen
+Rocky Raccoon	Yellow Submarine	lived
+Eleanor Rigby	Glass Onion	lives
+Eleanor Rigby	Piggies	lives
+Eleanor Rigby	She's Leaving Home	lives
+Glass Onion	Piggies	lives
+Glass Onion	She's Leaving Home	lives
+Piggies	She's Leaving Home	lives
+Glass Onion	In My Life	living
+Glass Onion	Piggies	living
+Glass Onion	She's Leaving Home	living
+Glass Onion	Tomorrow Never Knows	living
+In My Life	Piggies	living
+In My Life	She's Leaving Home	living
+In My Life	Tomorrow Never Knows	living
+Piggies	She's Leaving Home	living
+Piggies	Tomorrow Never Knows	living
+She's Leaving Home	Tomorrow Never Knows	living
+Cry Baby Cry	Rocky Raccoon	local
+Eleanor Rigby	Here Comes the Sun	lonely
+Eleanor Rigby	I Will	lonely
+Eleanor Rigby	Sgt. Pepper's Lonely Hearts Club Band	lonely
+Eleanor Rigby	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	lonely
+Eleanor Rigby	Yer Blues	lonely
+Here Comes the Sun	I Will	lonely
+Here Comes the Sun	Sgt. Pepper's Lonely Hearts Club Band	lonely
+Here Comes the Sun	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	lonely
+Here Comes the Sun	Yer Blues	lonely
+I Will	Sgt. Pepper's Lonely Hearts Club Band	lonely
+I Will	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	lonely
+I Will	Yer Blues	lonely
+Sgt. Pepper's Lonely Hearts Club Band	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	lonely
+Sgt. Pepper's Lonely Hearts Club Band	Yer Blues	lonely
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	Yer Blues	lonely
+Lovely Rita	Norwegian Wood (This Bird Has Flown)	looked
+Lovely Rita	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	looked
+Norwegian Wood (This Bird Has Flown)	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	looked
+In My Life	Within You Without You	lose
+In My Life	You Won't See Me	lose
+Within You Without You	You Won't See Me	lose
+Don't Pass Me By	Long, Long, Long	lost
+Don't Pass Me By	You Won't See Me	lost
+Long, Long, Long	You Won't See Me	lost
+Her Majesty	Love You To	lot
+A Day in the Life	Because	love
+A Day in the Life	Don't Pass Me By	love
+A Day in the Life	Drive My Car	love
+A Day in the Life	For No One	love
+A Day in the Life	Good Day Sunshine	love
+A Day in the Life	Helter Skelter	love
+A Day in the Life	Her Majesty	love
+A Day in the Life	Here, There and Everywhere	love
+A Day in the Life	Honey Pie	love
+A Day in the Life	I Will	love
+A Day in the Life	I'm Looking Through You	love
+A Day in the Life	If I Needed Someone	love
+A Day in the Life	In My Life	love
+A Day in the Life	Julia	love
+A Day in the Life	Long, Long, Long	love
+A Day in the Life	Love You To	love
+A Day in the Life	Martha My Dear	love
+A Day in the Life	Michelle	love
+A Day in the Life	Revolution 1	love
+A Day in the Life	Sgt. Pepper's Lonely Hearts Club Band	love
+A Day in the Life	Something	love
+A Day in the Life	The End	love
+A Day in the Life	The Word	love
+A Day in the Life	Tomorrow Never Knows	love
+A Day in the Life	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+A Day in the Life	Wild Honey Pie	love
+A Day in the Life	With a Little Help from My Friends	love
+A Day in the Life	Within You Without You	love
+Because	Don't Pass Me By	love
+Because	Drive My Car	love
+Because	For No One	love
+Because	Good Day Sunshine	love
+Because	Helter Skelter	love
+Because	Her Majesty	love
+Because	Here, There and Everywhere	love
+Because	Honey Pie	love
+Because	I Will	love
+Because	I'm Looking Through You	love
+Because	If I Needed Someone	love
+Because	In My Life	love
+Because	Julia	love
+Because	Long, Long, Long	love
+Because	Love You To	love
+Because	Martha My Dear	love
+Because	Michelle	love
+Because	Revolution 1	love
+Because	Sgt. Pepper's Lonely Hearts Club Band	love
+Because	Something	love
+Because	The End	love
+Because	The Word	love
+Because	Tomorrow Never Knows	love
+Because	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Because	Wild Honey Pie	love
+Because	With a Little Help from My Friends	love
+Because	Within You Without You	love
+Don't Pass Me By	Drive My Car	love
+Don't Pass Me By	For No One	love
+Don't Pass Me By	Good Day Sunshine	love
+Don't Pass Me By	Helter Skelter	love
+Don't Pass Me By	Her Majesty	love
+Don't Pass Me By	Here, There and Everywhere	love
+Don't Pass Me By	Honey Pie	love
+Don't Pass Me By	I Will	love
+Don't Pass Me By	I'm Looking Through You	love
+Don't Pass Me By	If I Needed Someone	love
+Don't Pass Me By	In My Life	love
+Don't Pass Me By	Julia	love
+Don't Pass Me By	Long, Long, Long	love
+Don't Pass Me By	Love You To	love
+Don't Pass Me By	Martha My Dear	love
+Don't Pass Me By	Michelle	love
+Don't Pass Me By	Revolution 1	love
+Don't Pass Me By	Sgt. Pepper's Lonely Hearts Club Band	love
+Don't Pass Me By	Something	love
+Don't Pass Me By	The End	love
+Don't Pass Me By	The Word	love
+Don't Pass Me By	Tomorrow Never Knows	love
+Don't Pass Me By	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Don't Pass Me By	Wild Honey Pie	love
+Don't Pass Me By	With a Little Help from My Friends	love
+Don't Pass Me By	Within You Without You	love
+Drive My Car	For No One	love
+Drive My Car	Good Day Sunshine	love
+Drive My Car	Helter Skelter	love
+Drive My Car	Her Majesty	love
+Drive My Car	Here, There and Everywhere	love
+Drive My Car	Honey Pie	love
+Drive My Car	I Will	love
+Drive My Car	I'm Looking Through You	love
+Drive My Car	If I Needed Someone	love
+Drive My Car	In My Life	love
+Drive My Car	Julia	love
+Drive My Car	Long, Long, Long	love
+Drive My Car	Love You To	love
+Drive My Car	Martha My Dear	love
+Drive My Car	Michelle	love
+Drive My Car	Revolution 1	love
+Drive My Car	Sgt. Pepper's Lonely Hearts Club Band	love
+Drive My Car	Something	love
+Drive My Car	The End	love
+Drive My Car	The Word	love
+Drive My Car	Tomorrow Never Knows	love
+Drive My Car	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Drive My Car	Wild Honey Pie	love
+Drive My Car	With a Little Help from My Friends	love
+Drive My Car	Within You Without You	love
+For No One	Good Day Sunshine	love
+For No One	Helter Skelter	love
+For No One	Her Majesty	love
+For No One	Here, There and Everywhere	love
+For No One	Honey Pie	love
+For No One	I Will	love
+For No One	I'm Looking Through You	love
+For No One	If I Needed Someone	love
+For No One	In My Life	love
+For No One	Julia	love
+For No One	Long, Long, Long	love
+For No One	Love You To	love
+For No One	Martha My Dear	love
+For No One	Michelle	love
+For No One	Revolution 1	love
+For No One	Sgt. Pepper's Lonely Hearts Club Band	love
+For No One	Something	love
+For No One	The End	love
+For No One	The Word	love
+For No One	Tomorrow Never Knows	love
+For No One	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+For No One	Wild Honey Pie	love
+For No One	With a Little Help from My Friends	love
+For No One	Within You Without You	love
+Good Day Sunshine	Helter Skelter	love
+Good Day Sunshine	Her Majesty	love
+Good Day Sunshine	Here, There and Everywhere	love
+Good Day Sunshine	Honey Pie	love
+Good Day Sunshine	I Will	love
+Good Day Sunshine	I'm Looking Through You	love
+Good Day Sunshine	If I Needed Someone	love
+Good Day Sunshine	In My Life	love
+Good Day Sunshine	Julia	love
+Good Day Sunshine	Long, Long, Long	love
+Good Day Sunshine	Love You To	love
+Good Day Sunshine	Martha My Dear	love
+Good Day Sunshine	Michelle	love
+Good Day Sunshine	Revolution 1	love
+Good Day Sunshine	Sgt. Pepper's Lonely Hearts Club Band	love
+Good Day Sunshine	Something	love
+Good Day Sunshine	The End	love
+Good Day Sunshine	The Word	love
+Good Day Sunshine	Tomorrow Never Knows	love
+Good Day Sunshine	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Good Day Sunshine	Wild Honey Pie	love
+Good Day Sunshine	With a Little Help from My Friends	love
+Good Day Sunshine	Within You Without You	love
+Helter Skelter	Her Majesty	love
+Helter Skelter	Here, There and Everywhere	love
+Helter Skelter	Honey Pie	love
+Helter Skelter	I Will	love
+Helter Skelter	I'm Looking Through You	love
+Helter Skelter	If I Needed Someone	love
+Helter Skelter	In My Life	love
+Helter Skelter	Julia	love
+Helter Skelter	Long, Long, Long	love
+Helter Skelter	Love You To	love
+Helter Skelter	Martha My Dear	love
+Helter Skelter	Michelle	love
+Helter Skelter	Revolution 1	love
+Helter Skelter	Sgt. Pepper's Lonely Hearts Club Band	love
+Helter Skelter	Something	love
+Helter Skelter	The End	love
+Helter Skelter	The Word	love
+Helter Skelter	Tomorrow Never Knows	love
+Helter Skelter	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Helter Skelter	Wild Honey Pie	love
+Helter Skelter	With a Little Help from My Friends	love
+Helter Skelter	Within You Without You	love
+Her Majesty	Here, There and Everywhere	love
+Her Majesty	Honey Pie	love
+Her Majesty	I Will	love
+Her Majesty	I'm Looking Through You	love
+Her Majesty	If I Needed Someone	love
+Her Majesty	In My Life	love
+Her Majesty	Julia	love
+Her Majesty	Long, Long, Long	love
+Her Majesty	Love You To	love
+Her Majesty	Martha My Dear	love
+Her Majesty	Michelle	love
+Her Majesty	Revolution 1	love
+Her Majesty	Sgt. Pepper's Lonely Hearts Club Band	love
+Her Majesty	Something	love
+Her Majesty	The End	love
+Her Majesty	The Word	love
+Her Majesty	Tomorrow Never Knows	love
+Her Majesty	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Her Majesty	Wild Honey Pie	love
+Her Majesty	With a Little Help from My Friends	love
+Her Majesty	Within You Without You	love
+Here, There and Everywhere	Honey Pie	love
+Here, There and Everywhere	I Will	love
+Here, There and Everywhere	I'm Looking Through You	love
+Here, There and Everywhere	If I Needed Someone	love
+Here, There and Everywhere	In My Life	love
+Here, There and Everywhere	Julia	love
+Here, There and Everywhere	Long, Long, Long	love
+Here, There and Everywhere	Love You To	love
+Here, There and Everywhere	Martha My Dear	love
+Here, There and Everywhere	Michelle	love
+Here, There and Everywhere	Revolution 1	love
+Here, There and Everywhere	Sgt. Pepper's Lonely Hearts Club Band	love
+Here, There and Everywhere	Something	love
+Here, There and Everywhere	The End	love
+Here, There and Everywhere	The Word	love
+Here, There and Everywhere	Tomorrow Never Knows	love
+Here, There and Everywhere	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Here, There and Everywhere	Wild Honey Pie	love
+Here, There and Everywhere	With a Little Help from My Friends	love
+Here, There and Everywhere	Within You Without You	love
+Honey Pie	I Will	love
+Honey Pie	I'm Looking Through You	love
+Honey Pie	If I Needed Someone	love
+Honey Pie	In My Life	love
+Honey Pie	Julia	love
+Honey Pie	Long, Long, Long	love
+Honey Pie	Love You To	love
+Honey Pie	Martha My Dear	love
+Honey Pie	Michelle	love
+Honey Pie	Revolution 1	love
+Honey Pie	Sgt. Pepper's Lonely Hearts Club Band	love
+Honey Pie	Something	love
+Honey Pie	The End	love
+Honey Pie	The Word	love
+Honey Pie	Tomorrow Never Knows	love
+Honey Pie	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Honey Pie	Wild Honey Pie	love
+Honey Pie	With a Little Help from My Friends	love
+Honey Pie	Within You Without You	love
+I Will	I'm Looking Through You	love
+I Will	If I Needed Someone	love
+I Will	In My Life	love
+I Will	Julia	love
+I Will	Long, Long, Long	love
+I Will	Love You To	love
+I Will	Martha My Dear	love
+I Will	Michelle	love
+I Will	Revolution 1	love
+I Will	Sgt. Pepper's Lonely Hearts Club Band	love
+I Will	Something	love
+I Will	The End	love
+I Will	The Word	love
+I Will	Tomorrow Never Knows	love
+I Will	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+I Will	Wild Honey Pie	love
+I Will	With a Little Help from My Friends	love
+I Will	Within You Without You	love
+I'm Looking Through You	If I Needed Someone	love
+I'm Looking Through You	In My Life	love
+I'm Looking Through You	Julia	love
+I'm Looking Through You	Long, Long, Long	love
+I'm Looking Through You	Love You To	love
+I'm Looking Through You	Martha My Dear	love
+I'm Looking Through You	Michelle	love
+I'm Looking Through You	Revolution 1	love
+I'm Looking Through You	Sgt. Pepper's Lonely Hearts Club Band	love
+I'm Looking Through You	Something	love
+I'm Looking Through You	The End	love
+I'm Looking Through You	The Word	love
+I'm Looking Through You	Tomorrow Never Knows	love
+I'm Looking Through You	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+I'm Looking Through You	Wild Honey Pie	love
+I'm Looking Through You	With a Little Help from My Friends	love
+I'm Looking Through You	Within You Without You	love
+If I Needed Someone	In My Life	love
+If I Needed Someone	Julia	love
+If I Needed Someone	Long, Long, Long	love
+If I Needed Someone	Love You To	love
+If I Needed Someone	Martha My Dear	love
+If I Needed Someone	Michelle	love
+If I Needed Someone	Revolution 1	love
+If I Needed Someone	Sgt. Pepper's Lonely Hearts Club Band	love
+If I Needed Someone	Something	love
+If I Needed Someone	The End	love
+If I Needed Someone	The Word	love
+If I Needed Someone	Tomorrow Never Knows	love
+If I Needed Someone	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+If I Needed Someone	Wild Honey Pie	love
+If I Needed Someone	With a Little Help from My Friends	love
+If I Needed Someone	Within You Without You	love
+In My Life	Julia	love
+In My Life	Long, Long, Long	love
+In My Life	Love You To	love
+In My Life	Martha My Dear	love
+In My Life	Michelle	love
+In My Life	Revolution 1	love
+In My Life	Sgt. Pepper's Lonely Hearts Club Band	love
+In My Life	Something	love
+In My Life	The End	love
+In My Life	The Word	love
+In My Life	Tomorrow Never Knows	love
+In My Life	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+In My Life	Wild Honey Pie	love
+In My Life	With a Little Help from My Friends	love
+In My Life	Within You Without You	love
+Julia	Long, Long, Long	love
+Julia	Love You To	love
+Julia	Martha My Dear	love
+Julia	Michelle	love
+Julia	Revolution 1	love
+Julia	Sgt. Pepper's Lonely Hearts Club Band	love
+Julia	Something	love
+Julia	The End	love
+Julia	The Word	love
+Julia	Tomorrow Never Knows	love
+Julia	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Julia	Wild Honey Pie	love
+Julia	With a Little Help from My Friends	love
+Julia	Within You Without You	love
+Long, Long, Long	Love You To	love
+Long, Long, Long	Martha My Dear	love
+Long, Long, Long	Michelle	love
+Long, Long, Long	Revolution 1	love
+Long, Long, Long	Sgt. Pepper's Lonely Hearts Club Band	love
+Long, Long, Long	Something	love
+Long, Long, Long	The End	love
+Long, Long, Long	The Word	love
+Long, Long, Long	Tomorrow Never Knows	love
+Long, Long, Long	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Long, Long, Long	Wild Honey Pie	love
+Long, Long, Long	With a Little Help from My Friends	love
+Long, Long, Long	Within You Without You	love
+Love You To	Martha My Dear	love
+Love You To	Michelle	love
+Love You To	Revolution 1	love
+Love You To	Sgt. Pepper's Lonely Hearts Club Band	love
+Love You To	Something	love
+Love You To	The End	love
+Love You To	The Word	love
+Love You To	Tomorrow Never Knows	love
+Love You To	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Love You To	Wild Honey Pie	love
+Love You To	With a Little Help from My Friends	love
+Love You To	Within You Without You	love
+Martha My Dear	Michelle	love
+Martha My Dear	Revolution 1	love
+Martha My Dear	Sgt. Pepper's Lonely Hearts Club Band	love
+Martha My Dear	Something	love
+Martha My Dear	The End	love
+Martha My Dear	The Word	love
+Martha My Dear	Tomorrow Never Knows	love
+Martha My Dear	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Martha My Dear	Wild Honey Pie	love
+Martha My Dear	With a Little Help from My Friends	love
+Martha My Dear	Within You Without You	love
+Michelle	Revolution 1	love
+Michelle	Sgt. Pepper's Lonely Hearts Club Band	love
+Michelle	Something	love
+Michelle	The End	love
+Michelle	The Word	love
+Michelle	Tomorrow Never Knows	love
+Michelle	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Michelle	Wild Honey Pie	love
+Michelle	With a Little Help from My Friends	love
+Michelle	Within You Without You	love
+Revolution 1	Sgt. Pepper's Lonely Hearts Club Band	love
+Revolution 1	Something	love
+Revolution 1	The End	love
+Revolution 1	The Word	love
+Revolution 1	Tomorrow Never Knows	love
+Revolution 1	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Revolution 1	Wild Honey Pie	love
+Revolution 1	With a Little Help from My Friends	love
+Revolution 1	Within You Without You	love
+Sgt. Pepper's Lonely Hearts Club Band	Something	love
+Sgt. Pepper's Lonely Hearts Club Band	The End	love
+Sgt. Pepper's Lonely Hearts Club Band	The Word	love
+Sgt. Pepper's Lonely Hearts Club Band	Tomorrow Never Knows	love
+Sgt. Pepper's Lonely Hearts Club Band	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Sgt. Pepper's Lonely Hearts Club Band	Wild Honey Pie	love
+Sgt. Pepper's Lonely Hearts Club Band	With a Little Help from My Friends	love
+Sgt. Pepper's Lonely Hearts Club Band	Within You Without You	love
+Something	The End	love
+Something	The Word	love
+Something	Tomorrow Never Knows	love
+Something	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Something	Wild Honey Pie	love
+Something	With a Little Help from My Friends	love
+Something	Within You Without You	love
+The End	The Word	love
+The End	Tomorrow Never Knows	love
+The End	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+The End	Wild Honey Pie	love
+The End	With a Little Help from My Friends	love
+The End	Within You Without You	love
+The Word	Tomorrow Never Knows	love
+The Word	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+The Word	Wild Honey Pie	love
+The Word	With a Little Help from My Friends	love
+The Word	Within You Without You	love
+Tomorrow Never Knows	While My Guitar Gently Weeps (Ft. Eric Clapton)	love
+Tomorrow Never Knows	Wild Honey Pie	love
+Tomorrow Never Knows	With a Little Help from My Friends	love
+Tomorrow Never Knows	Within You Without You	love
+While My Guitar Gently Weeps (Ft. Eric Clapton)	Wild Honey Pie	love
+While My Guitar Gently Weeps (Ft. Eric Clapton)	With a Little Help from My Friends	love
+While My Guitar Gently Weeps (Ft. Eric Clapton)	Within You Without You	love
+Wild Honey Pie	With a Little Help from My Friends	love
+Wild Honey Pie	Within You Without You	love
+With a Little Help from My Friends	Within You Without You	love
+Getting Better	I Will	loved
+Getting Better	In My Life	loved
+Getting Better	Long, Long, Long	loved
+I Will	In My Life	loved
+I Will	Long, Long, Long	loved
+In My Life	Long, Long, Long	loved
+Lovely Rita	Sgt. Pepper's Lonely Hearts Club Band	lovely
+Helter Skelter	Sexy Sadie	lover
+Helter Skelter	Something	lover
+Sexy Sadie	Something	lover
+Dear Prudence	Good Morning Good Morning	low
+Dear Prudence	Revolution 9 (Ft. Yoko Ono)	low
+Good Morning Good Morning	Revolution 9 (Ft. Yoko Ono)	low
+A Day in the Life	Back in the U.S.S.R.	lucky
+Happiness is a Warm Gun	I'm Only Sleeping	lying
+Happiness is a Warm Gun	She's Leaving Home	lying
+I'm Only Sleeping	She's Leaving Home	lying
+Getting Better	I Want You (She's So Heavy)	mad
+Getting Better	She Said She Said	mad
+I Want You (She's So Heavy)	She Said She Said	mad
+Honey Pie	You Never Give Me Your Money	magic
+Because	For No One	makes
+Because	Girl	makes
+Because	Honey Pie	makes
+Because	Polythene Pam	makes
+Because	Revolution 9 (Ft. Yoko Ono)	makes
+For No One	Girl	makes
+For No One	Honey Pie	makes
+For No One	Polythene Pam	makes
+For No One	Revolution 9 (Ft. Yoko Ono)	makes
+Girl	Honey Pie	makes
+Girl	Polythene Pam	makes
+Girl	Revolution 9 (Ft. Yoko Ono)	makes
+Honey Pie	Polythene Pam	makes
+Honey Pie	Revolution 9 (Ft. Yoko Ono)	makes
+Polythene Pam	Revolution 9 (Ft. Yoko Ono)	makes
+In My Life	Tomorrow Never Knows	meaning
+Got to Get You into My Life	Martha My Dear	meant
+Glass Onion	Good Morning Good Morning	meet
+Glass Onion	Got to Get You into My Life	meet
+Good Morning Good Morning	Got to Get You into My Life	meet
+Cry Baby Cry	Honey Pie	meeting
+Cry Baby Cry	She's Leaving Home	meeting
+Honey Pie	She's Leaving Home	meeting
+Rocky Raccoon	What Goes On	met
+Back in the U.S.S.R.	Sun King	mi
+Carry That Weight	I'm Only Sleeping	middle
+Carry That Weight	You Never Give Me Your Money	middle
+I'm Only Sleeping	You Never Give Me Your Money	middle
+Helter Skelter	I'm Only Sleeping	miles
+A Day in the Life	Back in the U.S.S.R.	mind
+A Day in the Life	Because	mind
+A Day in the Life	Fixing a Hole	mind
+A Day in the Life	For No One	mind
+A Day in the Life	Got to Get You into My Life	mind
+A Day in the Life	I Want to Tell You	mind
+A Day in the Life	I'm Only Sleeping	mind
+A Day in the Life	I'm So Tired	mind
+A Day in the Life	Julia	mind
+A Day in the Life	Revolution 1	mind
+A Day in the Life	Run for Your Life	mind
+A Day in the Life	Think for Yourself	mind
+A Day in the Life	Tomorrow Never Knows	mind
+A Day in the Life	What Goes On	mind
+A Day in the Life	Within You Without You	mind
+A Day in the Life	Yer Blues	mind
+A Day in the Life	You Won't See Me	mind
+Back in the U.S.S.R.	Because	mind
+Back in the U.S.S.R.	Fixing a Hole	mind
+Back in the U.S.S.R.	For No One	mind
+Back in the U.S.S.R.	Got to Get You into My Life	mind
+Back in the U.S.S.R.	I Want to Tell You	mind
+Back in the U.S.S.R.	I'm Only Sleeping	mind
+Back in the U.S.S.R.	I'm So Tired	mind
+Back in the U.S.S.R.	Julia	mind
+Back in the U.S.S.R.	Revolution 1	mind
+Back in the U.S.S.R.	Run for Your Life	mind
+Back in the U.S.S.R.	Think for Yourself	mind
+Back in the U.S.S.R.	Tomorrow Never Knows	mind
+Back in the U.S.S.R.	What Goes On	mind
+Back in the U.S.S.R.	Within You Without You	mind
+Back in the U.S.S.R.	Yer Blues	mind
+Back in the U.S.S.R.	You Won't See Me	mind
+Because	Fixing a Hole	mind
+Because	For No One	mind
+Because	Got to Get You into My Life	mind
+Because	I Want to Tell You	mind
+Because	I'm Only Sleeping	mind
+Because	I'm So Tired	mind
+Because	Julia	mind
+Because	Revolution 1	mind
+Because	Run for Your Life	mind
+Because	Think for Yourself	mind
+Because	Tomorrow Never Knows	mind
+Because	What Goes On	mind
+Because	Within You Without You	mind
+Because	Yer Blues	mind
+Because	You Won't See Me	mind
+Fixing a Hole	For No One	mind
+Fixing a Hole	Got to Get You into My Life	mind
+Fixing a Hole	I Want to Tell You	mind
+Fixing a Hole	I'm Only Sleeping	mind
+Fixing a Hole	I'm So Tired	mind
+Fixing a Hole	Julia	mind
+Fixing a Hole	Revolution 1	mind
+Fixing a Hole	Run for Your Life	mind
+Fixing a Hole	Think for Yourself	mind
+Fixing a Hole	Tomorrow Never Knows	mind
+Fixing a Hole	What Goes On	mind
+Fixing a Hole	Within You Without You	mind
+Fixing a Hole	Yer Blues	mind
+Fixing a Hole	You Won't See Me	mind
+For No One	Got to Get You into My Life	mind
+For No One	I Want to Tell You	mind
+For No One	I'm Only Sleeping	mind
+For No One	I'm So Tired	mind
+For No One	Julia	mind
+For No One	Revolution 1	mind
+For No One	Run for Your Life	mind
+For No One	Think for Yourself	mind
+For No One	Tomorrow Never Knows	mind
+For No One	What Goes On	mind
+For No One	Within You Without You	mind
+For No One	Yer Blues	mind
+For No One	You Won't See Me	mind
+Got to Get You into My Life	I Want to Tell You	mind
+Got to Get You into My Life	I'm Only Sleeping	mind
+Got to Get You into My Life	I'm So Tired	mind
+Got to Get You into My Life	Julia	mind
+Got to Get You into My Life	Revolution 1	mind
+Got to Get You into My Life	Run for Your Life	mind
+Got to Get You into My Life	Think for Yourself	mind
+Got to Get You into My Life	Tomorrow Never Knows	mind
+Got to Get You into My Life	What Goes On	mind
+Got to Get You into My Life	Within You Without You	mind
+Got to Get You into My Life	Yer Blues	mind
+Got to Get You into My Life	You Won't See Me	mind
+I Want to Tell You	I'm Only Sleeping	mind
+I Want to Tell You	I'm So Tired	mind
+I Want to Tell You	Julia	mind
+I Want to Tell You	Revolution 1	mind
+I Want to Tell You	Run for Your Life	mind
+I Want to Tell You	Think for Yourself	mind
+I Want to Tell You	Tomorrow Never Knows	mind
+I Want to Tell You	What Goes On	mind
+I Want to Tell You	Within You Without You	mind
+I Want to Tell You	Yer Blues	mind
+I Want to Tell You	You Won't See Me	mind
+I'm Only Sleeping	I'm So Tired	mind
+I'm Only Sleeping	Julia	mind
+I'm Only Sleeping	Revolution 1	mind
+I'm Only Sleeping	Run for Your Life	mind
+I'm Only Sleeping	Think for Yourself	mind
+I'm Only Sleeping	Tomorrow Never Knows	mind
+I'm Only Sleeping	What Goes On	mind
+I'm Only Sleeping	Within You Without You	mind
+I'm Only Sleeping	Yer Blues	mind
+I'm Only Sleeping	You Won't See Me	mind
+I'm So Tired	Julia	mind
+I'm So Tired	Revolution 1	mind
+I'm So Tired	Run for Your Life	mind
+I'm So Tired	Think for Yourself	mind
+I'm So Tired	Tomorrow Never Knows	mind
+I'm So Tired	What Goes On	mind
+I'm So Tired	Within You Without You	mind
+I'm So Tired	Yer Blues	mind
+I'm So Tired	You Won't See Me	mind
+Julia	Revolution 1	mind
+Julia	Run for Your Life	mind
+Julia	Think for Yourself	mind
+Julia	Tomorrow Never Knows	mind
+Julia	What Goes On	mind
+Julia	Within You Without You	mind
+Julia	Yer Blues	mind
+Julia	You Won't See Me	mind
+Revolution 1	Run for Your Life	mind
+Revolution 1	Think for Yourself	mind
+Revolution 1	Tomorrow Never Knows	mind
+Revolution 1	What Goes On	mind
+Revolution 1	Within You Without You	mind
+Revolution 1	Yer Blues	mind
+Revolution 1	You Won't See Me	mind
+Run for Your Life	Think for Yourself	mind
+Run for Your Life	Tomorrow Never Knows	mind
+Run for Your Life	What Goes On	mind
+Run for Your Life	Within You Without You	mind
+Run for Your Life	Yer Blues	mind
+Run for Your Life	You Won't See Me	mind
+Think for Yourself	Tomorrow Never Knows	mind
+Think for Yourself	What Goes On	mind
+Think for Yourself	Within You Without You	mind
+Think for Yourself	Yer Blues	mind
+Think for Yourself	You Won't See Me	mind
+Tomorrow Never Knows	What Goes On	mind
+Tomorrow Never Knows	Within You Without You	mind
+Tomorrow Never Knows	Yer Blues	mind
+Tomorrow Never Knows	You Won't See Me	mind
+What Goes On	Within You Without You	mind
+What Goes On	Yer Blues	mind
+What Goes On	You Won't See Me	mind
+Within You Without You	Yer Blues	mind
+Within You Without You	You Won't See Me	mind
+Yer Blues	You Won't See Me	mind
+Getting Better	Good Day Sunshine	mine
+Getting Better	Good Night	mine
+Getting Better	Her Majesty	mine
+Getting Better	When I'm Sixty-Four	mine
+Getting Better	With a Little Help from My Friends	mine
+Good Day Sunshine	Good Night	mine
+Good Day Sunshine	Her Majesty	mine
+Good Day Sunshine	When I'm Sixty-Four	mine
+Good Day Sunshine	With a Little Help from My Friends	mine
+Good Night	Her Majesty	mine
+Good Night	When I'm Sixty-Four	mine
+Good Night	With a Little Help from My Friends	mine
+Her Majesty	When I'm Sixty-Four	mine
+Her Majesty	With a Little Help from My Friends	mine
+When I'm Sixty-Four	With a Little Help from My Friends	mine
+Nowhere Man	You Won't See Me	missing
+Mean Mr. Mustard	Yellow Submarine	mister
+Cry Baby Cry	With a Little Help from My Friends	mm
+She Came in Through the Bathroom Window	You Never Give Me Your Money	monday
+Doctor Robert	Revolution 1	money
+Doctor Robert	She's Leaving Home	money
+Doctor Robert	You Never Give Me Your Money	money
+Revolution 1	She's Leaving Home	money
+Revolution 1	You Never Give Me Your Money	money
+She's Leaving Home	You Never Give Me Your Money	money
+Come Together	Everybody's Got Something to Hide Except Me and My Monkey	monkey
+Good Night	Julia	moon
+Good Morning Good Morning	I'm Only Sleeping	morning
+Good Morning Good Morning	Julia	morning
+Good Morning Good Morning	Norwegian Wood (This Bird Has Flown)	morning
+Good Morning Good Morning	She's Leaving Home	morning
+Good Morning Good Morning	What Goes On	morning
+Good Morning Good Morning	Yer Blues	morning
+Good Morning Good Morning	You Never Give Me Your Money	morning
+I'm Only Sleeping	Julia	morning
+I'm Only Sleeping	Norwegian Wood (This Bird Has Flown)	morning
+I'm Only Sleeping	She's Leaving Home	morning
+I'm Only Sleeping	What Goes On	morning
+I'm Only Sleeping	Yer Blues	morning
+I'm Only Sleeping	You Never Give Me Your Money	morning
+Julia	Norwegian Wood (This Bird Has Flown)	morning
+Julia	She's Leaving Home	morning
+Julia	What Goes On	morning
+Julia	Yer Blues	morning
+Julia	You Never Give Me Your Money	morning
+Norwegian Wood (This Bird Has Flown)	She's Leaving Home	morning
+Norwegian Wood (This Bird Has Flown)	What Goes On	morning
+Norwegian Wood (This Bird Has Flown)	Yer Blues	morning
+Norwegian Wood (This Bird Has Flown)	You Never Give Me Your Money	morning
+She's Leaving Home	What Goes On	morning
+She's Leaving Home	Yer Blues	morning
+She's Leaving Home	You Never Give Me Your Money	morning
+What Goes On	Yer Blues	morning
+What Goes On	You Never Give Me Your Money	morning
+Yer Blues	You Never Give Me Your Money	morning
+Cry Baby Cry	Happiness is a Warm Gun	mother
+Cry Baby Cry	Mother Nature's Son	mother
+Cry Baby Cry	Yer Blues	mother
+Happiness is a Warm Gun	Mother Nature's Son	mother
+Happiness is a Warm Gun	Yer Blues	mother
+Mother Nature's Son	Yer Blues	mother
+Honey Pie	Mother Nature's Son	music
+A Day in the Life	And Your Bird Can Sing	na
+A Day in the Life	Back in the U.S.S.R.	na
+A Day in the Life	Being for the Benefit of Mr. Kite!	na
+A Day in the Life	Birthday	na
+A Day in the Life	Blackbird	na
+A Day in the Life	Carry That Weight	na
+A Day in the Life	Dear Prudence	na
+A Day in the Life	Drive My Car	na
+A Day in the Life	Fixing a Hole	na
+A Day in the Life	For No One	na
+A Day in the Life	Good Morning Good Morning	na
+A Day in the Life	Got to Get You into My Life	na
+A Day in the Life	Helter Skelter	na
+A Day in the Life	I Want You (She's So Heavy)	na
+A Day in the Life	I'm Only Sleeping	na
+A Day in the Life	In My Life	na
+A Day in the Life	Love You To	na
+A Day in the Life	Lovely Rita	na
+A Day in the Life	Martha My Dear	na
+A Day in the Life	Michelle	na
+A Day in the Life	Octopus's Garden	na
+A Day in the Life	Rocky Raccoon	na
+A Day in the Life	Run for Your Life	na
+A Day in the Life	Savoy Truffle	na
+A Day in the Life	Something	na
+A Day in the Life	Taxman	na
+A Day in the Life	The End	na
+A Day in the Life	Tomorrow Never Knows	na
+A Day in the Life	Wait	na
+A Day in the Life	What Goes On	na
+A Day in the Life	When I'm Sixty-Four	na
+A Day in the Life	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+A Day in the Life	Within You Without You	na
+A Day in the Life	You Never Give Me Your Money	na
+And Your Bird Can Sing	Back in the U.S.S.R.	na
+And Your Bird Can Sing	Being for the Benefit of Mr. Kite!	na
+And Your Bird Can Sing	Birthday	na
+And Your Bird Can Sing	Blackbird	na
+And Your Bird Can Sing	Carry That Weight	na
+And Your Bird Can Sing	Dear Prudence	na
+And Your Bird Can Sing	Drive My Car	na
+And Your Bird Can Sing	Fixing a Hole	na
+And Your Bird Can Sing	For No One	na
+And Your Bird Can Sing	Good Morning Good Morning	na
+And Your Bird Can Sing	Got to Get You into My Life	na
+And Your Bird Can Sing	Helter Skelter	na
+And Your Bird Can Sing	I Want You (She's So Heavy)	na
+And Your Bird Can Sing	I'm Only Sleeping	na
+And Your Bird Can Sing	In My Life	na
+And Your Bird Can Sing	Love You To	na
+And Your Bird Can Sing	Lovely Rita	na
+And Your Bird Can Sing	Martha My Dear	na
+And Your Bird Can Sing	Michelle	na
+And Your Bird Can Sing	Octopus's Garden	na
+And Your Bird Can Sing	Rocky Raccoon	na
+And Your Bird Can Sing	Run for Your Life	na
+And Your Bird Can Sing	Savoy Truffle	na
+And Your Bird Can Sing	Something	na
+And Your Bird Can Sing	Taxman	na
+And Your Bird Can Sing	The End	na
+And Your Bird Can Sing	Tomorrow Never Knows	na
+And Your Bird Can Sing	Wait	na
+And Your Bird Can Sing	What Goes On	na
+And Your Bird Can Sing	When I'm Sixty-Four	na
+And Your Bird Can Sing	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+And Your Bird Can Sing	Within You Without You	na
+And Your Bird Can Sing	You Never Give Me Your Money	na
+Back in the U.S.S.R.	Being for the Benefit of Mr. Kite!	na
+Back in the U.S.S.R.	Birthday	na
+Back in the U.S.S.R.	Blackbird	na
+Back in the U.S.S.R.	Carry That Weight	na
+Back in the U.S.S.R.	Dear Prudence	na
+Back in the U.S.S.R.	Drive My Car	na
+Back in the U.S.S.R.	Fixing a Hole	na
+Back in the U.S.S.R.	For No One	na
+Back in the U.S.S.R.	Good Morning Good Morning	na
+Back in the U.S.S.R.	Got to Get You into My Life	na
+Back in the U.S.S.R.	Helter Skelter	na
+Back in the U.S.S.R.	I Want You (She's So Heavy)	na
+Back in the U.S.S.R.	I'm Only Sleeping	na
+Back in the U.S.S.R.	In My Life	na
+Back in the U.S.S.R.	Love You To	na
+Back in the U.S.S.R.	Lovely Rita	na
+Back in the U.S.S.R.	Martha My Dear	na
+Back in the U.S.S.R.	Michelle	na
+Back in the U.S.S.R.	Octopus's Garden	na
+Back in the U.S.S.R.	Rocky Raccoon	na
+Back in the U.S.S.R.	Run for Your Life	na
+Back in the U.S.S.R.	Savoy Truffle	na
+Back in the U.S.S.R.	Something	na
+Back in the U.S.S.R.	Taxman	na
+Back in the U.S.S.R.	The End	na
+Back in the U.S.S.R.	Tomorrow Never Knows	na
+Back in the U.S.S.R.	Wait	na
+Back in the U.S.S.R.	What Goes On	na
+Back in the U.S.S.R.	When I'm Sixty-Four	na
+Back in the U.S.S.R.	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Back in the U.S.S.R.	Within You Without You	na
+Back in the U.S.S.R.	You Never Give Me Your Money	na
+Being for the Benefit of Mr. Kite!	Birthday	na
+Being for the Benefit of Mr. Kite!	Blackbird	na
+Being for the Benefit of Mr. Kite!	Carry That Weight	na
+Being for the Benefit of Mr. Kite!	Dear Prudence	na
+Being for the Benefit of Mr. Kite!	Drive My Car	na
+Being for the Benefit of Mr. Kite!	Fixing a Hole	na
+Being for the Benefit of Mr. Kite!	For No One	na
+Being for the Benefit of Mr. Kite!	Good Morning Good Morning	na
+Being for the Benefit of Mr. Kite!	Got to Get You into My Life	na
+Being for the Benefit of Mr. Kite!	Helter Skelter	na
+Being for the Benefit of Mr. Kite!	I Want You (She's So Heavy)	na
+Being for the Benefit of Mr. Kite!	I'm Only Sleeping	na
+Being for the Benefit of Mr. Kite!	In My Life	na
+Being for the Benefit of Mr. Kite!	Love You To	na
+Being for the Benefit of Mr. Kite!	Lovely Rita	na
+Being for the Benefit of Mr. Kite!	Martha My Dear	na
+Being for the Benefit of Mr. Kite!	Michelle	na
+Being for the Benefit of Mr. Kite!	Octopus's Garden	na
+Being for the Benefit of Mr. Kite!	Rocky Raccoon	na
+Being for the Benefit of Mr. Kite!	Run for Your Life	na
+Being for the Benefit of Mr. Kite!	Savoy Truffle	na
+Being for the Benefit of Mr. Kite!	Something	na
+Being for the Benefit of Mr. Kite!	Taxman	na
+Being for the Benefit of Mr. Kite!	The End	na
+Being for the Benefit of Mr. Kite!	Tomorrow Never Knows	na
+Being for the Benefit of Mr. Kite!	Wait	na
+Being for the Benefit of Mr. Kite!	What Goes On	na
+Being for the Benefit of Mr. Kite!	When I'm Sixty-Four	na
+Being for the Benefit of Mr. Kite!	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Being for the Benefit of Mr. Kite!	Within You Without You	na
+Being for the Benefit of Mr. Kite!	You Never Give Me Your Money	na
+Birthday	Blackbird	na
+Birthday	Carry That Weight	na
+Birthday	Dear Prudence	na
+Birthday	Drive My Car	na
+Birthday	Fixing a Hole	na
+Birthday	For No One	na
+Birthday	Good Morning Good Morning	na
+Birthday	Got to Get You into My Life	na
+Birthday	Helter Skelter	na
+Birthday	I Want You (She's So Heavy)	na
+Birthday	I'm Only Sleeping	na
+Birthday	In My Life	na
+Birthday	Love You To	na
+Birthday	Lovely Rita	na
+Birthday	Martha My Dear	na
+Birthday	Michelle	na
+Birthday	Octopus's Garden	na
+Birthday	Rocky Raccoon	na
+Birthday	Run for Your Life	na
+Birthday	Savoy Truffle	na
+Birthday	Something	na
+Birthday	Taxman	na
+Birthday	The End	na
+Birthday	Tomorrow Never Knows	na
+Birthday	Wait	na
+Birthday	What Goes On	na
+Birthday	When I'm Sixty-Four	na
+Birthday	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Birthday	Within You Without You	na
+Birthday	You Never Give Me Your Money	na
+Blackbird	Carry That Weight	na
+Blackbird	Dear Prudence	na
+Blackbird	Drive My Car	na
+Blackbird	Fixing a Hole	na
+Blackbird	For No One	na
+Blackbird	Good Morning Good Morning	na
+Blackbird	Got to Get You into My Life	na
+Blackbird	Helter Skelter	na
+Blackbird	I Want You (She's So Heavy)	na
+Blackbird	I'm Only Sleeping	na
+Blackbird	In My Life	na
+Blackbird	Love You To	na
+Blackbird	Lovely Rita	na
+Blackbird	Martha My Dear	na
+Blackbird	Michelle	na
+Blackbird	Octopus's Garden	na
+Blackbird	Rocky Raccoon	na
+Blackbird	Run for Your Life	na
+Blackbird	Savoy Truffle	na
+Blackbird	Something	na
+Blackbird	Taxman	na
+Blackbird	The End	na
+Blackbird	Tomorrow Never Knows	na
+Blackbird	Wait	na
+Blackbird	What Goes On	na
+Blackbird	When I'm Sixty-Four	na
+Blackbird	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Blackbird	Within You Without You	na
+Blackbird	You Never Give Me Your Money	na
+Carry That Weight	Dear Prudence	na
+Carry That Weight	Drive My Car	na
+Carry That Weight	Fixing a Hole	na
+Carry That Weight	For No One	na
+Carry That Weight	Good Morning Good Morning	na
+Carry That Weight	Got to Get You into My Life	na
+Carry That Weight	Helter Skelter	na
+Carry That Weight	I Want You (She's So Heavy)	na
+Carry That Weight	I'm Only Sleeping	na
+Carry That Weight	In My Life	na
+Carry That Weight	Love You To	na
+Carry That Weight	Lovely Rita	na
+Carry That Weight	Martha My Dear	na
+Carry That Weight	Michelle	na
+Carry That Weight	Octopus's Garden	na
+Carry That Weight	Rocky Raccoon	na
+Carry That Weight	Run for Your Life	na
+Carry That Weight	Savoy Truffle	na
+Carry That Weight	Something	na
+Carry That Weight	Taxman	na
+Carry That Weight	The End	na
+Carry That Weight	Tomorrow Never Knows	na
+Carry That Weight	Wait	na
+Carry That Weight	What Goes On	na
+Carry That Weight	When I'm Sixty-Four	na
+Carry That Weight	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Carry That Weight	Within You Without You	na
+Carry That Weight	You Never Give Me Your Money	na
+Dear Prudence	Drive My Car	na
+Dear Prudence	Fixing a Hole	na
+Dear Prudence	For No One	na
+Dear Prudence	Good Morning Good Morning	na
+Dear Prudence	Got to Get You into My Life	na
+Dear Prudence	Helter Skelter	na
+Dear Prudence	I Want You (She's So Heavy)	na
+Dear Prudence	I'm Only Sleeping	na
+Dear Prudence	In My Life	na
+Dear Prudence	Love You To	na
+Dear Prudence	Lovely Rita	na
+Dear Prudence	Martha My Dear	na
+Dear Prudence	Michelle	na
+Dear Prudence	Octopus's Garden	na
+Dear Prudence	Rocky Raccoon	na
+Dear Prudence	Run for Your Life	na
+Dear Prudence	Savoy Truffle	na
+Dear Prudence	Something	na
+Dear Prudence	Taxman	na
+Dear Prudence	The End	na
+Dear Prudence	Tomorrow Never Knows	na
+Dear Prudence	Wait	na
+Dear Prudence	What Goes On	na
+Dear Prudence	When I'm Sixty-Four	na
+Dear Prudence	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Dear Prudence	Within You Without You	na
+Dear Prudence	You Never Give Me Your Money	na
+Drive My Car	Fixing a Hole	na
+Drive My Car	For No One	na
+Drive My Car	Good Morning Good Morning	na
+Drive My Car	Got to Get You into My Life	na
+Drive My Car	Helter Skelter	na
+Drive My Car	I Want You (She's So Heavy)	na
+Drive My Car	I'm Only Sleeping	na
+Drive My Car	In My Life	na
+Drive My Car	Love You To	na
+Drive My Car	Lovely Rita	na
+Drive My Car	Martha My Dear	na
+Drive My Car	Michelle	na
+Drive My Car	Octopus's Garden	na
+Drive My Car	Rocky Raccoon	na
+Drive My Car	Run for Your Life	na
+Drive My Car	Savoy Truffle	na
+Drive My Car	Something	na
+Drive My Car	Taxman	na
+Drive My Car	The End	na
+Drive My Car	Tomorrow Never Knows	na
+Drive My Car	Wait	na
+Drive My Car	What Goes On	na
+Drive My Car	When I'm Sixty-Four	na
+Drive My Car	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Drive My Car	Within You Without You	na
+Drive My Car	You Never Give Me Your Money	na
+Fixing a Hole	For No One	na
+Fixing a Hole	Good Morning Good Morning	na
+Fixing a Hole	Got to Get You into My Life	na
+Fixing a Hole	Helter Skelter	na
+Fixing a Hole	I Want You (She's So Heavy)	na
+Fixing a Hole	I'm Only Sleeping	na
+Fixing a Hole	In My Life	na
+Fixing a Hole	Love You To	na
+Fixing a Hole	Lovely Rita	na
+Fixing a Hole	Martha My Dear	na
+Fixing a Hole	Michelle	na
+Fixing a Hole	Octopus's Garden	na
+Fixing a Hole	Rocky Raccoon	na
+Fixing a Hole	Run for Your Life	na
+Fixing a Hole	Savoy Truffle	na
+Fixing a Hole	Something	na
+Fixing a Hole	Taxman	na
+Fixing a Hole	The End	na
+Fixing a Hole	Tomorrow Never Knows	na
+Fixing a Hole	Wait	na
+Fixing a Hole	What Goes On	na
+Fixing a Hole	When I'm Sixty-Four	na
+Fixing a Hole	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Fixing a Hole	Within You Without You	na
+Fixing a Hole	You Never Give Me Your Money	na
+For No One	Good Morning Good Morning	na
+For No One	Got to Get You into My Life	na
+For No One	Helter Skelter	na
+For No One	I Want You (She's So Heavy)	na
+For No One	I'm Only Sleeping	na
+For No One	In My Life	na
+For No One	Love You To	na
+For No One	Lovely Rita	na
+For No One	Martha My Dear	na
+For No One	Michelle	na
+For No One	Octopus's Garden	na
+For No One	Rocky Raccoon	na
+For No One	Run for Your Life	na
+For No One	Savoy Truffle	na
+For No One	Something	na
+For No One	Taxman	na
+For No One	The End	na
+For No One	Tomorrow Never Knows	na
+For No One	Wait	na
+For No One	What Goes On	na
+For No One	When I'm Sixty-Four	na
+For No One	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+For No One	Within You Without You	na
+For No One	You Never Give Me Your Money	na
+Good Morning Good Morning	Got to Get You into My Life	na
+Good Morning Good Morning	Helter Skelter	na
+Good Morning Good Morning	I Want You (She's So Heavy)	na
+Good Morning Good Morning	I'm Only Sleeping	na
+Good Morning Good Morning	In My Life	na
+Good Morning Good Morning	Love You To	na
+Good Morning Good Morning	Lovely Rita	na
+Good Morning Good Morning	Martha My Dear	na
+Good Morning Good Morning	Michelle	na
+Good Morning Good Morning	Octopus's Garden	na
+Good Morning Good Morning	Rocky Raccoon	na
+Good Morning Good Morning	Run for Your Life	na
+Good Morning Good Morning	Savoy Truffle	na
+Good Morning Good Morning	Something	na
+Good Morning Good Morning	Taxman	na
+Good Morning Good Morning	The End	na
+Good Morning Good Morning	Tomorrow Never Knows	na
+Good Morning Good Morning	Wait	na
+Good Morning Good Morning	What Goes On	na
+Good Morning Good Morning	When I'm Sixty-Four	na
+Good Morning Good Morning	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Good Morning Good Morning	Within You Without You	na
+Good Morning Good Morning	You Never Give Me Your Money	na
+Got to Get You into My Life	Helter Skelter	na
+Got to Get You into My Life	I Want You (She's So Heavy)	na
+Got to Get You into My Life	I'm Only Sleeping	na
+Got to Get You into My Life	In My Life	na
+Got to Get You into My Life	Love You To	na
+Got to Get You into My Life	Lovely Rita	na
+Got to Get You into My Life	Martha My Dear	na
+Got to Get You into My Life	Michelle	na
+Got to Get You into My Life	Octopus's Garden	na
+Got to Get You into My Life	Rocky Raccoon	na
+Got to Get You into My Life	Run for Your Life	na
+Got to Get You into My Life	Savoy Truffle	na
+Got to Get You into My Life	Something	na
+Got to Get You into My Life	Taxman	na
+Got to Get You into My Life	The End	na
+Got to Get You into My Life	Tomorrow Never Knows	na
+Got to Get You into My Life	Wait	na
+Got to Get You into My Life	What Goes On	na
+Got to Get You into My Life	When I'm Sixty-Four	na
+Got to Get You into My Life	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Got to Get You into My Life	Within You Without You	na
+Got to Get You into My Life	You Never Give Me Your Money	na
+Helter Skelter	I Want You (She's So Heavy)	na
+Helter Skelter	I'm Only Sleeping	na
+Helter Skelter	In My Life	na
+Helter Skelter	Love You To	na
+Helter Skelter	Lovely Rita	na
+Helter Skelter	Martha My Dear	na
+Helter Skelter	Michelle	na
+Helter Skelter	Octopus's Garden	na
+Helter Skelter	Rocky Raccoon	na
+Helter Skelter	Run for Your Life	na
+Helter Skelter	Savoy Truffle	na
+Helter Skelter	Something	na
+Helter Skelter	Taxman	na
+Helter Skelter	The End	na
+Helter Skelter	Tomorrow Never Knows	na
+Helter Skelter	Wait	na
+Helter Skelter	What Goes On	na
+Helter Skelter	When I'm Sixty-Four	na
+Helter Skelter	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Helter Skelter	Within You Without You	na
+Helter Skelter	You Never Give Me Your Money	na
+I Want You (She's So Heavy)	I'm Only Sleeping	na
+I Want You (She's So Heavy)	In My Life	na
+I Want You (She's So Heavy)	Love You To	na
+I Want You (She's So Heavy)	Lovely Rita	na
+I Want You (She's So Heavy)	Martha My Dear	na
+I Want You (She's So Heavy)	Michelle	na
+I Want You (She's So Heavy)	Octopus's Garden	na
+I Want You (She's So Heavy)	Rocky Raccoon	na
+I Want You (She's So Heavy)	Run for Your Life	na
+I Want You (She's So Heavy)	Savoy Truffle	na
+I Want You (She's So Heavy)	Something	na
+I Want You (She's So Heavy)	Taxman	na
+I Want You (She's So Heavy)	The End	na
+I Want You (She's So Heavy)	Tomorrow Never Knows	na
+I Want You (She's So Heavy)	Wait	na
+I Want You (She's So Heavy)	What Goes On	na
+I Want You (She's So Heavy)	When I'm Sixty-Four	na
+I Want You (She's So Heavy)	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+I Want You (She's So Heavy)	Within You Without You	na
+I Want You (She's So Heavy)	You Never Give Me Your Money	na
+I'm Only Sleeping	In My Life	na
+I'm Only Sleeping	Love You To	na
+I'm Only Sleeping	Lovely Rita	na
+I'm Only Sleeping	Martha My Dear	na
+I'm Only Sleeping	Michelle	na
+I'm Only Sleeping	Octopus's Garden	na
+I'm Only Sleeping	Rocky Raccoon	na
+I'm Only Sleeping	Run for Your Life	na
+I'm Only Sleeping	Savoy Truffle	na
+I'm Only Sleeping	Something	na
+I'm Only Sleeping	Taxman	na
+I'm Only Sleeping	The End	na
+I'm Only Sleeping	Tomorrow Never Knows	na
+I'm Only Sleeping	Wait	na
+I'm Only Sleeping	What Goes On	na
+I'm Only Sleeping	When I'm Sixty-Four	na
+I'm Only Sleeping	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+I'm Only Sleeping	Within You Without You	na
+I'm Only Sleeping	You Never Give Me Your Money	na
+In My Life	Love You To	na
+In My Life	Lovely Rita	na
+In My Life	Martha My Dear	na
+In My Life	Michelle	na
+In My Life	Octopus's Garden	na
+In My Life	Rocky Raccoon	na
+In My Life	Run for Your Life	na
+In My Life	Savoy Truffle	na
+In My Life	Something	na
+In My Life	Taxman	na
+In My Life	The End	na
+In My Life	Tomorrow Never Knows	na
+In My Life	Wait	na
+In My Life	What Goes On	na
+In My Life	When I'm Sixty-Four	na
+In My Life	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+In My Life	Within You Without You	na
+In My Life	You Never Give Me Your Money	na
+Love You To	Lovely Rita	na
+Love You To	Martha My Dear	na
+Love You To	Michelle	na
+Love You To	Octopus's Garden	na
+Love You To	Rocky Raccoon	na
+Love You To	Run for Your Life	na
+Love You To	Savoy Truffle	na
+Love You To	Something	na
+Love You To	Taxman	na
+Love You To	The End	na
+Love You To	Tomorrow Never Knows	na
+Love You To	Wait	na
+Love You To	What Goes On	na
+Love You To	When I'm Sixty-Four	na
+Love You To	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Love You To	Within You Without You	na
+Love You To	You Never Give Me Your Money	na
+Lovely Rita	Martha My Dear	na
+Lovely Rita	Michelle	na
+Lovely Rita	Octopus's Garden	na
+Lovely Rita	Rocky Raccoon	na
+Lovely Rita	Run for Your Life	na
+Lovely Rita	Savoy Truffle	na
+Lovely Rita	Something	na
+Lovely Rita	Taxman	na
+Lovely Rita	The End	na
+Lovely Rita	Tomorrow Never Knows	na
+Lovely Rita	Wait	na
+Lovely Rita	What Goes On	na
+Lovely Rita	When I'm Sixty-Four	na
+Lovely Rita	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Lovely Rita	Within You Without You	na
+Lovely Rita	You Never Give Me Your Money	na
+Martha My Dear	Michelle	na
+Martha My Dear	Octopus's Garden	na
+Martha My Dear	Rocky Raccoon	na
+Martha My Dear	Run for Your Life	na
+Martha My Dear	Savoy Truffle	na
+Martha My Dear	Something	na
+Martha My Dear	Taxman	na
+Martha My Dear	The End	na
+Martha My Dear	Tomorrow Never Knows	na
+Martha My Dear	Wait	na
+Martha My Dear	What Goes On	na
+Martha My Dear	When I'm Sixty-Four	na
+Martha My Dear	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Martha My Dear	Within You Without You	na
+Martha My Dear	You Never Give Me Your Money	na
+Michelle	Octopus's Garden	na
+Michelle	Rocky Raccoon	na
+Michelle	Run for Your Life	na
+Michelle	Savoy Truffle	na
+Michelle	Something	na
+Michelle	Taxman	na
+Michelle	The End	na
+Michelle	Tomorrow Never Knows	na
+Michelle	Wait	na
+Michelle	What Goes On	na
+Michelle	When I'm Sixty-Four	na
+Michelle	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Michelle	Within You Without You	na
+Michelle	You Never Give Me Your Money	na
+Octopus's Garden	Rocky Raccoon	na
+Octopus's Garden	Run for Your Life	na
+Octopus's Garden	Savoy Truffle	na
+Octopus's Garden	Something	na
+Octopus's Garden	Taxman	na
+Octopus's Garden	The End	na
+Octopus's Garden	Tomorrow Never Knows	na
+Octopus's Garden	Wait	na
+Octopus's Garden	What Goes On	na
+Octopus's Garden	When I'm Sixty-Four	na
+Octopus's Garden	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Octopus's Garden	Within You Without You	na
+Octopus's Garden	You Never Give Me Your Money	na
+Rocky Raccoon	Run for Your Life	na
+Rocky Raccoon	Savoy Truffle	na
+Rocky Raccoon	Something	na
+Rocky Raccoon	Taxman	na
+Rocky Raccoon	The End	na
+Rocky Raccoon	Tomorrow Never Knows	na
+Rocky Raccoon	Wait	na
+Rocky Raccoon	What Goes On	na
+Rocky Raccoon	When I'm Sixty-Four	na
+Rocky Raccoon	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Rocky Raccoon	Within You Without You	na
+Rocky Raccoon	You Never Give Me Your Money	na
+Run for Your Life	Savoy Truffle	na
+Run for Your Life	Something	na
+Run for Your Life	Taxman	na
+Run for Your Life	The End	na
+Run for Your Life	Tomorrow Never Knows	na
+Run for Your Life	Wait	na
+Run for Your Life	What Goes On	na
+Run for Your Life	When I'm Sixty-Four	na
+Run for Your Life	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Run for Your Life	Within You Without You	na
+Run for Your Life	You Never Give Me Your Money	na
+Savoy Truffle	Something	na
+Savoy Truffle	Taxman	na
+Savoy Truffle	The End	na
+Savoy Truffle	Tomorrow Never Knows	na
+Savoy Truffle	Wait	na
+Savoy Truffle	What Goes On	na
+Savoy Truffle	When I'm Sixty-Four	na
+Savoy Truffle	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Savoy Truffle	Within You Without You	na
+Savoy Truffle	You Never Give Me Your Money	na
+Something	Taxman	na
+Something	The End	na
+Something	Tomorrow Never Knows	na
+Something	Wait	na
+Something	What Goes On	na
+Something	When I'm Sixty-Four	na
+Something	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Something	Within You Without You	na
+Something	You Never Give Me Your Money	na
+Taxman	The End	na
+Taxman	Tomorrow Never Knows	na
+Taxman	Wait	na
+Taxman	What Goes On	na
+Taxman	When I'm Sixty-Four	na
+Taxman	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Taxman	Within You Without You	na
+Taxman	You Never Give Me Your Money	na
+The End	Tomorrow Never Knows	na
+The End	Wait	na
+The End	What Goes On	na
+The End	When I'm Sixty-Four	na
+The End	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+The End	Within You Without You	na
+The End	You Never Give Me Your Money	na
+Tomorrow Never Knows	Wait	na
+Tomorrow Never Knows	What Goes On	na
+Tomorrow Never Knows	When I'm Sixty-Four	na
+Tomorrow Never Knows	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Tomorrow Never Knows	Within You Without You	na
+Tomorrow Never Knows	You Never Give Me Your Money	na
+Wait	What Goes On	na
+Wait	When I'm Sixty-Four	na
+Wait	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+Wait	Within You Without You	na
+Wait	You Never Give Me Your Money	na
+What Goes On	When I'm Sixty-Four	na
+What Goes On	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+What Goes On	Within You Without You	na
+What Goes On	You Never Give Me Your Money	na
+When I'm Sixty-Four	While My Guitar Gently Weeps (Ft. Eric Clapton)	na
+When I'm Sixty-Four	Within You Without You	na
+When I'm Sixty-Four	You Never Give Me Your Money	na
+While My Guitar Gently Weeps (Ft. Eric Clapton)	Within You Without You	na
+While My Guitar Gently Weeps (Ft. Eric Clapton)	You Never Give Me Your Money	na
+Within You Without You	You Never Give Me Your Money	na
+Doctor Robert	Happiness is a Warm Gun	national
+A Day in the Life	Polythene Pam	news
+A Day in the Life	Savoy Truffle	news
+Polythene Pam	Savoy Truffle	news
+Her Majesty	Savoy Truffle	nice
+Back in the U.S.S.R.	Blackbird	night
+Back in the U.S.S.R.	Doctor Robert	night
+Back in the U.S.S.R.	Eleanor Rigby	night
+Back in the U.S.S.R.	Good Night	night
+Back in the U.S.S.R.	Revolution 9 (Ft. Yoko Ono)	night
+Blackbird	Doctor Robert	night
+Blackbird	Eleanor Rigby	night
+Blackbird	Good Night	night
+Blackbird	Revolution 9 (Ft. Yoko Ono)	night
+Doctor Robert	Eleanor Rigby	night
+Doctor Robert	Good Night	night
+Doctor Robert	Revolution 9 (Ft. Yoko Ono)	night
+Eleanor Rigby	Good Night	night
+Eleanor Rigby	Revolution 9 (Ft. Yoko Ono)	night
+Good Night	Revolution 9 (Ft. Yoko Ono)	night
+Mean Mr. Mustard	She's Leaving Home	note
+A Day in the Life	While My Guitar Gently Weeps (Ft. Eric Clapton)	notice
+A Day in the Life	Norwegian Wood (This Bird Has Flown)	noticed
+Cry Baby Cry	Good Morning Good Morning	o'clock
+Cry Baby Cry	She's Leaving Home	o'clock
+Good Morning Good Morning	She's Leaving Home	o'clock
+Ob-La-Di, Ob-La-Da	Savoy Truffle	ob
+Glass Onion	Julia	ocean
+Glass Onion	Octopus's Garden	ocean
+Julia	Octopus's Garden	ocean
+Glass Onion	Revolution 9 (Ft. Yoko Ono)	onion
+Fixing a Hole	Girl	ooh
+Fixing a Hole	Got to Get You into My Life	ooh
+Fixing a Hole	Happiness is a Warm Gun	ooh
+Fixing a Hole	Helter Skelter	ooh
+Fixing a Hole	Honey Pie	ooh
+Fixing a Hole	Revolution 9 (Ft. Yoko Ono)	ooh
+Fixing a Hole	Sexy Sadie	ooh
+Fixing a Hole	While My Guitar Gently Weeps (Ft. Eric Clapton)	ooh
+Girl	Got to Get You into My Life	ooh
+Girl	Happiness is a Warm Gun	ooh
+Girl	Helter Skelter	ooh
+Girl	Honey Pie	ooh
+Girl	Revolution 9 (Ft. Yoko Ono)	ooh
+Girl	Sexy Sadie	ooh
+Girl	While My Guitar Gently Weeps (Ft. Eric Clapton)	ooh
+Got to Get You into My Life	Happiness is a Warm Gun	ooh
+Got to Get You into My Life	Helter Skelter	ooh
+Got to Get You into My Life	Honey Pie	ooh
+Got to Get You into My Life	Revolution 9 (Ft. Yoko Ono)	ooh
+Got to Get You into My Life	Sexy Sadie	ooh
+Got to Get You into My Life	While My Guitar Gently Weeps (Ft. Eric Clapton)	ooh
+Happiness is a Warm Gun	Helter Skelter	ooh
+Happiness is a Warm Gun	Honey Pie	ooh
+Happiness is a Warm Gun	Revolution 9 (Ft. Yoko Ono)	ooh
+Happiness is a Warm Gun	Sexy Sadie	ooh
+Happiness is a Warm Gun	While My Guitar Gently Weeps (Ft. Eric Clapton)	ooh
+Helter Skelter	Honey Pie	ooh
+Helter Skelter	Revolution 9 (Ft. Yoko Ono)	ooh
+Helter Skelter	Sexy Sadie	ooh
+Helter Skelter	While My Guitar Gently Weeps (Ft. Eric Clapton)	ooh
+Honey Pie	Revolution 9 (Ft. Yoko Ono)	ooh
+Honey Pie	Sexy Sadie	ooh
+Honey Pie	While My Guitar Gently Weeps (Ft. Eric Clapton)	ooh
+Revolution 9 (Ft. Yoko Ono)	Sexy Sadie	ooh
+Revolution 9 (Ft. Yoko Ono)	While My Guitar Gently Weeps (Ft. Eric Clapton)	ooh
+Sexy Sadie	While My Guitar Gently Weeps (Ft. Eric Clapton)	ooh
+Girl	Savoy Truffle	pain
+Cry Baby Cry	Fixing a Hole	painting
+Cry Baby Cry	Maxwell's Silver Hammer	painting
+Fixing a Hole	Maxwell's Silver Hammer	painting
+Mean Mr. Mustard	Polythene Pam	pam
+Back in the U.S.S.R.	Mean Mr. Mustard	paper
+Back in the U.S.S.R.	You Never Give Me Your Money	paper
+Mean Mr. Mustard	You Never Give Me Your Money	paper
+Don't Pass Me By	Within You Without You	pass
+Fixing a Hole	Love You To	past
+Fixing a Hole	Lucy in the Sky with Diamonds	past
+Love You To	Lucy in the Sky with Diamonds	past
+Doctor Robert	Revolution 9 (Ft. Yoko Ono)	pay
+Doctor Robert	Taxman	pay
+Doctor Robert	You Never Give Me Your Money	pay
+Revolution 9 (Ft. Yoko Ono)	Taxman	pay
+Revolution 9 (Ft. Yoko Ono)	You Never Give Me Your Money	pay
+Taxman	You Never Give Me Your Money	pay
+I'm So Tired	Revolution 9 (Ft. Yoko Ono)	peace
+I'm So Tired	Within You Without You	peace
+Revolution 9 (Ft. Yoko Ono)	Within You Without You	peace
+A Day in the Life	Eleanor Rigby	people
+A Day in the Life	Fixing a Hole	people
+A Day in the Life	Good Morning Good Morning	people
+A Day in the Life	In My Life	people
+A Day in the Life	Love You To	people
+A Day in the Life	Lucy in the Sky with Diamonds	people
+A Day in the Life	Revolution 1	people
+A Day in the Life	Within You Without You	people
+Eleanor Rigby	Fixing a Hole	people
+Eleanor Rigby	Good Morning Good Morning	people
+Eleanor Rigby	In My Life	people
+Eleanor Rigby	Love You To	people
+Eleanor Rigby	Lucy in the Sky with Diamonds	people
+Eleanor Rigby	Revolution 1	people
+Eleanor Rigby	Within You Without You	people
+Fixing a Hole	Good Morning Good Morning	people
+Fixing a Hole	In My Life	people
+Fixing a Hole	Love You To	people
+Fixing a Hole	Lucy in the Sky with Diamonds	people
+Fixing a Hole	Revolution 1	people
+Fixing a Hole	Within You Without You	people
+Good Morning Good Morning	In My Life	people
+Good Morning Good Morning	Love You To	people
+Good Morning Good Morning	Lucy in the Sky with Diamonds	people
+Good Morning Good Morning	Revolution 1	people
+Good Morning Good Morning	Within You Without You	people
+In My Life	Love You To	people
+In My Life	Lucy in the Sky with Diamonds	people
+In My Life	Revolution 1	people
+In My Life	Within You Without You	people
+Love You To	Lucy in the Sky with Diamonds	people
+Love You To	Revolution 1	people
+Love You To	Within You Without You	people
+Lucy in the Sky with Diamonds	Revolution 1	people
+Lucy in the Sky with Diamonds	Within You Without You	people
+Revolution 1	Within You Without You	people
+Sgt. Pepper's Lonely Hearts Club Band	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	pepper's
+Back in the U.S.S.R.	Maxwell's Silver Hammer	phone
+Back in the U.S.S.R.	She Came in Through the Bathroom Window	phone
+Maxwell's Silver Hammer	She Came in Through the Bathroom Window	phone
+Doctor Robert	You Never Give Me Your Money	pick
+Eleanor Rigby	She's Leaving Home	picks
+Eleanor Rigby	Yer Blues	picks
+She's Leaving Home	Yer Blues	picks
+Cry Baby Cry	Maxwell's Silver Hammer	pictures
+Cry Baby Cry	Revolution 1	pictures
+Maxwell's Silver Hammer	Revolution 1	pictures
+Honey Pie	Wild Honey Pie	pie
+Cry Baby Cry	Dear Prudence	play
+Cry Baby Cry	Honey Pie	play
+Cry Baby Cry	Piggies	play
+Cry Baby Cry	Sgt. Pepper's Lonely Hearts Club Band	play
+Cry Baby Cry	Tomorrow Never Knows	play
+Cry Baby Cry	Yellow Submarine	play
+Dear Prudence	Honey Pie	play
+Dear Prudence	Piggies	play
+Dear Prudence	Sgt. Pepper's Lonely Hearts Club Band	play
+Dear Prudence	Tomorrow Never Knows	play
+Dear Prudence	Yellow Submarine	play
+Honey Pie	Piggies	play
+Honey Pie	Sgt. Pepper's Lonely Hearts Club Band	play
+Honey Pie	Tomorrow Never Knows	play
+Honey Pie	Yellow Submarine	play
+Piggies	Sgt. Pepper's Lonely Hearts Club Band	play
+Piggies	Tomorrow Never Knows	play
+Piggies	Yellow Submarine	play
+Sgt. Pepper's Lonely Hearts Club Band	Tomorrow Never Knows	play
+Sgt. Pepper's Lonely Hearts Club Band	Yellow Submarine	play
+Tomorrow Never Knows	Yellow Submarine	play
+Golden Slumbers	Her Majesty	pretty
+Golden Slumbers	Mother Nature's Son	pretty
+Golden Slumbers	Ob-La-Di, Ob-La-Da	pretty
+Her Majesty	Mother Nature's Son	pretty
+Her Majesty	Ob-La-Di, Ob-La-Da	pretty
+Mother Nature's Son	Ob-La-Di, Ob-La-Da	pretty
+Being for the Benefit of Mr. Kite!	Come Together	production
+Cry Baby Cry	Mean Mr. Mustard	queen
+Fixing a Hole	Rocky Raccoon	ran
+A Day in the Life	The Word	read
+Maxwell's Silver Hammer	She Said She Said	ready
+Being for the Benefit of Mr. Kite!	Glass Onion	real
+Being for the Benefit of Mr. Kite!	Nowhere Man	real
+Being for the Benefit of Mr. Kite!	Revolution 1	real
+Glass Onion	Nowhere Man	real
+Glass Onion	Revolution 1	real
+Nowhere Man	Revolution 1	real
+In My Life	Martha My Dear	remember
+When I'm Sixty-Four	You Never Give Me Your Money	rent
+Got to Get You into My Life	Helter Skelter	ride
+Got to Get You into My Life	When I'm Sixty-Four	ride
+Helter Skelter	When I'm Sixty-Four	ride
+Being for the Benefit of Mr. Kite!	Doctor Robert	ring
+Being for the Benefit of Mr. Kite!	Ob-La-Di, Ob-La-Da	ring
+Doctor Robert	Ob-La-Di, Ob-La-Da	ring
+Golden Slumbers	Mother Nature's Son	rise
+Got to Get You into My Life	Mean Mr. Mustard	road
+Got to Get You into My Life	Revolution 9 (Ft. Yoko Ono)	road
+Got to Get You into My Life	What Goes On	road
+Got to Get You into My Life	Why Don't We Do It in the Road?	road
+Mean Mr. Mustard	Revolution 9 (Ft. Yoko Ono)	road
+Mean Mr. Mustard	What Goes On	road
+Mean Mr. Mustard	Why Don't We Do It in the Road?	road
+Revolution 9 (Ft. Yoko Ono)	What Goes On	road
+Revolution 9 (Ft. Yoko Ono)	Why Don't We Do It in the Road?	road
+What Goes On	Why Don't We Do It in the Road?	road
+And Your Bird Can Sing	Back in the U.S.S.R.	round
+And Your Bird Can Sing	Because	round
+And Your Bird Can Sing	Cry Baby Cry	round
+And Your Bird Can Sing	Dear Prudence	round
+And Your Bird Can Sing	Getting Better	round
+And Your Bird Can Sing	Good Morning Good Morning	round
+And Your Bird Can Sing	Love You To	round
+And Your Bird Can Sing	Yer Blues	round
+Back in the U.S.S.R.	Because	round
+Back in the U.S.S.R.	Cry Baby Cry	round
+Back in the U.S.S.R.	Dear Prudence	round
+Back in the U.S.S.R.	Getting Better	round
+Back in the U.S.S.R.	Good Morning Good Morning	round
+Back in the U.S.S.R.	Love You To	round
+Back in the U.S.S.R.	Yer Blues	round
+Because	Cry Baby Cry	round
+Because	Dear Prudence	round
+Because	Getting Better	round
+Because	Good Morning Good Morning	round
+Because	Love You To	round
+Because	Yer Blues	round
+Cry Baby Cry	Dear Prudence	round
+Cry Baby Cry	Getting Better	round
+Cry Baby Cry	Good Morning Good Morning	round
+Cry Baby Cry	Love You To	round
+Cry Baby Cry	Yer Blues	round
+Dear Prudence	Getting Better	round
+Dear Prudence	Good Morning Good Morning	round
+Dear Prudence	Love You To	round
+Dear Prudence	Yer Blues	round
+Getting Better	Good Morning Good Morning	round
+Getting Better	Love You To	round
+Getting Better	Yer Blues	round
+Good Morning Good Morning	Love You To	round
+Good Morning Good Morning	Yer Blues	round
+Love You To	Yer Blues	round
+Getting Better	Sexy Sadie	rules
+Fixing a Hole	Got to Get You into My Life	run
+Fixing a Hole	Run for Your Life	run
+Got to Get You into My Life	Run for Your Life	run
+Good Morning Good Morning	Here, There and Everywhere	running
+Good Morning Good Morning	I'm Only Sleeping	running
+Good Morning Good Morning	Ob-La-Di, Ob-La-Da	running
+Here, There and Everywhere	I'm Only Sleeping	running
+Here, There and Everywhere	Ob-La-Di, Ob-La-Da	running
+I'm Only Sleeping	Ob-La-Di, Ob-La-Da	running
+A Day in the Life	She Said She Said	sad
+A Day in the Life	With a Little Help from My Friends	sad
+She Said She Said	With a Little Help from My Friends	sad
+Getting Better	Julia	sand
+Getting Better	Run for Your Life	sand
+Julia	Run for Your Life	sand
+Good Morning Good Morning	Mean Mr. Mustard	save
+Good Morning Good Morning	When I'm Sixty-Four	save
+Good Morning Good Morning	Within You Without You	save
+Mean Mr. Mustard	When I'm Sixty-Four	save
+Mean Mr. Mustard	Within You Without You	save
+When I'm Sixty-Four	Within You Without You	save
+Being for the Benefit of Mr. Kite!	Getting Better	scene
+Getting Better	Good Morning Good Morning	school
+Getting Better	Maxwell's Silver Hammer	school
+Good Morning Good Morning	Maxwell's Silver Hammer	school
+Drive My Car	Honey Pie	screen
+Honey Pie	Octopus's Garden	sea
+Honey Pie	Revolution 9 (Ft. Yoko Ono)	sea
+Honey Pie	Yellow Submarine	sea
+Octopus's Garden	Revolution 9 (Ft. Yoko Ono)	sea
+Octopus's Garden	Yellow Submarine	sea
+Revolution 9 (Ft. Yoko Ono)	Yellow Submarine	sea
+Carry That Weight	Honey Pie	send
+Carry That Weight	When I'm Sixty-Four	send
+Honey Pie	When I'm Sixty-Four	send
+Eleanor Rigby	Run for Your Life	sermon
+Sgt. Pepper's Lonely Hearts Club Band	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	sgt
+Here, There and Everywhere	Within You Without You	share
+Sgt. Pepper's Lonely Hearts Club Band	With a Little Help from My Friends	shears
+Good Day Sunshine	Tomorrow Never Knows	shining
+Come Together	Happiness is a Warm Gun	shoot
+Come Together	Rocky Raccoon	shoot
+Happiness is a Warm Gun	Rocky Raccoon	shoot
+Glass Onion	Lucy in the Sky with Diamonds	shore
+Love You To	Revolution 9 (Ft. Yoko Ono)	short
+Lovely Rita	Revolution 9 (Ft. Yoko Ono)	shoulder
+Back in the U.S.S.R.	Octopus's Garden	shout
+Back in the U.S.S.R.	Savoy Truffle	shout
+Octopus's Garden	Savoy Truffle	shout
+For No One	Love You To	sign
+Fixing a Hole	Martha My Dear	silly
+Honey Pie	Maxwell's Silver Hammer	silver
+Honey Pie	She Came in Through the Bathroom Window	silver
+Maxwell's Silver Hammer	She Came in Through the Bathroom Window	silver
+And Your Bird Can Sing	Back in the U.S.S.R.	sing
+And Your Bird Can Sing	Being for the Benefit of Mr. Kite!	sing
+And Your Bird Can Sing	Dear Prudence	sing
+And Your Bird Can Sing	Golden Slumbers	sing
+And Your Bird Can Sing	I Will	sing
+And Your Bird Can Sing	Julia	sing
+And Your Bird Can Sing	Mother Nature's Son	sing
+And Your Bird Can Sing	Ob-La-Di, Ob-La-Da	sing
+And Your Bird Can Sing	Octopus's Garden	sing
+And Your Bird Can Sing	Sgt. Pepper's Lonely Hearts Club Band	sing
+And Your Bird Can Sing	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	sing
+And Your Bird Can Sing	With a Little Help from My Friends	sing
+Back in the U.S.S.R.	Being for the Benefit of Mr. Kite!	sing
+Back in the U.S.S.R.	Dear Prudence	sing
+Back in the U.S.S.R.	Golden Slumbers	sing
+Back in the U.S.S.R.	I Will	sing
+Back in the U.S.S.R.	Julia	sing
+Back in the U.S.S.R.	Mother Nature's Son	sing
+Back in the U.S.S.R.	Ob-La-Di, Ob-La-Da	sing
+Back in the U.S.S.R.	Octopus's Garden	sing
+Back in the U.S.S.R.	Sgt. Pepper's Lonely Hearts Club Band	sing
+Back in the U.S.S.R.	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	sing
+Back in the U.S.S.R.	With a Little Help from My Friends	sing
+Being for the Benefit of Mr. Kite!	Dear Prudence	sing
+Being for the Benefit of Mr. Kite!	Golden Slumbers	sing
+Being for the Benefit of Mr. Kite!	I Will	sing
+Being for the Benefit of Mr. Kite!	Julia	sing
+Being for the Benefit of Mr. Kite!	Mother Nature's Son	sing
+Being for the Benefit of Mr. Kite!	Ob-La-Di, Ob-La-Da	sing
+Being for the Benefit of Mr. Kite!	Octopus's Garden	sing
+Being for the Benefit of Mr. Kite!	Sgt. Pepper's Lonely Hearts Club Band	sing
+Being for the Benefit of Mr. Kite!	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	sing
+Being for the Benefit of Mr. Kite!	With a Little Help from My Friends	sing
+Dear Prudence	Golden Slumbers	sing
+Dear Prudence	I Will	sing
+Dear Prudence	Julia	sing
+Dear Prudence	Mother Nature's Son	sing
+Dear Prudence	Ob-La-Di, Ob-La-Da	sing
+Dear Prudence	Octopus's Garden	sing
+Dear Prudence	Sgt. Pepper's Lonely Hearts Club Band	sing
+Dear Prudence	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	sing
+Dear Prudence	With a Little Help from My Friends	sing
+Golden Slumbers	I Will	sing
+Golden Slumbers	Julia	sing
+Golden Slumbers	Mother Nature's Son	sing
+Golden Slumbers	Ob-La-Di, Ob-La-Da	sing
+Golden Slumbers	Octopus's Garden	sing
+Golden Slumbers	Sgt. Pepper's Lonely Hearts Club Band	sing
+Golden Slumbers	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	sing
+Golden Slumbers	With a Little Help from My Friends	sing
+I Will	Julia	sing
+I Will	Mother Nature's Son	sing
+I Will	Ob-La-Di, Ob-La-Da	sing
+I Will	Octopus's Garden	sing
+I Will	Sgt. Pepper's Lonely Hearts Club Band	sing
+I Will	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	sing
+I Will	With a Little Help from My Friends	sing
+Julia	Mother Nature's Son	sing
+Julia	Ob-La-Di, Ob-La-Da	sing
+Julia	Octopus's Garden	sing
+Julia	Sgt. Pepper's Lonely Hearts Club Band	sing
+Julia	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	sing
+Julia	With a Little Help from My Friends	sing
+Mother Nature's Son	Ob-La-Di, Ob-La-Da	sing
+Mother Nature's Son	Octopus's Garden	sing
+Mother Nature's Son	Sgt. Pepper's Lonely Hearts Club Band	sing
+Mother Nature's Son	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	sing
+Mother Nature's Son	With a Little Help from My Friends	sing
+Ob-La-Di, Ob-La-Da	Octopus's Garden	sing
+Ob-La-Di, Ob-La-Da	Sgt. Pepper's Lonely Hearts Club Band	sing
+Ob-La-Di, Ob-La-Da	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	sing
+Ob-La-Di, Ob-La-Da	With a Little Help from My Friends	sing
+Octopus's Garden	Sgt. Pepper's Lonely Hearts Club Band	sing
+Octopus's Garden	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	sing
+Octopus's Garden	With a Little Help from My Friends	sing
+Sgt. Pepper's Lonely Hearts Club Band	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	sing
+Sgt. Pepper's Lonely Hearts Club Band	With a Little Help from My Friends	sing
+The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	With a Little Help from My Friends	sing
+Blackbird	Love You To	singing
+Blackbird	Mother Nature's Son	singing
+Love You To	Mother Nature's Son	singing
+Girl	Got to Get You into My Life	single
+I'm So Tired	Yellow Submarine	sir
+Lovely Rita	Mean Mr. Mustard	sister
+Mother Nature's Son	Norwegian Wood (This Bird Has Flown)	sit
+Mother Nature's Son	Sexy Sadie	sit
+Mother Nature's Son	Sgt. Pepper's Lonely Hearts Club Band	sit
+Mother Nature's Son	Taxman	sit
+Norwegian Wood (This Bird Has Flown)	Sexy Sadie	sit
+Norwegian Wood (This Bird Has Flown)	Sgt. Pepper's Lonely Hearts Club Band	sit
+Norwegian Wood (This Bird Has Flown)	Taxman	sit
+Sexy Sadie	Sgt. Pepper's Lonely Hearts Club Band	sit
+Sexy Sadie	Taxman	sit
+Sgt. Pepper's Lonely Hearts Club Band	Taxman	sit
+Lovely Rita	Mother Nature's Son	sitting
+Lovely Rita	Nowhere Man	sitting
+Mother Nature's Son	Nowhere Man	sitting
+Revolution 9 (Ft. Yoko Ono)	You Never Give Me Your Money	situation
+Dear Prudence	Lucy in the Sky with Diamonds	skies
+Because	Dear Prudence	sky
+Because	Julia	sky
+Because	Lucy in the Sky with Diamonds	sky
+Because	Yellow Submarine	sky
+Because	Yer Blues	sky
+Dear Prudence	Julia	sky
+Dear Prudence	Lucy in the Sky with Diamonds	sky
+Dear Prudence	Yellow Submarine	sky
+Dear Prudence	Yer Blues	sky
+Julia	Lucy in the Sky with Diamonds	sky
+Julia	Yellow Submarine	sky
+Julia	Yer Blues	sky
+Lucy in the Sky with Diamonds	Yellow Submarine	sky
+Lucy in the Sky with Diamonds	Yer Blues	sky
+Yellow Submarine	Yer Blues	sky
+Golden Slumbers	Good Night	sleep
+Golden Slumbers	I'm So Tired	sleep
+Golden Slumbers	Norwegian Wood (This Bird Has Flown)	sleep
+Good Night	I'm So Tired	sleep
+Good Night	Norwegian Wood (This Bird Has Flown)	sleep
+I'm So Tired	Norwegian Wood (This Bird Has Flown)	sleep
+I'm Only Sleeping	Julia	sleeping
+I'm Only Sleeping	While My Guitar Gently Weeps (Ft. Eric Clapton)	sleeping
+Julia	While My Guitar Gently Weeps (Ft. Eric Clapton)	sleeping
+Come Together	Here Comes the Sun	slowly
+Come Together	Lucy in the Sky with Diamonds	slowly
+Here Comes the Sun	Lucy in the Sky with Diamonds	slowly
+Dear Prudence	Good Morning Good Morning	smile
+Dear Prudence	Julia	smile
+Dear Prudence	Sexy Sadie	smile
+Dear Prudence	Sgt. Pepper's Lonely Hearts Club Band	smile
+Dear Prudence	Something	smile
+Good Morning Good Morning	Julia	smile
+Good Morning Good Morning	Sexy Sadie	smile
+Good Morning Good Morning	Sgt. Pepper's Lonely Hearts Club Band	smile
+Good Morning Good Morning	Something	smile
+Julia	Sexy Sadie	smile
+Julia	Sgt. Pepper's Lonely Hearts Club Band	smile
+Julia	Something	smile
+Sexy Sadie	Sgt. Pepper's Lonely Hearts Club Band	smile
+Sexy Sadie	Something	smile
+Sgt. Pepper's Lonely Hearts Club Band	Something	smile
+Golden Slumbers	Lucy in the Sky with Diamonds	smiles
+Mother Nature's Son	Revolution 9 (Ft. Yoko Ono)	son
+Mother Nature's Son	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	son
+Revolution 9 (Ft. Yoko Ono)	The Continuing Story of Bungalow Bill (Ft. Yoko Ono)	son
+Honey Pie	I Will	song
+Honey Pie	Julia	song
+Honey Pie	Mother Nature's Son	song
+Honey Pie	Sgt. Pepper's Lonely Hearts Club Band	song
+Honey Pie	With a Little Help from My Friends	song
+I Will	Julia	song
+I Will	Mother Nature's Son	song
+I Will	Sgt. Pepper's Lonely Hearts Club Band	song
+I Will	With a Little Help from My Friends	song
+Julia	Mother Nature's Son	song
+Julia	Sgt. Pepper's Lonely Hearts Club Band	song
+Julia	With a Little Help from My Friends	song
+Mother Nature's Son	Sgt. Pepper's Lonely Hearts Club Band	song
+Mother Nature's Son	With a Little Help from My Friends	song
+Sgt. Pepper's Lonely Hearts Club Band	With a Little Help from My Friends	song
+Love You To	Mother Nature's Son	songs
+Within You Without You	Yer Blues	soul
+And Your Bird Can Sing	Being for the Benefit of Mr. Kite!	sound
+And Your Bird Can Sing	I'm Looking Through You	sound
+And Your Bird Can Sing	Mother Nature's Son	sound
+Being for the Benefit of Mr. Kite!	I'm Looking Through You	sound
+Being for the Benefit of Mr. Kite!	Mother Nature's Son	sound
+I'm Looking Through You	Mother Nature's Son	sound
+I Want to Tell You	Julia	speak
+Doctor Robert	Good Day Sunshine	special
+If I Needed Someone	Martha My Dear	spend
+If I Needed Someone	Run for Your Life	spend
+Martha My Dear	Run for Your Life	spend
+Fixing a Hole	Glass Onion	standing
+Fixing a Hole	Love You To	standing
+Fixing a Hole	Lovely Rita	standing
+Fixing a Hole	Revolution 9 (Ft. Yoko Ono)	standing
+Fixing a Hole	She's Leaving Home	standing
+Glass Onion	Love You To	standing
+Glass Onion	Lovely Rita	standing
+Glass Onion	Revolution 9 (Ft. Yoko Ono)	standing
+Glass Onion	She's Leaving Home	standing
+Love You To	Lovely Rita	standing
+Love You To	Revolution 9 (Ft. Yoko Ono)	standing
+Love You To	She's Leaving Home	standing
+Lovely Rita	Revolution 9 (Ft. Yoko Ono)	standing
+Lovely Rita	She's Leaving Home	standing
+Revolution 9 (Ft. Yoko Ono)	She's Leaving Home	standing
+And Your Bird Can Sing	Drive My Car	start
+And Your Bird Can Sing	Girl	start
+And Your Bird Can Sing	Good Morning Good Morning	start
+Drive My Car	Girl	start
+Drive My Car	Good Morning Good Morning	start
+Girl	Good Morning Good Morning	start
+For No One	Girl	stay
+For No One	Got to Get You into My Life	stay
+For No One	I'm Only Sleeping	stay
+For No One	Maxwell's Silver Hammer	stay
+For No One	Norwegian Wood (This Bird Has Flown)	stay
+For No One	When I'm Sixty-Four	stay
+For No One	You Won't See Me	stay
+Girl	Got to Get You into My Life	stay
+Girl	I'm Only Sleeping	stay
+Girl	Maxwell's Silver Hammer	stay
+Girl	Norwegian Wood (This Bird Has Flown)	stay
+Girl	When I'm Sixty-Four	stay
+Girl	You Won't See Me	stay
+Got to Get You into My Life	I'm Only Sleeping	stay
+Got to Get You into My Life	Maxwell's Silver Hammer	stay
+Got to Get You into My Life	Norwegian Wood (This Bird Has Flown)	stay
+Got to Get You into My Life	When I'm Sixty-Four	stay
+Got to Get You into My Life	You Won't See Me	stay
+I'm Only Sleeping	Maxwell's Silver Hammer	stay
+I'm Only Sleeping	Norwegian Wood (This Bird Has Flown)	stay
+I'm Only Sleeping	When I'm Sixty-Four	stay
+I'm Only Sleeping	You Won't See Me	stay
+Maxwell's Silver Hammer	Norwegian Wood (This Bird Has Flown)	stay
+Maxwell's Silver Hammer	When I'm Sixty-Four	stay
+Maxwell's Silver Hammer	You Won't See Me	stay
+Norwegian Wood (This Bird Has Flown)	When I'm Sixty-Four	stay
+Norwegian Wood (This Bird Has Flown)	You Won't See Me	stay
+When I'm Sixty-Four	You Won't See Me	stay
+Helter Skelter	I'm So Tired	stop
+Helter Skelter	In My Life	stop
+Helter Skelter	Sgt. Pepper's Lonely Hearts Club Band	stop
+I'm So Tired	In My Life	stop
+I'm So Tired	Sgt. Pepper's Lonely Hearts Club Band	stop
+In My Life	Sgt. Pepper's Lonely Hearts Club Band	stop
+Fixing a Hole	Mean Mr. Mustard	stops
+I'm Only Sleeping	Mother Nature's Son	stream
+Good Morning Good Morning	Taxman	street
+Sgt. Pepper's Lonely Hearts Club Band	Something	style
+Got to Get You into My Life	Lucy in the Sky with Diamonds	suddenly
+Dear Prudence	Good Day Sunshine	sun
+Dear Prudence	Good Night	sun
+Dear Prudence	Here Comes the Sun	sun
+Dear Prudence	Julia	sun
+Dear Prudence	Lucy in the Sky with Diamonds	sun
+Dear Prudence	Mother Nature's Son	sun
+Dear Prudence	Sun King	sun
+Dear Prudence	Yellow Submarine	sun
+Good Day Sunshine	Good Night	sun
+Good Day Sunshine	Here Comes the Sun	sun
+Good Day Sunshine	Julia	sun
+Good Day Sunshine	Lucy in the Sky with Diamonds	sun
+Good Day Sunshine	Mother Nature's Son	sun
+Good Day Sunshine	Sun King	sun
+Good Day Sunshine	Yellow Submarine	sun
+Good Night	Here Comes the Sun	sun
+Good Night	Julia	sun
+Good Night	Lucy in the Sky with Diamonds	sun
+Good Night	Mother Nature's Son	sun
+Good Night	Sun King	sun
+Good Night	Yellow Submarine	sun
+Here Comes the Sun	Julia	sun
+Here Comes the Sun	Lucy in the Sky with Diamonds	sun
+Here Comes the Sun	Mother Nature's Son	sun
+Here Comes the Sun	Sun King	sun
+Here Comes the Sun	Yellow Submarine	sun
+Julia	Lucy in the Sky with Diamonds	sun
+Julia	Mother Nature's Son	sun
+Julia	Sun King	sun
+Julia	Yellow Submarine	sun
+Lucy in the Sky with Diamonds	Mother Nature's Son	sun
+Lucy in the Sky with Diamonds	Sun King	sun
+Lucy in the Sky with Diamonds	Yellow Submarine	sun
+Mother Nature's Son	Sun King	sun
+Mother Nature's Son	Yellow Submarine	sun
+Sun King	Yellow Submarine	sun
+Dear Prudence	Good Day Sunshine	sunny
+Dear Prudence	Sexy Sadie	sunny
+Good Day Sunshine	Sexy Sadie	sunny
+Good Day Sunshine	The Word	sunshine
+Good Night	Ob-La-Di, Ob-La-Da	sweet
+Good Night	Savoy Truffle	sweet
+Good Night	You Never Give Me Your Money	sweet
+Ob-La-Di, Ob-La-Da	Savoy Truffle	sweet
+Ob-La-Di, Ob-La-Da	You Never Give Me Your Money	sweet
+Savoy Truffle	You Never Give Me Your Money	sweet
+Cry Baby Cry	Rocky Raccoon	table
+Cry Baby Cry	Sexy Sadie	table
+Rocky Raccoon	Sexy Sadie	table
+A Day in the Life	For No One	takes
+A Day in the Life	Mean Mr. Mustard	takes
+A Day in the Life	Ob-La-Di, Ob-La-Da	takes
+For No One	Mean Mr. Mustard	takes
+For No One	Ob-La-Di, Ob-La-Da	takes
+Mean Mr. Mustard	Ob-La-Di, Ob-La-Da	takes
+Fixing a Hole	I'm Only Sleeping	taking
+Fixing a Hole	Revolution 9 (Ft. Yoko Ono)	taking
+I'm Only Sleeping	Revolution 9 (Ft. Yoko Ono)	taking
+Lucy in the Sky with Diamonds	Savoy Truffle	tangerine
+Getting Better	Sgt. Pepper's Lonely Hearts Club Band	taught
+Cry Baby Cry	Good Morning Good Morning	tea
+Cry Baby Cry	Lovely Rita	tea
+Good Morning Good Morning	Lovely Rita	tea
+For No One	Long, Long, Long	tears
+For No One	Wait	tears
+For No One	You Won't See Me	tears
+Long, Long, Long	Wait	tears
+Long, Long, Long	You Won't See Me	tears
+Wait	You Won't See Me	tears
+Michelle	Think for Yourself	telling
+Being for the Benefit of Mr. Kite!	Mean Mr. Mustard	ten
+Here, There and Everywhere	I'm Looking Through You	thinking
+Here, There and Everywhere	If I Needed Someone	thinking
+Here, There and Everywhere	The Word	thinking
+Here, There and Everywhere	Think for Yourself	thinking
+I'm Looking Through You	If I Needed Someone	thinking
+I'm Looking Through You	The Word	thinking
+I'm Looking Through You	Think for Yourself	thinking
+If I Needed Someone	The Word	thinking
+If I Needed Someone	Think for Yourself	thinking
+The Word	Think for Yourself	thinking
+Back in the U.S.S.R.	I'm Only Sleeping	till
+Back in the U.S.S.R.	Nowhere Man	till
+Back in the U.S.S.R.	Wait	till
+Back in the U.S.S.R.	When I'm Sixty-Four	till
+Back in the U.S.S.R.	Yellow Submarine	till
+I'm Only Sleeping	Nowhere Man	till
+I'm Only Sleeping	Wait	till
+I'm Only Sleeping	When I'm Sixty-Four	till
+I'm Only Sleeping	Yellow Submarine	till
+Nowhere Man	Wait	till
+Nowhere Man	When I'm Sixty-Four	till
+Nowhere Man	Yellow Submarine	till
+Wait	When I'm Sixty-Four	till
+Wait	Yellow Submarine	till
+When I'm Sixty-Four	Yellow Submarine	till
+Being for the Benefit of Mr. Kite!	Birthday	time
+Being for the Benefit of Mr. Kite!	Carry That Weight	time
+Being for the Benefit of Mr. Kite!	Doctor Robert	time
+Being for the Benefit of Mr. Kite!	Drive My Car	time
+Being for the Benefit of Mr. Kite!	Fixing a Hole	time
+Being for the Benefit of Mr. Kite!	For No One	time
+Being for the Benefit of Mr. Kite!	Getting Better	time
+Being for the Benefit of Mr. Kite!	Girl	time
+Being for the Benefit of Mr. Kite!	Good Morning Good Morning	time
+Being for the Benefit of Mr. Kite!	Good Night	time
+Being for the Benefit of Mr. Kite!	Got to Get You into My Life	time
+Being for the Benefit of Mr. Kite!	Honey Pie	time
+Being for the Benefit of Mr. Kite!	I Want to Tell You	time
+Being for the Benefit of Mr. Kite!	I'm Only Sleeping	time
+Being for the Benefit of Mr. Kite!	If I Needed Someone	time
+Being for the Benefit of Mr. Kite!	Long, Long, Long	time
+Being for the Benefit of Mr. Kite!	Love You To	time
+Being for the Benefit of Mr. Kite!	Norwegian Wood (This Bird Has Flown)	time
+Being for the Benefit of Mr. Kite!	Nowhere Man	time
+Being for the Benefit of Mr. Kite!	Piggies	time
+Being for the Benefit of Mr. Kite!	Revolution 9 (Ft. Yoko Ono)	time
+Being for the Benefit of Mr. Kite!	Savoy Truffle	time
+Being for the Benefit of Mr. Kite!	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Being for the Benefit of Mr. Kite!	Think for Yourself	time
+Being for the Benefit of Mr. Kite!	Wait	time
+Being for the Benefit of Mr. Kite!	What Goes On	time
+Being for the Benefit of Mr. Kite!	With a Little Help from My Friends	time
+Being for the Benefit of Mr. Kite!	Within You Without You	time
+Being for the Benefit of Mr. Kite!	You Won't See Me	time
+Birthday	Carry That Weight	time
+Birthday	Doctor Robert	time
+Birthday	Drive My Car	time
+Birthday	Fixing a Hole	time
+Birthday	For No One	time
+Birthday	Getting Better	time
+Birthday	Girl	time
+Birthday	Good Morning Good Morning	time
+Birthday	Good Night	time
+Birthday	Got to Get You into My Life	time
+Birthday	Honey Pie	time
+Birthday	I Want to Tell You	time
+Birthday	I'm Only Sleeping	time
+Birthday	If I Needed Someone	time
+Birthday	Long, Long, Long	time
+Birthday	Love You To	time
+Birthday	Norwegian Wood (This Bird Has Flown)	time
+Birthday	Nowhere Man	time
+Birthday	Piggies	time
+Birthday	Revolution 9 (Ft. Yoko Ono)	time
+Birthday	Savoy Truffle	time
+Birthday	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Birthday	Think for Yourself	time
+Birthday	Wait	time
+Birthday	What Goes On	time
+Birthday	With a Little Help from My Friends	time
+Birthday	Within You Without You	time
+Birthday	You Won't See Me	time
+Carry That Weight	Doctor Robert	time
+Carry That Weight	Drive My Car	time
+Carry That Weight	Fixing a Hole	time
+Carry That Weight	For No One	time
+Carry That Weight	Getting Better	time
+Carry That Weight	Girl	time
+Carry That Weight	Good Morning Good Morning	time
+Carry That Weight	Good Night	time
+Carry That Weight	Got to Get You into My Life	time
+Carry That Weight	Honey Pie	time
+Carry That Weight	I Want to Tell You	time
+Carry That Weight	I'm Only Sleeping	time
+Carry That Weight	If I Needed Someone	time
+Carry That Weight	Long, Long, Long	time
+Carry That Weight	Love You To	time
+Carry That Weight	Norwegian Wood (This Bird Has Flown)	time
+Carry That Weight	Nowhere Man	time
+Carry That Weight	Piggies	time
+Carry That Weight	Revolution 9 (Ft. Yoko Ono)	time
+Carry That Weight	Savoy Truffle	time
+Carry That Weight	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Carry That Weight	Think for Yourself	time
+Carry That Weight	Wait	time
+Carry That Weight	What Goes On	time
+Carry That Weight	With a Little Help from My Friends	time
+Carry That Weight	Within You Without You	time
+Carry That Weight	You Won't See Me	time
+Doctor Robert	Drive My Car	time
+Doctor Robert	Fixing a Hole	time
+Doctor Robert	For No One	time
+Doctor Robert	Getting Better	time
+Doctor Robert	Girl	time
+Doctor Robert	Good Morning Good Morning	time
+Doctor Robert	Good Night	time
+Doctor Robert	Got to Get You into My Life	time
+Doctor Robert	Honey Pie	time
+Doctor Robert	I Want to Tell You	time
+Doctor Robert	I'm Only Sleeping	time
+Doctor Robert	If I Needed Someone	time
+Doctor Robert	Long, Long, Long	time
+Doctor Robert	Love You To	time
+Doctor Robert	Norwegian Wood (This Bird Has Flown)	time
+Doctor Robert	Nowhere Man	time
+Doctor Robert	Piggies	time
+Doctor Robert	Revolution 9 (Ft. Yoko Ono)	time
+Doctor Robert	Savoy Truffle	time
+Doctor Robert	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Doctor Robert	Think for Yourself	time
+Doctor Robert	Wait	time
+Doctor Robert	What Goes On	time
+Doctor Robert	With a Little Help from My Friends	time
+Doctor Robert	Within You Without You	time
+Doctor Robert	You Won't See Me	time
+Drive My Car	Fixing a Hole	time
+Drive My Car	For No One	time
+Drive My Car	Getting Better	time
+Drive My Car	Girl	time
+Drive My Car	Good Morning Good Morning	time
+Drive My Car	Good Night	time
+Drive My Car	Got to Get You into My Life	time
+Drive My Car	Honey Pie	time
+Drive My Car	I Want to Tell You	time
+Drive My Car	I'm Only Sleeping	time
+Drive My Car	If I Needed Someone	time
+Drive My Car	Long, Long, Long	time
+Drive My Car	Love You To	time
+Drive My Car	Norwegian Wood (This Bird Has Flown)	time
+Drive My Car	Nowhere Man	time
+Drive My Car	Piggies	time
+Drive My Car	Revolution 9 (Ft. Yoko Ono)	time
+Drive My Car	Savoy Truffle	time
+Drive My Car	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Drive My Car	Think for Yourself	time
+Drive My Car	Wait	time
+Drive My Car	What Goes On	time
+Drive My Car	With a Little Help from My Friends	time
+Drive My Car	Within You Without You	time
+Drive My Car	You Won't See Me	time
+Fixing a Hole	For No One	time
+Fixing a Hole	Getting Better	time
+Fixing a Hole	Girl	time
+Fixing a Hole	Good Morning Good Morning	time
+Fixing a Hole	Good Night	time
+Fixing a Hole	Got to Get You into My Life	time
+Fixing a Hole	Honey Pie	time
+Fixing a Hole	I Want to Tell You	time
+Fixing a Hole	I'm Only Sleeping	time
+Fixing a Hole	If I Needed Someone	time
+Fixing a Hole	Long, Long, Long	time
+Fixing a Hole	Love You To	time
+Fixing a Hole	Norwegian Wood (This Bird Has Flown)	time
+Fixing a Hole	Nowhere Man	time
+Fixing a Hole	Piggies	time
+Fixing a Hole	Revolution 9 (Ft. Yoko Ono)	time
+Fixing a Hole	Savoy Truffle	time
+Fixing a Hole	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Fixing a Hole	Think for Yourself	time
+Fixing a Hole	Wait	time
+Fixing a Hole	What Goes On	time
+Fixing a Hole	With a Little Help from My Friends	time
+Fixing a Hole	Within You Without You	time
+Fixing a Hole	You Won't See Me	time
+For No One	Getting Better	time
+For No One	Girl	time
+For No One	Good Morning Good Morning	time
+For No One	Good Night	time
+For No One	Got to Get You into My Life	time
+For No One	Honey Pie	time
+For No One	I Want to Tell You	time
+For No One	I'm Only Sleeping	time
+For No One	If I Needed Someone	time
+For No One	Long, Long, Long	time
+For No One	Love You To	time
+For No One	Norwegian Wood (This Bird Has Flown)	time
+For No One	Nowhere Man	time
+For No One	Piggies	time
+For No One	Revolution 9 (Ft. Yoko Ono)	time
+For No One	Savoy Truffle	time
+For No One	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+For No One	Think for Yourself	time
+For No One	Wait	time
+For No One	What Goes On	time
+For No One	With a Little Help from My Friends	time
+For No One	Within You Without You	time
+For No One	You Won't See Me	time
+Getting Better	Girl	time
+Getting Better	Good Morning Good Morning	time
+Getting Better	Good Night	time
+Getting Better	Got to Get You into My Life	time
+Getting Better	Honey Pie	time
+Getting Better	I Want to Tell You	time
+Getting Better	I'm Only Sleeping	time
+Getting Better	If I Needed Someone	time
+Getting Better	Long, Long, Long	time
+Getting Better	Love You To	time
+Getting Better	Norwegian Wood (This Bird Has Flown)	time
+Getting Better	Nowhere Man	time
+Getting Better	Piggies	time
+Getting Better	Revolution 9 (Ft. Yoko Ono)	time
+Getting Better	Savoy Truffle	time
+Getting Better	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Getting Better	Think for Yourself	time
+Getting Better	Wait	time
+Getting Better	What Goes On	time
+Getting Better	With a Little Help from My Friends	time
+Getting Better	Within You Without You	time
+Getting Better	You Won't See Me	time
+Girl	Good Morning Good Morning	time
+Girl	Good Night	time
+Girl	Got to Get You into My Life	time
+Girl	Honey Pie	time
+Girl	I Want to Tell You	time
+Girl	I'm Only Sleeping	time
+Girl	If I Needed Someone	time
+Girl	Long, Long, Long	time
+Girl	Love You To	time
+Girl	Norwegian Wood (This Bird Has Flown)	time
+Girl	Nowhere Man	time
+Girl	Piggies	time
+Girl	Revolution 9 (Ft. Yoko Ono)	time
+Girl	Savoy Truffle	time
+Girl	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Girl	Think for Yourself	time
+Girl	Wait	time
+Girl	What Goes On	time
+Girl	With a Little Help from My Friends	time
+Girl	Within You Without You	time
+Girl	You Won't See Me	time
+Good Morning Good Morning	Good Night	time
+Good Morning Good Morning	Got to Get You into My Life	time
+Good Morning Good Morning	Honey Pie	time
+Good Morning Good Morning	I Want to Tell You	time
+Good Morning Good Morning	I'm Only Sleeping	time
+Good Morning Good Morning	If I Needed Someone	time
+Good Morning Good Morning	Long, Long, Long	time
+Good Morning Good Morning	Love You To	time
+Good Morning Good Morning	Norwegian Wood (This Bird Has Flown)	time
+Good Morning Good Morning	Nowhere Man	time
+Good Morning Good Morning	Piggies	time
+Good Morning Good Morning	Revolution 9 (Ft. Yoko Ono)	time
+Good Morning Good Morning	Savoy Truffle	time
+Good Morning Good Morning	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Good Morning Good Morning	Think for Yourself	time
+Good Morning Good Morning	Wait	time
+Good Morning Good Morning	What Goes On	time
+Good Morning Good Morning	With a Little Help from My Friends	time
+Good Morning Good Morning	Within You Without You	time
+Good Morning Good Morning	You Won't See Me	time
+Good Night	Got to Get You into My Life	time
+Good Night	Honey Pie	time
+Good Night	I Want to Tell You	time
+Good Night	I'm Only Sleeping	time
+Good Night	If I Needed Someone	time
+Good Night	Long, Long, Long	time
+Good Night	Love You To	time
+Good Night	Norwegian Wood (This Bird Has Flown)	time
+Good Night	Nowhere Man	time
+Good Night	Piggies	time
+Good Night	Revolution 9 (Ft. Yoko Ono)	time
+Good Night	Savoy Truffle	time
+Good Night	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Good Night	Think for Yourself	time
+Good Night	Wait	time
+Good Night	What Goes On	time
+Good Night	With a Little Help from My Friends	time
+Good Night	Within You Without You	time
+Good Night	You Won't See Me	time
+Got to Get You into My Life	Honey Pie	time
+Got to Get You into My Life	I Want to Tell You	time
+Got to Get You into My Life	I'm Only Sleeping	time
+Got to Get You into My Life	If I Needed Someone	time
+Got to Get You into My Life	Long, Long, Long	time
+Got to Get You into My Life	Love You To	time
+Got to Get You into My Life	Norwegian Wood (This Bird Has Flown)	time
+Got to Get You into My Life	Nowhere Man	time
+Got to Get You into My Life	Piggies	time
+Got to Get You into My Life	Revolution 9 (Ft. Yoko Ono)	time
+Got to Get You into My Life	Savoy Truffle	time
+Got to Get You into My Life	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Got to Get You into My Life	Think for Yourself	time
+Got to Get You into My Life	Wait	time
+Got to Get You into My Life	What Goes On	time
+Got to Get You into My Life	With a Little Help from My Friends	time
+Got to Get You into My Life	Within You Without You	time
+Got to Get You into My Life	You Won't See Me	time
+Honey Pie	I Want to Tell You	time
+Honey Pie	I'm Only Sleeping	time
+Honey Pie	If I Needed Someone	time
+Honey Pie	Long, Long, Long	time
+Honey Pie	Love You To	time
+Honey Pie	Norwegian Wood (This Bird Has Flown)	time
+Honey Pie	Nowhere Man	time
+Honey Pie	Piggies	time
+Honey Pie	Revolution 9 (Ft. Yoko Ono)	time
+Honey Pie	Savoy Truffle	time
+Honey Pie	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Honey Pie	Think for Yourself	time
+Honey Pie	Wait	time
+Honey Pie	What Goes On	time
+Honey Pie	With a Little Help from My Friends	time
+Honey Pie	Within You Without You	time
+Honey Pie	You Won't See Me	time
+I Want to Tell You	I'm Only Sleeping	time
+I Want to Tell You	If I Needed Someone	time
+I Want to Tell You	Long, Long, Long	time
+I Want to Tell You	Love You To	time
+I Want to Tell You	Norwegian Wood (This Bird Has Flown)	time
+I Want to Tell You	Nowhere Man	time
+I Want to Tell You	Piggies	time
+I Want to Tell You	Revolution 9 (Ft. Yoko Ono)	time
+I Want to Tell You	Savoy Truffle	time
+I Want to Tell You	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+I Want to Tell You	Think for Yourself	time
+I Want to Tell You	Wait	time
+I Want to Tell You	What Goes On	time
+I Want to Tell You	With a Little Help from My Friends	time
+I Want to Tell You	Within You Without You	time
+I Want to Tell You	You Won't See Me	time
+I'm Only Sleeping	If I Needed Someone	time
+I'm Only Sleeping	Long, Long, Long	time
+I'm Only Sleeping	Love You To	time
+I'm Only Sleeping	Norwegian Wood (This Bird Has Flown)	time
+I'm Only Sleeping	Nowhere Man	time
+I'm Only Sleeping	Piggies	time
+I'm Only Sleeping	Revolution 9 (Ft. Yoko Ono)	time
+I'm Only Sleeping	Savoy Truffle	time
+I'm Only Sleeping	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+I'm Only Sleeping	Think for Yourself	time
+I'm Only Sleeping	Wait	time
+I'm Only Sleeping	What Goes On	time
+I'm Only Sleeping	With a Little Help from My Friends	time
+I'm Only Sleeping	Within You Without You	time
+I'm Only Sleeping	You Won't See Me	time
+If I Needed Someone	Long, Long, Long	time
+If I Needed Someone	Love You To	time
+If I Needed Someone	Norwegian Wood (This Bird Has Flown)	time
+If I Needed Someone	Nowhere Man	time
+If I Needed Someone	Piggies	time
+If I Needed Someone	Revolution 9 (Ft. Yoko Ono)	time
+If I Needed Someone	Savoy Truffle	time
+If I Needed Someone	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+If I Needed Someone	Think for Yourself	time
+If I Needed Someone	Wait	time
+If I Needed Someone	What Goes On	time
+If I Needed Someone	With a Little Help from My Friends	time
+If I Needed Someone	Within You Without You	time
+If I Needed Someone	You Won't See Me	time
+Long, Long, Long	Love You To	time
+Long, Long, Long	Norwegian Wood (This Bird Has Flown)	time
+Long, Long, Long	Nowhere Man	time
+Long, Long, Long	Piggies	time
+Long, Long, Long	Revolution 9 (Ft. Yoko Ono)	time
+Long, Long, Long	Savoy Truffle	time
+Long, Long, Long	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Long, Long, Long	Think for Yourself	time
+Long, Long, Long	Wait	time
+Long, Long, Long	What Goes On	time
+Long, Long, Long	With a Little Help from My Friends	time
+Long, Long, Long	Within You Without You	time
+Long, Long, Long	You Won't See Me	time
+Love You To	Norwegian Wood (This Bird Has Flown)	time
+Love You To	Nowhere Man	time
+Love You To	Piggies	time
+Love You To	Revolution 9 (Ft. Yoko Ono)	time
+Love You To	Savoy Truffle	time
+Love You To	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Love You To	Think for Yourself	time
+Love You To	Wait	time
+Love You To	What Goes On	time
+Love You To	With a Little Help from My Friends	time
+Love You To	Within You Without You	time
+Love You To	You Won't See Me	time
+Norwegian Wood (This Bird Has Flown)	Nowhere Man	time
+Norwegian Wood (This Bird Has Flown)	Piggies	time
+Norwegian Wood (This Bird Has Flown)	Revolution 9 (Ft. Yoko Ono)	time
+Norwegian Wood (This Bird Has Flown)	Savoy Truffle	time
+Norwegian Wood (This Bird Has Flown)	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Norwegian Wood (This Bird Has Flown)	Think for Yourself	time
+Norwegian Wood (This Bird Has Flown)	Wait	time
+Norwegian Wood (This Bird Has Flown)	What Goes On	time
+Norwegian Wood (This Bird Has Flown)	With a Little Help from My Friends	time
+Norwegian Wood (This Bird Has Flown)	Within You Without You	time
+Norwegian Wood (This Bird Has Flown)	You Won't See Me	time
+Nowhere Man	Piggies	time
+Nowhere Man	Revolution 9 (Ft. Yoko Ono)	time
+Nowhere Man	Savoy Truffle	time
+Nowhere Man	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Nowhere Man	Think for Yourself	time
+Nowhere Man	Wait	time
+Nowhere Man	What Goes On	time
+Nowhere Man	With a Little Help from My Friends	time
+Nowhere Man	Within You Without You	time
+Nowhere Man	You Won't See Me	time
+Piggies	Revolution 9 (Ft. Yoko Ono)	time
+Piggies	Savoy Truffle	time
+Piggies	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Piggies	Think for Yourself	time
+Piggies	Wait	time
+Piggies	What Goes On	time
+Piggies	With a Little Help from My Friends	time
+Piggies	Within You Without You	time
+Piggies	You Won't See Me	time
+Revolution 9 (Ft. Yoko Ono)	Savoy Truffle	time
+Revolution 9 (Ft. Yoko Ono)	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Revolution 9 (Ft. Yoko Ono)	Think for Yourself	time
+Revolution 9 (Ft. Yoko Ono)	Wait	time
+Revolution 9 (Ft. Yoko Ono)	What Goes On	time
+Revolution 9 (Ft. Yoko Ono)	With a Little Help from My Friends	time
+Revolution 9 (Ft. Yoko Ono)	Within You Without You	time
+Revolution 9 (Ft. Yoko Ono)	You Won't See Me	time
+Savoy Truffle	Sgt. Pepper's Lonely Hearts Club Band (Reprise)	time
+Savoy Truffle	Think for Yourself	time
+Savoy Truffle	Wait	time
+Savoy Truffle	What Goes On	time
+Savoy Truffle	With a Little Help from My Friends	time
+Savoy Truffle	Within You Without You	time
+Savoy Truffle	You Won't See Me	time
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	Think for Yourself	time
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	Wait	time
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	What Goes On	time
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	With a Little Help from My Friends	time
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	Within You Without You	time
+Sgt. Pepper's Lonely Hearts Club Band (Reprise)	You Won't See Me	time
+Think for Yourself	Wait	time
+Think for Yourself	What Goes On	time
+Think for Yourself	With a Little Help from My Friends	time
+Think for Yourself	Within You Without You	time
+Think for Yourself	You Won't See Me	time
+Wait	What Goes On	time
+Wait	With a Little Help from My Friends	time
+Wait	Within You Without You	time
+Wait	You Won't See Me	time
+What Goes On	With a Little Help from My Friends	time
+What Goes On	Within You Without You	time
+What Goes On	You Won't See Me	time
+With a Little Help from My Friends	Within You Without You	time
+With a Little Help from My Friends	You Won't See Me	time
+Within You Without You	You Won't See Me	time
+For No One	Girl	times
+For No One	Maxwell's Silver Hammer	times
+Girl	Maxwell's Silver Hammer	times
+Come Together	Run for Your Life	toe
+Drive My Car	Girl	told
+Drive My Car	Glass Onion	told
+Drive My Car	Got to Get You into My Life	told
+Drive My Car	Lovely Rita	told
+Drive My Car	Norwegian Wood (This Bird Has Flown)	told
+Drive My Car	Oh! Darling	told
+Drive My Car	While My Guitar Gently Weeps (Ft. Eric Clapton)	told
+Drive My Car	Yellow Submarine	told
+Girl	Glass Onion	told
+Girl	Got to Get You into My Life	told
+Girl	Lovely Rita	told
+Girl	Norwegian Wood (This Bird Has Flown)	told
+Girl	Oh! Darling	told
+Girl	While My Guitar Gently Weeps (Ft. Eric Clapton)	told
+Girl	Yellow Submarine	told
+Glass Onion	Got to Get You into My Life	told
+Glass Onion	Lovely Rita	told
+Glass Onion	Norwegian Wood (This Bird Has Flown)	told
+Glass Onion	Oh! Darling	told
+Glass Onion	While My Guitar Gently Weeps (Ft. Eric Clapton)	told
+Glass Onion	Yellow Submarine	told
+Got to Get You into My Life	Lovely Rita	told
+Got to Get You into My Life	Norwegian Wood (This Bird Has Flown)	told
+Got to Get You into My Life	Oh! Darling	told
+Got to Get You into My Life	While My Guitar Gently Weeps (Ft. Eric Clapton)	told
+Got to Get You into My Life	Yellow Submarine	told
+Lovely Rita	Norwegian Wood (This Bird Has Flown)	told
+Lovely Rita	Oh! Darling	told
+Lovely Rita	While My Guitar Gently Weeps (Ft. Eric Clapton)	told
+Lovely Rita	Yellow Submarine	told
+Norwegian Wood (This Bird Has Flown)	Oh! Darling	told
+Norwegian Wood (This Bird Has Flown)	While My Guitar Gently Weeps (Ft. Eric Clapton)	told
+Norwegian Wood (This Bird Has Flown)	Yellow Submarine	told
+Oh! Darling	While My Guitar Gently Weeps (Ft. Eric Clapton)	told
+Oh! Darling	Yellow Submarine	told
+While My Guitar Gently Weeps (Ft. Eric Clapton)	Yellow Submarine	told
+Being for the Benefit of Mr. Kite!	Don't Pass Me By	tonight
+Being for the Benefit of Mr. Kite!	The End	tonight
+Don't Pass Me By	The End	tonight
+Come Together	Helter Skelter	top
+Come Together	She's Leaving Home	top
+Helter Skelter	She's Leaving Home	top
+Good Day Sunshine	Happiness is a Warm Gun	touch
+Good Day Sunshine	Julia	touch
+Happiness is a Warm Gun	Julia	touch
+Good Morning Good Morning	Rocky Raccoon	town
+Good Morning Good Morning	Yellow Submarine	town
+Rocky Raccoon	Yellow Submarine	town
+I'm Looking Through You	She's Leaving Home	treat
+I'm Looking Through You	What Goes On	treat
+She's Leaving Home	What Goes On	treat
+Got to Get You into My Life	You Never Give Me Your Money	true
+Happiness is a Warm Gun	Wait	trust
+Ob-La-Di, Ob-La-Da	Sgt. Pepper's Lonely Hearts Club Band	twenty
+Doctor Robert	Girl	understand
+Doctor Robert	I Want to Tell You	understand
+Doctor Robert	Michelle	understand
+Doctor Robert	She Said She Said	understand
+Girl	I Want to Tell You	understand
+Girl	Michelle	understand
+Girl	She Said She Said	understand
+I Want to Tell You	Michelle	understand
+I Want to Tell You	She Said She Said	understand
+Michelle	She Said She Said	understand
+Drive My Car	Girl	understood
+I Want to Tell You	What Goes On	unkind
+Nowhere Man	When I'm Sixty-Four	view
+I'm Looking Through You	Revolution 9 (Ft. Yoko Ono)	voice
+I Want to Tell You	I Will	wait
+I Want to Tell You	Revolution 1	wait
+I Want to Tell You	Wait	wait
+I Will	Revolution 1	wait
+I Will	Wait	wait
+Revolution 1	Wait	wait
+Blackbird	Don't Pass Me By	waiting
+Blackbird	I'm Only Sleeping	waiting
+Blackbird	Lucy in the Sky with Diamonds	waiting
+Blackbird	Ob-La-Di, Ob-La-Da	waiting
+Blackbird	Sexy Sadie	waiting
+Blackbird	She's Leaving Home	waiting
+Blackbird	What Goes On	waiting
+Blackbird	Within You Without You	waiting
+Don't Pass Me By	I'm Only Sleeping	waiting
+Don't Pass Me By	Lucy in the Sky with Diamonds	waiting
+Don't Pass Me By	Ob-La-Di, Ob-La-Da	waiting
+Don't Pass Me By	Sexy Sadie	waiting
+Don't Pass Me By	She's Leaving Home	waiting
+Don't Pass Me By	What Goes On	waiting
+Don't Pass Me By	Within You Without You	waiting
+I'm Only Sleeping	Lucy in the Sky with Diamonds	waiting
+I'm Only Sleeping	Ob-La-Di, Ob-La-Da	waiting
+I'm Only Sleeping	Sexy Sadie	waiting
+I'm Only Sleeping	She's Leaving Home	waiting
+I'm Only Sleeping	What Goes On	waiting
+I'm Only Sleeping	Within You Without You	waiting
+Lucy in the Sky with Diamonds	Ob-La-Di, Ob-La-Da	waiting
+Lucy in the Sky with Diamonds	Sexy Sadie	waiting
+Lucy in the Sky with Diamonds	She's Leaving Home	waiting
+Lucy in the Sky with Diamonds	What Goes On	waiting
+Lucy in the Sky with Diamonds	Within You Without You	waiting
+Ob-La-Di, Ob-La-Da	Sexy Sadie	waiting
+Ob-La-Di, Ob-La-Da	She's Leaving Home	waiting
+Ob-La-Di, Ob-La-Da	What Goes On	waiting
+Ob-La-Di, Ob-La-Da	Within You Without You	waiting
+Sexy Sadie	She's Leaving Home	waiting
+Sexy Sadie	What Goes On	waiting
+Sexy Sadie	Within You Without You	waiting
+She's Leaving Home	What Goes On	waiting
+She's Leaving Home	Within You Without You	waiting
+What Goes On	Within You Without You	waiting
+Eleanor Rigby	Maxwell's Silver Hammer	waits
+Good Day Sunshine	Good Morning Good Morning	walk
+Good Day Sunshine	Taxman	walk
+Good Day Sunshine	With a Little Help from My Friends	walk
+Good Morning Good Morning	Taxman	walk
+Good Morning Good Morning	With a Little Help from My Friends	walk
+Taxman	With a Little Help from My Friends	walk
+Rocky Raccoon	What Goes On	walked
+If I Needed Someone	Within You Without You	wall
+Come Together	Glass Onion	walrus
+Drive My Car	Revolution 1	wanna
+Back in the U.S.S.R.	Happiness is a Warm Gun	warm
+Back in the U.S.S.R.	Octopus's Garden	warm
+Happiness is a Warm Gun	Octopus's Garden	warm
+Long, Long, Long	When I'm Sixty-Four	wasting
+Good Morning Good Morning	Here, There and Everywhere	watching
+Good Morning Good Morning	Why Don't We Do It in the Road?	watching
+Here, There and Everywhere	Why Don't We Do It in the Road?	watching
+Octopus's Garden	Yellow Submarine	waves
+Eleanor Rigby	Revolution 9 (Ft. Yoko Ono)	wearing
+Lovely Rita	Piggies	white
+Good Morning Good Morning	Happiness is a Warm Gun	wife
+Good Morning Good Morning	Revolution 9 (Ft. Yoko Ono)	wife
+Good Morning Good Morning	She's Leaving Home	wife
+Happiness is a Warm Gun	Revolution 9 (Ft. Yoko Ono)	wife
+Happiness is a Warm Gun	She's Leaving Home	wife
+Revolution 9 (Ft. Yoko Ono)	She's Leaving Home	wife
+Fixing a Hole	Lovely Rita	win
+Because	Dear Prudence	wind
+Because	Honey Pie	wind
+Dear Prudence	Honey Pie	wind
+Eleanor Rigby	Happiness is a Warm Gun	window
+Eleanor Rigby	I'm Only Sleeping	window
+Eleanor Rigby	She Came in Through the Bathroom Window	window
+Happiness is a Warm Gun	I'm Only Sleeping	window
+Happiness is a Warm Gun	She Came in Through the Bathroom Window	window
+I'm Only Sleeping	She Came in Through the Bathroom Window	window
+Her Majesty	Norwegian Wood (This Bird Has Flown)	wine
+Her Majesty	When I'm Sixty-Four	wine
+Norwegian Wood (This Bird Has Flown)	When I'm Sixty-Four	wine
+Blackbird	Revolution 9 (Ft. Yoko Ono)	wings
+I'm So Tired	Lovely Rita	wink
+Getting Better	Rocky Raccoon	woman
+Birthday	Everybody's Got Something to Hide Except Me and My Monkey	woo
+Birthday	Helter Skelter	woo
+Birthday	Oh! Darling	woo
+Birthday	Sexy Sadie	woo
+Birthday	Yer Blues	woo
+Everybody's Got Something to Hide Except Me and My Monkey	Helter Skelter	woo
+Everybody's Got Something to Hide Except Me and My Monkey	Oh! Darling	woo
+Everybody's Got Something to Hide Except Me and My Monkey	Sexy Sadie	woo
+Everybody's Got Something to Hide Except Me and My Monkey	Yer Blues	woo
+Helter Skelter	Oh! Darling	woo
+Helter Skelter	Sexy Sadie	woo
+Helter Skelter	Yer Blues	woo
+Oh! Darling	Sexy Sadie	woo
+Oh! Darling	Yer Blues	woo
+Sexy Sadie	Yer Blues	woo
+Getting Better	The Word	word
+Getting Better	Think for Yourself	word
+Getting Better	When I'm Sixty-Four	word
+The Word	Think for Yourself	word
+The Word	When I'm Sixty-Four	word
+Think for Yourself	When I'm Sixty-Four	word
+Eleanor Rigby	For No One	words
+Eleanor Rigby	I Want to Tell You	words
+Eleanor Rigby	I'm Looking Through You	words
+Eleanor Rigby	Maxwell's Silver Hammer	words
+Eleanor Rigby	Michelle	words
+For No One	I Want to Tell You	words
+For No One	I'm Looking Through You	words
+For No One	Maxwell's Silver Hammer	words
+For No One	Michelle	words
+I Want to Tell You	I'm Looking Through You	words
+I Want to Tell You	Maxwell's Silver Hammer	words
+I Want to Tell You	Michelle	words
+I'm Looking Through You	Maxwell's Silver Hammer	words
+I'm Looking Through You	Michelle	words
+Maxwell's Silver Hammer	Michelle	words
+Because	Being for the Benefit of Mr. Kite!	world
+Because	I'm Only Sleeping	world
+Because	Nowhere Man	world
+Because	Polythene Pam	world
+Because	Revolution 1	world
+Because	Sexy Sadie	world
+Because	While My Guitar Gently Weeps (Ft. Eric Clapton)	world
+Because	Within You Without You	world
+Being for the Benefit of Mr. Kite!	I'm Only Sleeping	world
+Being for the Benefit of Mr. Kite!	Nowhere Man	world
+Being for the Benefit of Mr. Kite!	Polythene Pam	world
+Being for the Benefit of Mr. Kite!	Revolution 1	world
+Being for the Benefit of Mr. Kite!	Sexy Sadie	world
+Being for the Benefit of Mr. Kite!	While My Guitar Gently Weeps (Ft. Eric Clapton)	world
+Being for the Benefit of Mr. Kite!	Within You Without You	world
+I'm Only Sleeping	Nowhere Man	world
+I'm Only Sleeping	Polythene Pam	world
+I'm Only Sleeping	Revolution 1	world
+I'm Only Sleeping	Sexy Sadie	world
+I'm Only Sleeping	While My Guitar Gently Weeps (Ft. Eric Clapton)	world
+I'm Only Sleeping	Within You Without You	world
+Nowhere Man	Polythene Pam	world
+Nowhere Man	Revolution 1	world
+Nowhere Man	Sexy Sadie	world
+Nowhere Man	While My Guitar Gently Weeps (Ft. Eric Clapton)	world
+Nowhere Man	Within You Without You	world
+Polythene Pam	Revolution 1	world
+Polythene Pam	Sexy Sadie	world
+Polythene Pam	While My Guitar Gently Weeps (Ft. Eric Clapton)	world
+Polythene Pam	Within You Without You	world
+Revolution 1	Sexy Sadie	world
+Revolution 1	While My Guitar Gently Weeps (Ft. Eric Clapton)	world
+Revolution 1	Within You Without You	world
+Sexy Sadie	While My Guitar Gently Weeps (Ft. Eric Clapton)	world
+Sexy Sadie	Within You Without You	world
+While My Guitar Gently Weeps (Ft. Eric Clapton)	Within You Without You	world
+Fixing a Hole	Nowhere Man	worry
+Fixing a Hole	With a Little Help from My Friends	worry
+Nowhere Man	With a Little Help from My Friends	worry
+Getting Better	Piggies	worse
+Getting Better	Revolution 9 (Ft. Yoko Ono)	worse
+Piggies	Revolution 9 (Ft. Yoko Ono)	worse
+Eleanor Rigby	Maxwell's Silver Hammer	writing
+Fixing a Hole	She Said She Said	wrong
+Fixing a Hole	She's Leaving Home	wrong
+She Said She Said	She's Leaving Home	wrong
+Back in the U.S.S.R.	Birthday	yeah
+Back in the U.S.S.R.	Come Together	yeah
+Back in the U.S.S.R.	Drive My Car	yeah
+Back in the U.S.S.R.	Everybody's Got Something to Hide Except Me and My Monkey	yeah
+Back in the U.S.S.R.	Glass Onion	yeah
+Back in the U.S.S.R.	Happiness is a Warm Gun	yeah
+Back in the U.S.S.R.	Helter Skelter	yeah
+Back in the U.S.S.R.	Her Majesty	yeah
+Back in the U.S.S.R.	Honey Pie	yeah
+Back in the U.S.S.R.	I Want You (She's So Heavy)	yeah
+Back in the U.S.S.R.	I'm Looking Through You	yeah
+Back in the U.S.S.R.	Ob-La-Di, Ob-La-Da	yeah
+Back in the U.S.S.R.	Polythene Pam	yeah
+Back in the U.S.S.R.	She Came in Through the Bathroom Window	yeah
+Back in the U.S.S.R.	Taxman	yeah
+Back in the U.S.S.R.	The End	yeah
+Back in the U.S.S.R.	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+Back in the U.S.S.R.	Yer Blues	yeah
+Birthday	Come Together	yeah
+Birthday	Drive My Car	yeah
+Birthday	Everybody's Got Something to Hide Except Me and My Monkey	yeah
+Birthday	Glass Onion	yeah
+Birthday	Happiness is a Warm Gun	yeah
+Birthday	Helter Skelter	yeah
+Birthday	Her Majesty	yeah
+Birthday	Honey Pie	yeah
+Birthday	I Want You (She's So Heavy)	yeah
+Birthday	I'm Looking Through You	yeah
+Birthday	Ob-La-Di, Ob-La-Da	yeah
+Birthday	Polythene Pam	yeah
+Birthday	She Came in Through the Bathroom Window	yeah
+Birthday	Taxman	yeah
+Birthday	The End	yeah
+Birthday	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+Birthday	Yer Blues	yeah
+Come Together	Drive My Car	yeah
+Come Together	Everybody's Got Something to Hide Except Me and My Monkey	yeah
+Come Together	Glass Onion	yeah
+Come Together	Happiness is a Warm Gun	yeah
+Come Together	Helter Skelter	yeah
+Come Together	Her Majesty	yeah
+Come Together	Honey Pie	yeah
+Come Together	I Want You (She's So Heavy)	yeah
+Come Together	I'm Looking Through You	yeah
+Come Together	Ob-La-Di, Ob-La-Da	yeah
+Come Together	Polythene Pam	yeah
+Come Together	She Came in Through the Bathroom Window	yeah
+Come Together	Taxman	yeah
+Come Together	The End	yeah
+Come Together	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+Come Together	Yer Blues	yeah
+Drive My Car	Everybody's Got Something to Hide Except Me and My Monkey	yeah
+Drive My Car	Glass Onion	yeah
+Drive My Car	Happiness is a Warm Gun	yeah
+Drive My Car	Helter Skelter	yeah
+Drive My Car	Her Majesty	yeah
+Drive My Car	Honey Pie	yeah
+Drive My Car	I Want You (She's So Heavy)	yeah
+Drive My Car	I'm Looking Through You	yeah
+Drive My Car	Ob-La-Di, Ob-La-Da	yeah
+Drive My Car	Polythene Pam	yeah
+Drive My Car	She Came in Through the Bathroom Window	yeah
+Drive My Car	Taxman	yeah
+Drive My Car	The End	yeah
+Drive My Car	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+Drive My Car	Yer Blues	yeah
+Everybody's Got Something to Hide Except Me and My Monkey	Glass Onion	yeah
+Everybody's Got Something to Hide Except Me and My Monkey	Happiness is a Warm Gun	yeah
+Everybody's Got Something to Hide Except Me and My Monkey	Helter Skelter	yeah
+Everybody's Got Something to Hide Except Me and My Monkey	Her Majesty	yeah
+Everybody's Got Something to Hide Except Me and My Monkey	Honey Pie	yeah
+Everybody's Got Something to Hide Except Me and My Monkey	I Want You (She's So Heavy)	yeah
+Everybody's Got Something to Hide Except Me and My Monkey	I'm Looking Through You	yeah
+Everybody's Got Something to Hide Except Me and My Monkey	Ob-La-Di, Ob-La-Da	yeah
+Everybody's Got Something to Hide Except Me and My Monkey	Polythene Pam	yeah
+Everybody's Got Something to Hide Except Me and My Monkey	She Came in Through the Bathroom Window	yeah
+Everybody's Got Something to Hide Except Me and My Monkey	Taxman	yeah
+Everybody's Got Something to Hide Except Me and My Monkey	The End	yeah
+Everybody's Got Something to Hide Except Me and My Monkey	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+Everybody's Got Something to Hide Except Me and My Monkey	Yer Blues	yeah
+Glass Onion	Happiness is a Warm Gun	yeah
+Glass Onion	Helter Skelter	yeah
+Glass Onion	Her Majesty	yeah
+Glass Onion	Honey Pie	yeah
+Glass Onion	I Want You (She's So Heavy)	yeah
+Glass Onion	I'm Looking Through You	yeah
+Glass Onion	Ob-La-Di, Ob-La-Da	yeah
+Glass Onion	Polythene Pam	yeah
+Glass Onion	She Came in Through the Bathroom Window	yeah
+Glass Onion	Taxman	yeah
+Glass Onion	The End	yeah
+Glass Onion	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+Glass Onion	Yer Blues	yeah
+Happiness is a Warm Gun	Helter Skelter	yeah
+Happiness is a Warm Gun	Her Majesty	yeah
+Happiness is a Warm Gun	Honey Pie	yeah
+Happiness is a Warm Gun	I Want You (She's So Heavy)	yeah
+Happiness is a Warm Gun	I'm Looking Through You	yeah
+Happiness is a Warm Gun	Ob-La-Di, Ob-La-Da	yeah
+Happiness is a Warm Gun	Polythene Pam	yeah
+Happiness is a Warm Gun	She Came in Through the Bathroom Window	yeah
+Happiness is a Warm Gun	Taxman	yeah
+Happiness is a Warm Gun	The End	yeah
+Happiness is a Warm Gun	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+Happiness is a Warm Gun	Yer Blues	yeah
+Helter Skelter	Her Majesty	yeah
+Helter Skelter	Honey Pie	yeah
+Helter Skelter	I Want You (She's So Heavy)	yeah
+Helter Skelter	I'm Looking Through You	yeah
+Helter Skelter	Ob-La-Di, Ob-La-Da	yeah
+Helter Skelter	Polythene Pam	yeah
+Helter Skelter	She Came in Through the Bathroom Window	yeah
+Helter Skelter	Taxman	yeah
+Helter Skelter	The End	yeah
+Helter Skelter	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+Helter Skelter	Yer Blues	yeah
+Her Majesty	Honey Pie	yeah
+Her Majesty	I Want You (She's So Heavy)	yeah
+Her Majesty	I'm Looking Through You	yeah
+Her Majesty	Ob-La-Di, Ob-La-Da	yeah
+Her Majesty	Polythene Pam	yeah
+Her Majesty	She Came in Through the Bathroom Window	yeah
+Her Majesty	Taxman	yeah
+Her Majesty	The End	yeah
+Her Majesty	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+Her Majesty	Yer Blues	yeah
+Honey Pie	I Want You (She's So Heavy)	yeah
+Honey Pie	I'm Looking Through You	yeah
+Honey Pie	Ob-La-Di, Ob-La-Da	yeah
+Honey Pie	Polythene Pam	yeah
+Honey Pie	She Came in Through the Bathroom Window	yeah
+Honey Pie	Taxman	yeah
+Honey Pie	The End	yeah
+Honey Pie	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+Honey Pie	Yer Blues	yeah
+I Want You (She's So Heavy)	I'm Looking Through You	yeah
+I Want You (She's So Heavy)	Ob-La-Di, Ob-La-Da	yeah
+I Want You (She's So Heavy)	Polythene Pam	yeah
+I Want You (She's So Heavy)	She Came in Through the Bathroom Window	yeah
+I Want You (She's So Heavy)	Taxman	yeah
+I Want You (She's So Heavy)	The End	yeah
+I Want You (She's So Heavy)	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+I Want You (She's So Heavy)	Yer Blues	yeah
+I'm Looking Through You	Ob-La-Di, Ob-La-Da	yeah
+I'm Looking Through You	Polythene Pam	yeah
+I'm Looking Through You	She Came in Through the Bathroom Window	yeah
+I'm Looking Through You	Taxman	yeah
+I'm Looking Through You	The End	yeah
+I'm Looking Through You	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+I'm Looking Through You	Yer Blues	yeah
+Ob-La-Di, Ob-La-Da	Polythene Pam	yeah
+Ob-La-Di, Ob-La-Da	She Came in Through the Bathroom Window	yeah
+Ob-La-Di, Ob-La-Da	Taxman	yeah
+Ob-La-Di, Ob-La-Da	The End	yeah
+Ob-La-Di, Ob-La-Da	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+Ob-La-Di, Ob-La-Da	Yer Blues	yeah
+Polythene Pam	She Came in Through the Bathroom Window	yeah
+Polythene Pam	Taxman	yeah
+Polythene Pam	The End	yeah
+Polythene Pam	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+Polythene Pam	Yer Blues	yeah
+She Came in Through the Bathroom Window	Taxman	yeah
+She Came in Through the Bathroom Window	The End	yeah
+She Came in Through the Bathroom Window	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+She Came in Through the Bathroom Window	Yer Blues	yeah
+Taxman	The End	yeah
+Taxman	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+Taxman	Yer Blues	yeah
+The End	While My Guitar Gently Weeps (Ft. Eric Clapton)	yeah
+The End	Yer Blues	yeah
+While My Guitar Gently Weeps (Ft. Eric Clapton)	Yer Blues	yeah
+Lucy in the Sky with Diamonds	Revolution 9 (Ft. Yoko Ono)	yellow
+Lucy in the Sky with Diamonds	Yellow Submarine	yellow
+Lucy in the Sky with Diamonds	You Never Give Me Your Money	yellow
+Revolution 9 (Ft. Yoko Ono)	Yellow Submarine	yellow
+Revolution 9 (Ft. Yoko Ono)	You Never Give Me Your Money	yellow
+Yellow Submarine	You Never Give Me Your Money	yellow

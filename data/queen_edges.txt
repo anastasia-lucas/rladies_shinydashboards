@@ -1,0 +1,4476 @@
+from	to	value
+Liar	Lily of the Valley	aah
+Liar	You Take My Breath Away	aah
+Lily of the Valley	You Take My Breath Away	aah
+Bohemian Rhapsody	Dreamer's Ball	aching
+Killer Queen	Let Me Entertain You	action
+Drowse	Lazing on a Sunday Afternoon	afternoon
+Drowse	Modern Times Rock 'N' Roll	afternoon
+Drowse	Stone Cold Crazy	afternoon
+Lazing on a Sunday Afternoon	Modern Times Rock 'N' Roll	afternoon
+Lazing on a Sunday Afternoon	Stone Cold Crazy	afternoon
+Modern Times Rock 'N' Roll	Stone Cold Crazy	afternoon
+Bohemian Rhapsody	Death on Two Legs (Dedicated to...)	ah
+Bohemian Rhapsody	Doing All Right	ah
+Bohemian Rhapsody	Don't Stop Me Now	ah
+Bohemian Rhapsody	Great King Rat	ah
+Bohemian Rhapsody	Let Me Entertain You	ah
+Bohemian Rhapsody	Mustapha	ah
+Bohemian Rhapsody	My Fairy King	ah
+Bohemian Rhapsody	The Prophet's Song	ah
+Death on Two Legs (Dedicated to...)	Doing All Right	ah
+Death on Two Legs (Dedicated to...)	Don't Stop Me Now	ah
+Death on Two Legs (Dedicated to...)	Great King Rat	ah
+Death on Two Legs (Dedicated to...)	Let Me Entertain You	ah
+Death on Two Legs (Dedicated to...)	Mustapha	ah
+Death on Two Legs (Dedicated to...)	My Fairy King	ah
+Death on Two Legs (Dedicated to...)	The Prophet's Song	ah
+Doing All Right	Don't Stop Me Now	ah
+Doing All Right	Great King Rat	ah
+Doing All Right	Let Me Entertain You	ah
+Doing All Right	Mustapha	ah
+Doing All Right	My Fairy King	ah
+Doing All Right	The Prophet's Song	ah
+Don't Stop Me Now	Great King Rat	ah
+Don't Stop Me Now	Let Me Entertain You	ah
+Don't Stop Me Now	Mustapha	ah
+Don't Stop Me Now	My Fairy King	ah
+Don't Stop Me Now	The Prophet's Song	ah
+Great King Rat	Let Me Entertain You	ah
+Great King Rat	Mustapha	ah
+Great King Rat	My Fairy King	ah
+Great King Rat	The Prophet's Song	ah
+Let Me Entertain You	Mustapha	ah
+Let Me Entertain You	My Fairy King	ah
+Let Me Entertain You	The Prophet's Song	ah
+Mustapha	My Fairy King	ah
+Mustapha	The Prophet's Song	ah
+My Fairy King	The Prophet's Song	ah
+'39	Dead on Time	ahead
+'39	Leaving Home Ain't Easy	ahead
+Dead on Time	Leaving Home Ain't Easy	ahead
+My Fairy King	Son and Daughter	ahh
+Brighton Rock	Death on Two Legs (Dedicated to...)	air
+Brighton Rock	Leaving Home Ain't Easy	air
+Brighton Rock	My Fairy King	air
+Brighton Rock	The Millionaire Waltz	air
+Death on Two Legs (Dedicated to...)	Leaving Home Ain't Easy	air
+Death on Two Legs (Dedicated to...)	My Fairy King	air
+Death on Two Legs (Dedicated to...)	The Millionaire Waltz	air
+Leaving Home Ain't Easy	My Fairy King	air
+Leaving Home Ain't Easy	The Millionaire Waltz	air
+My Fairy King	The Millionaire Waltz	air
+Mustapha	Stone Cold Crazy	al
+Bring Back That Leroy Brown	Dead on Time	alive
+Bring Back That Leroy Brown	Don't Stop Me Now	alive
+Bring Back That Leroy Brown	Fun It	alive
+Bring Back That Leroy Brown	Keep Yourself Alive	alive
+Dead on Time	Don't Stop Me Now	alive
+Dead on Time	Fun It	alive
+Dead on Time	Keep Yourself Alive	alive
+Don't Stop Me Now	Fun It	alive
+Don't Stop Me Now	Keep Yourself Alive	alive
+Fun It	Keep Yourself Alive	alive
+Don't Stop Me Now	Fat Bottomed Girls	alright
+Don't Stop Me Now	Somebody to Love	alright
+Don't Stop Me Now	Son and Daughter	alright
+Don't Stop Me Now	Tie Your Mother Down	alright
+Don't Stop Me Now	You and I	alright
+Fat Bottomed Girls	Somebody to Love	alright
+Fat Bottomed Girls	Son and Daughter	alright
+Fat Bottomed Girls	Tie Your Mother Down	alright
+Fat Bottomed Girls	You and I	alright
+Somebody to Love	Son and Daughter	alright
+Somebody to Love	Tie Your Mother Down	alright
+Somebody to Love	You and I	alright
+Son and Daughter	Tie Your Mother Down	alright
+Son and Daughter	You and I	alright
+Tie Your Mother Down	You and I	alright
+Lily of the Valley	The Prophet's Song	answer
+Stone Cold Crazy	You Take My Breath Away	anymore
+Bring Back That Leroy Brown	The Prophet's Song	babe
+Bring Back That Leroy Brown	Tie Your Mother Down	babe
+The Prophet's Song	Tie Your Mother Down	babe
+Bohemian Rhapsody	Dreamer's Ball	baby
+Bohemian Rhapsody	Flick of the Wrist	baby
+Bohemian Rhapsody	Good Company	baby
+Bohemian Rhapsody	Lily of the Valley	baby
+Bohemian Rhapsody	Modern Times Rock 'N' Roll	baby
+Bohemian Rhapsody	My Fairy King	baby
+Bohemian Rhapsody	Now I'm Here	baby
+Bohemian Rhapsody	Seaside Rendezvous	baby
+Bohemian Rhapsody	Sweet Lady	baby
+Bohemian Rhapsody	Tie Your Mother Down	baby
+Dreamer's Ball	Flick of the Wrist	baby
+Dreamer's Ball	Good Company	baby
+Dreamer's Ball	Lily of the Valley	baby
+Dreamer's Ball	Modern Times Rock 'N' Roll	baby
+Dreamer's Ball	My Fairy King	baby
+Dreamer's Ball	Now I'm Here	baby
+Dreamer's Ball	Seaside Rendezvous	baby
+Dreamer's Ball	Sweet Lady	baby
+Dreamer's Ball	Tie Your Mother Down	baby
+Flick of the Wrist	Good Company	baby
+Flick of the Wrist	Lily of the Valley	baby
+Flick of the Wrist	Modern Times Rock 'N' Roll	baby
+Flick of the Wrist	My Fairy King	baby
+Flick of the Wrist	Now I'm Here	baby
+Flick of the Wrist	Seaside Rendezvous	baby
+Flick of the Wrist	Sweet Lady	baby
+Flick of the Wrist	Tie Your Mother Down	baby
+Good Company	Lily of the Valley	baby
+Good Company	Modern Times Rock 'N' Roll	baby
+Good Company	My Fairy King	baby
+Good Company	Now I'm Here	baby
+Good Company	Seaside Rendezvous	baby
+Good Company	Sweet Lady	baby
+Good Company	Tie Your Mother Down	baby
+Lily of the Valley	Modern Times Rock 'N' Roll	baby
+Lily of the Valley	My Fairy King	baby
+Lily of the Valley	Now I'm Here	baby
+Lily of the Valley	Seaside Rendezvous	baby
+Lily of the Valley	Sweet Lady	baby
+Lily of the Valley	Tie Your Mother Down	baby
+Modern Times Rock 'N' Roll	My Fairy King	baby
+Modern Times Rock 'N' Roll	Now I'm Here	baby
+Modern Times Rock 'N' Roll	Seaside Rendezvous	baby
+Modern Times Rock 'N' Roll	Sweet Lady	baby
+Modern Times Rock 'N' Roll	Tie Your Mother Down	baby
+My Fairy King	Now I'm Here	baby
+My Fairy King	Seaside Rendezvous	baby
+My Fairy King	Sweet Lady	baby
+My Fairy King	Tie Your Mother Down	baby
+Now I'm Here	Seaside Rendezvous	baby
+Now I'm Here	Sweet Lady	baby
+Now I'm Here	Tie Your Mother Down	baby
+Seaside Rendezvous	Sweet Lady	baby
+Seaside Rendezvous	Tie Your Mother Down	baby
+Sweet Lady	Tie Your Mother Down	baby
+Bring Back That Leroy Brown	Death on Two Legs (Dedicated to...)	bad
+Bring Back That Leroy Brown	Fat Bottomed Girls	bad
+Bring Back That Leroy Brown	Great King Rat	bad
+Bring Back That Leroy Brown	Tie Your Mother Down	bad
+Bring Back That Leroy Brown	You're My Best Friend	bad
+Death on Two Legs (Dedicated to...)	Fat Bottomed Girls	bad
+Death on Two Legs (Dedicated to...)	Great King Rat	bad
+Death on Two Legs (Dedicated to...)	Tie Your Mother Down	bad
+Death on Two Legs (Dedicated to...)	You're My Best Friend	bad
+Fat Bottomed Girls	Great King Rat	bad
+Fat Bottomed Girls	Tie Your Mother Down	bad
+Fat Bottomed Girls	You're My Best Friend	bad
+Great King Rat	Tie Your Mother Down	bad
+Great King Rat	You're My Best Friend	bad
+Tie Your Mother Down	You're My Best Friend	bad
+Don't Stop Me Now	Dreamer's Ball	ball
+Dreamer's Ball	Somebody to Love	barely
+Dead on Time	White Man	battle
+If You Can't Beat Them	More of That Jazz	beat
+If You Can't Beat Them	Somebody to Love	beat
+More of That Jazz	Somebody to Love	beat
+Bohemian Rhapsody	Son and Daughter	begun
+Great King Rat	White Man	bible
+Bicycle Race	More of That Jazz	bicycle
+Bring Back That Leroy Brown	Good Old-Fashioned Lover Boy	bill
+Bicycle Race	The Night Comes Down	black
+Death on Two Legs (Dedicated to...)	My Fairy King	blood
+Death on Two Legs (Dedicated to...)	White Man	blood
+My Fairy King	White Man	blood
+Dear Friends	Flick of the Wrist	blow
+Dear Friends	Killer Queen	blow
+Dear Friends	Stone Cold Crazy	blow
+Flick of the Wrist	Killer Queen	blow
+Flick of the Wrist	Stone Cold Crazy	blow
+Killer Queen	Stone Cold Crazy	blow
+Bohemian Rhapsody	Teo Torriatte (Let Us Cling Together)	blows
+'39	Fat Bottomed Girls	blue
+'39	My Fairy King	blue
+Fat Bottomed Girls	My Fairy King	blue
+Keep Yourself Alive	Let Me Entertain You	body
+Keep Yourself Alive	Modern Times Rock 'N' Roll	body
+Keep Yourself Alive	White Man	body
+Let Me Entertain You	Modern Times Rock 'N' Roll	body
+Let Me Entertain You	White Man	body
+Modern Times Rock 'N' Roll	White Man	body
+Bohemian Rhapsody	Fun It	body's
+Stone Cold Crazy	The Prophet's Song	bone
+Stone Cold Crazy	White Man	bone
+The Prophet's Song	White Man	bone
+Fat Bottomed Girls	Flick of the Wrist	bones
+Fat Bottomed Girls	Somebody to Love	bones
+Flick of the Wrist	Somebody to Love	bones
+'39	Bohemian Rhapsody	born
+'39	Great King Rat	born
+'39	Jesus	born
+'39	My Fairy King	born
+Bohemian Rhapsody	Great King Rat	born
+Bohemian Rhapsody	Jesus	born
+Bohemian Rhapsody	My Fairy King	born
+Great King Rat	Jesus	born
+Great King Rat	My Fairy King	born
+Jesus	My Fairy King	born
+Bicycle Race	Fat Bottomed Girls	bottomed
+Bicycle Race	More of That Jazz	bottomed
+Fat Bottomed Girls	More of That Jazz	bottomed
+Bohemian Rhapsody	Bring Back That Leroy Brown	boy
+Bohemian Rhapsody	Death on Two Legs (Dedicated to...)	boy
+Bohemian Rhapsody	Dreamer's Ball	boy
+Bohemian Rhapsody	Drowse	boy
+Bohemian Rhapsody	Fat Bottomed Girls	boy
+Bohemian Rhapsody	Good Old-Fashioned Lover Boy	boy
+Bohemian Rhapsody	I’m in Love with My Car	boy
+Bring Back That Leroy Brown	Death on Two Legs (Dedicated to...)	boy
+Bring Back That Leroy Brown	Dreamer's Ball	boy
+Bring Back That Leroy Brown	Drowse	boy
+Bring Back That Leroy Brown	Fat Bottomed Girls	boy
+Bring Back That Leroy Brown	Good Old-Fashioned Lover Boy	boy
+Bring Back That Leroy Brown	I’m in Love with My Car	boy
+Death on Two Legs (Dedicated to...)	Dreamer's Ball	boy
+Death on Two Legs (Dedicated to...)	Drowse	boy
+Death on Two Legs (Dedicated to...)	Fat Bottomed Girls	boy
+Death on Two Legs (Dedicated to...)	Good Old-Fashioned Lover Boy	boy
+Death on Two Legs (Dedicated to...)	I’m in Love with My Car	boy
+Dreamer's Ball	Drowse	boy
+Dreamer's Ball	Fat Bottomed Girls	boy
+Dreamer's Ball	Good Old-Fashioned Lover Boy	boy
+Dreamer's Ball	I’m in Love with My Car	boy
+Drowse	Fat Bottomed Girls	boy
+Drowse	Good Old-Fashioned Lover Boy	boy
+Drowse	I’m in Love with My Car	boy
+Fat Bottomed Girls	Good Old-Fashioned Lover Boy	boy
+Fat Bottomed Girls	I’m in Love with My Car	boy
+Good Old-Fashioned Lover Boy	I’m in Love with My Car	boy
+Death on Two Legs (Dedicated to...)	Flick of the Wrist	brain
+Death on Two Legs (Dedicated to...)	Somebody to Love	brain
+Flick of the Wrist	Somebody to Love	brain
+Seaside Rendezvous	Son and Daughter	brand
+Death on Two Legs (Dedicated to...)	Leaving Home Ain't Easy	break
+Death on Two Legs (Dedicated to...)	Stone Cold Crazy	break
+Death on Two Legs (Dedicated to...)	The Prophet's Song	break
+Leaving Home Ain't Easy	Stone Cold Crazy	break
+Leaving Home Ain't Easy	The Prophet's Song	break
+Stone Cold Crazy	The Prophet's Song	break
+Drowse	Let Me Entertain You	breakfast
+Now I'm Here	You and I	bright
+'39	Bring Back That Leroy Brown	bring
+'39	Jealousy	bring
+'39	Liar	bring
+'39	Love of My Life	bring
+'39	More of That Jazz	bring
+'39	My Fairy King	bring
+'39	Sweet Lady	bring
+'39	The Millionaire Waltz	bring
+Bring Back That Leroy Brown	Jealousy	bring
+Bring Back That Leroy Brown	Liar	bring
+Bring Back That Leroy Brown	Love of My Life	bring
+Bring Back That Leroy Brown	More of That Jazz	bring
+Bring Back That Leroy Brown	My Fairy King	bring
+Bring Back That Leroy Brown	Sweet Lady	bring
+Bring Back That Leroy Brown	The Millionaire Waltz	bring
+Jealousy	Liar	bring
+Jealousy	Love of My Life	bring
+Jealousy	More of That Jazz	bring
+Jealousy	My Fairy King	bring
+Jealousy	Sweet Lady	bring
+Jealousy	The Millionaire Waltz	bring
+Liar	Love of My Life	bring
+Liar	More of That Jazz	bring
+Liar	My Fairy King	bring
+Liar	Sweet Lady	bring
+Liar	The Millionaire Waltz	bring
+Love of My Life	More of That Jazz	bring
+Love of My Life	My Fairy King	bring
+Love of My Life	Sweet Lady	bring
+Love of My Life	The Millionaire Waltz	bring
+More of That Jazz	My Fairy King	bring
+More of That Jazz	Sweet Lady	bring
+More of That Jazz	The Millionaire Waltz	bring
+My Fairy King	Sweet Lady	bring
+My Fairy King	The Millionaire Waltz	bring
+Sweet Lady	The Millionaire Waltz	bring
+Dreamer's Ball	Love of My Life	broken
+Dreamer's Ball	My Fairy King	broken
+Love of My Life	My Fairy King	broken
+Jealousy	Keep Yourself Alive	brought
+Killer Queen	White Man	built
+Dead on Time	Death on Two Legs (Dedicated to...)	business
+Dead on Time	More of That Jazz	business
+Death on Two Legs (Dedicated to...)	More of That Jazz	business
+'39	Don't Stop Me Now	call
+'39	Good Company	call
+'39	If You Can't Beat Them	call
+'39	Leaving Home Ain't Easy	call
+'39	Sweet Lady	call
+Don't Stop Me Now	Good Company	call
+Don't Stop Me Now	If You Can't Beat Them	call
+Don't Stop Me Now	Leaving Home Ain't Easy	call
+Don't Stop Me Now	Sweet Lady	call
+Good Company	If You Can't Beat Them	call
+Good Company	Leaving Home Ain't Easy	call
+Good Company	Sweet Lady	call
+If You Can't Beat Them	Leaving Home Ain't Easy	call
+If You Can't Beat Them	Sweet Lady	call
+Leaving Home Ain't Easy	Sweet Lady	call
+'39	Leaving Home Ain't Easy	calling
+'39	Liar	calling
+Leaving Home Ain't Easy	Liar	calling
+Don't Stop Me Now	I’m in Love with My Car	car
+Don't Stop Me Now	Tenement Funster	car
+I’m in Love with My Car	Tenement Funster	car
+Bring Back That Leroy Brown	Good Company	care
+Bring Back That Leroy Brown	Great King Rat	care
+Bring Back That Leroy Brown	Killer Queen	care
+Bring Back That Leroy Brown	Long Away	care
+Good Company	Great King Rat	care
+Good Company	Killer Queen	care
+Good Company	Long Away	care
+Great King Rat	Killer Queen	care
+Great King Rat	Long Away	care
+Killer Queen	Long Away	care
+Bohemian Rhapsody	Lily of the Valley	carry
+Bohemian Rhapsody	Misfire	carry
+Bohemian Rhapsody	Stone Cold Crazy	carry
+Lily of the Valley	Misfire	carry
+Lily of the Valley	Stone Cold Crazy	carry
+Misfire	Stone Cold Crazy	carry
+I’m in Love with My Car	Killer Queen	cars
+Somebody to Love	Stone Cold Crazy	cell
+In Only Seven Days	My Fairy King	changed
+In Only Seven Days	You Take My Breath Away	changed
+My Fairy King	You Take My Breath Away	changed
+Long Away	Now I'm Here	chase
+Bicycle Race	Sweet Lady	cheese
+Let Me Entertain You	Modern Times Rock 'N' Roll	chest
+The Prophet's Song	White Man	children
+In Only Seven Days	Teo Torriatte (Let Us Cling Together)	close
+Stone Cold Crazy	The Prophet's Song	cold
+Bicycle Race	Modern Times Rock 'N' Roll	coming
+Bicycle Race	More of That Jazz	coming
+Modern Times Rock 'N' Roll	More of That Jazz	coming
+Bring Back That Leroy Brown	Somebody to Love	common
+Don't Stop Me Now	You Take My Breath Away	control
+Bicycle Race	Bring Back That Leroy Brown	cool
+The Millionaire Waltz	The Prophet's Song	counting
+Dead on Time	Let Me Entertain You	crazy
+Dead on Time	Somebody to Love	crazy
+Dead on Time	Stone Cold Crazy	crazy
+Dead on Time	Tenement Funster	crazy
+Let Me Entertain You	Somebody to Love	crazy
+Let Me Entertain You	Stone Cold Crazy	crazy
+Let Me Entertain You	Tenement Funster	crazy
+Somebody to Love	Stone Cold Crazy	crazy
+Somebody to Love	Tenement Funster	crazy
+Stone Cold Crazy	Tenement Funster	crazy
+'39	The Prophet's Song	cried
+Fat Bottomed Girls	Flick of the Wrist	cross
+'39	Bohemian Rhapsody	cry
+'39	My Fairy King	cry
+'39	Somebody to Love	cry
+'39	You Take My Breath Away	cry
+Bohemian Rhapsody	My Fairy King	cry
+Bohemian Rhapsody	Somebody to Love	cry
+Bohemian Rhapsody	You Take My Breath Away	cry
+My Fairy King	Somebody to Love	cry
+My Fairy King	You Take My Breath Away	cry
+Somebody to Love	You Take My Breath Away	cry
+Dear Friends	Drowse	crying
+Bring Back That Leroy Brown	Seaside Rendezvous	daddy
+Bring Back That Leroy Brown	Tie Your Mother Down	daddy
+Seaside Rendezvous	Tie Your Mother Down	daddy
+Death on Two Legs (Dedicated to...)	Seaside Rendezvous	damn
+Dreamer's Ball	Let Me Entertain You	dancing
+Dreamer's Ball	Seaside Rendezvous	dancing
+Let Me Entertain You	Seaside Rendezvous	dancing
+Dear Friends	The Prophet's Song	dare
+'39	Brighton Rock	day
+'39	Good Company	day
+'39	Keep Yourself Alive	day
+'39	Liar	day
+'39	Long Away	day
+'39	She Makes Me (Stormtrooper In Stilettos)	day
+'39	Somebody to Love	day
+'39	Son and Daughter	day
+'39	The Millionaire Waltz	day
+'39	The Prophet's Song	day
+Brighton Rock	Good Company	day
+Brighton Rock	Keep Yourself Alive	day
+Brighton Rock	Liar	day
+Brighton Rock	Long Away	day
+Brighton Rock	She Makes Me (Stormtrooper In Stilettos)	day
+Brighton Rock	Somebody to Love	day
+Brighton Rock	Son and Daughter	day
+Brighton Rock	The Millionaire Waltz	day
+Brighton Rock	The Prophet's Song	day
+Good Company	Keep Yourself Alive	day
+Good Company	Liar	day
+Good Company	Long Away	day
+Good Company	She Makes Me (Stormtrooper In Stilettos)	day
+Good Company	Somebody to Love	day
+Good Company	Son and Daughter	day
+Good Company	The Millionaire Waltz	day
+Good Company	The Prophet's Song	day
+Keep Yourself Alive	Liar	day
+Keep Yourself Alive	Long Away	day
+Keep Yourself Alive	She Makes Me (Stormtrooper In Stilettos)	day
+Keep Yourself Alive	Somebody to Love	day
+Keep Yourself Alive	Son and Daughter	day
+Keep Yourself Alive	The Millionaire Waltz	day
+Keep Yourself Alive	The Prophet's Song	day
+Liar	Long Away	day
+Liar	She Makes Me (Stormtrooper In Stilettos)	day
+Liar	Somebody to Love	day
+Liar	Son and Daughter	day
+Liar	The Millionaire Waltz	day
+Liar	The Prophet's Song	day
+Long Away	She Makes Me (Stormtrooper In Stilettos)	day
+Long Away	Somebody to Love	day
+Long Away	Son and Daughter	day
+Long Away	The Millionaire Waltz	day
+Long Away	The Prophet's Song	day
+She Makes Me (Stormtrooper In Stilettos)	Somebody to Love	day
+She Makes Me (Stormtrooper In Stilettos)	Son and Daughter	day
+She Makes Me (Stormtrooper In Stilettos)	The Millionaire Waltz	day
+She Makes Me (Stormtrooper In Stilettos)	The Prophet's Song	day
+Somebody to Love	Son and Daughter	day
+Somebody to Love	The Millionaire Waltz	day
+Somebody to Love	The Prophet's Song	day
+Son and Daughter	The Millionaire Waltz	day
+Son and Daughter	The Prophet's Song	day
+The Millionaire Waltz	The Prophet's Song	day
+'39	Drowse	days
+'39	Flick of the Wrist	days
+'39	In Only Seven Days	days
+'39	More of That Jazz	days
+'39	The Millionaire Waltz	days
+'39	The Prophet's Song	days
+'39	You and I	days
+Drowse	Flick of the Wrist	days
+Drowse	In Only Seven Days	days
+Drowse	More of That Jazz	days
+Drowse	The Millionaire Waltz	days
+Drowse	The Prophet's Song	days
+Drowse	You and I	days
+Flick of the Wrist	In Only Seven Days	days
+Flick of the Wrist	More of That Jazz	days
+Flick of the Wrist	The Millionaire Waltz	days
+Flick of the Wrist	The Prophet's Song	days
+Flick of the Wrist	You and I	days
+In Only Seven Days	More of That Jazz	days
+In Only Seven Days	The Millionaire Waltz	days
+In Only Seven Days	The Prophet's Song	days
+In Only Seven Days	You and I	days
+More of That Jazz	The Millionaire Waltz	days
+More of That Jazz	The Prophet's Song	days
+More of That Jazz	You and I	days
+The Millionaire Waltz	The Prophet's Song	days
+The Millionaire Waltz	You and I	days
+The Prophet's Song	You and I	days
+Bohemian Rhapsody	Bring Back That Leroy Brown	dead
+Bohemian Rhapsody	Dead on Time	dead
+Bohemian Rhapsody	Flick of the Wrist	dead
+Bohemian Rhapsody	Liar	dead
+Bring Back That Leroy Brown	Dead on Time	dead
+Bring Back That Leroy Brown	Flick of the Wrist	dead
+Bring Back That Leroy Brown	Liar	dead
+Dead on Time	Flick of the Wrist	dead
+Dead on Time	Liar	dead
+Flick of the Wrist	Liar	dead
+Dear Friends	Liar	dear
+Dear Friends	Seaside Rendezvous	dear
+Liar	Seaside Rendezvous	dear
+Death on Two Legs (Dedicated to...)	The Prophet's Song	death
+Flick of the Wrist	You Take My Breath Away	deep
+Dreamer's Ball	You Take My Breath Away	destroy
+Bohemian Rhapsody	Jealousy	die
+Bohemian Rhapsody	Somebody to Love	die
+Bohemian Rhapsody	Tie Your Mother Down	die
+Bohemian Rhapsody	You Take My Breath Away	die
+Jealousy	Somebody to Love	die
+Jealousy	Tie Your Mother Down	die
+Jealousy	You Take My Breath Away	die
+Somebody to Love	Tie Your Mother Down	die
+Somebody to Love	You Take My Breath Away	die
+Tie Your Mother Down	You Take My Breath Away	die
+Great King Rat	White Man	died
+Flick of the Wrist	Let Me Entertain You	dig
+Fat Bottomed Girls	Great King Rat	dirty
+Fat Bottomed Girls	If You Can't Beat Them	dirty
+Fat Bottomed Girls	Tie Your Mother Down	dirty
+Great King Rat	If You Can't Beat Them	dirty
+Great King Rat	Tie Your Mother Down	dirty
+If You Can't Beat Them	Tie Your Mother Down	dirty
+Death on Two Legs (Dedicated to...)	I’m in Love with My Car	disease
+Tenement Funster	White Man	disgrace
+Bicycle Race	Death on Two Legs (Dedicated to...)	dog
+Bicycle Race	Sweet Lady	dog
+Death on Two Legs (Dedicated to...)	Sweet Lady	dog
+Doing All Right	Drowse	doin
+Drowse	Good Company	door
+Drowse	Leaving Home Ain't Easy	door
+Drowse	Stone Cold Crazy	door
+Drowse	Tenement Funster	door
+Drowse	Tie Your Mother Down	door
+Good Company	Leaving Home Ain't Easy	door
+Good Company	Stone Cold Crazy	door
+Good Company	Tenement Funster	door
+Good Company	Tie Your Mother Down	door
+Leaving Home Ain't Easy	Stone Cold Crazy	door
+Leaving Home Ain't Easy	Tenement Funster	door
+Leaving Home Ain't Easy	Tie Your Mother Down	door
+Stone Cold Crazy	Tenement Funster	door
+Stone Cold Crazy	Tie Your Mother Down	door
+Tenement Funster	Tie Your Mother Down	door
+Dreamer's Ball	Drowse	downtown
+Dear Friends	Dreamer's Ball	dream
+Dear Friends	I’m in Love with My Car	dream
+Dear Friends	Teo Torriatte (Let Us Cling Together)	dream
+Dear Friends	White Man	dream
+Dreamer's Ball	I’m in Love with My Car	dream
+Dreamer's Ball	Teo Torriatte (Let Us Cling Together)	dream
+Dreamer's Ball	White Man	dream
+I’m in Love with My Car	Teo Torriatte (Let Us Cling Together)	dream
+I’m in Love with My Car	White Man	dream
+Teo Torriatte (Let Us Cling Together)	White Man	dream
+Dreamer's Ball	Stone Cold Crazy	dreaming
+She Makes Me (Stormtrooper In Stilettos)	Teo Torriatte (Let Us Cling Together)	dreams
+My Fairy King	Stone Cold Crazy	dry
+Drowse	Liar	dying
+'39	The Prophet's Song	earth
+'39	You Take My Breath Away	earth
+The Prophet's Song	You Take My Breath Away	earth
+Bohemian Rhapsody	Drowse	easy
+Bohemian Rhapsody	In the Lap of the Gods... Revisited	easy
+Bohemian Rhapsody	Leaving Home Ain't Easy	easy
+Drowse	In the Lap of the Gods... Revisited	easy
+Drowse	Leaving Home Ain't Easy	easy
+In the Lap of the Gods... Revisited	Leaving Home Ain't Easy	easy
+Flick of the Wrist	Killer Queen	eat
+Flick of the Wrist	Sweet Lady	eat
+Killer Queen	Sweet Lady	eat
+Fat Bottomed Girls	If You Can't Beat Them	em
+Fat Bottomed Girls	More of That Jazz	em
+If You Can't Beat Them	More of That Jazz	em
+Brighton Rock	Drowse	everyday
+Brighton Rock	Somebody to Love	everyday
+Drowse	Somebody to Love	everyday
+Good Old-Fashioned Lover Boy	Love of My Life	everything's
+Good Old-Fashioned Lover Boy	You and I	everything's
+Love of My Life	You and I	everything's
+Bohemian Rhapsody	Now I'm Here	eye
+Drowse	Fat Bottomed Girls	eyed
+'39	Bohemian Rhapsody	eyes
+'39	Flick of the Wrist	eyes
+'39	Lily of the Valley	eyes
+'39	Modern Times Rock 'N' Roll	eyes
+'39	My Fairy King	eyes
+'39	Somebody to Love	eyes
+'39	Teo Torriatte (Let Us Cling Together)	eyes
+'39	White Man	eyes
+'39	You Take My Breath Away	eyes
+Bohemian Rhapsody	Flick of the Wrist	eyes
+Bohemian Rhapsody	Lily of the Valley	eyes
+Bohemian Rhapsody	Modern Times Rock 'N' Roll	eyes
+Bohemian Rhapsody	My Fairy King	eyes
+Bohemian Rhapsody	Somebody to Love	eyes
+Bohemian Rhapsody	Teo Torriatte (Let Us Cling Together)	eyes
+Bohemian Rhapsody	White Man	eyes
+Bohemian Rhapsody	You Take My Breath Away	eyes
+Flick of the Wrist	Lily of the Valley	eyes
+Flick of the Wrist	Modern Times Rock 'N' Roll	eyes
+Flick of the Wrist	My Fairy King	eyes
+Flick of the Wrist	Somebody to Love	eyes
+Flick of the Wrist	Teo Torriatte (Let Us Cling Together)	eyes
+Flick of the Wrist	White Man	eyes
+Flick of the Wrist	You Take My Breath Away	eyes
+Lily of the Valley	Modern Times Rock 'N' Roll	eyes
+Lily of the Valley	My Fairy King	eyes
+Lily of the Valley	Somebody to Love	eyes
+Lily of the Valley	Teo Torriatte (Let Us Cling Together)	eyes
+Lily of the Valley	White Man	eyes
+Lily of the Valley	You Take My Breath Away	eyes
+Modern Times Rock 'N' Roll	My Fairy King	eyes
+Modern Times Rock 'N' Roll	Somebody to Love	eyes
+Modern Times Rock 'N' Roll	Teo Torriatte (Let Us Cling Together)	eyes
+Modern Times Rock 'N' Roll	White Man	eyes
+Modern Times Rock 'N' Roll	You Take My Breath Away	eyes
+My Fairy King	Somebody to Love	eyes
+My Fairy King	Teo Torriatte (Let Us Cling Together)	eyes
+My Fairy King	White Man	eyes
+My Fairy King	You Take My Breath Away	eyes
+Somebody to Love	Teo Torriatte (Let Us Cling Together)	eyes
+Somebody to Love	White Man	eyes
+Somebody to Love	You Take My Breath Away	eyes
+Teo Torriatte (Let Us Cling Together)	White Man	eyes
+Teo Torriatte (Let Us Cling Together)	You Take My Breath Away	eyes
+White Man	You Take My Breath Away	eyes
+Jealousy	The Prophet's Song	fall
+Bohemian Rhapsody	Tie Your Mother Down	family
+Drowse	Seaside Rendezvous	fantastic
+Bicycle Race	Fat Bottomed Girls	fat
+Bicycle Race	More of That Jazz	fat
+Fat Bottomed Girls	More of That Jazz	fat
+Good Company	Liar	father
+Keep Yourself Alive	Sweet Lady	feed
+Death on Two Legs (Dedicated to...)	Don't Stop Me Now	feel
+Death on Two Legs (Dedicated to...)	Good Old-Fashioned Lover Boy	feel
+Death on Two Legs (Dedicated to...)	I’m in Love with My Car	feel
+Death on Two Legs (Dedicated to...)	If You Can't Beat Them	feel
+Death on Two Legs (Dedicated to...)	Modern Times Rock 'N' Roll	feel
+Death on Two Legs (Dedicated to...)	Now I'm Here	feel
+Death on Two Legs (Dedicated to...)	Seaside Rendezvous	feel
+Death on Two Legs (Dedicated to...)	Somebody to Love	feel
+Death on Two Legs (Dedicated to...)	Son and Daughter	feel
+Death on Two Legs (Dedicated to...)	The Millionaire Waltz	feel
+Don't Stop Me Now	Good Old-Fashioned Lover Boy	feel
+Don't Stop Me Now	I’m in Love with My Car	feel
+Don't Stop Me Now	If You Can't Beat Them	feel
+Don't Stop Me Now	Modern Times Rock 'N' Roll	feel
+Don't Stop Me Now	Now I'm Here	feel
+Don't Stop Me Now	Seaside Rendezvous	feel
+Don't Stop Me Now	Somebody to Love	feel
+Don't Stop Me Now	Son and Daughter	feel
+Don't Stop Me Now	The Millionaire Waltz	feel
+Good Old-Fashioned Lover Boy	I’m in Love with My Car	feel
+Good Old-Fashioned Lover Boy	If You Can't Beat Them	feel
+Good Old-Fashioned Lover Boy	Modern Times Rock 'N' Roll	feel
+Good Old-Fashioned Lover Boy	Now I'm Here	feel
+Good Old-Fashioned Lover Boy	Seaside Rendezvous	feel
+Good Old-Fashioned Lover Boy	Somebody to Love	feel
+Good Old-Fashioned Lover Boy	Son and Daughter	feel
+Good Old-Fashioned Lover Boy	The Millionaire Waltz	feel
+I’m in Love with My Car	If You Can't Beat Them	feel
+I’m in Love with My Car	Modern Times Rock 'N' Roll	feel
+I’m in Love with My Car	Now I'm Here	feel
+I’m in Love with My Car	Seaside Rendezvous	feel
+I’m in Love with My Car	Somebody to Love	feel
+I’m in Love with My Car	Son and Daughter	feel
+I’m in Love with My Car	The Millionaire Waltz	feel
+If You Can't Beat Them	Modern Times Rock 'N' Roll	feel
+If You Can't Beat Them	Now I'm Here	feel
+If You Can't Beat Them	Seaside Rendezvous	feel
+If You Can't Beat Them	Somebody to Love	feel
+If You Can't Beat Them	Son and Daughter	feel
+If You Can't Beat Them	The Millionaire Waltz	feel
+Modern Times Rock 'N' Roll	Now I'm Here	feel
+Modern Times Rock 'N' Roll	Seaside Rendezvous	feel
+Modern Times Rock 'N' Roll	Somebody to Love	feel
+Modern Times Rock 'N' Roll	Son and Daughter	feel
+Modern Times Rock 'N' Roll	The Millionaire Waltz	feel
+Now I'm Here	Seaside Rendezvous	feel
+Now I'm Here	Somebody to Love	feel
+Now I'm Here	Son and Daughter	feel
+Now I'm Here	The Millionaire Waltz	feel
+Seaside Rendezvous	Somebody to Love	feel
+Seaside Rendezvous	Son and Daughter	feel
+Seaside Rendezvous	The Millionaire Waltz	feel
+Somebody to Love	Son and Daughter	feel
+Somebody to Love	The Millionaire Waltz	feel
+Son and Daughter	The Millionaire Waltz	feel
+Doing All Right	If You Can't Beat Them	feeling
+Doing All Right	More of That Jazz	feeling
+Doing All Right	You and I	feeling
+If You Can't Beat Them	More of That Jazz	feeling
+If You Can't Beat Them	You and I	feeling
+More of That Jazz	You and I	feeling
+If You Can't Beat Them	In Only Seven Days	feels
+Drowse	Fun It	feet
+Drowse	Jesus	feet
+Drowse	Modern Times Rock 'N' Roll	feet
+Drowse	More of That Jazz	feet
+Drowse	Somebody to Love	feet
+Fun It	Jesus	feet
+Fun It	Modern Times Rock 'N' Roll	feet
+Fun It	More of That Jazz	feet
+Fun It	Somebody to Love	feet
+Jesus	Modern Times Rock 'N' Roll	feet
+Jesus	More of That Jazz	feet
+Jesus	Somebody to Love	feet
+Modern Times Rock 'N' Roll	More of That Jazz	feet
+Modern Times Rock 'N' Roll	Somebody to Love	feet
+More of That Jazz	Somebody to Love	feet
+Dead on Time	Great King Rat	fight
+Bring Back That Leroy Brown	Dreamer's Ball	fine
+Bring Back That Leroy Brown	Good Old-Fashioned Lover Boy	fine
+Bring Back That Leroy Brown	The Millionaire Waltz	fine
+Dreamer's Ball	Good Old-Fashioned Lover Boy	fine
+Dreamer's Ball	The Millionaire Waltz	fine
+Good Old-Fashioned Lover Boy	The Millionaire Waltz	fine
+Misfire	My Fairy King	fire
+Don't Stop Me Now	You and I	floating
+More of That Jazz	Stone Cold Crazy	floor
+More of That Jazz	Tenement Funster	floor
+Stone Cold Crazy	Tenement Funster	floor
+My Fairy King	The Prophet's Song	fly
+Keep Yourself Alive	Tenement Funster	folks
+Lily of the Valley	She Makes Me (Stormtrooper In Stilettos)	follow
+Dead on Time	Good Company	fool
+Dead on Time	In the Lap of the Gods... Revisited	fool
+Dead on Time	More of That Jazz	fool
+Dead on Time	Sweet Lady	fool
+Good Company	In the Lap of the Gods... Revisited	fool
+Good Company	More of That Jazz	fool
+Good Company	Sweet Lady	fool
+In the Lap of the Gods... Revisited	More of That Jazz	fool
+In the Lap of the Gods... Revisited	Sweet Lady	fool
+More of That Jazz	Sweet Lady	fool
+Death on Two Legs (Dedicated to...)	Good Company	fools
+Death on Two Legs (Dedicated to...)	Teo Torriatte (Let Us Cling Together)	fools
+Good Company	Teo Torriatte (Let Us Cling Together)	fools
+In Only Seven Days	Lily of the Valley	forever
+In Only Seven Days	My Fairy King	forever
+In Only Seven Days	Sweet Lady	forever
+In Only Seven Days	The Millionaire Waltz	forever
+In Only Seven Days	You and I	forever
+Lily of the Valley	My Fairy King	forever
+Lily of the Valley	Sweet Lady	forever
+Lily of the Valley	The Millionaire Waltz	forever
+Lily of the Valley	You and I	forever
+My Fairy King	Sweet Lady	forever
+My Fairy King	The Millionaire Waltz	forever
+My Fairy King	You and I	forever
+Sweet Lady	The Millionaire Waltz	forever
+Sweet Lady	You and I	forever
+The Millionaire Waltz	You and I	forever
+Bicycle Race	I’m in Love with My Car	forget
+In the Lap of the Gods... Revisited	Liar	forgive
+In the Lap of the Gods... Revisited	You're My Best Friend	forgive
+Liar	You're My Best Friend	forgive
+Death on Two Legs (Dedicated to...)	Dreamer's Ball	found
+Death on Two Legs (Dedicated to...)	Let Me Entertain You	found
+Death on Two Legs (Dedicated to...)	Son and Daughter	found
+Death on Two Legs (Dedicated to...)	You Take My Breath Away	found
+Dreamer's Ball	Let Me Entertain You	found
+Dreamer's Ball	Son and Daughter	found
+Dreamer's Ball	You Take My Breath Away	found
+Let Me Entertain You	Son and Daughter	found
+Let Me Entertain You	You Take My Breath Away	found
+Son and Daughter	You Take My Breath Away	found
+Fun It	In the Lap of the Gods... Revisited	free
+Fun It	My Fairy King	free
+Fun It	Somebody to Love	free
+Fun It	Tenement Funster	free
+In the Lap of the Gods... Revisited	My Fairy King	free
+In the Lap of the Gods... Revisited	Somebody to Love	free
+In the Lap of the Gods... Revisited	Tenement Funster	free
+My Fairy King	Somebody to Love	free
+My Fairy King	Tenement Funster	free
+Somebody to Love	Tenement Funster	free
+Long Away	The Millionaire Waltz	friend
+Long Away	Tie Your Mother Down	friend
+Long Away	You're My Best Friend	friend
+The Millionaire Waltz	Tie Your Mother Down	friend
+The Millionaire Waltz	You're My Best Friend	friend
+Tie Your Mother Down	You're My Best Friend	friend
+Dear Friends	Good Company	friends
+Dear Friends	I’m in Love with My Car	friends
+Good Company	I’m in Love with My Car	friends
+Drowse	Fun It	fun
+Drowse	More of That Jazz	fun
+Drowse	Son and Daughter	fun
+Fun It	More of That Jazz	fun
+Fun It	Son and Daughter	fun
+More of That Jazz	Son and Daughter	fun
+If You Can't Beat Them	Misfire	game
+Dreamer's Ball	Good Old-Fashioned Lover Boy	gently
+Good Company	I’m in Love with My Car	girl
+Good Company	You're My Best Friend	girl
+I’m in Love with My Car	You're My Best Friend	girl
+Bicycle Race	Fat Bottomed Girls	girls
+Bicycle Race	More of That Jazz	girls
+Bicycle Race	Tenement Funster	girls
+Fat Bottomed Girls	More of That Jazz	girls
+Fat Bottomed Girls	Tenement Funster	girls
+More of That Jazz	Tenement Funster	girls
+Bicycle Race	Doing All Right	god
+Bicycle Race	Leaving Home Ain't Easy	god
+Bicycle Race	The Prophet's Song	god
+Doing All Right	Leaving Home Ain't Easy	god
+Doing All Right	The Prophet's Song	god
+Leaving Home Ain't Easy	The Prophet's Song	god
+In the Lap of the Gods	In the Lap of the Gods... Revisited	gods
+Somebody to Love	Tie Your Mother Down	goin
+Bring Back That Leroy Brown	Dead on Time	gonna
+Bring Back That Leroy Brown	Don't Stop Me Now	gonna
+Bring Back That Leroy Brown	Dreamer's Ball	gonna
+Bring Back That Leroy Brown	Fat Bottomed Girls	gonna
+Bring Back That Leroy Brown	Fun It	gonna
+Bring Back That Leroy Brown	Great King Rat	gonna
+Bring Back That Leroy Brown	If You Can't Beat Them	gonna
+Bring Back That Leroy Brown	Let Me Entertain You	gonna
+Bring Back That Leroy Brown	Liar	gonna
+Bring Back That Leroy Brown	Modern Times Rock 'N' Roll	gonna
+Bring Back That Leroy Brown	More of That Jazz	gonna
+Bring Back That Leroy Brown	Somebody to Love	gonna
+Bring Back That Leroy Brown	Son and Daughter	gonna
+Bring Back That Leroy Brown	Stone Cold Crazy	gonna
+Bring Back That Leroy Brown	Tie Your Mother Down	gonna
+Bring Back That Leroy Brown	White Man	gonna
+Bring Back That Leroy Brown	You and I	gonna
+Dead on Time	Don't Stop Me Now	gonna
+Dead on Time	Dreamer's Ball	gonna
+Dead on Time	Fat Bottomed Girls	gonna
+Dead on Time	Fun It	gonna
+Dead on Time	Great King Rat	gonna
+Dead on Time	If You Can't Beat Them	gonna
+Dead on Time	Let Me Entertain You	gonna
+Dead on Time	Liar	gonna
+Dead on Time	Modern Times Rock 'N' Roll	gonna
+Dead on Time	More of That Jazz	gonna
+Dead on Time	Somebody to Love	gonna
+Dead on Time	Son and Daughter	gonna
+Dead on Time	Stone Cold Crazy	gonna
+Dead on Time	Tie Your Mother Down	gonna
+Dead on Time	White Man	gonna
+Dead on Time	You and I	gonna
+Don't Stop Me Now	Dreamer's Ball	gonna
+Don't Stop Me Now	Fat Bottomed Girls	gonna
+Don't Stop Me Now	Fun It	gonna
+Don't Stop Me Now	Great King Rat	gonna
+Don't Stop Me Now	If You Can't Beat Them	gonna
+Don't Stop Me Now	Let Me Entertain You	gonna
+Don't Stop Me Now	Liar	gonna
+Don't Stop Me Now	Modern Times Rock 'N' Roll	gonna
+Don't Stop Me Now	More of That Jazz	gonna
+Don't Stop Me Now	Somebody to Love	gonna
+Don't Stop Me Now	Son and Daughter	gonna
+Don't Stop Me Now	Stone Cold Crazy	gonna
+Don't Stop Me Now	Tie Your Mother Down	gonna
+Don't Stop Me Now	White Man	gonna
+Don't Stop Me Now	You and I	gonna
+Dreamer's Ball	Fat Bottomed Girls	gonna
+Dreamer's Ball	Fun It	gonna
+Dreamer's Ball	Great King Rat	gonna
+Dreamer's Ball	If You Can't Beat Them	gonna
+Dreamer's Ball	Let Me Entertain You	gonna
+Dreamer's Ball	Liar	gonna
+Dreamer's Ball	Modern Times Rock 'N' Roll	gonna
+Dreamer's Ball	More of That Jazz	gonna
+Dreamer's Ball	Somebody to Love	gonna
+Dreamer's Ball	Son and Daughter	gonna
+Dreamer's Ball	Stone Cold Crazy	gonna
+Dreamer's Ball	Tie Your Mother Down	gonna
+Dreamer's Ball	White Man	gonna
+Dreamer's Ball	You and I	gonna
+Fat Bottomed Girls	Fun It	gonna
+Fat Bottomed Girls	Great King Rat	gonna
+Fat Bottomed Girls	If You Can't Beat Them	gonna
+Fat Bottomed Girls	Let Me Entertain You	gonna
+Fat Bottomed Girls	Liar	gonna
+Fat Bottomed Girls	Modern Times Rock 'N' Roll	gonna
+Fat Bottomed Girls	More of That Jazz	gonna
+Fat Bottomed Girls	Somebody to Love	gonna
+Fat Bottomed Girls	Son and Daughter	gonna
+Fat Bottomed Girls	Stone Cold Crazy	gonna
+Fat Bottomed Girls	Tie Your Mother Down	gonna
+Fat Bottomed Girls	White Man	gonna
+Fat Bottomed Girls	You and I	gonna
+Fun It	Great King Rat	gonna
+Fun It	If You Can't Beat Them	gonna
+Fun It	Let Me Entertain You	gonna
+Fun It	Liar	gonna
+Fun It	Modern Times Rock 'N' Roll	gonna
+Fun It	More of That Jazz	gonna
+Fun It	Somebody to Love	gonna
+Fun It	Son and Daughter	gonna
+Fun It	Stone Cold Crazy	gonna
+Fun It	Tie Your Mother Down	gonna
+Fun It	White Man	gonna
+Fun It	You and I	gonna
+Great King Rat	If You Can't Beat Them	gonna
+Great King Rat	Let Me Entertain You	gonna
+Great King Rat	Liar	gonna
+Great King Rat	Modern Times Rock 'N' Roll	gonna
+Great King Rat	More of That Jazz	gonna
+Great King Rat	Somebody to Love	gonna
+Great King Rat	Son and Daughter	gonna
+Great King Rat	Stone Cold Crazy	gonna
+Great King Rat	Tie Your Mother Down	gonna
+Great King Rat	White Man	gonna
+Great King Rat	You and I	gonna
+If You Can't Beat Them	Let Me Entertain You	gonna
+If You Can't Beat Them	Liar	gonna
+If You Can't Beat Them	Modern Times Rock 'N' Roll	gonna
+If You Can't Beat Them	More of That Jazz	gonna
+If You Can't Beat Them	Somebody to Love	gonna
+If You Can't Beat Them	Son and Daughter	gonna
+If You Can't Beat Them	Stone Cold Crazy	gonna
+If You Can't Beat Them	Tie Your Mother Down	gonna
+If You Can't Beat Them	White Man	gonna
+If You Can't Beat Them	You and I	gonna
+Let Me Entertain You	Liar	gonna
+Let Me Entertain You	Modern Times Rock 'N' Roll	gonna
+Let Me Entertain You	More of That Jazz	gonna
+Let Me Entertain You	Somebody to Love	gonna
+Let Me Entertain You	Son and Daughter	gonna
+Let Me Entertain You	Stone Cold Crazy	gonna
+Let Me Entertain You	Tie Your Mother Down	gonna
+Let Me Entertain You	White Man	gonna
+Let Me Entertain You	You and I	gonna
+Liar	Modern Times Rock 'N' Roll	gonna
+Liar	More of That Jazz	gonna
+Liar	Somebody to Love	gonna
+Liar	Son and Daughter	gonna
+Liar	Stone Cold Crazy	gonna
+Liar	Tie Your Mother Down	gonna
+Liar	White Man	gonna
+Liar	You and I	gonna
+Modern Times Rock 'N' Roll	More of That Jazz	gonna
+Modern Times Rock 'N' Roll	Somebody to Love	gonna
+Modern Times Rock 'N' Roll	Son and Daughter	gonna
+Modern Times Rock 'N' Roll	Stone Cold Crazy	gonna
+Modern Times Rock 'N' Roll	Tie Your Mother Down	gonna
+Modern Times Rock 'N' Roll	White Man	gonna
+Modern Times Rock 'N' Roll	You and I	gonna
+More of That Jazz	Somebody to Love	gonna
+More of That Jazz	Son and Daughter	gonna
+More of That Jazz	Stone Cold Crazy	gonna
+More of That Jazz	Tie Your Mother Down	gonna
+More of That Jazz	White Man	gonna
+More of That Jazz	You and I	gonna
+Somebody to Love	Son and Daughter	gonna
+Somebody to Love	Stone Cold Crazy	gonna
+Somebody to Love	Tie Your Mother Down	gonna
+Somebody to Love	White Man	gonna
+Somebody to Love	You and I	gonna
+Son and Daughter	Stone Cold Crazy	gonna
+Son and Daughter	Tie Your Mother Down	gonna
+Son and Daughter	White Man	gonna
+Son and Daughter	You and I	gonna
+Stone Cold Crazy	Tie Your Mother Down	gonna
+Stone Cold Crazy	White Man	gonna
+Stone Cold Crazy	You and I	gonna
+Tie Your Mother Down	White Man	gonna
+Tie Your Mother Down	You and I	gonna
+White Man	You and I	gonna
+Bohemian Rhapsody	Death on Two Legs (Dedicated to...)	goodbye
+Bohemian Rhapsody	Drowse	goodbye
+Bohemian Rhapsody	Flick of the Wrist	goodbye
+Death on Two Legs (Dedicated to...)	Drowse	goodbye
+Death on Two Legs (Dedicated to...)	Flick of the Wrist	goodbye
+Drowse	Flick of the Wrist	goodbye
+Bohemian Rhapsody	Bring Back That Leroy Brown	gotta
+Bohemian Rhapsody	Dead on Time	gotta
+Bohemian Rhapsody	In the Lap of the Gods... Revisited	gotta
+Bohemian Rhapsody	Somebody to Love	gotta
+Bohemian Rhapsody	Stone Cold Crazy	gotta
+Bohemian Rhapsody	The Night Comes Down	gotta
+Bohemian Rhapsody	Tie Your Mother Down	gotta
+Bohemian Rhapsody	You and I	gotta
+Bring Back That Leroy Brown	Dead on Time	gotta
+Bring Back That Leroy Brown	In the Lap of the Gods... Revisited	gotta
+Bring Back That Leroy Brown	Somebody to Love	gotta
+Bring Back That Leroy Brown	Stone Cold Crazy	gotta
+Bring Back That Leroy Brown	The Night Comes Down	gotta
+Bring Back That Leroy Brown	Tie Your Mother Down	gotta
+Bring Back That Leroy Brown	You and I	gotta
+Dead on Time	In the Lap of the Gods... Revisited	gotta
+Dead on Time	Somebody to Love	gotta
+Dead on Time	Stone Cold Crazy	gotta
+Dead on Time	The Night Comes Down	gotta
+Dead on Time	Tie Your Mother Down	gotta
+Dead on Time	You and I	gotta
+In the Lap of the Gods... Revisited	Somebody to Love	gotta
+In the Lap of the Gods... Revisited	Stone Cold Crazy	gotta
+In the Lap of the Gods... Revisited	The Night Comes Down	gotta
+In the Lap of the Gods... Revisited	Tie Your Mother Down	gotta
+In the Lap of the Gods... Revisited	You and I	gotta
+Somebody to Love	Stone Cold Crazy	gotta
+Somebody to Love	The Night Comes Down	gotta
+Somebody to Love	Tie Your Mother Down	gotta
+Somebody to Love	You and I	gotta
+Stone Cold Crazy	The Night Comes Down	gotta
+Stone Cold Crazy	Tie Your Mother Down	gotta
+Stone Cold Crazy	You and I	gotta
+The Night Comes Down	Tie Your Mother Down	gotta
+The Night Comes Down	You and I	gotta
+Tie Your Mother Down	You and I	gotta
+The Prophet's Song	White Man	green
+'39	The Night Comes Down	grey
+'39	The Prophet's Song	grey
+The Night Comes Down	The Prophet's Song	grey
+Good Old-Fashioned Lover Boy	Keep Yourself Alive	grow
+Good Old-Fashioned Lover Boy	Lily of the Valley	grow
+Good Old-Fashioned Lover Boy	Love of My Life	grow
+Good Old-Fashioned Lover Boy	She Makes Me (Stormtrooper In Stilettos)	grow
+Good Old-Fashioned Lover Boy	Teo Torriatte (Let Us Cling Together)	grow
+Keep Yourself Alive	Lily of the Valley	grow
+Keep Yourself Alive	Love of My Life	grow
+Keep Yourself Alive	She Makes Me (Stormtrooper In Stilettos)	grow
+Keep Yourself Alive	Teo Torriatte (Let Us Cling Together)	grow
+Lily of the Valley	Love of My Life	grow
+Lily of the Valley	She Makes Me (Stormtrooper In Stilettos)	grow
+Lily of the Valley	Teo Torriatte (Let Us Cling Together)	grow
+Love of My Life	She Makes Me (Stormtrooper In Stilettos)	grow
+Love of My Life	Teo Torriatte (Let Us Cling Together)	grow
+She Makes Me (Stormtrooper In Stilettos)	Teo Torriatte (Let Us Cling Together)	grow
+Modern Times Rock 'N' Roll	Tenement Funster	guitar
+Bohemian Rhapsody	I’m in Love with My Car	gun
+Bohemian Rhapsody	Misfire	gun
+Bohemian Rhapsody	Stone Cold Crazy	gun
+Bohemian Rhapsody	White Man	gun
+I’m in Love with My Car	Misfire	gun
+I’m in Love with My Car	Stone Cold Crazy	gun
+I’m in Love with My Car	White Man	gun
+Misfire	Stone Cold Crazy	gun
+Misfire	White Man	gun
+Stone Cold Crazy	White Man	gun
+Death on Two Legs (Dedicated to...)	Lazing on a Sunday Afternoon	guy
+Death on Two Legs (Dedicated to...)	Tie Your Mother Down	guy
+Lazing on a Sunday Afternoon	Tie Your Mother Down	guy
+If You Can't Beat Them	Let Me Entertain You	ha
+'39	Jesus	hand
+'39	My Fairy King	hand
+'39	Now I'm Here	hand
+'39	The Prophet's Song	hand
+'39	Tie Your Mother Down	hand
+Jesus	My Fairy King	hand
+Jesus	Now I'm Here	hand
+Jesus	The Prophet's Song	hand
+Jesus	Tie Your Mother Down	hand
+My Fairy King	Now I'm Here	hand
+My Fairy King	The Prophet's Song	hand
+My Fairy King	Tie Your Mother Down	hand
+Now I'm Here	The Prophet's Song	hand
+Now I'm Here	Tie Your Mother Down	hand
+The Prophet's Song	Tie Your Mother Down	hand
+If You Can't Beat Them	The Millionaire Waltz	hands
+If You Can't Beat Them	White Man	hands
+The Millionaire Waltz	White Man	hands
+Fat Bottomed Girls	More of That Jazz	hang
+If You Can't Beat Them	More of That Jazz	hanging
+In Only Seven Days	Modern Times Rock 'N' Roll	happen
+Brighton Rock	Dead on Time	happy
+Brighton Rock	Good Company	happy
+Brighton Rock	Leaving Home Ain't Easy	happy
+Brighton Rock	The Millionaire Waltz	happy
+Brighton Rock	You and I	happy
+Brighton Rock	You're My Best Friend	happy
+Dead on Time	Good Company	happy
+Dead on Time	Leaving Home Ain't Easy	happy
+Dead on Time	The Millionaire Waltz	happy
+Dead on Time	You and I	happy
+Dead on Time	You're My Best Friend	happy
+Good Company	Leaving Home Ain't Easy	happy
+Good Company	The Millionaire Waltz	happy
+Good Company	You and I	happy
+Good Company	You're My Best Friend	happy
+Leaving Home Ain't Easy	The Millionaire Waltz	happy
+Leaving Home Ain't Easy	You and I	happy
+Leaving Home Ain't Easy	You're My Best Friend	happy
+The Millionaire Waltz	You and I	happy
+The Millionaire Waltz	You're My Best Friend	happy
+You and I	You're My Best Friend	happy
+Drowse	Modern Times Rock 'N' Roll	hard
+Drowse	Somebody to Love	hard
+Modern Times Rock 'N' Roll	Somebody to Love	hard
+Keep Yourself Alive	The Prophet's Song	haze
+Bohemian Rhapsody	Bring Back That Leroy Brown	head
+Bohemian Rhapsody	Dead on Time	head
+Bohemian Rhapsody	Flick of the Wrist	head
+Bohemian Rhapsody	Jesus	head
+Bring Back That Leroy Brown	Dead on Time	head
+Bring Back That Leroy Brown	Flick of the Wrist	head
+Bring Back That Leroy Brown	Jesus	head
+Dead on Time	Flick of the Wrist	head
+Dead on Time	Jesus	head
+Flick of the Wrist	Jesus	head
+'39	She Makes Me (Stormtrooper In Stilettos)	heal
+'39	Great King Rat	hear
+'39	I’m in Love with My Car	hear
+'39	Teo Torriatte (Let Us Cling Together)	hear
+'39	The Prophet's Song	hear
+'39	You and I	hear
+Great King Rat	I’m in Love with My Car	hear
+Great King Rat	Teo Torriatte (Let Us Cling Together)	hear
+Great King Rat	The Prophet's Song	hear
+Great King Rat	You and I	hear
+I’m in Love with My Car	Teo Torriatte (Let Us Cling Together)	hear
+I’m in Love with My Car	The Prophet's Song	hear
+I’m in Love with My Car	You and I	hear
+Teo Torriatte (Let Us Cling Together)	The Prophet's Song	hear
+Teo Torriatte (Let Us Cling Together)	You and I	hear
+The Prophet's Song	You and I	hear
+Jesus	More of That Jazz	heard
+Jesus	The Prophet's Song	heard
+Jesus	Tie Your Mother Down	heard
+More of That Jazz	The Prophet's Song	heard
+More of That Jazz	Tie Your Mother Down	heard
+The Prophet's Song	Tie Your Mother Down	heard
+Death on Two Legs (Dedicated to...)	Flick of the Wrist	heart
+Death on Two Legs (Dedicated to...)	Good Old-Fashioned Lover Boy	heart
+Death on Two Legs (Dedicated to...)	Jealousy	heart
+Death on Two Legs (Dedicated to...)	Long Away	heart
+Death on Two Legs (Dedicated to...)	Love of My Life	heart
+Death on Two Legs (Dedicated to...)	She Makes Me (Stormtrooper In Stilettos)	heart
+Death on Two Legs (Dedicated to...)	Teo Torriatte (Let Us Cling Together)	heart
+Death on Two Legs (Dedicated to...)	Tie Your Mother Down	heart
+Death on Two Legs (Dedicated to...)	You Take My Breath Away	heart
+Flick of the Wrist	Good Old-Fashioned Lover Boy	heart
+Flick of the Wrist	Jealousy	heart
+Flick of the Wrist	Long Away	heart
+Flick of the Wrist	Love of My Life	heart
+Flick of the Wrist	She Makes Me (Stormtrooper In Stilettos)	heart
+Flick of the Wrist	Teo Torriatte (Let Us Cling Together)	heart
+Flick of the Wrist	Tie Your Mother Down	heart
+Flick of the Wrist	You Take My Breath Away	heart
+Good Old-Fashioned Lover Boy	Jealousy	heart
+Good Old-Fashioned Lover Boy	Long Away	heart
+Good Old-Fashioned Lover Boy	Love of My Life	heart
+Good Old-Fashioned Lover Boy	She Makes Me (Stormtrooper In Stilettos)	heart
+Good Old-Fashioned Lover Boy	Teo Torriatte (Let Us Cling Together)	heart
+Good Old-Fashioned Lover Boy	Tie Your Mother Down	heart
+Good Old-Fashioned Lover Boy	You Take My Breath Away	heart
+Jealousy	Long Away	heart
+Jealousy	Love of My Life	heart
+Jealousy	She Makes Me (Stormtrooper In Stilettos)	heart
+Jealousy	Teo Torriatte (Let Us Cling Together)	heart
+Jealousy	Tie Your Mother Down	heart
+Jealousy	You Take My Breath Away	heart
+Long Away	Love of My Life	heart
+Long Away	She Makes Me (Stormtrooper In Stilettos)	heart
+Long Away	Teo Torriatte (Let Us Cling Together)	heart
+Long Away	Tie Your Mother Down	heart
+Long Away	You Take My Breath Away	heart
+Love of My Life	She Makes Me (Stormtrooper In Stilettos)	heart
+Love of My Life	Teo Torriatte (Let Us Cling Together)	heart
+Love of My Life	Tie Your Mother Down	heart
+Love of My Life	You Take My Breath Away	heart
+She Makes Me (Stormtrooper In Stilettos)	Teo Torriatte (Let Us Cling Together)	heart
+She Makes Me (Stormtrooper In Stilettos)	Tie Your Mother Down	heart
+She Makes Me (Stormtrooper In Stilettos)	You Take My Breath Away	heart
+Teo Torriatte (Let Us Cling Together)	Tie Your Mother Down	heart
+Teo Torriatte (Let Us Cling Together)	You Take My Breath Away	heart
+Tie Your Mother Down	You Take My Breath Away	heart
+'39	The Prophet's Song	hearts
+Bring Back That Leroy Brown	Good Old-Fashioned Lover Boy	heat
+Long Away	My Fairy King	heaven
+Long Away	Son and Daughter	heaven
+Long Away	Stone Cold Crazy	heaven
+My Fairy King	Son and Daughter	heaven
+My Fairy King	Stone Cold Crazy	heaven
+Son and Daughter	Stone Cold Crazy	heaven
+My Fairy King	Stone Cold Crazy	hell
+My Fairy King	The Prophet's Song	hell
+My Fairy King	White Man	hell
+Stone Cold Crazy	The Prophet's Song	hell
+Stone Cold Crazy	White Man	hell
+The Prophet's Song	White Man	hell
+Bicycle Race	Dead on Time	hey
+Bicycle Race	Don't Stop Me Now	hey
+Bicycle Race	Dreamer's Ball	hey
+Bicycle Race	Fat Bottomed Girls	hey
+Bicycle Race	Fun It	hey
+Bicycle Race	Good Old-Fashioned Lover Boy	hey
+Bicycle Race	If You Can't Beat Them	hey
+Bicycle Race	Let Me Entertain You	hey
+Bicycle Race	Mustapha	hey
+Dead on Time	Don't Stop Me Now	hey
+Dead on Time	Dreamer's Ball	hey
+Dead on Time	Fat Bottomed Girls	hey
+Dead on Time	Fun It	hey
+Dead on Time	Good Old-Fashioned Lover Boy	hey
+Dead on Time	If You Can't Beat Them	hey
+Dead on Time	Let Me Entertain You	hey
+Dead on Time	Mustapha	hey
+Don't Stop Me Now	Dreamer's Ball	hey
+Don't Stop Me Now	Fat Bottomed Girls	hey
+Don't Stop Me Now	Fun It	hey
+Don't Stop Me Now	Good Old-Fashioned Lover Boy	hey
+Don't Stop Me Now	If You Can't Beat Them	hey
+Don't Stop Me Now	Let Me Entertain You	hey
+Don't Stop Me Now	Mustapha	hey
+Dreamer's Ball	Fat Bottomed Girls	hey
+Dreamer's Ball	Fun It	hey
+Dreamer's Ball	Good Old-Fashioned Lover Boy	hey
+Dreamer's Ball	If You Can't Beat Them	hey
+Dreamer's Ball	Let Me Entertain You	hey
+Dreamer's Ball	Mustapha	hey
+Fat Bottomed Girls	Fun It	hey
+Fat Bottomed Girls	Good Old-Fashioned Lover Boy	hey
+Fat Bottomed Girls	If You Can't Beat Them	hey
+Fat Bottomed Girls	Let Me Entertain You	hey
+Fat Bottomed Girls	Mustapha	hey
+Fun It	Good Old-Fashioned Lover Boy	hey
+Fun It	If You Can't Beat Them	hey
+Fun It	Let Me Entertain You	hey
+Fun It	Mustapha	hey
+Good Old-Fashioned Lover Boy	If You Can't Beat Them	hey
+Good Old-Fashioned Lover Boy	Let Me Entertain You	hey
+Good Old-Fashioned Lover Boy	Mustapha	hey
+If You Can't Beat Them	Let Me Entertain You	hey
+If You Can't Beat Them	Mustapha	hey
+Let Me Entertain You	Mustapha	hey
+Death on Two Legs (Dedicated to...)	Doing All Right	hide
+Death on Two Legs (Dedicated to...)	If You Can't Beat Them	hide
+Death on Two Legs (Dedicated to...)	My Fairy King	hide
+Death on Two Legs (Dedicated to...)	White Man	hide
+Doing All Right	If You Can't Beat Them	hide
+Doing All Right	My Fairy King	hide
+Doing All Right	White Man	hide
+If You Can't Beat Them	My Fairy King	hide
+If You Can't Beat Them	White Man	hide
+My Fairy King	White Man	hide
+Bring Back That Leroy Brown	Great King Rat	hit
+Bring Back That Leroy Brown	Misfire	hit
+Bring Back That Leroy Brown	Modern Times Rock 'N' Roll	hit
+Great King Rat	Misfire	hit
+Great King Rat	Modern Times Rock 'N' Roll	hit
+Misfire	Modern Times Rock 'N' Roll	hit
+Dreamer's Ball	Drowse	hold
+Dreamer's Ball	Good Old-Fashioned Lover Boy	hold
+Dreamer's Ball	Jealousy	hold
+Dreamer's Ball	Misfire	hold
+Dreamer's Ball	Sweet Lady	hold
+Dreamer's Ball	Teo Torriatte (Let Us Cling Together)	hold
+Drowse	Good Old-Fashioned Lover Boy	hold
+Drowse	Jealousy	hold
+Drowse	Misfire	hold
+Drowse	Sweet Lady	hold
+Drowse	Teo Torriatte (Let Us Cling Together)	hold
+Good Old-Fashioned Lover Boy	Jealousy	hold
+Good Old-Fashioned Lover Boy	Misfire	hold
+Good Old-Fashioned Lover Boy	Sweet Lady	hold
+Good Old-Fashioned Lover Boy	Teo Torriatte (Let Us Cling Together)	hold
+Jealousy	Misfire	hold
+Jealousy	Sweet Lady	hold
+Jealousy	Teo Torriatte (Let Us Cling Together)	hold
+Misfire	Sweet Lady	hold
+Misfire	Teo Torriatte (Let Us Cling Together)	hold
+Sweet Lady	Teo Torriatte (Let Us Cling Together)	hold
+I’m in Love with My Car	The Millionaire Waltz	holding
+I’m in Love with My Car	The Night Comes Down	holding
+The Millionaire Waltz	The Night Comes Down	holding
+Brighton Rock	In Only Seven Days	holiday
+'39	Fat Bottomed Girls	home
+'39	In Only Seven Days	home
+'39	Leaving Home Ain't Easy	home
+'39	Long Away	home
+'39	Love of My Life	home
+'39	Somebody to Love	home
+'39	Sweet Lady	home
+'39	You're My Best Friend	home
+Fat Bottomed Girls	In Only Seven Days	home
+Fat Bottomed Girls	Leaving Home Ain't Easy	home
+Fat Bottomed Girls	Long Away	home
+Fat Bottomed Girls	Love of My Life	home
+Fat Bottomed Girls	Somebody to Love	home
+Fat Bottomed Girls	Sweet Lady	home
+Fat Bottomed Girls	You're My Best Friend	home
+In Only Seven Days	Leaving Home Ain't Easy	home
+In Only Seven Days	Long Away	home
+In Only Seven Days	Love of My Life	home
+In Only Seven Days	Somebody to Love	home
+In Only Seven Days	Sweet Lady	home
+In Only Seven Days	You're My Best Friend	home
+Leaving Home Ain't Easy	Long Away	home
+Leaving Home Ain't Easy	Love of My Life	home
+Leaving Home Ain't Easy	Somebody to Love	home
+Leaving Home Ain't Easy	Sweet Lady	home
+Leaving Home Ain't Easy	You're My Best Friend	home
+Long Away	Love of My Life	home
+Long Away	Somebody to Love	home
+Long Away	Sweet Lady	home
+Long Away	You're My Best Friend	home
+Love of My Life	Somebody to Love	home
+Love of My Life	Sweet Lady	home
+Love of My Life	You're My Best Friend	home
+Somebody to Love	Sweet Lady	home
+Somebody to Love	You're My Best Friend	home
+Sweet Lady	You're My Best Friend	home
+Bring Back That Leroy Brown	Dead on Time	honey
+Bring Back That Leroy Brown	Don't Stop Me Now	honey
+Bring Back That Leroy Brown	Dreamer's Ball	honey
+Bring Back That Leroy Brown	Flick of the Wrist	honey
+Bring Back That Leroy Brown	Fun It	honey
+Bring Back That Leroy Brown	Keep Yourself Alive	honey
+Bring Back That Leroy Brown	Misfire	honey
+Bring Back That Leroy Brown	My Fairy King	honey
+Bring Back That Leroy Brown	You're My Best Friend	honey
+Dead on Time	Don't Stop Me Now	honey
+Dead on Time	Dreamer's Ball	honey
+Dead on Time	Flick of the Wrist	honey
+Dead on Time	Fun It	honey
+Dead on Time	Keep Yourself Alive	honey
+Dead on Time	Misfire	honey
+Dead on Time	My Fairy King	honey
+Dead on Time	You're My Best Friend	honey
+Don't Stop Me Now	Dreamer's Ball	honey
+Don't Stop Me Now	Flick of the Wrist	honey
+Don't Stop Me Now	Fun It	honey
+Don't Stop Me Now	Keep Yourself Alive	honey
+Don't Stop Me Now	Misfire	honey
+Don't Stop Me Now	My Fairy King	honey
+Don't Stop Me Now	You're My Best Friend	honey
+Dreamer's Ball	Flick of the Wrist	honey
+Dreamer's Ball	Fun It	honey
+Dreamer's Ball	Keep Yourself Alive	honey
+Dreamer's Ball	Misfire	honey
+Dreamer's Ball	My Fairy King	honey
+Dreamer's Ball	You're My Best Friend	honey
+Flick of the Wrist	Fun It	honey
+Flick of the Wrist	Keep Yourself Alive	honey
+Flick of the Wrist	Misfire	honey
+Flick of the Wrist	My Fairy King	honey
+Flick of the Wrist	You're My Best Friend	honey
+Fun It	Keep Yourself Alive	honey
+Fun It	Misfire	honey
+Fun It	My Fairy King	honey
+Fun It	You're My Best Friend	honey
+Keep Yourself Alive	Misfire	honey
+Keep Yourself Alive	My Fairy King	honey
+Keep Yourself Alive	You're My Best Friend	honey
+Misfire	My Fairy King	honey
+Misfire	You're My Best Friend	honey
+My Fairy King	You're My Best Friend	honey
+Bring Back That Leroy Brown	If You Can't Beat Them	hoo
+Dear Friends	The Prophet's Song	hopes
+Bicycle Race	Death on Two Legs (Dedicated to...)	hot
+Bicycle Race	Good Old-Fashioned Lover Boy	hot
+Death on Two Legs (Dedicated to...)	Good Old-Fashioned Lover Boy	hot
+Good Company	In Only Seven Days	hours
+Good Company	The Millionaire Waltz	hours
+In Only Seven Days	The Millionaire Waltz	hours
+Flick of the Wrist	The Prophet's Song	human
+Don't Stop Me Now	In Only Seven Days	hundred
+Dead on Time	Long Away	hurry
+Dead on Time	Love of My Life	hurry
+Long Away	Love of My Life	hurry
+Jealousy	Love of My Life	hurt
+Death on Two Legs (Dedicated to...)	If You Can't Beat Them	hurts
+'39	Death on Two Legs (Dedicated to...)	inside
+'39	Don't Stop Me Now	inside
+'39	If You Can't Beat Them	inside
+'39	Seaside Rendezvous	inside
+'39	Sweet Lady	inside
+'39	The Night Comes Down	inside
+'39	Tie Your Mother Down	inside
+'39	You Take My Breath Away	inside
+Death on Two Legs (Dedicated to...)	Don't Stop Me Now	inside
+Death on Two Legs (Dedicated to...)	If You Can't Beat Them	inside
+Death on Two Legs (Dedicated to...)	Seaside Rendezvous	inside
+Death on Two Legs (Dedicated to...)	Sweet Lady	inside
+Death on Two Legs (Dedicated to...)	The Night Comes Down	inside
+Death on Two Legs (Dedicated to...)	Tie Your Mother Down	inside
+Death on Two Legs (Dedicated to...)	You Take My Breath Away	inside
+Don't Stop Me Now	If You Can't Beat Them	inside
+Don't Stop Me Now	Seaside Rendezvous	inside
+Don't Stop Me Now	Sweet Lady	inside
+Don't Stop Me Now	The Night Comes Down	inside
+Don't Stop Me Now	Tie Your Mother Down	inside
+Don't Stop Me Now	You Take My Breath Away	inside
+If You Can't Beat Them	Seaside Rendezvous	inside
+If You Can't Beat Them	Sweet Lady	inside
+If You Can't Beat Them	The Night Comes Down	inside
+If You Can't Beat Them	Tie Your Mother Down	inside
+If You Can't Beat Them	You Take My Breath Away	inside
+Seaside Rendezvous	Sweet Lady	inside
+Seaside Rendezvous	The Night Comes Down	inside
+Seaside Rendezvous	Tie Your Mother Down	inside
+Seaside Rendezvous	You Take My Breath Away	inside
+Sweet Lady	The Night Comes Down	inside
+Sweet Lady	Tie Your Mother Down	inside
+Sweet Lady	You Take My Breath Away	inside
+The Night Comes Down	Tie Your Mother Down	inside
+The Night Comes Down	You Take My Breath Away	inside
+Tie Your Mother Down	You Take My Breath Away	inside
+Let Me Entertain You	More of That Jazz	jazz
+Jealousy	She Makes Me (Stormtrooper In Stilettos)	jealous
+Bicycle Race	Jesus	jesus
+Fun It	I’m in Love with My Car	jive
+Fun It	If You Can't Beat Them	join
+Fun It	More of That Jazz	join
+If You Can't Beat Them	More of That Jazz	join
+Doing All Right	Dreamer's Ball	joy
+Death on Two Legs (Dedicated to...)	Great King Rat	king
+Death on Two Legs (Dedicated to...)	Lily of the Valley	king
+Death on Two Legs (Dedicated to...)	My Fairy King	king
+Great King Rat	Lily of the Valley	king
+Great King Rat	My Fairy King	king
+Lily of the Valley	My Fairy King	king
+Death on Two Legs (Dedicated to...)	Flick of the Wrist	kiss
+Death on Two Legs (Dedicated to...)	Seaside Rendezvous	kiss
+Death on Two Legs (Dedicated to...)	You Take My Breath Away	kiss
+Flick of the Wrist	Seaside Rendezvous	kiss
+Flick of the Wrist	You Take My Breath Away	kiss
+Seaside Rendezvous	You Take My Breath Away	kiss
+Flick of the Wrist	Good Company	knee
+My Fairy King	White Man	knives
+In the Lap of the Gods... Revisited	Let Me Entertain You	la
+In the Lap of the Gods... Revisited	Seaside Rendezvous	la
+In the Lap of the Gods... Revisited	The Prophet's Song	la
+Let Me Entertain You	Seaside Rendezvous	la
+Let Me Entertain You	The Prophet's Song	la
+Seaside Rendezvous	The Prophet's Song	la
+Fat Bottomed Girls	Let Me Entertain You	ladies
+Brighton Rock	Don't Stop Me Now	lady
+Brighton Rock	Sweet Lady	lady
+Don't Stop Me Now	Sweet Lady	lady
+Brighton Rock	Dead on Time	laid
+Brighton Rock	The Millionaire Waltz	laid
+Dead on Time	The Millionaire Waltz	laid
+'39	Dead on Time	land
+'39	Fat Bottomed Girls	land
+'39	Jesus	land
+'39	My Fairy King	land
+'39	The Prophet's Song	land
+'39	White Man	land
+Dead on Time	Fat Bottomed Girls	land
+Dead on Time	Jesus	land
+Dead on Time	My Fairy King	land
+Dead on Time	The Prophet's Song	land
+Dead on Time	White Man	land
+Fat Bottomed Girls	Jesus	land
+Fat Bottomed Girls	My Fairy King	land
+Fat Bottomed Girls	The Prophet's Song	land
+Fat Bottomed Girls	White Man	land
+Jesus	My Fairy King	land
+Jesus	The Prophet's Song	land
+Jesus	White Man	land
+My Fairy King	The Prophet's Song	land
+My Fairy King	White Man	land
+The Prophet's Song	White Man	land
+In the Lap of the Gods	In the Lap of the Gods... Revisited	lap
+Bohemian Rhapsody	The Prophet's Song	late
+In the Lap of the Gods... Revisited	The Night Comes Down	laugh
+In the Lap of the Gods... Revisited	The Prophet's Song	laugh
+The Night Comes Down	The Prophet's Song	laugh
+Death on Two Legs (Dedicated to...)	Great King Rat	law
+Death on Two Legs (Dedicated to...)	Stone Cold Crazy	law
+Great King Rat	Stone Cold Crazy	law
+Leaving Home Ain't Easy	More of That Jazz	lay
+Son and Daughter	Sweet Lady	lead
+Good Old-Fashioned Lover Boy	Teo Torriatte (Let Us Cling Together)	learned
+Good Old-Fashioned Lover Boy	White Man	learned
+Teo Torriatte (Let Us Cling Together)	White Man	learned
+Bohemian Rhapsody	Dead on Time	leave
+Bohemian Rhapsody	Great King Rat	leave
+Bohemian Rhapsody	In Only Seven Days	leave
+Bohemian Rhapsody	In the Lap of the Gods	leave
+Bohemian Rhapsody	Liar	leave
+Bohemian Rhapsody	Long Away	leave
+Bohemian Rhapsody	Love of My Life	leave
+Bohemian Rhapsody	Now I'm Here	leave
+Bohemian Rhapsody	She Makes Me (Stormtrooper In Stilettos)	leave
+Bohemian Rhapsody	White Man	leave
+Bohemian Rhapsody	You Take My Breath Away	leave
+Dead on Time	Great King Rat	leave
+Dead on Time	In Only Seven Days	leave
+Dead on Time	In the Lap of the Gods	leave
+Dead on Time	Liar	leave
+Dead on Time	Long Away	leave
+Dead on Time	Love of My Life	leave
+Dead on Time	Now I'm Here	leave
+Dead on Time	She Makes Me (Stormtrooper In Stilettos)	leave
+Dead on Time	White Man	leave
+Dead on Time	You Take My Breath Away	leave
+Great King Rat	In Only Seven Days	leave
+Great King Rat	In the Lap of the Gods	leave
+Great King Rat	Liar	leave
+Great King Rat	Long Away	leave
+Great King Rat	Love of My Life	leave
+Great King Rat	Now I'm Here	leave
+Great King Rat	She Makes Me (Stormtrooper In Stilettos)	leave
+Great King Rat	White Man	leave
+Great King Rat	You Take My Breath Away	leave
+In Only Seven Days	In the Lap of the Gods	leave
+In Only Seven Days	Liar	leave
+In Only Seven Days	Long Away	leave
+In Only Seven Days	Love of My Life	leave
+In Only Seven Days	Now I'm Here	leave
+In Only Seven Days	She Makes Me (Stormtrooper In Stilettos)	leave
+In Only Seven Days	White Man	leave
+In Only Seven Days	You Take My Breath Away	leave
+In the Lap of the Gods	Liar	leave
+In the Lap of the Gods	Long Away	leave
+In the Lap of the Gods	Love of My Life	leave
+In the Lap of the Gods	Now I'm Here	leave
+In the Lap of the Gods	She Makes Me (Stormtrooper In Stilettos)	leave
+In the Lap of the Gods	White Man	leave
+In the Lap of the Gods	You Take My Breath Away	leave
+Liar	Long Away	leave
+Liar	Love of My Life	leave
+Liar	Now I'm Here	leave
+Liar	She Makes Me (Stormtrooper In Stilettos)	leave
+Liar	White Man	leave
+Liar	You Take My Breath Away	leave
+Long Away	Love of My Life	leave
+Long Away	Now I'm Here	leave
+Long Away	She Makes Me (Stormtrooper In Stilettos)	leave
+Long Away	White Man	leave
+Long Away	You Take My Breath Away	leave
+Love of My Life	Now I'm Here	leave
+Love of My Life	She Makes Me (Stormtrooper In Stilettos)	leave
+Love of My Life	White Man	leave
+Love of My Life	You Take My Breath Away	leave
+Now I'm Here	She Makes Me (Stormtrooper In Stilettos)	leave
+Now I'm Here	White Man	leave
+Now I'm Here	You Take My Breath Away	leave
+She Makes Me (Stormtrooper In Stilettos)	White Man	leave
+She Makes Me (Stormtrooper In Stilettos)	You Take My Breath Away	leave
+White Man	You Take My Breath Away	leave
+Leaving Home Ain't Easy	Long Away	leaving
+Dreamer's Ball	Fat Bottomed Girls	left
+Dreamer's Ball	Jealousy	left
+Dreamer's Ball	Somebody to Love	left
+Dreamer's Ball	White Man	left
+Fat Bottomed Girls	Jealousy	left
+Fat Bottomed Girls	Somebody to Love	left
+Fat Bottomed Girls	White Man	left
+Jealousy	Somebody to Love	left
+Jealousy	White Man	left
+Somebody to Love	White Man	left
+Brighton Rock	Good Old-Fashioned Lover Boy	letter
+Flick of the Wrist	Great King Rat	lie
+Flick of the Wrist	Lily of the Valley	lie
+Flick of the Wrist	She Makes Me (Stormtrooper In Stilettos)	lie
+Flick of the Wrist	You and I	lie
+Great King Rat	Lily of the Valley	lie
+Great King Rat	She Makes Me (Stormtrooper In Stilettos)	lie
+Great King Rat	You and I	lie
+Lily of the Valley	She Makes Me (Stormtrooper In Stilettos)	lie
+Lily of the Valley	You and I	lie
+She Makes Me (Stormtrooper In Stilettos)	You and I	lie
+Dead on Time	More of That Jazz	lies
+Dead on Time	White Man	lies
+More of That Jazz	White Man	lies
+'39	Bohemian Rhapsody	life
+'39	Dear Friends	life
+'39	Doing All Right	life
+'39	Dreamer's Ball	life
+'39	Drowse	life
+'39	Fat Bottomed Girls	life
+'39	In the Lap of the Gods	life
+'39	In the Lap of the Gods... Revisited	life
+'39	Jealousy	life
+'39	Love of My Life	life
+'39	Somebody to Love	life
+'39	Tenement Funster	life
+'39	Teo Torriatte (Let Us Cling Together)	life
+'39	The Prophet's Song	life
+'39	You and I	life
+'39	You Take My Breath Away	life
+Bohemian Rhapsody	Dear Friends	life
+Bohemian Rhapsody	Doing All Right	life
+Bohemian Rhapsody	Dreamer's Ball	life
+Bohemian Rhapsody	Drowse	life
+Bohemian Rhapsody	Fat Bottomed Girls	life
+Bohemian Rhapsody	In the Lap of the Gods	life
+Bohemian Rhapsody	In the Lap of the Gods... Revisited	life
+Bohemian Rhapsody	Jealousy	life
+Bohemian Rhapsody	Love of My Life	life
+Bohemian Rhapsody	Somebody to Love	life
+Bohemian Rhapsody	Tenement Funster	life
+Bohemian Rhapsody	Teo Torriatte (Let Us Cling Together)	life
+Bohemian Rhapsody	The Prophet's Song	life
+Bohemian Rhapsody	You and I	life
+Bohemian Rhapsody	You Take My Breath Away	life
+Dear Friends	Doing All Right	life
+Dear Friends	Dreamer's Ball	life
+Dear Friends	Drowse	life
+Dear Friends	Fat Bottomed Girls	life
+Dear Friends	In the Lap of the Gods	life
+Dear Friends	In the Lap of the Gods... Revisited	life
+Dear Friends	Jealousy	life
+Dear Friends	Love of My Life	life
+Dear Friends	Somebody to Love	life
+Dear Friends	Tenement Funster	life
+Dear Friends	Teo Torriatte (Let Us Cling Together)	life
+Dear Friends	The Prophet's Song	life
+Dear Friends	You and I	life
+Dear Friends	You Take My Breath Away	life
+Doing All Right	Dreamer's Ball	life
+Doing All Right	Drowse	life
+Doing All Right	Fat Bottomed Girls	life
+Doing All Right	In the Lap of the Gods	life
+Doing All Right	In the Lap of the Gods... Revisited	life
+Doing All Right	Jealousy	life
+Doing All Right	Love of My Life	life
+Doing All Right	Somebody to Love	life
+Doing All Right	Tenement Funster	life
+Doing All Right	Teo Torriatte (Let Us Cling Together)	life
+Doing All Right	The Prophet's Song	life
+Doing All Right	You and I	life
+Doing All Right	You Take My Breath Away	life
+Dreamer's Ball	Drowse	life
+Dreamer's Ball	Fat Bottomed Girls	life
+Dreamer's Ball	In the Lap of the Gods	life
+Dreamer's Ball	In the Lap of the Gods... Revisited	life
+Dreamer's Ball	Jealousy	life
+Dreamer's Ball	Love of My Life	life
+Dreamer's Ball	Somebody to Love	life
+Dreamer's Ball	Tenement Funster	life
+Dreamer's Ball	Teo Torriatte (Let Us Cling Together)	life
+Dreamer's Ball	The Prophet's Song	life
+Dreamer's Ball	You and I	life
+Dreamer's Ball	You Take My Breath Away	life
+Drowse	Fat Bottomed Girls	life
+Drowse	In the Lap of the Gods	life
+Drowse	In the Lap of the Gods... Revisited	life
+Drowse	Jealousy	life
+Drowse	Love of My Life	life
+Drowse	Somebody to Love	life
+Drowse	Tenement Funster	life
+Drowse	Teo Torriatte (Let Us Cling Together)	life
+Drowse	The Prophet's Song	life
+Drowse	You and I	life
+Drowse	You Take My Breath Away	life
+Fat Bottomed Girls	In the Lap of the Gods	life
+Fat Bottomed Girls	In the Lap of the Gods... Revisited	life
+Fat Bottomed Girls	Jealousy	life
+Fat Bottomed Girls	Love of My Life	life
+Fat Bottomed Girls	Somebody to Love	life
+Fat Bottomed Girls	Tenement Funster	life
+Fat Bottomed Girls	Teo Torriatte (Let Us Cling Together)	life
+Fat Bottomed Girls	The Prophet's Song	life
+Fat Bottomed Girls	You and I	life
+Fat Bottomed Girls	You Take My Breath Away	life
+In the Lap of the Gods	In the Lap of the Gods... Revisited	life
+In the Lap of the Gods	Jealousy	life
+In the Lap of the Gods	Love of My Life	life
+In the Lap of the Gods	Somebody to Love	life
+In the Lap of the Gods	Tenement Funster	life
+In the Lap of the Gods	Teo Torriatte (Let Us Cling Together)	life
+In the Lap of the Gods	The Prophet's Song	life
+In the Lap of the Gods	You and I	life
+In the Lap of the Gods	You Take My Breath Away	life
+In the Lap of the Gods... Revisited	Jealousy	life
+In the Lap of the Gods... Revisited	Love of My Life	life
+In the Lap of the Gods... Revisited	Somebody to Love	life
+In the Lap of the Gods... Revisited	Tenement Funster	life
+In the Lap of the Gods... Revisited	Teo Torriatte (Let Us Cling Together)	life
+In the Lap of the Gods... Revisited	The Prophet's Song	life
+In the Lap of the Gods... Revisited	You and I	life
+In the Lap of the Gods... Revisited	You Take My Breath Away	life
+Jealousy	Love of My Life	life
+Jealousy	Somebody to Love	life
+Jealousy	Tenement Funster	life
+Jealousy	Teo Torriatte (Let Us Cling Together)	life
+Jealousy	The Prophet's Song	life
+Jealousy	You and I	life
+Jealousy	You Take My Breath Away	life
+Love of My Life	Somebody to Love	life
+Love of My Life	Tenement Funster	life
+Love of My Life	Teo Torriatte (Let Us Cling Together)	life
+Love of My Life	The Prophet's Song	life
+Love of My Life	You and I	life
+Love of My Life	You Take My Breath Away	life
+Somebody to Love	Tenement Funster	life
+Somebody to Love	Teo Torriatte (Let Us Cling Together)	life
+Somebody to Love	The Prophet's Song	life
+Somebody to Love	You and I	life
+Somebody to Love	You Take My Breath Away	life
+Tenement Funster	Teo Torriatte (Let Us Cling Together)	life
+Tenement Funster	The Prophet's Song	life
+Tenement Funster	You and I	life
+Tenement Funster	You Take My Breath Away	life
+Teo Torriatte (Let Us Cling Together)	The Prophet's Song	life
+Teo Torriatte (Let Us Cling Together)	You and I	life
+Teo Torriatte (Let Us Cling Together)	You Take My Breath Away	life
+The Prophet's Song	You and I	life
+The Prophet's Song	You Take My Breath Away	life
+You and I	You Take My Breath Away	life
+Good Company	Long Away	life's
+Good Company	Modern Times Rock 'N' Roll	life's
+Long Away	Modern Times Rock 'N' Roll	life's
+Don't Stop Me Now	Long Away	light
+Don't Stop Me Now	Now I'm Here	light
+Don't Stop Me Now	Tenement Funster	light
+Don't Stop Me Now	Tie Your Mother Down	light
+Don't Stop Me Now	White Man	light
+Long Away	Now I'm Here	light
+Long Away	Tenement Funster	light
+Long Away	Tie Your Mother Down	light
+Long Away	White Man	light
+Now I'm Here	Tenement Funster	light
+Now I'm Here	Tie Your Mother Down	light
+Now I'm Here	White Man	light
+Tenement Funster	Tie Your Mother Down	light
+Tenement Funster	White Man	light
+Tie Your Mother Down	White Man	light
+Drowse	Good Old-Fashioned Lover Boy	lights
+Drowse	Let Me Entertain You	lights
+Drowse	Long Away	lights
+Good Old-Fashioned Lover Boy	Let Me Entertain You	lights
+Good Old-Fashioned Lover Boy	Long Away	lights
+Let Me Entertain You	Long Away	lights
+Great King Rat	Let Me Entertain You	line
+Great King Rat	More of That Jazz	line
+Great King Rat	Tenement Funster	line
+Let Me Entertain You	More of That Jazz	line
+Let Me Entertain You	Tenement Funster	line
+More of That Jazz	Tenement Funster	line
+Fat Bottomed Girls	Great King Rat	listen
+Fat Bottomed Girls	I’m in Love with My Car	listen
+Fat Bottomed Girls	Let Me Entertain You	listen
+Fat Bottomed Girls	Liar	listen
+Fat Bottomed Girls	Modern Times Rock 'N' Roll	listen
+Fat Bottomed Girls	The Prophet's Song	listen
+Great King Rat	I’m in Love with My Car	listen
+Great King Rat	Let Me Entertain You	listen
+Great King Rat	Liar	listen
+Great King Rat	Modern Times Rock 'N' Roll	listen
+Great King Rat	The Prophet's Song	listen
+I’m in Love with My Car	Let Me Entertain You	listen
+I’m in Love with My Car	Liar	listen
+I’m in Love with My Car	Modern Times Rock 'N' Roll	listen
+I’m in Love with My Car	The Prophet's Song	listen
+Let Me Entertain You	Liar	listen
+Let Me Entertain You	Modern Times Rock 'N' Roll	listen
+Let Me Entertain You	The Prophet's Song	listen
+Liar	Modern Times Rock 'N' Roll	listen
+Liar	The Prophet's Song	listen
+Modern Times Rock 'N' Roll	The Prophet's Song	listen
+In the Lap of the Gods	Jealousy	live
+In the Lap of the Gods	Long Away	live
+In the Lap of the Gods	Now I'm Here	live
+In the Lap of the Gods	Teo Torriatte (Let Us Cling Together)	live
+In the Lap of the Gods	You're My Best Friend	live
+Jealousy	Long Away	live
+Jealousy	Now I'm Here	live
+Jealousy	Teo Torriatte (Let Us Cling Together)	live
+Jealousy	You're My Best Friend	live
+Long Away	Now I'm Here	live
+Long Away	Teo Torriatte (Let Us Cling Together)	live
+Long Away	You're My Best Friend	live
+Now I'm Here	Teo Torriatte (Let Us Cling Together)	live
+Now I'm Here	You're My Best Friend	live
+Teo Torriatte (Let Us Cling Together)	You're My Best Friend	live
+'39	If You Can't Beat Them	lonely
+'39	Long Away	lonely
+'39	More of That Jazz	lonely
+'39	You Take My Breath Away	lonely
+'39	You're My Best Friend	lonely
+If You Can't Beat Them	Long Away	lonely
+If You Can't Beat Them	More of That Jazz	lonely
+If You Can't Beat Them	You Take My Breath Away	lonely
+If You Can't Beat Them	You're My Best Friend	lonely
+Long Away	More of That Jazz	lonely
+Long Away	You Take My Breath Away	lonely
+Long Away	You're My Best Friend	lonely
+More of That Jazz	You Take My Breath Away	lonely
+More of That Jazz	You're My Best Friend	lonely
+You Take My Breath Away	You're My Best Friend	lonely
+'39	In Only Seven Days	looked
+Don't Stop Me Now	Stone Cold Crazy	loose
+Bicycle Race	Great King Rat	lord
+Bicycle Race	Jesus	lord
+Bicycle Race	Somebody to Love	lord
+Great King Rat	Jesus	lord
+Great King Rat	Somebody to Love	lord
+Jesus	Somebody to Love	lord
+Jealousy	Teo Torriatte (Let Us Cling Together)	lose
+Jealousy	Tie Your Mother Down	lose
+Jealousy	You Take My Breath Away	lose
+Teo Torriatte (Let Us Cling Together)	Tie Your Mother Down	lose
+Teo Torriatte (Let Us Cling Together)	You Take My Breath Away	lose
+Tie Your Mother Down	You Take My Breath Away	lose
+Somebody to Love	The Night Comes Down	losing
+Dear Friends	Lily of the Valley	lost
+Dear Friends	My Fairy King	lost
+Dear Friends	The Prophet's Song	lost
+Lily of the Valley	My Fairy King	lost
+Lily of the Valley	The Prophet's Song	lost
+My Fairy King	The Prophet's Song	lost
+Bring Back That Leroy Brown	Jesus	lot
+Bring Back That Leroy Brown	Let Me Entertain You	lot
+Bring Back That Leroy Brown	Somebody to Love	lot
+Jesus	Let Me Entertain You	lot
+Jesus	Somebody to Love	lot
+Let Me Entertain You	Somebody to Love	lot
+'39	Bohemian Rhapsody	love
+'39	Brighton Rock	love
+'39	Dear Friends	love
+'39	Dreamer's Ball	love
+'39	Good Old-Fashioned Lover Boy	love
+'39	I’m in Love with My Car	love
+'39	Jealousy	love
+'39	Leaving Home Ain't Easy	love
+'39	Long Away	love
+'39	Love of My Life	love
+'39	Now I'm Here	love
+'39	Seaside Rendezvous	love
+'39	She Makes Me (Stormtrooper In Stilettos)	love
+'39	Somebody to Love	love
+'39	Teo Torriatte (Let Us Cling Together)	love
+'39	The Millionaire Waltz	love
+'39	The Prophet's Song	love
+'39	Tie Your Mother Down	love
+'39	You and I	love
+'39	You Take My Breath Away	love
+'39	You're My Best Friend	love
+Bohemian Rhapsody	Brighton Rock	love
+Bohemian Rhapsody	Dear Friends	love
+Bohemian Rhapsody	Dreamer's Ball	love
+Bohemian Rhapsody	Good Old-Fashioned Lover Boy	love
+Bohemian Rhapsody	I’m in Love with My Car	love
+Bohemian Rhapsody	Jealousy	love
+Bohemian Rhapsody	Leaving Home Ain't Easy	love
+Bohemian Rhapsody	Long Away	love
+Bohemian Rhapsody	Love of My Life	love
+Bohemian Rhapsody	Now I'm Here	love
+Bohemian Rhapsody	Seaside Rendezvous	love
+Bohemian Rhapsody	She Makes Me (Stormtrooper In Stilettos)	love
+Bohemian Rhapsody	Somebody to Love	love
+Bohemian Rhapsody	Teo Torriatte (Let Us Cling Together)	love
+Bohemian Rhapsody	The Millionaire Waltz	love
+Bohemian Rhapsody	The Prophet's Song	love
+Bohemian Rhapsody	Tie Your Mother Down	love
+Bohemian Rhapsody	You and I	love
+Bohemian Rhapsody	You Take My Breath Away	love
+Bohemian Rhapsody	You're My Best Friend	love
+Brighton Rock	Dear Friends	love
+Brighton Rock	Dreamer's Ball	love
+Brighton Rock	Good Old-Fashioned Lover Boy	love
+Brighton Rock	I’m in Love with My Car	love
+Brighton Rock	Jealousy	love
+Brighton Rock	Leaving Home Ain't Easy	love
+Brighton Rock	Long Away	love
+Brighton Rock	Love of My Life	love
+Brighton Rock	Now I'm Here	love
+Brighton Rock	Seaside Rendezvous	love
+Brighton Rock	She Makes Me (Stormtrooper In Stilettos)	love
+Brighton Rock	Somebody to Love	love
+Brighton Rock	Teo Torriatte (Let Us Cling Together)	love
+Brighton Rock	The Millionaire Waltz	love
+Brighton Rock	The Prophet's Song	love
+Brighton Rock	Tie Your Mother Down	love
+Brighton Rock	You and I	love
+Brighton Rock	You Take My Breath Away	love
+Brighton Rock	You're My Best Friend	love
+Dear Friends	Dreamer's Ball	love
+Dear Friends	Good Old-Fashioned Lover Boy	love
+Dear Friends	I’m in Love with My Car	love
+Dear Friends	Jealousy	love
+Dear Friends	Leaving Home Ain't Easy	love
+Dear Friends	Long Away	love
+Dear Friends	Love of My Life	love
+Dear Friends	Now I'm Here	love
+Dear Friends	Seaside Rendezvous	love
+Dear Friends	She Makes Me (Stormtrooper In Stilettos)	love
+Dear Friends	Somebody to Love	love
+Dear Friends	Teo Torriatte (Let Us Cling Together)	love
+Dear Friends	The Millionaire Waltz	love
+Dear Friends	The Prophet's Song	love
+Dear Friends	Tie Your Mother Down	love
+Dear Friends	You and I	love
+Dear Friends	You Take My Breath Away	love
+Dear Friends	You're My Best Friend	love
+Dreamer's Ball	Good Old-Fashioned Lover Boy	love
+Dreamer's Ball	I’m in Love with My Car	love
+Dreamer's Ball	Jealousy	love
+Dreamer's Ball	Leaving Home Ain't Easy	love
+Dreamer's Ball	Long Away	love
+Dreamer's Ball	Love of My Life	love
+Dreamer's Ball	Now I'm Here	love
+Dreamer's Ball	Seaside Rendezvous	love
+Dreamer's Ball	She Makes Me (Stormtrooper In Stilettos)	love
+Dreamer's Ball	Somebody to Love	love
+Dreamer's Ball	Teo Torriatte (Let Us Cling Together)	love
+Dreamer's Ball	The Millionaire Waltz	love
+Dreamer's Ball	The Prophet's Song	love
+Dreamer's Ball	Tie Your Mother Down	love
+Dreamer's Ball	You and I	love
+Dreamer's Ball	You Take My Breath Away	love
+Dreamer's Ball	You're My Best Friend	love
+Good Old-Fashioned Lover Boy	I’m in Love with My Car	love
+Good Old-Fashioned Lover Boy	Jealousy	love
+Good Old-Fashioned Lover Boy	Leaving Home Ain't Easy	love
+Good Old-Fashioned Lover Boy	Long Away	love
+Good Old-Fashioned Lover Boy	Love of My Life	love
+Good Old-Fashioned Lover Boy	Now I'm Here	love
+Good Old-Fashioned Lover Boy	Seaside Rendezvous	love
+Good Old-Fashioned Lover Boy	She Makes Me (Stormtrooper In Stilettos)	love
+Good Old-Fashioned Lover Boy	Somebody to Love	love
+Good Old-Fashioned Lover Boy	Teo Torriatte (Let Us Cling Together)	love
+Good Old-Fashioned Lover Boy	The Millionaire Waltz	love
+Good Old-Fashioned Lover Boy	The Prophet's Song	love
+Good Old-Fashioned Lover Boy	Tie Your Mother Down	love
+Good Old-Fashioned Lover Boy	You and I	love
+Good Old-Fashioned Lover Boy	You Take My Breath Away	love
+Good Old-Fashioned Lover Boy	You're My Best Friend	love
+I’m in Love with My Car	Jealousy	love
+I’m in Love with My Car	Leaving Home Ain't Easy	love
+I’m in Love with My Car	Long Away	love
+I’m in Love with My Car	Love of My Life	love
+I’m in Love with My Car	Now I'm Here	love
+I’m in Love with My Car	Seaside Rendezvous	love
+I’m in Love with My Car	She Makes Me (Stormtrooper In Stilettos)	love
+I’m in Love with My Car	Somebody to Love	love
+I’m in Love with My Car	Teo Torriatte (Let Us Cling Together)	love
+I’m in Love with My Car	The Millionaire Waltz	love
+I’m in Love with My Car	The Prophet's Song	love
+I’m in Love with My Car	Tie Your Mother Down	love
+I’m in Love with My Car	You and I	love
+I’m in Love with My Car	You Take My Breath Away	love
+I’m in Love with My Car	You're My Best Friend	love
+Jealousy	Leaving Home Ain't Easy	love
+Jealousy	Long Away	love
+Jealousy	Love of My Life	love
+Jealousy	Now I'm Here	love
+Jealousy	Seaside Rendezvous	love
+Jealousy	She Makes Me (Stormtrooper In Stilettos)	love
+Jealousy	Somebody to Love	love
+Jealousy	Teo Torriatte (Let Us Cling Together)	love
+Jealousy	The Millionaire Waltz	love
+Jealousy	The Prophet's Song	love
+Jealousy	Tie Your Mother Down	love
+Jealousy	You and I	love
+Jealousy	You Take My Breath Away	love
+Jealousy	You're My Best Friend	love
+Leaving Home Ain't Easy	Long Away	love
+Leaving Home Ain't Easy	Love of My Life	love
+Leaving Home Ain't Easy	Now I'm Here	love
+Leaving Home Ain't Easy	Seaside Rendezvous	love
+Leaving Home Ain't Easy	She Makes Me (Stormtrooper In Stilettos)	love
+Leaving Home Ain't Easy	Somebody to Love	love
+Leaving Home Ain't Easy	Teo Torriatte (Let Us Cling Together)	love
+Leaving Home Ain't Easy	The Millionaire Waltz	love
+Leaving Home Ain't Easy	The Prophet's Song	love
+Leaving Home Ain't Easy	Tie Your Mother Down	love
+Leaving Home Ain't Easy	You and I	love
+Leaving Home Ain't Easy	You Take My Breath Away	love
+Leaving Home Ain't Easy	You're My Best Friend	love
+Long Away	Love of My Life	love
+Long Away	Now I'm Here	love
+Long Away	Seaside Rendezvous	love
+Long Away	She Makes Me (Stormtrooper In Stilettos)	love
+Long Away	Somebody to Love	love
+Long Away	Teo Torriatte (Let Us Cling Together)	love
+Long Away	The Millionaire Waltz	love
+Long Away	The Prophet's Song	love
+Long Away	Tie Your Mother Down	love
+Long Away	You and I	love
+Long Away	You Take My Breath Away	love
+Long Away	You're My Best Friend	love
+Love of My Life	Now I'm Here	love
+Love of My Life	Seaside Rendezvous	love
+Love of My Life	She Makes Me (Stormtrooper In Stilettos)	love
+Love of My Life	Somebody to Love	love
+Love of My Life	Teo Torriatte (Let Us Cling Together)	love
+Love of My Life	The Millionaire Waltz	love
+Love of My Life	The Prophet's Song	love
+Love of My Life	Tie Your Mother Down	love
+Love of My Life	You and I	love
+Love of My Life	You Take My Breath Away	love
+Love of My Life	You're My Best Friend	love
+Now I'm Here	Seaside Rendezvous	love
+Now I'm Here	She Makes Me (Stormtrooper In Stilettos)	love
+Now I'm Here	Somebody to Love	love
+Now I'm Here	Teo Torriatte (Let Us Cling Together)	love
+Now I'm Here	The Millionaire Waltz	love
+Now I'm Here	The Prophet's Song	love
+Now I'm Here	Tie Your Mother Down	love
+Now I'm Here	You and I	love
+Now I'm Here	You Take My Breath Away	love
+Now I'm Here	You're My Best Friend	love
+Seaside Rendezvous	She Makes Me (Stormtrooper In Stilettos)	love
+Seaside Rendezvous	Somebody to Love	love
+Seaside Rendezvous	Teo Torriatte (Let Us Cling Together)	love
+Seaside Rendezvous	The Millionaire Waltz	love
+Seaside Rendezvous	The Prophet's Song	love
+Seaside Rendezvous	Tie Your Mother Down	love
+Seaside Rendezvous	You and I	love
+Seaside Rendezvous	You Take My Breath Away	love
+Seaside Rendezvous	You're My Best Friend	love
+She Makes Me (Stormtrooper In Stilettos)	Somebody to Love	love
+She Makes Me (Stormtrooper In Stilettos)	Teo Torriatte (Let Us Cling Together)	love
+She Makes Me (Stormtrooper In Stilettos)	The Millionaire Waltz	love
+She Makes Me (Stormtrooper In Stilettos)	The Prophet's Song	love
+She Makes Me (Stormtrooper In Stilettos)	Tie Your Mother Down	love
+She Makes Me (Stormtrooper In Stilettos)	You and I	love
+She Makes Me (Stormtrooper In Stilettos)	You Take My Breath Away	love
+She Makes Me (Stormtrooper In Stilettos)	You're My Best Friend	love
+Somebody to Love	Teo Torriatte (Let Us Cling Together)	love
+Somebody to Love	The Millionaire Waltz	love
+Somebody to Love	The Prophet's Song	love
+Somebody to Love	Tie Your Mother Down	love
+Somebody to Love	You and I	love
+Somebody to Love	You Take My Breath Away	love
+Somebody to Love	You're My Best Friend	love
+Teo Torriatte (Let Us Cling Together)	The Millionaire Waltz	love
+Teo Torriatte (Let Us Cling Together)	The Prophet's Song	love
+Teo Torriatte (Let Us Cling Together)	Tie Your Mother Down	love
+Teo Torriatte (Let Us Cling Together)	You and I	love
+Teo Torriatte (Let Us Cling Together)	You Take My Breath Away	love
+Teo Torriatte (Let Us Cling Together)	You're My Best Friend	love
+The Millionaire Waltz	The Prophet's Song	love
+The Millionaire Waltz	Tie Your Mother Down	love
+The Millionaire Waltz	You and I	love
+The Millionaire Waltz	You Take My Breath Away	love
+The Millionaire Waltz	You're My Best Friend	love
+The Prophet's Song	Tie Your Mother Down	love
+The Prophet's Song	You and I	love
+The Prophet's Song	You Take My Breath Away	love
+The Prophet's Song	You're My Best Friend	love
+Tie Your Mother Down	You and I	love
+Tie Your Mother Down	You Take My Breath Away	love
+Tie Your Mother Down	You're My Best Friend	love
+You and I	You Take My Breath Away	love
+You and I	You're My Best Friend	love
+You Take My Breath Away	You're My Best Friend	love
+Son and Daughter	Tie Your Mother Down	loving
+Bohemian Rhapsody	Lily of the Valley	low
+Bohemian Rhapsody	Mustapha	low
+Lily of the Valley	Mustapha	low
+Don't Stop Me Now	Flick of the Wrist	machine
+Don't Stop Me Now	I’m in Love with My Car	machine
+Flick of the Wrist	I’m in Love with My Car	machine
+Flick of the Wrist	The Millionaire Waltz	mad
+Brighton Rock	My Fairy King	magic
+If You Can't Beat Them	She Makes Me (Stormtrooper In Stilettos)	makes
+Bohemian Rhapsody	Bring Back That Leroy Brown	mama
+Bohemian Rhapsody	Great King Rat	mama
+Bohemian Rhapsody	Liar	mama
+Bring Back That Leroy Brown	Great King Rat	mama
+Bring Back That Leroy Brown	Liar	mama
+Great King Rat	Liar	mama
+Don't Stop Me Now	Liar	mars
+Bohemian Rhapsody	Dead on Time	matter
+Bohemian Rhapsody	More of That Jazz	matter
+Bohemian Rhapsody	Seaside Rendezvous	matter
+Dead on Time	More of That Jazz	matter
+Dead on Time	Seaside Rendezvous	matter
+More of That Jazz	Seaside Rendezvous	matter
+Bohemian Rhapsody	Jealousy	matters
+Dreamer's Ball	Drowse	meet
+Dreamer's Ball	Fun It	meet
+Dreamer's Ball	Good Old-Fashioned Lover Boy	meet
+Dreamer's Ball	Stone Cold Crazy	meet
+Drowse	Fun It	meet
+Drowse	Good Old-Fashioned Lover Boy	meet
+Drowse	Stone Cold Crazy	meet
+Fun It	Good Old-Fashioned Lover Boy	meet
+Fun It	Stone Cold Crazy	meet
+Good Old-Fashioned Lover Boy	Stone Cold Crazy	meet
+Liar	My Fairy King	mercury
+Brighton Rock	Bring Back That Leroy Brown	met
+Brighton Rock	Killer Queen	met
+Bring Back That Leroy Brown	Killer Queen	met
+Keep Yourself Alive	Leaving Home Ain't Easy	million
+Keep Yourself Alive	Long Away	million
+Leaving Home Ain't Easy	Long Away	million
+Jealousy	Keep Yourself Alive	mind
+Jealousy	Killer Queen	mind
+Jealousy	You Take My Breath Away	mind
+Keep Yourself Alive	Killer Queen	mind
+Keep Yourself Alive	You Take My Breath Away	mind
+Killer Queen	You Take My Breath Away	mind
+Drowse	Flick of the Wrist	minds
+In the Lap of the Gods	Tie Your Mother Down	mine
+Good Old-Fashioned Lover Boy	Misfire	miss
+In Only Seven Days	Lazing on a Sunday Afternoon	monday
+Bring Back That Leroy Brown	Dead on Time	money
+Bring Back That Leroy Brown	Death on Two Legs (Dedicated to...)	money
+Bring Back That Leroy Brown	Flick of the Wrist	money
+Bring Back That Leroy Brown	If You Can't Beat Them	money
+Bring Back That Leroy Brown	In the Lap of the Gods... Revisited	money
+Bring Back That Leroy Brown	Keep Yourself Alive	money
+Dead on Time	Death on Two Legs (Dedicated to...)	money
+Dead on Time	Flick of the Wrist	money
+Dead on Time	If You Can't Beat Them	money
+Dead on Time	In the Lap of the Gods... Revisited	money
+Dead on Time	Keep Yourself Alive	money
+Death on Two Legs (Dedicated to...)	Flick of the Wrist	money
+Death on Two Legs (Dedicated to...)	If You Can't Beat Them	money
+Death on Two Legs (Dedicated to...)	In the Lap of the Gods... Revisited	money
+Death on Two Legs (Dedicated to...)	Keep Yourself Alive	money
+Flick of the Wrist	If You Can't Beat Them	money
+Flick of the Wrist	In the Lap of the Gods... Revisited	money
+Flick of the Wrist	Keep Yourself Alive	money
+If You Can't Beat Them	In the Lap of the Gods... Revisited	money
+If You Can't Beat Them	Keep Yourself Alive	money
+In the Lap of the Gods... Revisited	Keep Yourself Alive	money
+Brighton Rock	Long Away	moon
+Brighton Rock	Now I'm Here	moon
+Brighton Rock	Teo Torriatte (Let Us Cling Together)	moon
+Long Away	Now I'm Here	moon
+Long Away	Teo Torriatte (Let Us Cling Together)	moon
+Now I'm Here	Teo Torriatte (Let Us Cling Together)	moon
+Seaside Rendezvous	You and I	moonlight
+Dreamer's Ball	Fun It	morning
+Dreamer's Ball	Lazing on a Sunday Afternoon	morning
+Dreamer's Ball	Long Away	morning
+Dreamer's Ball	Somebody to Love	morning
+Dreamer's Ball	Stone Cold Crazy	morning
+Fun It	Lazing on a Sunday Afternoon	morning
+Fun It	Long Away	morning
+Fun It	Somebody to Love	morning
+Fun It	Stone Cold Crazy	morning
+Lazing on a Sunday Afternoon	Long Away	morning
+Lazing on a Sunday Afternoon	Somebody to Love	morning
+Lazing on a Sunday Afternoon	Stone Cold Crazy	morning
+Long Away	Somebody to Love	morning
+Long Away	Stone Cold Crazy	morning
+Somebody to Love	Stone Cold Crazy	morning
+Brighton Rock	My Fairy King	mother
+Brighton Rock	Tie Your Mother Down	mother
+My Fairy King	Tie Your Mother Down	mother
+'39	The Prophet's Song	mother's
+If You Can't Beat Them	Now I'm Here	move
+If You Can't Beat Them	You Take My Breath Away	move
+Now I'm Here	You Take My Breath Away	move
+The Millionaire Waltz	You and I	music
+'39	Bohemian Rhapsody	na
+'39	Brighton Rock	na
+'39	Dead on Time	na
+'39	Death on Two Legs (Dedicated to...)	na
+'39	Don't Stop Me Now	na
+'39	Dreamer's Ball	na
+'39	Flick of the Wrist	na
+'39	God Save the Queen	na
+'39	Good Old-Fashioned Lover Boy	na
+'39	Great King Rat	na
+'39	If You Can't Beat Them	na
+'39	Jesus	na
+'39	Killer Queen	na
+'39	Lazing on a Sunday Afternoon	na
+'39	Let Me Entertain You	na
+'39	Liar	na
+'39	Lily of the Valley	na
+'39	Love of My Life	na
+'39	Modern Times Rock 'N' Roll	na
+'39	More of That Jazz	na
+'39	Mustapha	na
+'39	Now I'm Here	na
+'39	Seaside Rendezvous	na
+'39	Seven Seas of Rhye... (Instrumental)	na
+'39	Somebody to Love	na
+'39	Stone Cold Crazy	na
+'39	Tenement Funster	na
+'39	Teo Torriatte (Let Us Cling Together)	na
+'39	The Millionaire Waltz	na
+'39	The Night Comes Down	na
+'39	The Prophet's Song	na
+'39	White Man	na
+'39	You and I	na
+'39	You Take My Breath Away	na
+'39	You're My Best Friend	na
+Bohemian Rhapsody	Brighton Rock	na
+Bohemian Rhapsody	Dead on Time	na
+Bohemian Rhapsody	Death on Two Legs (Dedicated to...)	na
+Bohemian Rhapsody	Don't Stop Me Now	na
+Bohemian Rhapsody	Dreamer's Ball	na
+Bohemian Rhapsody	Flick of the Wrist	na
+Bohemian Rhapsody	God Save the Queen	na
+Bohemian Rhapsody	Good Old-Fashioned Lover Boy	na
+Bohemian Rhapsody	Great King Rat	na
+Bohemian Rhapsody	If You Can't Beat Them	na
+Bohemian Rhapsody	Jesus	na
+Bohemian Rhapsody	Killer Queen	na
+Bohemian Rhapsody	Lazing on a Sunday Afternoon	na
+Bohemian Rhapsody	Let Me Entertain You	na
+Bohemian Rhapsody	Liar	na
+Bohemian Rhapsody	Lily of the Valley	na
+Bohemian Rhapsody	Love of My Life	na
+Bohemian Rhapsody	Modern Times Rock 'N' Roll	na
+Bohemian Rhapsody	More of That Jazz	na
+Bohemian Rhapsody	Mustapha	na
+Bohemian Rhapsody	Now I'm Here	na
+Bohemian Rhapsody	Seaside Rendezvous	na
+Bohemian Rhapsody	Seven Seas of Rhye... (Instrumental)	na
+Bohemian Rhapsody	Somebody to Love	na
+Bohemian Rhapsody	Stone Cold Crazy	na
+Bohemian Rhapsody	Tenement Funster	na
+Bohemian Rhapsody	Teo Torriatte (Let Us Cling Together)	na
+Bohemian Rhapsody	The Millionaire Waltz	na
+Bohemian Rhapsody	The Night Comes Down	na
+Bohemian Rhapsody	The Prophet's Song	na
+Bohemian Rhapsody	White Man	na
+Bohemian Rhapsody	You and I	na
+Bohemian Rhapsody	You Take My Breath Away	na
+Bohemian Rhapsody	You're My Best Friend	na
+Brighton Rock	Dead on Time	na
+Brighton Rock	Death on Two Legs (Dedicated to...)	na
+Brighton Rock	Don't Stop Me Now	na
+Brighton Rock	Dreamer's Ball	na
+Brighton Rock	Flick of the Wrist	na
+Brighton Rock	God Save the Queen	na
+Brighton Rock	Good Old-Fashioned Lover Boy	na
+Brighton Rock	Great King Rat	na
+Brighton Rock	If You Can't Beat Them	na
+Brighton Rock	Jesus	na
+Brighton Rock	Killer Queen	na
+Brighton Rock	Lazing on a Sunday Afternoon	na
+Brighton Rock	Let Me Entertain You	na
+Brighton Rock	Liar	na
+Brighton Rock	Lily of the Valley	na
+Brighton Rock	Love of My Life	na
+Brighton Rock	Modern Times Rock 'N' Roll	na
+Brighton Rock	More of That Jazz	na
+Brighton Rock	Mustapha	na
+Brighton Rock	Now I'm Here	na
+Brighton Rock	Seaside Rendezvous	na
+Brighton Rock	Seven Seas of Rhye... (Instrumental)	na
+Brighton Rock	Somebody to Love	na
+Brighton Rock	Stone Cold Crazy	na
+Brighton Rock	Tenement Funster	na
+Brighton Rock	Teo Torriatte (Let Us Cling Together)	na
+Brighton Rock	The Millionaire Waltz	na
+Brighton Rock	The Night Comes Down	na
+Brighton Rock	The Prophet's Song	na
+Brighton Rock	White Man	na
+Brighton Rock	You and I	na
+Brighton Rock	You Take My Breath Away	na
+Brighton Rock	You're My Best Friend	na
+Dead on Time	Death on Two Legs (Dedicated to...)	na
+Dead on Time	Don't Stop Me Now	na
+Dead on Time	Dreamer's Ball	na
+Dead on Time	Flick of the Wrist	na
+Dead on Time	God Save the Queen	na
+Dead on Time	Good Old-Fashioned Lover Boy	na
+Dead on Time	Great King Rat	na
+Dead on Time	If You Can't Beat Them	na
+Dead on Time	Jesus	na
+Dead on Time	Killer Queen	na
+Dead on Time	Lazing on a Sunday Afternoon	na
+Dead on Time	Let Me Entertain You	na
+Dead on Time	Liar	na
+Dead on Time	Lily of the Valley	na
+Dead on Time	Love of My Life	na
+Dead on Time	Modern Times Rock 'N' Roll	na
+Dead on Time	More of That Jazz	na
+Dead on Time	Mustapha	na
+Dead on Time	Now I'm Here	na
+Dead on Time	Seaside Rendezvous	na
+Dead on Time	Seven Seas of Rhye... (Instrumental)	na
+Dead on Time	Somebody to Love	na
+Dead on Time	Stone Cold Crazy	na
+Dead on Time	Tenement Funster	na
+Dead on Time	Teo Torriatte (Let Us Cling Together)	na
+Dead on Time	The Millionaire Waltz	na
+Dead on Time	The Night Comes Down	na
+Dead on Time	The Prophet's Song	na
+Dead on Time	White Man	na
+Dead on Time	You and I	na
+Dead on Time	You Take My Breath Away	na
+Dead on Time	You're My Best Friend	na
+Death on Two Legs (Dedicated to...)	Don't Stop Me Now	na
+Death on Two Legs (Dedicated to...)	Dreamer's Ball	na
+Death on Two Legs (Dedicated to...)	Flick of the Wrist	na
+Death on Two Legs (Dedicated to...)	God Save the Queen	na
+Death on Two Legs (Dedicated to...)	Good Old-Fashioned Lover Boy	na
+Death on Two Legs (Dedicated to...)	Great King Rat	na
+Death on Two Legs (Dedicated to...)	If You Can't Beat Them	na
+Death on Two Legs (Dedicated to...)	Jesus	na
+Death on Two Legs (Dedicated to...)	Killer Queen	na
+Death on Two Legs (Dedicated to...)	Lazing on a Sunday Afternoon	na
+Death on Two Legs (Dedicated to...)	Let Me Entertain You	na
+Death on Two Legs (Dedicated to...)	Liar	na
+Death on Two Legs (Dedicated to...)	Lily of the Valley	na
+Death on Two Legs (Dedicated to...)	Love of My Life	na
+Death on Two Legs (Dedicated to...)	Modern Times Rock 'N' Roll	na
+Death on Two Legs (Dedicated to...)	More of That Jazz	na
+Death on Two Legs (Dedicated to...)	Mustapha	na
+Death on Two Legs (Dedicated to...)	Now I'm Here	na
+Death on Two Legs (Dedicated to...)	Seaside Rendezvous	na
+Death on Two Legs (Dedicated to...)	Seven Seas of Rhye... (Instrumental)	na
+Death on Two Legs (Dedicated to...)	Somebody to Love	na
+Death on Two Legs (Dedicated to...)	Stone Cold Crazy	na
+Death on Two Legs (Dedicated to...)	Tenement Funster	na
+Death on Two Legs (Dedicated to...)	Teo Torriatte (Let Us Cling Together)	na
+Death on Two Legs (Dedicated to...)	The Millionaire Waltz	na
+Death on Two Legs (Dedicated to...)	The Night Comes Down	na
+Death on Two Legs (Dedicated to...)	The Prophet's Song	na
+Death on Two Legs (Dedicated to...)	White Man	na
+Death on Two Legs (Dedicated to...)	You and I	na
+Death on Two Legs (Dedicated to...)	You Take My Breath Away	na
+Death on Two Legs (Dedicated to...)	You're My Best Friend	na
+Don't Stop Me Now	Dreamer's Ball	na
+Don't Stop Me Now	Flick of the Wrist	na
+Don't Stop Me Now	God Save the Queen	na
+Don't Stop Me Now	Good Old-Fashioned Lover Boy	na
+Don't Stop Me Now	Great King Rat	na
+Don't Stop Me Now	If You Can't Beat Them	na
+Don't Stop Me Now	Jesus	na
+Don't Stop Me Now	Killer Queen	na
+Don't Stop Me Now	Lazing on a Sunday Afternoon	na
+Don't Stop Me Now	Let Me Entertain You	na
+Don't Stop Me Now	Liar	na
+Don't Stop Me Now	Lily of the Valley	na
+Don't Stop Me Now	Love of My Life	na
+Don't Stop Me Now	Modern Times Rock 'N' Roll	na
+Don't Stop Me Now	More of That Jazz	na
+Don't Stop Me Now	Mustapha	na
+Don't Stop Me Now	Now I'm Here	na
+Don't Stop Me Now	Seaside Rendezvous	na
+Don't Stop Me Now	Seven Seas of Rhye... (Instrumental)	na
+Don't Stop Me Now	Somebody to Love	na
+Don't Stop Me Now	Stone Cold Crazy	na
+Don't Stop Me Now	Tenement Funster	na
+Don't Stop Me Now	Teo Torriatte (Let Us Cling Together)	na
+Don't Stop Me Now	The Millionaire Waltz	na
+Don't Stop Me Now	The Night Comes Down	na
+Don't Stop Me Now	The Prophet's Song	na
+Don't Stop Me Now	White Man	na
+Don't Stop Me Now	You and I	na
+Don't Stop Me Now	You Take My Breath Away	na
+Don't Stop Me Now	You're My Best Friend	na
+Dreamer's Ball	Flick of the Wrist	na
+Dreamer's Ball	God Save the Queen	na
+Dreamer's Ball	Good Old-Fashioned Lover Boy	na
+Dreamer's Ball	Great King Rat	na
+Dreamer's Ball	If You Can't Beat Them	na
+Dreamer's Ball	Jesus	na
+Dreamer's Ball	Killer Queen	na
+Dreamer's Ball	Lazing on a Sunday Afternoon	na
+Dreamer's Ball	Let Me Entertain You	na
+Dreamer's Ball	Liar	na
+Dreamer's Ball	Lily of the Valley	na
+Dreamer's Ball	Love of My Life	na
+Dreamer's Ball	Modern Times Rock 'N' Roll	na
+Dreamer's Ball	More of That Jazz	na
+Dreamer's Ball	Mustapha	na
+Dreamer's Ball	Now I'm Here	na
+Dreamer's Ball	Seaside Rendezvous	na
+Dreamer's Ball	Seven Seas of Rhye... (Instrumental)	na
+Dreamer's Ball	Somebody to Love	na
+Dreamer's Ball	Stone Cold Crazy	na
+Dreamer's Ball	Tenement Funster	na
+Dreamer's Ball	Teo Torriatte (Let Us Cling Together)	na
+Dreamer's Ball	The Millionaire Waltz	na
+Dreamer's Ball	The Night Comes Down	na
+Dreamer's Ball	The Prophet's Song	na
+Dreamer's Ball	White Man	na
+Dreamer's Ball	You and I	na
+Dreamer's Ball	You Take My Breath Away	na
+Dreamer's Ball	You're My Best Friend	na
+Flick of the Wrist	God Save the Queen	na
+Flick of the Wrist	Good Old-Fashioned Lover Boy	na
+Flick of the Wrist	Great King Rat	na
+Flick of the Wrist	If You Can't Beat Them	na
+Flick of the Wrist	Jesus	na
+Flick of the Wrist	Killer Queen	na
+Flick of the Wrist	Lazing on a Sunday Afternoon	na
+Flick of the Wrist	Let Me Entertain You	na
+Flick of the Wrist	Liar	na
+Flick of the Wrist	Lily of the Valley	na
+Flick of the Wrist	Love of My Life	na
+Flick of the Wrist	Modern Times Rock 'N' Roll	na
+Flick of the Wrist	More of That Jazz	na
+Flick of the Wrist	Mustapha	na
+Flick of the Wrist	Now I'm Here	na
+Flick of the Wrist	Seaside Rendezvous	na
+Flick of the Wrist	Seven Seas of Rhye... (Instrumental)	na
+Flick of the Wrist	Somebody to Love	na
+Flick of the Wrist	Stone Cold Crazy	na
+Flick of the Wrist	Tenement Funster	na
+Flick of the Wrist	Teo Torriatte (Let Us Cling Together)	na
+Flick of the Wrist	The Millionaire Waltz	na
+Flick of the Wrist	The Night Comes Down	na
+Flick of the Wrist	The Prophet's Song	na
+Flick of the Wrist	White Man	na
+Flick of the Wrist	You and I	na
+Flick of the Wrist	You Take My Breath Away	na
+Flick of the Wrist	You're My Best Friend	na
+God Save the Queen	Good Old-Fashioned Lover Boy	na
+God Save the Queen	Great King Rat	na
+God Save the Queen	If You Can't Beat Them	na
+God Save the Queen	Jesus	na
+God Save the Queen	Killer Queen	na
+God Save the Queen	Lazing on a Sunday Afternoon	na
+God Save the Queen	Let Me Entertain You	na
+God Save the Queen	Liar	na
+God Save the Queen	Lily of the Valley	na
+God Save the Queen	Love of My Life	na
+God Save the Queen	Modern Times Rock 'N' Roll	na
+God Save the Queen	More of That Jazz	na
+God Save the Queen	Mustapha	na
+God Save the Queen	Now I'm Here	na
+God Save the Queen	Seaside Rendezvous	na
+God Save the Queen	Seven Seas of Rhye... (Instrumental)	na
+God Save the Queen	Somebody to Love	na
+God Save the Queen	Stone Cold Crazy	na
+God Save the Queen	Tenement Funster	na
+God Save the Queen	Teo Torriatte (Let Us Cling Together)	na
+God Save the Queen	The Millionaire Waltz	na
+God Save the Queen	The Night Comes Down	na
+God Save the Queen	The Prophet's Song	na
+God Save the Queen	White Man	na
+God Save the Queen	You and I	na
+God Save the Queen	You Take My Breath Away	na
+God Save the Queen	You're My Best Friend	na
+Good Old-Fashioned Lover Boy	Great King Rat	na
+Good Old-Fashioned Lover Boy	If You Can't Beat Them	na
+Good Old-Fashioned Lover Boy	Jesus	na
+Good Old-Fashioned Lover Boy	Killer Queen	na
+Good Old-Fashioned Lover Boy	Lazing on a Sunday Afternoon	na
+Good Old-Fashioned Lover Boy	Let Me Entertain You	na
+Good Old-Fashioned Lover Boy	Liar	na
+Good Old-Fashioned Lover Boy	Lily of the Valley	na
+Good Old-Fashioned Lover Boy	Love of My Life	na
+Good Old-Fashioned Lover Boy	Modern Times Rock 'N' Roll	na
+Good Old-Fashioned Lover Boy	More of That Jazz	na
+Good Old-Fashioned Lover Boy	Mustapha	na
+Good Old-Fashioned Lover Boy	Now I'm Here	na
+Good Old-Fashioned Lover Boy	Seaside Rendezvous	na
+Good Old-Fashioned Lover Boy	Seven Seas of Rhye... (Instrumental)	na
+Good Old-Fashioned Lover Boy	Somebody to Love	na
+Good Old-Fashioned Lover Boy	Stone Cold Crazy	na
+Good Old-Fashioned Lover Boy	Tenement Funster	na
+Good Old-Fashioned Lover Boy	Teo Torriatte (Let Us Cling Together)	na
+Good Old-Fashioned Lover Boy	The Millionaire Waltz	na
+Good Old-Fashioned Lover Boy	The Night Comes Down	na
+Good Old-Fashioned Lover Boy	The Prophet's Song	na
+Good Old-Fashioned Lover Boy	White Man	na
+Good Old-Fashioned Lover Boy	You and I	na
+Good Old-Fashioned Lover Boy	You Take My Breath Away	na
+Good Old-Fashioned Lover Boy	You're My Best Friend	na
+Great King Rat	If You Can't Beat Them	na
+Great King Rat	Jesus	na
+Great King Rat	Killer Queen	na
+Great King Rat	Lazing on a Sunday Afternoon	na
+Great King Rat	Let Me Entertain You	na
+Great King Rat	Liar	na
+Great King Rat	Lily of the Valley	na
+Great King Rat	Love of My Life	na
+Great King Rat	Modern Times Rock 'N' Roll	na
+Great King Rat	More of That Jazz	na
+Great King Rat	Mustapha	na
+Great King Rat	Now I'm Here	na
+Great King Rat	Seaside Rendezvous	na
+Great King Rat	Seven Seas of Rhye... (Instrumental)	na
+Great King Rat	Somebody to Love	na
+Great King Rat	Stone Cold Crazy	na
+Great King Rat	Tenement Funster	na
+Great King Rat	Teo Torriatte (Let Us Cling Together)	na
+Great King Rat	The Millionaire Waltz	na
+Great King Rat	The Night Comes Down	na
+Great King Rat	The Prophet's Song	na
+Great King Rat	White Man	na
+Great King Rat	You and I	na
+Great King Rat	You Take My Breath Away	na
+Great King Rat	You're My Best Friend	na
+If You Can't Beat Them	Jesus	na
+If You Can't Beat Them	Killer Queen	na
+If You Can't Beat Them	Lazing on a Sunday Afternoon	na
+If You Can't Beat Them	Let Me Entertain You	na
+If You Can't Beat Them	Liar	na
+If You Can't Beat Them	Lily of the Valley	na
+If You Can't Beat Them	Love of My Life	na
+If You Can't Beat Them	Modern Times Rock 'N' Roll	na
+If You Can't Beat Them	More of That Jazz	na
+If You Can't Beat Them	Mustapha	na
+If You Can't Beat Them	Now I'm Here	na
+If You Can't Beat Them	Seaside Rendezvous	na
+If You Can't Beat Them	Seven Seas of Rhye... (Instrumental)	na
+If You Can't Beat Them	Somebody to Love	na
+If You Can't Beat Them	Stone Cold Crazy	na
+If You Can't Beat Them	Tenement Funster	na
+If You Can't Beat Them	Teo Torriatte (Let Us Cling Together)	na
+If You Can't Beat Them	The Millionaire Waltz	na
+If You Can't Beat Them	The Night Comes Down	na
+If You Can't Beat Them	The Prophet's Song	na
+If You Can't Beat Them	White Man	na
+If You Can't Beat Them	You and I	na
+If You Can't Beat Them	You Take My Breath Away	na
+If You Can't Beat Them	You're My Best Friend	na
+Jesus	Killer Queen	na
+Jesus	Lazing on a Sunday Afternoon	na
+Jesus	Let Me Entertain You	na
+Jesus	Liar	na
+Jesus	Lily of the Valley	na
+Jesus	Love of My Life	na
+Jesus	Modern Times Rock 'N' Roll	na
+Jesus	More of That Jazz	na
+Jesus	Mustapha	na
+Jesus	Now I'm Here	na
+Jesus	Seaside Rendezvous	na
+Jesus	Seven Seas of Rhye... (Instrumental)	na
+Jesus	Somebody to Love	na
+Jesus	Stone Cold Crazy	na
+Jesus	Tenement Funster	na
+Jesus	Teo Torriatte (Let Us Cling Together)	na
+Jesus	The Millionaire Waltz	na
+Jesus	The Night Comes Down	na
+Jesus	The Prophet's Song	na
+Jesus	White Man	na
+Jesus	You and I	na
+Jesus	You Take My Breath Away	na
+Jesus	You're My Best Friend	na
+Killer Queen	Lazing on a Sunday Afternoon	na
+Killer Queen	Let Me Entertain You	na
+Killer Queen	Liar	na
+Killer Queen	Lily of the Valley	na
+Killer Queen	Love of My Life	na
+Killer Queen	Modern Times Rock 'N' Roll	na
+Killer Queen	More of That Jazz	na
+Killer Queen	Mustapha	na
+Killer Queen	Now I'm Here	na
+Killer Queen	Seaside Rendezvous	na
+Killer Queen	Seven Seas of Rhye... (Instrumental)	na
+Killer Queen	Somebody to Love	na
+Killer Queen	Stone Cold Crazy	na
+Killer Queen	Tenement Funster	na
+Killer Queen	Teo Torriatte (Let Us Cling Together)	na
+Killer Queen	The Millionaire Waltz	na
+Killer Queen	The Night Comes Down	na
+Killer Queen	The Prophet's Song	na
+Killer Queen	White Man	na
+Killer Queen	You and I	na
+Killer Queen	You Take My Breath Away	na
+Killer Queen	You're My Best Friend	na
+Lazing on a Sunday Afternoon	Let Me Entertain You	na
+Lazing on a Sunday Afternoon	Liar	na
+Lazing on a Sunday Afternoon	Lily of the Valley	na
+Lazing on a Sunday Afternoon	Love of My Life	na
+Lazing on a Sunday Afternoon	Modern Times Rock 'N' Roll	na
+Lazing on a Sunday Afternoon	More of That Jazz	na
+Lazing on a Sunday Afternoon	Mustapha	na
+Lazing on a Sunday Afternoon	Now I'm Here	na
+Lazing on a Sunday Afternoon	Seaside Rendezvous	na
+Lazing on a Sunday Afternoon	Seven Seas of Rhye... (Instrumental)	na
+Lazing on a Sunday Afternoon	Somebody to Love	na
+Lazing on a Sunday Afternoon	Stone Cold Crazy	na
+Lazing on a Sunday Afternoon	Tenement Funster	na
+Lazing on a Sunday Afternoon	Teo Torriatte (Let Us Cling Together)	na
+Lazing on a Sunday Afternoon	The Millionaire Waltz	na
+Lazing on a Sunday Afternoon	The Night Comes Down	na
+Lazing on a Sunday Afternoon	The Prophet's Song	na
+Lazing on a Sunday Afternoon	White Man	na
+Lazing on a Sunday Afternoon	You and I	na
+Lazing on a Sunday Afternoon	You Take My Breath Away	na
+Lazing on a Sunday Afternoon	You're My Best Friend	na
+Let Me Entertain You	Liar	na
+Let Me Entertain You	Lily of the Valley	na
+Let Me Entertain You	Love of My Life	na
+Let Me Entertain You	Modern Times Rock 'N' Roll	na
+Let Me Entertain You	More of That Jazz	na
+Let Me Entertain You	Mustapha	na
+Let Me Entertain You	Now I'm Here	na
+Let Me Entertain You	Seaside Rendezvous	na
+Let Me Entertain You	Seven Seas of Rhye... (Instrumental)	na
+Let Me Entertain You	Somebody to Love	na
+Let Me Entertain You	Stone Cold Crazy	na
+Let Me Entertain You	Tenement Funster	na
+Let Me Entertain You	Teo Torriatte (Let Us Cling Together)	na
+Let Me Entertain You	The Millionaire Waltz	na
+Let Me Entertain You	The Night Comes Down	na
+Let Me Entertain You	The Prophet's Song	na
+Let Me Entertain You	White Man	na
+Let Me Entertain You	You and I	na
+Let Me Entertain You	You Take My Breath Away	na
+Let Me Entertain You	You're My Best Friend	na
+Liar	Lily of the Valley	na
+Liar	Love of My Life	na
+Liar	Modern Times Rock 'N' Roll	na
+Liar	More of That Jazz	na
+Liar	Mustapha	na
+Liar	Now I'm Here	na
+Liar	Seaside Rendezvous	na
+Liar	Seven Seas of Rhye... (Instrumental)	na
+Liar	Somebody to Love	na
+Liar	Stone Cold Crazy	na
+Liar	Tenement Funster	na
+Liar	Teo Torriatte (Let Us Cling Together)	na
+Liar	The Millionaire Waltz	na
+Liar	The Night Comes Down	na
+Liar	The Prophet's Song	na
+Liar	White Man	na
+Liar	You and I	na
+Liar	You Take My Breath Away	na
+Liar	You're My Best Friend	na
+Lily of the Valley	Love of My Life	na
+Lily of the Valley	Modern Times Rock 'N' Roll	na
+Lily of the Valley	More of That Jazz	na
+Lily of the Valley	Mustapha	na
+Lily of the Valley	Now I'm Here	na
+Lily of the Valley	Seaside Rendezvous	na
+Lily of the Valley	Seven Seas of Rhye... (Instrumental)	na
+Lily of the Valley	Somebody to Love	na
+Lily of the Valley	Stone Cold Crazy	na
+Lily of the Valley	Tenement Funster	na
+Lily of the Valley	Teo Torriatte (Let Us Cling Together)	na
+Lily of the Valley	The Millionaire Waltz	na
+Lily of the Valley	The Night Comes Down	na
+Lily of the Valley	The Prophet's Song	na
+Lily of the Valley	White Man	na
+Lily of the Valley	You and I	na
+Lily of the Valley	You Take My Breath Away	na
+Lily of the Valley	You're My Best Friend	na
+Love of My Life	Modern Times Rock 'N' Roll	na
+Love of My Life	More of That Jazz	na
+Love of My Life	Mustapha	na
+Love of My Life	Now I'm Here	na
+Love of My Life	Seaside Rendezvous	na
+Love of My Life	Seven Seas of Rhye... (Instrumental)	na
+Love of My Life	Somebody to Love	na
+Love of My Life	Stone Cold Crazy	na
+Love of My Life	Tenement Funster	na
+Love of My Life	Teo Torriatte (Let Us Cling Together)	na
+Love of My Life	The Millionaire Waltz	na
+Love of My Life	The Night Comes Down	na
+Love of My Life	The Prophet's Song	na
+Love of My Life	White Man	na
+Love of My Life	You and I	na
+Love of My Life	You Take My Breath Away	na
+Love of My Life	You're My Best Friend	na
+Modern Times Rock 'N' Roll	More of That Jazz	na
+Modern Times Rock 'N' Roll	Mustapha	na
+Modern Times Rock 'N' Roll	Now I'm Here	na
+Modern Times Rock 'N' Roll	Seaside Rendezvous	na
+Modern Times Rock 'N' Roll	Seven Seas of Rhye... (Instrumental)	na
+Modern Times Rock 'N' Roll	Somebody to Love	na
+Modern Times Rock 'N' Roll	Stone Cold Crazy	na
+Modern Times Rock 'N' Roll	Tenement Funster	na
+Modern Times Rock 'N' Roll	Teo Torriatte (Let Us Cling Together)	na
+Modern Times Rock 'N' Roll	The Millionaire Waltz	na
+Modern Times Rock 'N' Roll	The Night Comes Down	na
+Modern Times Rock 'N' Roll	The Prophet's Song	na
+Modern Times Rock 'N' Roll	White Man	na
+Modern Times Rock 'N' Roll	You and I	na
+Modern Times Rock 'N' Roll	You Take My Breath Away	na
+Modern Times Rock 'N' Roll	You're My Best Friend	na
+More of That Jazz	Mustapha	na
+More of That Jazz	Now I'm Here	na
+More of That Jazz	Seaside Rendezvous	na
+More of That Jazz	Seven Seas of Rhye... (Instrumental)	na
+More of That Jazz	Somebody to Love	na
+More of That Jazz	Stone Cold Crazy	na
+More of That Jazz	Tenement Funster	na
+More of That Jazz	Teo Torriatte (Let Us Cling Together)	na
+More of That Jazz	The Millionaire Waltz	na
+More of That Jazz	The Night Comes Down	na
+More of That Jazz	The Prophet's Song	na
+More of That Jazz	White Man	na
+More of That Jazz	You and I	na
+More of That Jazz	You Take My Breath Away	na
+More of That Jazz	You're My Best Friend	na
+Mustapha	Now I'm Here	na
+Mustapha	Seaside Rendezvous	na
+Mustapha	Seven Seas of Rhye... (Instrumental)	na
+Mustapha	Somebody to Love	na
+Mustapha	Stone Cold Crazy	na
+Mustapha	Tenement Funster	na
+Mustapha	Teo Torriatte (Let Us Cling Together)	na
+Mustapha	The Millionaire Waltz	na
+Mustapha	The Night Comes Down	na
+Mustapha	The Prophet's Song	na
+Mustapha	White Man	na
+Mustapha	You and I	na
+Mustapha	You Take My Breath Away	na
+Mustapha	You're My Best Friend	na
+Now I'm Here	Seaside Rendezvous	na
+Now I'm Here	Seven Seas of Rhye... (Instrumental)	na
+Now I'm Here	Somebody to Love	na
+Now I'm Here	Stone Cold Crazy	na
+Now I'm Here	Tenement Funster	na
+Now I'm Here	Teo Torriatte (Let Us Cling Together)	na
+Now I'm Here	The Millionaire Waltz	na
+Now I'm Here	The Night Comes Down	na
+Now I'm Here	The Prophet's Song	na
+Now I'm Here	White Man	na
+Now I'm Here	You and I	na
+Now I'm Here	You Take My Breath Away	na
+Now I'm Here	You're My Best Friend	na
+Seaside Rendezvous	Seven Seas of Rhye... (Instrumental)	na
+Seaside Rendezvous	Somebody to Love	na
+Seaside Rendezvous	Stone Cold Crazy	na
+Seaside Rendezvous	Tenement Funster	na
+Seaside Rendezvous	Teo Torriatte (Let Us Cling Together)	na
+Seaside Rendezvous	The Millionaire Waltz	na
+Seaside Rendezvous	The Night Comes Down	na
+Seaside Rendezvous	The Prophet's Song	na
+Seaside Rendezvous	White Man	na
+Seaside Rendezvous	You and I	na
+Seaside Rendezvous	You Take My Breath Away	na
+Seaside Rendezvous	You're My Best Friend	na
+Seven Seas of Rhye... (Instrumental)	Somebody to Love	na
+Seven Seas of Rhye... (Instrumental)	Stone Cold Crazy	na
+Seven Seas of Rhye... (Instrumental)	Tenement Funster	na
+Seven Seas of Rhye... (Instrumental)	Teo Torriatte (Let Us Cling Together)	na
+Seven Seas of Rhye... (Instrumental)	The Millionaire Waltz	na
+Seven Seas of Rhye... (Instrumental)	The Night Comes Down	na
+Seven Seas of Rhye... (Instrumental)	The Prophet's Song	na
+Seven Seas of Rhye... (Instrumental)	White Man	na
+Seven Seas of Rhye... (Instrumental)	You and I	na
+Seven Seas of Rhye... (Instrumental)	You Take My Breath Away	na
+Seven Seas of Rhye... (Instrumental)	You're My Best Friend	na
+Somebody to Love	Stone Cold Crazy	na
+Somebody to Love	Tenement Funster	na
+Somebody to Love	Teo Torriatte (Let Us Cling Together)	na
+Somebody to Love	The Millionaire Waltz	na
+Somebody to Love	The Night Comes Down	na
+Somebody to Love	The Prophet's Song	na
+Somebody to Love	White Man	na
+Somebody to Love	You and I	na
+Somebody to Love	You Take My Breath Away	na
+Somebody to Love	You're My Best Friend	na
+Stone Cold Crazy	Tenement Funster	na
+Stone Cold Crazy	Teo Torriatte (Let Us Cling Together)	na
+Stone Cold Crazy	The Millionaire Waltz	na
+Stone Cold Crazy	The Night Comes Down	na
+Stone Cold Crazy	The Prophet's Song	na
+Stone Cold Crazy	White Man	na
+Stone Cold Crazy	You and I	na
+Stone Cold Crazy	You Take My Breath Away	na
+Stone Cold Crazy	You're My Best Friend	na
+Tenement Funster	Teo Torriatte (Let Us Cling Together)	na
+Tenement Funster	The Millionaire Waltz	na
+Tenement Funster	The Night Comes Down	na
+Tenement Funster	The Prophet's Song	na
+Tenement Funster	White Man	na
+Tenement Funster	You and I	na
+Tenement Funster	You Take My Breath Away	na
+Tenement Funster	You're My Best Friend	na
+Teo Torriatte (Let Us Cling Together)	The Millionaire Waltz	na
+Teo Torriatte (Let Us Cling Together)	The Night Comes Down	na
+Teo Torriatte (Let Us Cling Together)	The Prophet's Song	na
+Teo Torriatte (Let Us Cling Together)	White Man	na
+Teo Torriatte (Let Us Cling Together)	You and I	na
+Teo Torriatte (Let Us Cling Together)	You Take My Breath Away	na
+Teo Torriatte (Let Us Cling Together)	You're My Best Friend	na
+The Millionaire Waltz	The Night Comes Down	na
+The Millionaire Waltz	The Prophet's Song	na
+The Millionaire Waltz	White Man	na
+The Millionaire Waltz	You and I	na
+The Millionaire Waltz	You Take My Breath Away	na
+The Millionaire Waltz	You're My Best Friend	na
+The Night Comes Down	The Prophet's Song	na
+The Night Comes Down	White Man	na
+The Night Comes Down	You and I	na
+The Night Comes Down	You Take My Breath Away	na
+The Night Comes Down	You're My Best Friend	na
+The Prophet's Song	White Man	na
+The Prophet's Song	You and I	na
+The Prophet's Song	You Take My Breath Away	na
+The Prophet's Song	You're My Best Friend	na
+White Man	You and I	na
+White Man	You Take My Breath Away	na
+White Man	You're My Best Friend	na
+You and I	You Take My Breath Away	na
+You and I	You're My Best Friend	na
+You Take My Breath Away	You're My Best Friend	na
+Killer Queen	Modern Times Rock 'N' Roll	nice
+'39	Death on Two Legs (Dedicated to...)	night
+'39	Fun It	night
+'39	Lazing on a Sunday Afternoon	night
+'39	Let Me Entertain You	night
+'39	Liar	night
+'39	Misfire	night
+'39	My Fairy King	night
+'39	Now I'm Here	night
+'39	Seaside Rendezvous	night
+'39	Teo Torriatte (Let Us Cling Together)	night
+'39	The Night Comes Down	night
+'39	The Prophet's Song	night
+'39	Tie Your Mother Down	night
+Death on Two Legs (Dedicated to...)	Fun It	night
+Death on Two Legs (Dedicated to...)	Lazing on a Sunday Afternoon	night
+Death on Two Legs (Dedicated to...)	Let Me Entertain You	night
+Death on Two Legs (Dedicated to...)	Liar	night
+Death on Two Legs (Dedicated to...)	Misfire	night
+Death on Two Legs (Dedicated to...)	My Fairy King	night
+Death on Two Legs (Dedicated to...)	Now I'm Here	night
+Death on Two Legs (Dedicated to...)	Seaside Rendezvous	night
+Death on Two Legs (Dedicated to...)	Teo Torriatte (Let Us Cling Together)	night
+Death on Two Legs (Dedicated to...)	The Night Comes Down	night
+Death on Two Legs (Dedicated to...)	The Prophet's Song	night
+Death on Two Legs (Dedicated to...)	Tie Your Mother Down	night
+Fun It	Lazing on a Sunday Afternoon	night
+Fun It	Let Me Entertain You	night
+Fun It	Liar	night
+Fun It	Misfire	night
+Fun It	My Fairy King	night
+Fun It	Now I'm Here	night
+Fun It	Seaside Rendezvous	night
+Fun It	Teo Torriatte (Let Us Cling Together)	night
+Fun It	The Night Comes Down	night
+Fun It	The Prophet's Song	night
+Fun It	Tie Your Mother Down	night
+Lazing on a Sunday Afternoon	Let Me Entertain You	night
+Lazing on a Sunday Afternoon	Liar	night
+Lazing on a Sunday Afternoon	Misfire	night
+Lazing on a Sunday Afternoon	My Fairy King	night
+Lazing on a Sunday Afternoon	Now I'm Here	night
+Lazing on a Sunday Afternoon	Seaside Rendezvous	night
+Lazing on a Sunday Afternoon	Teo Torriatte (Let Us Cling Together)	night
+Lazing on a Sunday Afternoon	The Night Comes Down	night
+Lazing on a Sunday Afternoon	The Prophet's Song	night
+Lazing on a Sunday Afternoon	Tie Your Mother Down	night
+Let Me Entertain You	Liar	night
+Let Me Entertain You	Misfire	night
+Let Me Entertain You	My Fairy King	night
+Let Me Entertain You	Now I'm Here	night
+Let Me Entertain You	Seaside Rendezvous	night
+Let Me Entertain You	Teo Torriatte (Let Us Cling Together)	night
+Let Me Entertain You	The Night Comes Down	night
+Let Me Entertain You	The Prophet's Song	night
+Let Me Entertain You	Tie Your Mother Down	night
+Liar	Misfire	night
+Liar	My Fairy King	night
+Liar	Now I'm Here	night
+Liar	Seaside Rendezvous	night
+Liar	Teo Torriatte (Let Us Cling Together)	night
+Liar	The Night Comes Down	night
+Liar	The Prophet's Song	night
+Liar	Tie Your Mother Down	night
+Misfire	My Fairy King	night
+Misfire	Now I'm Here	night
+Misfire	Seaside Rendezvous	night
+Misfire	Teo Torriatte (Let Us Cling Together)	night
+Misfire	The Night Comes Down	night
+Misfire	The Prophet's Song	night
+Misfire	Tie Your Mother Down	night
+My Fairy King	Now I'm Here	night
+My Fairy King	Seaside Rendezvous	night
+My Fairy King	Teo Torriatte (Let Us Cling Together)	night
+My Fairy King	The Night Comes Down	night
+My Fairy King	The Prophet's Song	night
+My Fairy King	Tie Your Mother Down	night
+Now I'm Here	Seaside Rendezvous	night
+Now I'm Here	Teo Torriatte (Let Us Cling Together)	night
+Now I'm Here	The Night Comes Down	night
+Now I'm Here	The Prophet's Song	night
+Now I'm Here	Tie Your Mother Down	night
+Seaside Rendezvous	Teo Torriatte (Let Us Cling Together)	night
+Seaside Rendezvous	The Night Comes Down	night
+Seaside Rendezvous	The Prophet's Song	night
+Seaside Rendezvous	Tie Your Mother Down	night
+Teo Torriatte (Let Us Cling Together)	The Night Comes Down	night
+Teo Torriatte (Let Us Cling Together)	The Prophet's Song	night
+Teo Torriatte (Let Us Cling Together)	Tie Your Mother Down	night
+The Night Comes Down	The Prophet's Song	night
+The Night Comes Down	Tie Your Mother Down	night
+The Prophet's Song	Tie Your Mother Down	night
+Good Old-Fashioned Lover Boy	Teo Torriatte (Let Us Cling Together)	nights
+If You Can't Beat Them	Lily of the Valley	oo
+Bohemian Rhapsody	Dead on Time	ooh
+Bohemian Rhapsody	Doing All Right	ooh
+Bohemian Rhapsody	Don't Stop Me Now	ooh
+Bohemian Rhapsody	Fat Bottomed Girls	ooh
+Bohemian Rhapsody	Good Company	ooh
+Bohemian Rhapsody	Good Old-Fashioned Lover Boy	ooh
+Bohemian Rhapsody	I’m in Love with My Car	ooh
+Bohemian Rhapsody	If You Can't Beat Them	ooh
+Bohemian Rhapsody	In Only Seven Days	ooh
+Bohemian Rhapsody	In the Lap of the Gods... Revisited	ooh
+Bohemian Rhapsody	Keep Yourself Alive	ooh
+Bohemian Rhapsody	Killer Queen	ooh
+Bohemian Rhapsody	Liar	ooh
+Bohemian Rhapsody	Lily of the Valley	ooh
+Bohemian Rhapsody	Love of My Life	ooh
+Bohemian Rhapsody	Mustapha	ooh
+Bohemian Rhapsody	My Fairy King	ooh
+Bohemian Rhapsody	Now I'm Here	ooh
+Bohemian Rhapsody	Seaside Rendezvous	ooh
+Bohemian Rhapsody	Somebody to Love	ooh
+Bohemian Rhapsody	Son and Daughter	ooh
+Bohemian Rhapsody	Sweet Lady	ooh
+Bohemian Rhapsody	Tenement Funster	ooh
+Bohemian Rhapsody	The Night Comes Down	ooh
+Bohemian Rhapsody	The Prophet's Song	ooh
+Bohemian Rhapsody	Tie Your Mother Down	ooh
+Bohemian Rhapsody	White Man	ooh
+Bohemian Rhapsody	You and I	ooh
+Bohemian Rhapsody	You Take My Breath Away	ooh
+Bohemian Rhapsody	You're My Best Friend	ooh
+Dead on Time	Doing All Right	ooh
+Dead on Time	Don't Stop Me Now	ooh
+Dead on Time	Fat Bottomed Girls	ooh
+Dead on Time	Good Company	ooh
+Dead on Time	Good Old-Fashioned Lover Boy	ooh
+Dead on Time	I’m in Love with My Car	ooh
+Dead on Time	If You Can't Beat Them	ooh
+Dead on Time	In Only Seven Days	ooh
+Dead on Time	In the Lap of the Gods... Revisited	ooh
+Dead on Time	Keep Yourself Alive	ooh
+Dead on Time	Killer Queen	ooh
+Dead on Time	Liar	ooh
+Dead on Time	Lily of the Valley	ooh
+Dead on Time	Love of My Life	ooh
+Dead on Time	Mustapha	ooh
+Dead on Time	My Fairy King	ooh
+Dead on Time	Now I'm Here	ooh
+Dead on Time	Seaside Rendezvous	ooh
+Dead on Time	Somebody to Love	ooh
+Dead on Time	Son and Daughter	ooh
+Dead on Time	Sweet Lady	ooh
+Dead on Time	Tenement Funster	ooh
+Dead on Time	The Night Comes Down	ooh
+Dead on Time	The Prophet's Song	ooh
+Dead on Time	Tie Your Mother Down	ooh
+Dead on Time	White Man	ooh
+Dead on Time	You and I	ooh
+Dead on Time	You Take My Breath Away	ooh
+Dead on Time	You're My Best Friend	ooh
+Doing All Right	Don't Stop Me Now	ooh
+Doing All Right	Fat Bottomed Girls	ooh
+Doing All Right	Good Company	ooh
+Doing All Right	Good Old-Fashioned Lover Boy	ooh
+Doing All Right	I’m in Love with My Car	ooh
+Doing All Right	If You Can't Beat Them	ooh
+Doing All Right	In Only Seven Days	ooh
+Doing All Right	In the Lap of the Gods... Revisited	ooh
+Doing All Right	Keep Yourself Alive	ooh
+Doing All Right	Killer Queen	ooh
+Doing All Right	Liar	ooh
+Doing All Right	Lily of the Valley	ooh
+Doing All Right	Love of My Life	ooh
+Doing All Right	Mustapha	ooh
+Doing All Right	My Fairy King	ooh
+Doing All Right	Now I'm Here	ooh
+Doing All Right	Seaside Rendezvous	ooh
+Doing All Right	Somebody to Love	ooh
+Doing All Right	Son and Daughter	ooh
+Doing All Right	Sweet Lady	ooh
+Doing All Right	Tenement Funster	ooh
+Doing All Right	The Night Comes Down	ooh
+Doing All Right	The Prophet's Song	ooh
+Doing All Right	Tie Your Mother Down	ooh
+Doing All Right	White Man	ooh
+Doing All Right	You and I	ooh
+Doing All Right	You Take My Breath Away	ooh
+Doing All Right	You're My Best Friend	ooh
+Don't Stop Me Now	Fat Bottomed Girls	ooh
+Don't Stop Me Now	Good Company	ooh
+Don't Stop Me Now	Good Old-Fashioned Lover Boy	ooh
+Don't Stop Me Now	I’m in Love with My Car	ooh
+Don't Stop Me Now	If You Can't Beat Them	ooh
+Don't Stop Me Now	In Only Seven Days	ooh
+Don't Stop Me Now	In the Lap of the Gods... Revisited	ooh
+Don't Stop Me Now	Keep Yourself Alive	ooh
+Don't Stop Me Now	Killer Queen	ooh
+Don't Stop Me Now	Liar	ooh
+Don't Stop Me Now	Lily of the Valley	ooh
+Don't Stop Me Now	Love of My Life	ooh
+Don't Stop Me Now	Mustapha	ooh
+Don't Stop Me Now	My Fairy King	ooh
+Don't Stop Me Now	Now I'm Here	ooh
+Don't Stop Me Now	Seaside Rendezvous	ooh
+Don't Stop Me Now	Somebody to Love	ooh
+Don't Stop Me Now	Son and Daughter	ooh
+Don't Stop Me Now	Sweet Lady	ooh
+Don't Stop Me Now	Tenement Funster	ooh
+Don't Stop Me Now	The Night Comes Down	ooh
+Don't Stop Me Now	The Prophet's Song	ooh
+Don't Stop Me Now	Tie Your Mother Down	ooh
+Don't Stop Me Now	White Man	ooh
+Don't Stop Me Now	You and I	ooh
+Don't Stop Me Now	You Take My Breath Away	ooh
+Don't Stop Me Now	You're My Best Friend	ooh
+Fat Bottomed Girls	Good Company	ooh
+Fat Bottomed Girls	Good Old-Fashioned Lover Boy	ooh
+Fat Bottomed Girls	I’m in Love with My Car	ooh
+Fat Bottomed Girls	If You Can't Beat Them	ooh
+Fat Bottomed Girls	In Only Seven Days	ooh
+Fat Bottomed Girls	In the Lap of the Gods... Revisited	ooh
+Fat Bottomed Girls	Keep Yourself Alive	ooh
+Fat Bottomed Girls	Killer Queen	ooh
+Fat Bottomed Girls	Liar	ooh
+Fat Bottomed Girls	Lily of the Valley	ooh
+Fat Bottomed Girls	Love of My Life	ooh
+Fat Bottomed Girls	Mustapha	ooh
+Fat Bottomed Girls	My Fairy King	ooh
+Fat Bottomed Girls	Now I'm Here	ooh
+Fat Bottomed Girls	Seaside Rendezvous	ooh
+Fat Bottomed Girls	Somebody to Love	ooh
+Fat Bottomed Girls	Son and Daughter	ooh
+Fat Bottomed Girls	Sweet Lady	ooh
+Fat Bottomed Girls	Tenement Funster	ooh
+Fat Bottomed Girls	The Night Comes Down	ooh
+Fat Bottomed Girls	The Prophet's Song	ooh
+Fat Bottomed Girls	Tie Your Mother Down	ooh
+Fat Bottomed Girls	White Man	ooh
+Fat Bottomed Girls	You and I	ooh
+Fat Bottomed Girls	You Take My Breath Away	ooh
+Fat Bottomed Girls	You're My Best Friend	ooh
+Good Company	Good Old-Fashioned Lover Boy	ooh
+Good Company	I’m in Love with My Car	ooh
+Good Company	If You Can't Beat Them	ooh
+Good Company	In Only Seven Days	ooh
+Good Company	In the Lap of the Gods... Revisited	ooh
+Good Company	Keep Yourself Alive	ooh
+Good Company	Killer Queen	ooh
+Good Company	Liar	ooh
+Good Company	Lily of the Valley	ooh
+Good Company	Love of My Life	ooh
+Good Company	Mustapha	ooh
+Good Company	My Fairy King	ooh
+Good Company	Now I'm Here	ooh
+Good Company	Seaside Rendezvous	ooh
+Good Company	Somebody to Love	ooh
+Good Company	Son and Daughter	ooh
+Good Company	Sweet Lady	ooh
+Good Company	Tenement Funster	ooh
+Good Company	The Night Comes Down	ooh
+Good Company	The Prophet's Song	ooh
+Good Company	Tie Your Mother Down	ooh
+Good Company	White Man	ooh
+Good Company	You and I	ooh
+Good Company	You Take My Breath Away	ooh
+Good Company	You're My Best Friend	ooh
+Good Old-Fashioned Lover Boy	I’m in Love with My Car	ooh
+Good Old-Fashioned Lover Boy	If You Can't Beat Them	ooh
+Good Old-Fashioned Lover Boy	In Only Seven Days	ooh
+Good Old-Fashioned Lover Boy	In the Lap of the Gods... Revisited	ooh
+Good Old-Fashioned Lover Boy	Keep Yourself Alive	ooh
+Good Old-Fashioned Lover Boy	Killer Queen	ooh
+Good Old-Fashioned Lover Boy	Liar	ooh
+Good Old-Fashioned Lover Boy	Lily of the Valley	ooh
+Good Old-Fashioned Lover Boy	Love of My Life	ooh
+Good Old-Fashioned Lover Boy	Mustapha	ooh
+Good Old-Fashioned Lover Boy	My Fairy King	ooh
+Good Old-Fashioned Lover Boy	Now I'm Here	ooh
+Good Old-Fashioned Lover Boy	Seaside Rendezvous	ooh
+Good Old-Fashioned Lover Boy	Somebody to Love	ooh
+Good Old-Fashioned Lover Boy	Son and Daughter	ooh
+Good Old-Fashioned Lover Boy	Sweet Lady	ooh
+Good Old-Fashioned Lover Boy	Tenement Funster	ooh
+Good Old-Fashioned Lover Boy	The Night Comes Down	ooh
+Good Old-Fashioned Lover Boy	The Prophet's Song	ooh
+Good Old-Fashioned Lover Boy	Tie Your Mother Down	ooh
+Good Old-Fashioned Lover Boy	White Man	ooh
+Good Old-Fashioned Lover Boy	You and I	ooh
+Good Old-Fashioned Lover Boy	You Take My Breath Away	ooh
+Good Old-Fashioned Lover Boy	You're My Best Friend	ooh
+I’m in Love with My Car	If You Can't Beat Them	ooh
+I’m in Love with My Car	In Only Seven Days	ooh
+I’m in Love with My Car	In the Lap of the Gods... Revisited	ooh
+I’m in Love with My Car	Keep Yourself Alive	ooh
+I’m in Love with My Car	Killer Queen	ooh
+I’m in Love with My Car	Liar	ooh
+I’m in Love with My Car	Lily of the Valley	ooh
+I’m in Love with My Car	Love of My Life	ooh
+I’m in Love with My Car	Mustapha	ooh
+I’m in Love with My Car	My Fairy King	ooh
+I’m in Love with My Car	Now I'm Here	ooh
+I’m in Love with My Car	Seaside Rendezvous	ooh
+I’m in Love with My Car	Somebody to Love	ooh
+I’m in Love with My Car	Son and Daughter	ooh
+I’m in Love with My Car	Sweet Lady	ooh
+I’m in Love with My Car	Tenement Funster	ooh
+I’m in Love with My Car	The Night Comes Down	ooh
+I’m in Love with My Car	The Prophet's Song	ooh
+I’m in Love with My Car	Tie Your Mother Down	ooh
+I’m in Love with My Car	White Man	ooh
+I’m in Love with My Car	You and I	ooh
+I’m in Love with My Car	You Take My Breath Away	ooh
+I’m in Love with My Car	You're My Best Friend	ooh
+If You Can't Beat Them	In Only Seven Days	ooh
+If You Can't Beat Them	In the Lap of the Gods... Revisited	ooh
+If You Can't Beat Them	Keep Yourself Alive	ooh
+If You Can't Beat Them	Killer Queen	ooh
+If You Can't Beat Them	Liar	ooh
+If You Can't Beat Them	Lily of the Valley	ooh
+If You Can't Beat Them	Love of My Life	ooh
+If You Can't Beat Them	Mustapha	ooh
+If You Can't Beat Them	My Fairy King	ooh
+If You Can't Beat Them	Now I'm Here	ooh
+If You Can't Beat Them	Seaside Rendezvous	ooh
+If You Can't Beat Them	Somebody to Love	ooh
+If You Can't Beat Them	Son and Daughter	ooh
+If You Can't Beat Them	Sweet Lady	ooh
+If You Can't Beat Them	Tenement Funster	ooh
+If You Can't Beat Them	The Night Comes Down	ooh
+If You Can't Beat Them	The Prophet's Song	ooh
+If You Can't Beat Them	Tie Your Mother Down	ooh
+If You Can't Beat Them	White Man	ooh
+If You Can't Beat Them	You and I	ooh
+If You Can't Beat Them	You Take My Breath Away	ooh
+If You Can't Beat Them	You're My Best Friend	ooh
+In Only Seven Days	In the Lap of the Gods... Revisited	ooh
+In Only Seven Days	Keep Yourself Alive	ooh
+In Only Seven Days	Killer Queen	ooh
+In Only Seven Days	Liar	ooh
+In Only Seven Days	Lily of the Valley	ooh
+In Only Seven Days	Love of My Life	ooh
+In Only Seven Days	Mustapha	ooh
+In Only Seven Days	My Fairy King	ooh
+In Only Seven Days	Now I'm Here	ooh
+In Only Seven Days	Seaside Rendezvous	ooh
+In Only Seven Days	Somebody to Love	ooh
+In Only Seven Days	Son and Daughter	ooh
+In Only Seven Days	Sweet Lady	ooh
+In Only Seven Days	Tenement Funster	ooh
+In Only Seven Days	The Night Comes Down	ooh
+In Only Seven Days	The Prophet's Song	ooh
+In Only Seven Days	Tie Your Mother Down	ooh
+In Only Seven Days	White Man	ooh
+In Only Seven Days	You and I	ooh
+In Only Seven Days	You Take My Breath Away	ooh
+In Only Seven Days	You're My Best Friend	ooh
+In the Lap of the Gods... Revisited	Keep Yourself Alive	ooh
+In the Lap of the Gods... Revisited	Killer Queen	ooh
+In the Lap of the Gods... Revisited	Liar	ooh
+In the Lap of the Gods... Revisited	Lily of the Valley	ooh
+In the Lap of the Gods... Revisited	Love of My Life	ooh
+In the Lap of the Gods... Revisited	Mustapha	ooh
+In the Lap of the Gods... Revisited	My Fairy King	ooh
+In the Lap of the Gods... Revisited	Now I'm Here	ooh
+In the Lap of the Gods... Revisited	Seaside Rendezvous	ooh
+In the Lap of the Gods... Revisited	Somebody to Love	ooh
+In the Lap of the Gods... Revisited	Son and Daughter	ooh
+In the Lap of the Gods... Revisited	Sweet Lady	ooh
+In the Lap of the Gods... Revisited	Tenement Funster	ooh
+In the Lap of the Gods... Revisited	The Night Comes Down	ooh
+In the Lap of the Gods... Revisited	The Prophet's Song	ooh
+In the Lap of the Gods... Revisited	Tie Your Mother Down	ooh
+In the Lap of the Gods... Revisited	White Man	ooh
+In the Lap of the Gods... Revisited	You and I	ooh
+In the Lap of the Gods... Revisited	You Take My Breath Away	ooh
+In the Lap of the Gods... Revisited	You're My Best Friend	ooh
+Keep Yourself Alive	Killer Queen	ooh
+Keep Yourself Alive	Liar	ooh
+Keep Yourself Alive	Lily of the Valley	ooh
+Keep Yourself Alive	Love of My Life	ooh
+Keep Yourself Alive	Mustapha	ooh
+Keep Yourself Alive	My Fairy King	ooh
+Keep Yourself Alive	Now I'm Here	ooh
+Keep Yourself Alive	Seaside Rendezvous	ooh
+Keep Yourself Alive	Somebody to Love	ooh
+Keep Yourself Alive	Son and Daughter	ooh
+Keep Yourself Alive	Sweet Lady	ooh
+Keep Yourself Alive	Tenement Funster	ooh
+Keep Yourself Alive	The Night Comes Down	ooh
+Keep Yourself Alive	The Prophet's Song	ooh
+Keep Yourself Alive	Tie Your Mother Down	ooh
+Keep Yourself Alive	White Man	ooh
+Keep Yourself Alive	You and I	ooh
+Keep Yourself Alive	You Take My Breath Away	ooh
+Keep Yourself Alive	You're My Best Friend	ooh
+Killer Queen	Liar	ooh
+Killer Queen	Lily of the Valley	ooh
+Killer Queen	Love of My Life	ooh
+Killer Queen	Mustapha	ooh
+Killer Queen	My Fairy King	ooh
+Killer Queen	Now I'm Here	ooh
+Killer Queen	Seaside Rendezvous	ooh
+Killer Queen	Somebody to Love	ooh
+Killer Queen	Son and Daughter	ooh
+Killer Queen	Sweet Lady	ooh
+Killer Queen	Tenement Funster	ooh
+Killer Queen	The Night Comes Down	ooh
+Killer Queen	The Prophet's Song	ooh
+Killer Queen	Tie Your Mother Down	ooh
+Killer Queen	White Man	ooh
+Killer Queen	You and I	ooh
+Killer Queen	You Take My Breath Away	ooh
+Killer Queen	You're My Best Friend	ooh
+Liar	Lily of the Valley	ooh
+Liar	Love of My Life	ooh
+Liar	Mustapha	ooh
+Liar	My Fairy King	ooh
+Liar	Now I'm Here	ooh
+Liar	Seaside Rendezvous	ooh
+Liar	Somebody to Love	ooh
+Liar	Son and Daughter	ooh
+Liar	Sweet Lady	ooh
+Liar	Tenement Funster	ooh
+Liar	The Night Comes Down	ooh
+Liar	The Prophet's Song	ooh
+Liar	Tie Your Mother Down	ooh
+Liar	White Man	ooh
+Liar	You and I	ooh
+Liar	You Take My Breath Away	ooh
+Liar	You're My Best Friend	ooh
+Lily of the Valley	Love of My Life	ooh
+Lily of the Valley	Mustapha	ooh
+Lily of the Valley	My Fairy King	ooh
+Lily of the Valley	Now I'm Here	ooh
+Lily of the Valley	Seaside Rendezvous	ooh
+Lily of the Valley	Somebody to Love	ooh
+Lily of the Valley	Son and Daughter	ooh
+Lily of the Valley	Sweet Lady	ooh
+Lily of the Valley	Tenement Funster	ooh
+Lily of the Valley	The Night Comes Down	ooh
+Lily of the Valley	The Prophet's Song	ooh
+Lily of the Valley	Tie Your Mother Down	ooh
+Lily of the Valley	White Man	ooh
+Lily of the Valley	You and I	ooh
+Lily of the Valley	You Take My Breath Away	ooh
+Lily of the Valley	You're My Best Friend	ooh
+Love of My Life	Mustapha	ooh
+Love of My Life	My Fairy King	ooh
+Love of My Life	Now I'm Here	ooh
+Love of My Life	Seaside Rendezvous	ooh
+Love of My Life	Somebody to Love	ooh
+Love of My Life	Son and Daughter	ooh
+Love of My Life	Sweet Lady	ooh
+Love of My Life	Tenement Funster	ooh
+Love of My Life	The Night Comes Down	ooh
+Love of My Life	The Prophet's Song	ooh
+Love of My Life	Tie Your Mother Down	ooh
+Love of My Life	White Man	ooh
+Love of My Life	You and I	ooh
+Love of My Life	You Take My Breath Away	ooh
+Love of My Life	You're My Best Friend	ooh
+Mustapha	My Fairy King	ooh
+Mustapha	Now I'm Here	ooh
+Mustapha	Seaside Rendezvous	ooh
+Mustapha	Somebody to Love	ooh
+Mustapha	Son and Daughter	ooh
+Mustapha	Sweet Lady	ooh
+Mustapha	Tenement Funster	ooh
+Mustapha	The Night Comes Down	ooh
+Mustapha	The Prophet's Song	ooh
+Mustapha	Tie Your Mother Down	ooh
+Mustapha	White Man	ooh
+Mustapha	You and I	ooh
+Mustapha	You Take My Breath Away	ooh
+Mustapha	You're My Best Friend	ooh
+My Fairy King	Now I'm Here	ooh
+My Fairy King	Seaside Rendezvous	ooh
+My Fairy King	Somebody to Love	ooh
+My Fairy King	Son and Daughter	ooh
+My Fairy King	Sweet Lady	ooh
+My Fairy King	Tenement Funster	ooh
+My Fairy King	The Night Comes Down	ooh
+My Fairy King	The Prophet's Song	ooh
+My Fairy King	Tie Your Mother Down	ooh
+My Fairy King	White Man	ooh
+My Fairy King	You and I	ooh
+My Fairy King	You Take My Breath Away	ooh
+My Fairy King	You're My Best Friend	ooh
+Now I'm Here	Seaside Rendezvous	ooh
+Now I'm Here	Somebody to Love	ooh
+Now I'm Here	Son and Daughter	ooh
+Now I'm Here	Sweet Lady	ooh
+Now I'm Here	Tenement Funster	ooh
+Now I'm Here	The Night Comes Down	ooh
+Now I'm Here	The Prophet's Song	ooh
+Now I'm Here	Tie Your Mother Down	ooh
+Now I'm Here	White Man	ooh
+Now I'm Here	You and I	ooh
+Now I'm Here	You Take My Breath Away	ooh
+Now I'm Here	You're My Best Friend	ooh
+Seaside Rendezvous	Somebody to Love	ooh
+Seaside Rendezvous	Son and Daughter	ooh
+Seaside Rendezvous	Sweet Lady	ooh
+Seaside Rendezvous	Tenement Funster	ooh
+Seaside Rendezvous	The Night Comes Down	ooh
+Seaside Rendezvous	The Prophet's Song	ooh
+Seaside Rendezvous	Tie Your Mother Down	ooh
+Seaside Rendezvous	White Man	ooh
+Seaside Rendezvous	You and I	ooh
+Seaside Rendezvous	You Take My Breath Away	ooh
+Seaside Rendezvous	You're My Best Friend	ooh
+Somebody to Love	Son and Daughter	ooh
+Somebody to Love	Sweet Lady	ooh
+Somebody to Love	Tenement Funster	ooh
+Somebody to Love	The Night Comes Down	ooh
+Somebody to Love	The Prophet's Song	ooh
+Somebody to Love	Tie Your Mother Down	ooh
+Somebody to Love	White Man	ooh
+Somebody to Love	You and I	ooh
+Somebody to Love	You Take My Breath Away	ooh
+Somebody to Love	You're My Best Friend	ooh
+Son and Daughter	Sweet Lady	ooh
+Son and Daughter	Tenement Funster	ooh
+Son and Daughter	The Night Comes Down	ooh
+Son and Daughter	The Prophet's Song	ooh
+Son and Daughter	Tie Your Mother Down	ooh
+Son and Daughter	White Man	ooh
+Son and Daughter	You and I	ooh
+Son and Daughter	You Take My Breath Away	ooh
+Son and Daughter	You're My Best Friend	ooh
+Sweet Lady	Tenement Funster	ooh
+Sweet Lady	The Night Comes Down	ooh
+Sweet Lady	The Prophet's Song	ooh
+Sweet Lady	Tie Your Mother Down	ooh
+Sweet Lady	White Man	ooh
+Sweet Lady	You and I	ooh
+Sweet Lady	You Take My Breath Away	ooh
+Sweet Lady	You're My Best Friend	ooh
+Tenement Funster	The Night Comes Down	ooh
+Tenement Funster	The Prophet's Song	ooh
+Tenement Funster	Tie Your Mother Down	ooh
+Tenement Funster	White Man	ooh
+Tenement Funster	You and I	ooh
+Tenement Funster	You Take My Breath Away	ooh
+Tenement Funster	You're My Best Friend	ooh
+The Night Comes Down	The Prophet's Song	ooh
+The Night Comes Down	Tie Your Mother Down	ooh
+The Night Comes Down	White Man	ooh
+The Night Comes Down	You and I	ooh
+The Night Comes Down	You Take My Breath Away	ooh
+The Night Comes Down	You're My Best Friend	ooh
+The Prophet's Song	Tie Your Mother Down	ooh
+The Prophet's Song	White Man	ooh
+The Prophet's Song	You and I	ooh
+The Prophet's Song	You Take My Breath Away	ooh
+The Prophet's Song	You're My Best Friend	ooh
+Tie Your Mother Down	White Man	ooh
+Tie Your Mother Down	You and I	ooh
+Tie Your Mother Down	You Take My Breath Away	ooh
+Tie Your Mother Down	You're My Best Friend	ooh
+White Man	You and I	ooh
+White Man	You Take My Breath Away	ooh
+White Man	You're My Best Friend	ooh
+You and I	You Take My Breath Away	ooh
+You and I	You're My Best Friend	ooh
+You Take My Breath Away	You're My Best Friend	ooh
+Bohemian Rhapsody	Don't Stop Me Now	outta
+Bohemian Rhapsody	Stone Cold Crazy	outta
+Bohemian Rhapsody	Tenement Funster	outta
+Don't Stop Me Now	Stone Cold Crazy	outta
+Don't Stop Me Now	Tenement Funster	outta
+Stone Cold Crazy	Tenement Funster	outta
+Keep Yourself Alive	Stone Cold Crazy	ow
+Flick of the Wrist	Jealousy	pain
+Flick of the Wrist	My Fairy King	pain
+Flick of the Wrist	Now I'm Here	pain
+Jealousy	My Fairy King	pain
+Jealousy	Now I'm Here	pain
+My Fairy King	Now I'm Here	pain
+Good Old-Fashioned Lover Boy	Somebody to Love	pay
+Lily of the Valley	The Prophet's Song	peace
+Lily of the Valley	Tie Your Mother Down	peace
+The Prophet's Song	Tie Your Mother Down	peace
+Brighton Rock	Dead on Time	people
+Brighton Rock	Great King Rat	people
+Brighton Rock	Jesus	people
+Brighton Rock	Keep Yourself Alive	people
+Brighton Rock	Now I'm Here	people
+Brighton Rock	Son and Daughter	people
+Brighton Rock	Stone Cold Crazy	people
+Brighton Rock	Tenement Funster	people
+Brighton Rock	The Prophet's Song	people
+Brighton Rock	White Man	people
+Brighton Rock	You and I	people
+Dead on Time	Great King Rat	people
+Dead on Time	Jesus	people
+Dead on Time	Keep Yourself Alive	people
+Dead on Time	Now I'm Here	people
+Dead on Time	Son and Daughter	people
+Dead on Time	Stone Cold Crazy	people
+Dead on Time	Tenement Funster	people
+Dead on Time	The Prophet's Song	people
+Dead on Time	White Man	people
+Dead on Time	You and I	people
+Great King Rat	Jesus	people
+Great King Rat	Keep Yourself Alive	people
+Great King Rat	Now I'm Here	people
+Great King Rat	Son and Daughter	people
+Great King Rat	Stone Cold Crazy	people
+Great King Rat	Tenement Funster	people
+Great King Rat	The Prophet's Song	people
+Great King Rat	White Man	people
+Great King Rat	You and I	people
+Jesus	Keep Yourself Alive	people
+Jesus	Now I'm Here	people
+Jesus	Son and Daughter	people
+Jesus	Stone Cold Crazy	people
+Jesus	Tenement Funster	people
+Jesus	The Prophet's Song	people
+Jesus	White Man	people
+Jesus	You and I	people
+Keep Yourself Alive	Now I'm Here	people
+Keep Yourself Alive	Son and Daughter	people
+Keep Yourself Alive	Stone Cold Crazy	people
+Keep Yourself Alive	Tenement Funster	people
+Keep Yourself Alive	The Prophet's Song	people
+Keep Yourself Alive	White Man	people
+Keep Yourself Alive	You and I	people
+Now I'm Here	Son and Daughter	people
+Now I'm Here	Stone Cold Crazy	people
+Now I'm Here	Tenement Funster	people
+Now I'm Here	The Prophet's Song	people
+Now I'm Here	White Man	people
+Now I'm Here	You and I	people
+Son and Daughter	Stone Cold Crazy	people
+Son and Daughter	Tenement Funster	people
+Son and Daughter	The Prophet's Song	people
+Son and Daughter	White Man	people
+Son and Daughter	You and I	people
+Stone Cold Crazy	Tenement Funster	people
+Stone Cold Crazy	The Prophet's Song	people
+Stone Cold Crazy	White Man	people
+Stone Cold Crazy	You and I	people
+Tenement Funster	The Prophet's Song	people
+Tenement Funster	White Man	people
+Tenement Funster	You and I	people
+The Prophet's Song	White Man	people
+The Prophet's Song	You and I	people
+White Man	You and I	people
+Let Me Entertain You	Modern Times Rock 'N' Roll	piece
+Death on Two Legs (Dedicated to...)	Tie Your Mother Down	plague
+Good Company	Good Old-Fashioned Lover Boy	play
+Good Company	If You Can't Beat Them	play
+Good Company	Long Away	play
+Good Old-Fashioned Lover Boy	If You Can't Beat Them	play
+Good Old-Fashioned Lover Boy	Long Away	play
+If You Can't Beat Them	Long Away	play
+Dreamer's Ball	Stone Cold Crazy	playing
+Dreamer's Ball	You and I	playing
+Stone Cold Crazy	You and I	playing
+Fat Bottomed Girls	Let Me Entertain You	pleasure
+Bohemian Rhapsody	My Fairy King	poor
+Bohemian Rhapsody	Tenement Funster	poor
+My Fairy King	Tenement Funster	poor
+Brighton Rock	Liar	pray
+Brighton Rock	Mustapha	pray
+Brighton Rock	Somebody to Love	pray
+Liar	Mustapha	pray
+Liar	Somebody to Love	pray
+Mustapha	Somebody to Love	pray
+Long Away	White Man	prayers
+Bicycle Race	Bring Back That Leroy Brown	president
+Killer Queen	Let Me Entertain You	pretty
+Killer Queen	Teo Torriatte (Let Us Cling Together)	pretty
+Let Me Entertain You	Teo Torriatte (Let Us Cling Together)	pretty
+Death on Two Legs (Dedicated to...)	Dreamer's Ball	pride
+Death on Two Legs (Dedicated to...)	Flick of the Wrist	pride
+Death on Two Legs (Dedicated to...)	Jealousy	pride
+Death on Two Legs (Dedicated to...)	My Fairy King	pride
+Dreamer's Ball	Flick of the Wrist	pride
+Dreamer's Ball	Jealousy	pride
+Dreamer's Ball	My Fairy King	pride
+Flick of the Wrist	Jealousy	pride
+Flick of the Wrist	My Fairy King	pride
+Jealousy	My Fairy King	pride
+If You Can't Beat Them	Let Me Entertain You	pull
+Bicycle Race	White Man	race
+Bicycle Race	More of That Jazz	races
+Now I'm Here	Seaside Rendezvous	rain
+Now I'm Here	The Millionaire Waltz	rain
+Now I'm Here	The Prophet's Song	rain
+Now I'm Here	You're My Best Friend	rain
+Seaside Rendezvous	The Millionaire Waltz	rain
+Seaside Rendezvous	The Prophet's Song	rain
+Seaside Rendezvous	You're My Best Friend	rain
+The Millionaire Waltz	The Prophet's Song	rain
+The Millionaire Waltz	You're My Best Friend	rain
+The Prophet's Song	You're My Best Friend	rain
+Modern Times Rock 'N' Roll	Stone Cold Crazy	rainy
+Death on Two Legs (Dedicated to...)	Great King Rat	rat
+Don't Stop Me Now	If You Can't Beat Them	ready
+Don't Stop Me Now	Let Me Entertain You	ready
+If You Can't Beat Them	Let Me Entertain You	ready
+Bohemian Rhapsody	Don't Stop Me Now	real
+Bohemian Rhapsody	More of That Jazz	real
+Bohemian Rhapsody	Tenement Funster	real
+Don't Stop Me Now	More of That Jazz	real
+Don't Stop Me Now	Tenement Funster	real
+More of That Jazz	Tenement Funster	real
+Dead on Time	Drowse	reason
+Dead on Time	Fat Bottomed Girls	red
+Dead on Time	White Man	red
+Fat Bottomed Girls	White Man	red
+Flick of the Wrist	You Take My Breath Away	reduce
+Dreamer's Ball	Drowse	remember
+Dreamer's Ball	Love of My Life	remember
+Dreamer's Ball	The Millionaire Waltz	remember
+Drowse	Love of My Life	remember
+Drowse	The Millionaire Waltz	remember
+Love of My Life	The Millionaire Waltz	remember
+Bicycle Race	Fat Bottomed Girls	ride
+Bicycle Race	Seaside Rendezvous	ride
+Fat Bottomed Girls	Seaside Rendezvous	ride
+Modern Times Rock 'N' Roll	My Fairy King	ring
+Dear Friends	Flick of the Wrist	rise
+Keep Yourself Alive	My Fairy King	rivers
+Keep Yourself Alive	White Man	rivers
+My Fairy King	White Man	rivers
+Dead on Time	Leaving Home Ain't Easy	road
+Brighton Rock	If You Can't Beat Them	rock
+Brighton Rock	Let Me Entertain You	rock
+Brighton Rock	Modern Times Rock 'N' Roll	rock
+Brighton Rock	Tenement Funster	rock
+If You Can't Beat Them	Let Me Entertain You	rock
+If You Can't Beat Them	Modern Times Rock 'N' Roll	rock
+If You Can't Beat Them	Tenement Funster	rock
+Let Me Entertain You	Modern Times Rock 'N' Roll	rock
+Let Me Entertain You	Tenement Funster	rock
+Modern Times Rock 'N' Roll	Tenement Funster	rock
+I’m in Love with My Car	If You Can't Beat Them	roll
+I’m in Love with My Car	Let Me Entertain You	roll
+I’m in Love with My Car	Modern Times Rock 'N' Roll	roll
+I’m in Love with My Car	Tenement Funster	roll
+If You Can't Beat Them	Let Me Entertain You	roll
+If You Can't Beat Them	Modern Times Rock 'N' Roll	roll
+If You Can't Beat Them	Tenement Funster	roll
+Let Me Entertain You	Modern Times Rock 'N' Roll	roll
+Let Me Entertain You	Tenement Funster	roll
+Modern Times Rock 'N' Roll	Tenement Funster	roll
+Dead on Time	Doing All Right	round
+Dead on Time	Fat Bottomed Girls	round
+Dead on Time	If You Can't Beat Them	round
+Dead on Time	Jesus	round
+Dead on Time	More of That Jazz	round
+Dead on Time	Stone Cold Crazy	round
+Dead on Time	You're My Best Friend	round
+Doing All Right	Fat Bottomed Girls	round
+Doing All Right	If You Can't Beat Them	round
+Doing All Right	Jesus	round
+Doing All Right	More of That Jazz	round
+Doing All Right	Stone Cold Crazy	round
+Doing All Right	You're My Best Friend	round
+Fat Bottomed Girls	If You Can't Beat Them	round
+Fat Bottomed Girls	Jesus	round
+Fat Bottomed Girls	More of That Jazz	round
+Fat Bottomed Girls	Stone Cold Crazy	round
+Fat Bottomed Girls	You're My Best Friend	round
+If You Can't Beat Them	Jesus	round
+If You Can't Beat Them	More of That Jazz	round
+If You Can't Beat Them	Stone Cold Crazy	round
+If You Can't Beat Them	You're My Best Friend	round
+Jesus	More of That Jazz	round
+Jesus	Stone Cold Crazy	round
+Jesus	You're My Best Friend	round
+More of That Jazz	Stone Cold Crazy	round
+More of That Jazz	You're My Best Friend	round
+Stone Cold Crazy	You're My Best Friend	round
+Doing All Right	My Fairy King	ruin
+Death on Two Legs (Dedicated to...)	My Fairy King	rules
+If You Can't Beat Them	Stone Cold Crazy	rumour
+I’m in Love with My Car	If You Can't Beat Them	run
+I’m in Love with My Car	My Fairy King	run
+I’m in Love with My Car	Seaside Rendezvous	run
+I’m in Love with My Car	Somebody to Love	run
+I’m in Love with My Car	Stone Cold Crazy	run
+I’m in Love with My Car	The Prophet's Song	run
+If You Can't Beat Them	My Fairy King	run
+If You Can't Beat Them	Seaside Rendezvous	run
+If You Can't Beat Them	Somebody to Love	run
+If You Can't Beat Them	Stone Cold Crazy	run
+If You Can't Beat Them	The Prophet's Song	run
+My Fairy King	Seaside Rendezvous	run
+My Fairy King	Somebody to Love	run
+My Fairy King	Stone Cold Crazy	run
+My Fairy King	The Prophet's Song	run
+Seaside Rendezvous	Somebody to Love	run
+Seaside Rendezvous	Stone Cold Crazy	run
+Seaside Rendezvous	The Prophet's Song	run
+Somebody to Love	Stone Cold Crazy	run
+Somebody to Love	The Prophet's Song	run
+Stone Cold Crazy	The Prophet's Song	run
+Dead on Time	Now I'm Here	running
+Dead on Time	The Prophet's Song	running
+Now I'm Here	The Prophet's Song	running
+Drowse	Good Old-Fashioned Lover Boy	sad
+Drowse	In Only Seven Days	sad
+Drowse	Long Away	sad
+Drowse	The Millionaire Waltz	sad
+Good Old-Fashioned Lover Boy	In Only Seven Days	sad
+Good Old-Fashioned Lover Boy	Long Away	sad
+Good Old-Fashioned Lover Boy	The Millionaire Waltz	sad
+In Only Seven Days	Long Away	sad
+In Only Seven Days	The Millionaire Waltz	sad
+Long Away	The Millionaire Waltz	sad
+Good Company	Now I'm Here	safe
+'39	Liar	sailed
+'39	My Fairy King	sand
+'39	White Man	sand
+My Fairy King	White Man	sand
+Death on Two Legs (Dedicated to...)	Keep Yourself Alive	satisfied
+In Only Seven Days	Lazing on a Sunday Afternoon	saturday
+In Only Seven Days	Stone Cold Crazy	saturday
+Lazing on a Sunday Afternoon	Stone Cold Crazy	saturday
+Bicycle Race	Let Me Entertain You	scene
+Bicycle Race	Modern Times Rock 'N' Roll	scene
+Let Me Entertain You	Modern Times Rock 'N' Roll	scene
+Drowse	Good Old-Fashioned Lover Boy	school
+Drowse	Modern Times Rock 'N' Roll	school
+Drowse	Tie Your Mother Down	school
+Good Old-Fashioned Lover Boy	Modern Times Rock 'N' Roll	school
+Good Old-Fashioned Lover Boy	Tie Your Mother Down	school
+Modern Times Rock 'N' Roll	Tie Your Mother Down	school
+My Fairy King	Seaside Rendezvous	sea
+'39	Liar	seas
+'39	Lily of the Valley	seas
+Liar	Lily of the Valley	seas
+Bring Back That Leroy Brown	Somebody to Love	sense
+Bicycle Race	Good Old-Fashioned Lover Boy	set
+Bicycle Race	In the Lap of the Gods... Revisited	set
+Bicycle Race	My Fairy King	set
+Good Old-Fashioned Lover Boy	In the Lap of the Gods... Revisited	set
+Good Old-Fashioned Lover Boy	My Fairy King	set
+In the Lap of the Gods... Revisited	My Fairy King	set
+Dead on Time	Keep Yourself Alive	shake
+Dead on Time	The Prophet's Song	shake
+Keep Yourself Alive	The Prophet's Song	shake
+Fun It	Leaving Home Ain't Easy	shaking
+Bicycle Race	Death on Two Legs (Dedicated to...)	shark
+Brighton Rock	My Fairy King	shine
+Brighton Rock	You're My Best Friend	shine
+My Fairy King	You're My Best Friend	shine
+'39	Don't Stop Me Now	ship
+Leaving Home Ain't Easy	Tenement Funster	shoes
+Leaving Home Ain't Easy	White Man	shoes
+Tenement Funster	White Man	shoes
+Bring Back That Leroy Brown	Misfire	shoot
+Don't Stop Me Now	Stone Cold Crazy	shooting
+'39	Misfire	sight
+'39	Now I'm Here	sight
+'39	White Man	sight
+Misfire	Now I'm Here	sight
+Misfire	White Man	sight
+Now I'm Here	White Man	sight
+Good Old-Fashioned Lover Boy	Let Me Entertain You	sing
+Fat Bottomed Girls	My Fairy King	singing
+Modern Times Rock 'N' Roll	Tie Your Mother Down	single
+Modern Times Rock 'N' Roll	You Take My Breath Away	single
+Tie Your Mother Down	You Take My Breath Away	single
+Good Old-Fashioned Lover Boy	The Millionaire Waltz	sit
+Bohemian Rhapsody	Doing All Right	skies
+Bohemian Rhapsody	Lily of the Valley	skies
+Bohemian Rhapsody	White Man	skies
+Doing All Right	Lily of the Valley	skies
+Doing All Right	White Man	skies
+Lily of the Valley	White Man	skies
+Don't Stop Me Now	Now I'm Here	sky
+Dear Friends	Dreamer's Ball	sleep
+Dear Friends	You Take My Breath Away	sleep
+Dreamer's Ball	You Take My Breath Away	sleep
+Bicycle Race	Bring Back That Leroy Brown	smile
+Bicycle Race	Dreamer's Ball	smile
+Bicycle Race	Keep Yourself Alive	smile
+Bicycle Race	Long Away	smile
+Bring Back That Leroy Brown	Dreamer's Ball	smile
+Bring Back That Leroy Brown	Keep Yourself Alive	smile
+Bring Back That Leroy Brown	Long Away	smile
+Dreamer's Ball	Keep Yourself Alive	smile
+Dreamer's Ball	Long Away	smile
+Keep Yourself Alive	Long Away	smile
+Great King Rat	I’m in Love with My Car	son
+Great King Rat	Let Me Entertain You	son
+Great King Rat	My Fairy King	son
+Great King Rat	Son and Daughter	son
+Great King Rat	The Prophet's Song	son
+I’m in Love with My Car	Let Me Entertain You	son
+I’m in Love with My Car	My Fairy King	son
+I’m in Love with My Car	Son and Daughter	son
+I’m in Love with My Car	The Prophet's Song	son
+Let Me Entertain You	My Fairy King	son
+Let Me Entertain You	Son and Daughter	son
+Let Me Entertain You	The Prophet's Song	son
+My Fairy King	Son and Daughter	son
+My Fairy King	The Prophet's Song	son
+Son and Daughter	The Prophet's Song	son
+Teo Torriatte (Let Us Cling Together)	The Millionaire Waltz	song
+Doing All Right	Jealousy	sorrow
+Fun It	Keep Yourself Alive	soul
+Fun It	Long Away	soul
+Fun It	White Man	soul
+Keep Yourself Alive	Long Away	soul
+Keep Yourself Alive	White Man	soul
+Long Away	White Man	soul
+Let Me Entertain You	Now I'm Here	sound
+Let Me Entertain You	The Millionaire Waltz	sound
+Let Me Entertain You	You Take My Breath Away	sound
+Now I'm Here	The Millionaire Waltz	sound
+Now I'm Here	You Take My Breath Away	sound
+The Millionaire Waltz	You Take My Breath Away	sound
+Don't Stop Me Now	Tenement Funster	speed
+Brighton Rock	Lily of the Valley	spell
+Brighton Rock	Somebody to Love	spent
+Brighton Rock	The Millionaire Waltz	spent
+Somebody to Love	The Millionaire Waltz	spent
+Bohemian Rhapsody	Flick of the Wrist	spine
+Bring Back That Leroy Brown	Now I'm Here	stand
+Bring Back That Leroy Brown	Somebody to Love	stand
+Now I'm Here	Somebody to Love	stand
+Bicycle Race	Don't Stop Me Now	star
+Bicycle Race	Jesus	star
+Bicycle Race	Long Away	star
+Bicycle Race	Modern Times Rock 'N' Roll	star
+Don't Stop Me Now	Jesus	star
+Don't Stop Me Now	Long Away	star
+Don't Stop Me Now	Modern Times Rock 'N' Roll	star
+Jesus	Long Away	star
+Jesus	Modern Times Rock 'N' Roll	star
+Long Away	Modern Times Rock 'N' Roll	star
+Jesus	Now I'm Here	stared
+Long Away	Modern Times Rock 'N' Roll	stars
+Dear Friends	Death on Two Legs (Dedicated to...)	start
+Dear Friends	In Only Seven Days	start
+Dear Friends	Seaside Rendezvous	start
+Dear Friends	Somebody to Love	start
+Death on Two Legs (Dedicated to...)	In Only Seven Days	start
+Death on Two Legs (Dedicated to...)	Seaside Rendezvous	start
+Death on Two Legs (Dedicated to...)	Somebody to Love	start
+In Only Seven Days	Seaside Rendezvous	start
+In Only Seven Days	Somebody to Love	start
+Seaside Rendezvous	Somebody to Love	start
+Brighton Rock	Keep Yourself Alive	stay
+Brighton Rock	Leaving Home Ain't Easy	stay
+Brighton Rock	Now I'm Here	stay
+Brighton Rock	Sweet Lady	stay
+Brighton Rock	The Millionaire Waltz	stay
+Brighton Rock	You and I	stay
+Keep Yourself Alive	Leaving Home Ain't Easy	stay
+Keep Yourself Alive	Now I'm Here	stay
+Keep Yourself Alive	Sweet Lady	stay
+Keep Yourself Alive	The Millionaire Waltz	stay
+Keep Yourself Alive	You and I	stay
+Leaving Home Ain't Easy	Now I'm Here	stay
+Leaving Home Ain't Easy	Sweet Lady	stay
+Leaving Home Ain't Easy	The Millionaire Waltz	stay
+Leaving Home Ain't Easy	You and I	stay
+Now I'm Here	Sweet Lady	stay
+Now I'm Here	The Millionaire Waltz	stay
+Now I'm Here	You and I	stay
+Sweet Lady	The Millionaire Waltz	stay
+Sweet Lady	You and I	stay
+The Millionaire Waltz	You and I	stay
+Bring Back That Leroy Brown	Leaving Home Ain't Easy	step
+Liar	You Take My Breath Away	stolen
+Bohemian Rhapsody	Stone Cold Crazy	stone
+Bohemian Rhapsody	White Man	stone
+Stone Cold Crazy	White Man	stone
+In Only Seven Days	You're My Best Friend	stood
+Don't Stop Me Now	Tie Your Mother Down	stop
+Dreamer's Ball	Drowse	street
+Dreamer's Ball	Stone Cold Crazy	street
+Drowse	Stone Cold Crazy	street
+Jealousy	Teo Torriatte (Let Us Cling Together)	strong
+Bring Back That Leroy Brown	Fat Bottomed Girls	style
+Bring Back That Leroy Brown	Good Old-Fashioned Lover Boy	style
+Bring Back That Leroy Brown	Let Me Entertain You	style
+Bring Back That Leroy Brown	Modern Times Rock 'N' Roll	style
+Fat Bottomed Girls	Good Old-Fashioned Lover Boy	style
+Fat Bottomed Girls	Let Me Entertain You	style
+Fat Bottomed Girls	Modern Times Rock 'N' Roll	style
+Good Old-Fashioned Lover Boy	Let Me Entertain You	style
+Good Old-Fashioned Lover Boy	Modern Times Rock 'N' Roll	style
+Let Me Entertain You	Modern Times Rock 'N' Roll	style
+Doing All Right	Drowse	sun
+Doing All Right	The Night Comes Down	sun
+Drowse	The Night Comes Down	sun
+In Only Seven Days	Lazing on a Sunday Afternoon	sunday
+In Only Seven Days	Modern Times Rock 'N' Roll	sunday
+Lazing on a Sunday Afternoon	Modern Times Rock 'N' Roll	sunday
+'39	Lazing on a Sunday Afternoon	sunny
+'39	You and I	sunny
+Lazing on a Sunday Afternoon	You and I	sunny
+She Makes Me (Stormtrooper In Stilettos)	You Take My Breath Away	surely
+Great King Rat	White Man	swore
+Dreamer's Ball	If You Can't Beat Them	taking
+Dreamer's Ball	Keep Yourself Alive	taking
+Dreamer's Ball	The Prophet's Song	taking
+If You Can't Beat Them	Keep Yourself Alive	taking
+If You Can't Beat Them	The Prophet's Song	taking
+Keep Yourself Alive	The Prophet's Song	taking
+Brighton Rock	Death on Two Legs (Dedicated to...)	talk
+Brighton Rock	I’m in Love with My Car	talk
+Brighton Rock	In the Lap of the Gods... Revisited	talk
+Death on Two Legs (Dedicated to...)	I’m in Love with My Car	talk
+Death on Two Legs (Dedicated to...)	In the Lap of the Gods... Revisited	talk
+I’m in Love with My Car	In the Lap of the Gods... Revisited	talk
+Now I'm Here	Sweet Lady	tear
+Dear Friends	Drowse	tears
+Dear Friends	Jealousy	tears
+Dear Friends	Leaving Home Ain't Easy	tears
+Dear Friends	Somebody to Love	tears
+Dear Friends	You Take My Breath Away	tears
+Drowse	Jealousy	tears
+Drowse	Leaving Home Ain't Easy	tears
+Drowse	Somebody to Love	tears
+Drowse	You Take My Breath Away	tears
+Jealousy	Leaving Home Ain't Easy	tears
+Jealousy	Somebody to Love	tears
+Jealousy	You Take My Breath Away	tears
+Leaving Home Ain't Easy	Somebody to Love	tears
+Leaving Home Ain't Easy	You Take My Breath Away	tears
+Somebody to Love	You Take My Breath Away	tears
+Dead on Time	More of That Jazz	tellin
+I’m in Love with My Car	Let Me Entertain You	thrill
+In Only Seven Days	Lazing on a Sunday Afternoon	thursday
+Leaving Home Ain't Easy	Tie Your Mother Down	ties
+Good Old-Fashioned Lover Boy	Misfire	tight
+Good Old-Fashioned Lover Boy	Tie Your Mother Down	tight
+Misfire	Tie Your Mother Down	tight
+Dreamer's Ball	Liar	til
+Dreamer's Ball	Somebody to Love	til
+Liar	Somebody to Love	til
+Death on Two Legs (Dedicated to...)	Flick of the Wrist	till
+Death on Two Legs (Dedicated to...)	Tie Your Mother Down	till
+Death on Two Legs (Dedicated to...)	You Take My Breath Away	till
+Flick of the Wrist	Tie Your Mother Down	till
+Flick of the Wrist	You Take My Breath Away	till
+Tie Your Mother Down	You Take My Breath Away	till
+Bohemian Rhapsody	Bring Back That Leroy Brown	time
+Bohemian Rhapsody	Dead on Time	time
+Bohemian Rhapsody	Doing All Right	time
+Bohemian Rhapsody	Don't Stop Me Now	time
+Bohemian Rhapsody	Dreamer's Ball	time
+Bohemian Rhapsody	Drowse	time
+Bohemian Rhapsody	Fat Bottomed Girls	time
+Bohemian Rhapsody	Flick of the Wrist	time
+Bohemian Rhapsody	Fun It	time
+Bohemian Rhapsody	Good Company	time
+Bohemian Rhapsody	Great King Rat	time
+Bohemian Rhapsody	Keep Yourself Alive	time
+Bohemian Rhapsody	Lazing on a Sunday Afternoon	time
+Bohemian Rhapsody	Let Me Entertain You	time
+Bohemian Rhapsody	Liar	time
+Bohemian Rhapsody	Lily of the Valley	time
+Bohemian Rhapsody	Misfire	time
+Bohemian Rhapsody	Seaside Rendezvous	time
+Bohemian Rhapsody	Son and Daughter	time
+Bohemian Rhapsody	Teo Torriatte (Let Us Cling Together)	time
+Bohemian Rhapsody	Tie Your Mother Down	time
+Bohemian Rhapsody	You and I	time
+Bohemian Rhapsody	You Take My Breath Away	time
+Bohemian Rhapsody	You're My Best Friend	time
+Bring Back That Leroy Brown	Dead on Time	time
+Bring Back That Leroy Brown	Doing All Right	time
+Bring Back That Leroy Brown	Don't Stop Me Now	time
+Bring Back That Leroy Brown	Dreamer's Ball	time
+Bring Back That Leroy Brown	Drowse	time
+Bring Back That Leroy Brown	Fat Bottomed Girls	time
+Bring Back That Leroy Brown	Flick of the Wrist	time
+Bring Back That Leroy Brown	Fun It	time
+Bring Back That Leroy Brown	Good Company	time
+Bring Back That Leroy Brown	Great King Rat	time
+Bring Back That Leroy Brown	Keep Yourself Alive	time
+Bring Back That Leroy Brown	Lazing on a Sunday Afternoon	time
+Bring Back That Leroy Brown	Let Me Entertain You	time
+Bring Back That Leroy Brown	Liar	time
+Bring Back That Leroy Brown	Lily of the Valley	time
+Bring Back That Leroy Brown	Misfire	time
+Bring Back That Leroy Brown	Seaside Rendezvous	time
+Bring Back That Leroy Brown	Son and Daughter	time
+Bring Back That Leroy Brown	Teo Torriatte (Let Us Cling Together)	time
+Bring Back That Leroy Brown	Tie Your Mother Down	time
+Bring Back That Leroy Brown	You and I	time
+Bring Back That Leroy Brown	You Take My Breath Away	time
+Bring Back That Leroy Brown	You're My Best Friend	time
+Dead on Time	Doing All Right	time
+Dead on Time	Don't Stop Me Now	time
+Dead on Time	Dreamer's Ball	time
+Dead on Time	Drowse	time
+Dead on Time	Fat Bottomed Girls	time
+Dead on Time	Flick of the Wrist	time
+Dead on Time	Fun It	time
+Dead on Time	Good Company	time
+Dead on Time	Great King Rat	time
+Dead on Time	Keep Yourself Alive	time
+Dead on Time	Lazing on a Sunday Afternoon	time
+Dead on Time	Let Me Entertain You	time
+Dead on Time	Liar	time
+Dead on Time	Lily of the Valley	time
+Dead on Time	Misfire	time
+Dead on Time	Seaside Rendezvous	time
+Dead on Time	Son and Daughter	time
+Dead on Time	Teo Torriatte (Let Us Cling Together)	time
+Dead on Time	Tie Your Mother Down	time
+Dead on Time	You and I	time
+Dead on Time	You Take My Breath Away	time
+Dead on Time	You're My Best Friend	time
+Doing All Right	Don't Stop Me Now	time
+Doing All Right	Dreamer's Ball	time
+Doing All Right	Drowse	time
+Doing All Right	Fat Bottomed Girls	time
+Doing All Right	Flick of the Wrist	time
+Doing All Right	Fun It	time
+Doing All Right	Good Company	time
+Doing All Right	Great King Rat	time
+Doing All Right	Keep Yourself Alive	time
+Doing All Right	Lazing on a Sunday Afternoon	time
+Doing All Right	Let Me Entertain You	time
+Doing All Right	Liar	time
+Doing All Right	Lily of the Valley	time
+Doing All Right	Misfire	time
+Doing All Right	Seaside Rendezvous	time
+Doing All Right	Son and Daughter	time
+Doing All Right	Teo Torriatte (Let Us Cling Together)	time
+Doing All Right	Tie Your Mother Down	time
+Doing All Right	You and I	time
+Doing All Right	You Take My Breath Away	time
+Doing All Right	You're My Best Friend	time
+Don't Stop Me Now	Dreamer's Ball	time
+Don't Stop Me Now	Drowse	time
+Don't Stop Me Now	Fat Bottomed Girls	time
+Don't Stop Me Now	Flick of the Wrist	time
+Don't Stop Me Now	Fun It	time
+Don't Stop Me Now	Good Company	time
+Don't Stop Me Now	Great King Rat	time
+Don't Stop Me Now	Keep Yourself Alive	time
+Don't Stop Me Now	Lazing on a Sunday Afternoon	time
+Don't Stop Me Now	Let Me Entertain You	time
+Don't Stop Me Now	Liar	time
+Don't Stop Me Now	Lily of the Valley	time
+Don't Stop Me Now	Misfire	time
+Don't Stop Me Now	Seaside Rendezvous	time
+Don't Stop Me Now	Son and Daughter	time
+Don't Stop Me Now	Teo Torriatte (Let Us Cling Together)	time
+Don't Stop Me Now	Tie Your Mother Down	time
+Don't Stop Me Now	You and I	time
+Don't Stop Me Now	You Take My Breath Away	time
+Don't Stop Me Now	You're My Best Friend	time
+Dreamer's Ball	Drowse	time
+Dreamer's Ball	Fat Bottomed Girls	time
+Dreamer's Ball	Flick of the Wrist	time
+Dreamer's Ball	Fun It	time
+Dreamer's Ball	Good Company	time
+Dreamer's Ball	Great King Rat	time
+Dreamer's Ball	Keep Yourself Alive	time
+Dreamer's Ball	Lazing on a Sunday Afternoon	time
+Dreamer's Ball	Let Me Entertain You	time
+Dreamer's Ball	Liar	time
+Dreamer's Ball	Lily of the Valley	time
+Dreamer's Ball	Misfire	time
+Dreamer's Ball	Seaside Rendezvous	time
+Dreamer's Ball	Son and Daughter	time
+Dreamer's Ball	Teo Torriatte (Let Us Cling Together)	time
+Dreamer's Ball	Tie Your Mother Down	time
+Dreamer's Ball	You and I	time
+Dreamer's Ball	You Take My Breath Away	time
+Dreamer's Ball	You're My Best Friend	time
+Drowse	Fat Bottomed Girls	time
+Drowse	Flick of the Wrist	time
+Drowse	Fun It	time
+Drowse	Good Company	time
+Drowse	Great King Rat	time
+Drowse	Keep Yourself Alive	time
+Drowse	Lazing on a Sunday Afternoon	time
+Drowse	Let Me Entertain You	time
+Drowse	Liar	time
+Drowse	Lily of the Valley	time
+Drowse	Misfire	time
+Drowse	Seaside Rendezvous	time
+Drowse	Son and Daughter	time
+Drowse	Teo Torriatte (Let Us Cling Together)	time
+Drowse	Tie Your Mother Down	time
+Drowse	You and I	time
+Drowse	You Take My Breath Away	time
+Drowse	You're My Best Friend	time
+Fat Bottomed Girls	Flick of the Wrist	time
+Fat Bottomed Girls	Fun It	time
+Fat Bottomed Girls	Good Company	time
+Fat Bottomed Girls	Great King Rat	time
+Fat Bottomed Girls	Keep Yourself Alive	time
+Fat Bottomed Girls	Lazing on a Sunday Afternoon	time
+Fat Bottomed Girls	Let Me Entertain You	time
+Fat Bottomed Girls	Liar	time
+Fat Bottomed Girls	Lily of the Valley	time
+Fat Bottomed Girls	Misfire	time
+Fat Bottomed Girls	Seaside Rendezvous	time
+Fat Bottomed Girls	Son and Daughter	time
+Fat Bottomed Girls	Teo Torriatte (Let Us Cling Together)	time
+Fat Bottomed Girls	Tie Your Mother Down	time
+Fat Bottomed Girls	You and I	time
+Fat Bottomed Girls	You Take My Breath Away	time
+Fat Bottomed Girls	You're My Best Friend	time
+Flick of the Wrist	Fun It	time
+Flick of the Wrist	Good Company	time
+Flick of the Wrist	Great King Rat	time
+Flick of the Wrist	Keep Yourself Alive	time
+Flick of the Wrist	Lazing on a Sunday Afternoon	time
+Flick of the Wrist	Let Me Entertain You	time
+Flick of the Wrist	Liar	time
+Flick of the Wrist	Lily of the Valley	time
+Flick of the Wrist	Misfire	time
+Flick of the Wrist	Seaside Rendezvous	time
+Flick of the Wrist	Son and Daughter	time
+Flick of the Wrist	Teo Torriatte (Let Us Cling Together)	time
+Flick of the Wrist	Tie Your Mother Down	time
+Flick of the Wrist	You and I	time
+Flick of the Wrist	You Take My Breath Away	time
+Flick of the Wrist	You're My Best Friend	time
+Fun It	Good Company	time
+Fun It	Great King Rat	time
+Fun It	Keep Yourself Alive	time
+Fun It	Lazing on a Sunday Afternoon	time
+Fun It	Let Me Entertain You	time
+Fun It	Liar	time
+Fun It	Lily of the Valley	time
+Fun It	Misfire	time
+Fun It	Seaside Rendezvous	time
+Fun It	Son and Daughter	time
+Fun It	Teo Torriatte (Let Us Cling Together)	time
+Fun It	Tie Your Mother Down	time
+Fun It	You and I	time
+Fun It	You Take My Breath Away	time
+Fun It	You're My Best Friend	time
+Good Company	Great King Rat	time
+Good Company	Keep Yourself Alive	time
+Good Company	Lazing on a Sunday Afternoon	time
+Good Company	Let Me Entertain You	time
+Good Company	Liar	time
+Good Company	Lily of the Valley	time
+Good Company	Misfire	time
+Good Company	Seaside Rendezvous	time
+Good Company	Son and Daughter	time
+Good Company	Teo Torriatte (Let Us Cling Together)	time
+Good Company	Tie Your Mother Down	time
+Good Company	You and I	time
+Good Company	You Take My Breath Away	time
+Good Company	You're My Best Friend	time
+Great King Rat	Keep Yourself Alive	time
+Great King Rat	Lazing on a Sunday Afternoon	time
+Great King Rat	Let Me Entertain You	time
+Great King Rat	Liar	time
+Great King Rat	Lily of the Valley	time
+Great King Rat	Misfire	time
+Great King Rat	Seaside Rendezvous	time
+Great King Rat	Son and Daughter	time
+Great King Rat	Teo Torriatte (Let Us Cling Together)	time
+Great King Rat	Tie Your Mother Down	time
+Great King Rat	You and I	time
+Great King Rat	You Take My Breath Away	time
+Great King Rat	You're My Best Friend	time
+Keep Yourself Alive	Lazing on a Sunday Afternoon	time
+Keep Yourself Alive	Let Me Entertain You	time
+Keep Yourself Alive	Liar	time
+Keep Yourself Alive	Lily of the Valley	time
+Keep Yourself Alive	Misfire	time
+Keep Yourself Alive	Seaside Rendezvous	time
+Keep Yourself Alive	Son and Daughter	time
+Keep Yourself Alive	Teo Torriatte (Let Us Cling Together)	time
+Keep Yourself Alive	Tie Your Mother Down	time
+Keep Yourself Alive	You and I	time
+Keep Yourself Alive	You Take My Breath Away	time
+Keep Yourself Alive	You're My Best Friend	time
+Lazing on a Sunday Afternoon	Let Me Entertain You	time
+Lazing on a Sunday Afternoon	Liar	time
+Lazing on a Sunday Afternoon	Lily of the Valley	time
+Lazing on a Sunday Afternoon	Misfire	time
+Lazing on a Sunday Afternoon	Seaside Rendezvous	time
+Lazing on a Sunday Afternoon	Son and Daughter	time
+Lazing on a Sunday Afternoon	Teo Torriatte (Let Us Cling Together)	time
+Lazing on a Sunday Afternoon	Tie Your Mother Down	time
+Lazing on a Sunday Afternoon	You and I	time
+Lazing on a Sunday Afternoon	You Take My Breath Away	time
+Lazing on a Sunday Afternoon	You're My Best Friend	time
+Let Me Entertain You	Liar	time
+Let Me Entertain You	Lily of the Valley	time
+Let Me Entertain You	Misfire	time
+Let Me Entertain You	Seaside Rendezvous	time
+Let Me Entertain You	Son and Daughter	time
+Let Me Entertain You	Teo Torriatte (Let Us Cling Together)	time
+Let Me Entertain You	Tie Your Mother Down	time
+Let Me Entertain You	You and I	time
+Let Me Entertain You	You Take My Breath Away	time
+Let Me Entertain You	You're My Best Friend	time
+Liar	Lily of the Valley	time
+Liar	Misfire	time
+Liar	Seaside Rendezvous	time
+Liar	Son and Daughter	time
+Liar	Teo Torriatte (Let Us Cling Together)	time
+Liar	Tie Your Mother Down	time
+Liar	You and I	time
+Liar	You Take My Breath Away	time
+Liar	You're My Best Friend	time
+Lily of the Valley	Misfire	time
+Lily of the Valley	Seaside Rendezvous	time
+Lily of the Valley	Son and Daughter	time
+Lily of the Valley	Teo Torriatte (Let Us Cling Together)	time
+Lily of the Valley	Tie Your Mother Down	time
+Lily of the Valley	You and I	time
+Lily of the Valley	You Take My Breath Away	time
+Lily of the Valley	You're My Best Friend	time
+Misfire	Seaside Rendezvous	time
+Misfire	Son and Daughter	time
+Misfire	Teo Torriatte (Let Us Cling Together)	time
+Misfire	Tie Your Mother Down	time
+Misfire	You and I	time
+Misfire	You Take My Breath Away	time
+Misfire	You're My Best Friend	time
+Seaside Rendezvous	Son and Daughter	time
+Seaside Rendezvous	Teo Torriatte (Let Us Cling Together)	time
+Seaside Rendezvous	Tie Your Mother Down	time
+Seaside Rendezvous	You and I	time
+Seaside Rendezvous	You Take My Breath Away	time
+Seaside Rendezvous	You're My Best Friend	time
+Son and Daughter	Teo Torriatte (Let Us Cling Together)	time
+Son and Daughter	Tie Your Mother Down	time
+Son and Daughter	You and I	time
+Son and Daughter	You Take My Breath Away	time
+Son and Daughter	You're My Best Friend	time
+Teo Torriatte (Let Us Cling Together)	Tie Your Mother Down	time
+Teo Torriatte (Let Us Cling Together)	You and I	time
+Teo Torriatte (Let Us Cling Together)	You Take My Breath Away	time
+Teo Torriatte (Let Us Cling Together)	You're My Best Friend	time
+Tie Your Mother Down	You and I	time
+Tie Your Mother Down	You Take My Breath Away	time
+Tie Your Mother Down	You're My Best Friend	time
+You and I	You Take My Breath Away	time
+You and I	You're My Best Friend	time
+You Take My Breath Away	You're My Best Friend	time
+Drowse	Keep Yourself Alive	times
+Drowse	Liar	times
+Drowse	Modern Times Rock 'N' Roll	times
+Drowse	More of That Jazz	times
+Keep Yourself Alive	Liar	times
+Keep Yourself Alive	Modern Times Rock 'N' Roll	times
+Keep Yourself Alive	More of That Jazz	times
+Liar	Modern Times Rock 'N' Roll	times
+Liar	More of That Jazz	times
+Modern Times Rock 'N' Roll	More of That Jazz	times
+Leaving Home Ain't Easy	Modern Times Rock 'N' Roll	tired
+Leaving Home Ain't Easy	More of That Jazz	tired
+Modern Times Rock 'N' Roll	More of That Jazz	tired
+Dreamer's Ball	Drowse	told
+Dreamer's Ball	Great King Rat	told
+Dreamer's Ball	I’m in Love with My Car	told
+Dreamer's Ball	Keep Yourself Alive	told
+Dreamer's Ball	The Prophet's Song	told
+Drowse	Great King Rat	told
+Drowse	I’m in Love with My Car	told
+Drowse	Keep Yourself Alive	told
+Drowse	The Prophet's Song	told
+Great King Rat	I’m in Love with My Car	told
+Great King Rat	Keep Yourself Alive	told
+Great King Rat	The Prophet's Song	told
+I’m in Love with My Car	Keep Yourself Alive	told
+I’m in Love with My Car	The Prophet's Song	told
+Keep Yourself Alive	The Prophet's Song	told
+Bohemian Rhapsody	Doing All Right	tomorrow
+Bohemian Rhapsody	Great King Rat	tomorrow
+Bohemian Rhapsody	In Only Seven Days	tomorrow
+Bohemian Rhapsody	You and I	tomorrow
+Doing All Right	Great King Rat	tomorrow
+Doing All Right	In Only Seven Days	tomorrow
+Doing All Right	You and I	tomorrow
+Great King Rat	In Only Seven Days	tomorrow
+Great King Rat	You and I	tomorrow
+In Only Seven Days	You and I	tomorrow
+Don't Stop Me Now	Fat Bottomed Girls	tonight
+Don't Stop Me Now	Fun It	tonight
+Don't Stop Me Now	Good Old-Fashioned Lover Boy	tonight
+Don't Stop Me Now	Tie Your Mother Down	tonight
+Don't Stop Me Now	You and I	tonight
+Fat Bottomed Girls	Fun It	tonight
+Fat Bottomed Girls	Good Old-Fashioned Lover Boy	tonight
+Fat Bottomed Girls	Tie Your Mother Down	tonight
+Fat Bottomed Girls	You and I	tonight
+Fun It	Good Old-Fashioned Lover Boy	tonight
+Fun It	Tie Your Mother Down	tonight
+Fun It	You and I	tonight
+Good Old-Fashioned Lover Boy	Tie Your Mother Down	tonight
+Good Old-Fashioned Lover Boy	You and I	tonight
+Tie Your Mother Down	You and I	tonight
+In the Lap of the Gods	Jesus	touch
+In the Lap of the Gods	You Take My Breath Away	touch
+Jesus	You Take My Breath Away	touch
+Bring Back That Leroy Brown	Fun It	town
+Bring Back That Leroy Brown	Lazing on a Sunday Afternoon	town
+Bring Back That Leroy Brown	Stone Cold Crazy	town
+Fun It	Lazing on a Sunday Afternoon	town
+Fun It	Stone Cold Crazy	town
+Lazing on a Sunday Afternoon	Stone Cold Crazy	town
+Death on Two Legs (Dedicated to...)	Dreamer's Ball	toy
+Fat Bottomed Girls	The Prophet's Song	treasure
+Drowse	Keep Yourself Alive	troubles
+Drowse	Long Away	troubles
+Keep Yourself Alive	Long Away	troubles
+Dreamer's Ball	In the Lap of the Gods... Revisited	true
+Dreamer's Ball	You're My Best Friend	true
+In the Lap of the Gods... Revisited	You're My Best Friend	true
+In Only Seven Days	Lazing on a Sunday Afternoon	tuesday
+Great King Rat	In Only Seven Days	twenty
+Now I'm Here	Teo Torriatte (Let Us Cling Together)	understand
+Now I'm Here	Tie Your Mother Down	understand
+Teo Torriatte (Let Us Cling Together)	Tie Your Mother Down	understand
+Good Old-Fashioned Lover Boy	Seaside Rendezvous	valentino
+Liar	The Prophet's Song	voice
+In the Lap of the Gods... Revisited	Lily of the Valley	wah
+Lily of the Valley	Sweet Lady	wait
+Lily of the Valley	You and I	wait
+Sweet Lady	You and I	wait
+Doing All Right	Sweet Lady	waiting
+Doing All Right	You and I	waiting
+Sweet Lady	You and I	waiting
+Dreamer's Ball	Long Away	wake
+Dreamer's Ball	Good Company	waking
+Stone Cold Crazy	You and I	walking
+Bicycle Race	Bohemian Rhapsody	wanna
+Bicycle Race	Dead on Time	wanna
+Bicycle Race	Don't Stop Me Now	wanna
+Bicycle Race	In the Lap of the Gods... Revisited	wanna
+Bicycle Race	Killer Queen	wanna
+Bicycle Race	Let Me Entertain You	wanna
+Bicycle Race	The Millionaire Waltz	wanna
+Bohemian Rhapsody	Dead on Time	wanna
+Bohemian Rhapsody	Don't Stop Me Now	wanna
+Bohemian Rhapsody	In the Lap of the Gods... Revisited	wanna
+Bohemian Rhapsody	Killer Queen	wanna
+Bohemian Rhapsody	Let Me Entertain You	wanna
+Bohemian Rhapsody	The Millionaire Waltz	wanna
+Dead on Time	Don't Stop Me Now	wanna
+Dead on Time	In the Lap of the Gods... Revisited	wanna
+Dead on Time	Killer Queen	wanna
+Dead on Time	Let Me Entertain You	wanna
+Dead on Time	The Millionaire Waltz	wanna
+Don't Stop Me Now	In the Lap of the Gods... Revisited	wanna
+Don't Stop Me Now	Killer Queen	wanna
+Don't Stop Me Now	Let Me Entertain You	wanna
+Don't Stop Me Now	The Millionaire Waltz	wanna
+In the Lap of the Gods... Revisited	Killer Queen	wanna
+In the Lap of the Gods... Revisited	Let Me Entertain You	wanna
+In the Lap of the Gods... Revisited	The Millionaire Waltz	wanna
+Killer Queen	Let Me Entertain You	wanna
+Killer Queen	The Millionaire Waltz	wanna
+Let Me Entertain You	The Millionaire Waltz	wanna
+She Makes Me (Stormtrooper In Stilettos)	Teo Torriatte (Let Us Cling Together)	warm
+Jealousy	The Prophet's Song	warning
+Bicycle Race	Lily of the Valley	wars
+In Only Seven Days	The Prophet's Song	watched
+Drowse	Son and Daughter	watching
+Fat Bottomed Girls	Somebody to Love	water
+Fat Bottomed Girls	Stone Cold Crazy	water
+Somebody to Love	Stone Cold Crazy	water
+In Only Seven Days	Lazing on a Sunday Afternoon	wednesday
+Dreamer's Ball	Long Away	whisper
+Dreamer's Ball	You Take My Breath Away	whisper
+Long Away	You Take My Breath Away	whisper
+Bicycle Race	The Night Comes Down	white
+Bicycle Race	The Prophet's Song	white
+Bicycle Race	White Man	white
+The Night Comes Down	The Prophet's Song	white
+The Night Comes Down	White Man	white
+The Prophet's Song	White Man	white
+In the Lap of the Gods... Revisited	Keep Yourself Alive	whoa
+In the Lap of the Gods... Revisited	The Prophet's Song	whoa
+Keep Yourself Alive	The Prophet's Song	whoa
+Bohemian Rhapsody	Dear Friends	wind
+Bohemian Rhapsody	If You Can't Beat Them	wind
+Bohemian Rhapsody	Teo Torriatte (Let Us Cling Together)	wind
+Dear Friends	If You Can't Beat Them	wind
+Dear Friends	Teo Torriatte (Let Us Cling Together)	wind
+If You Can't Beat Them	Teo Torriatte (Let Us Cling Together)	wind
+Good Old-Fashioned Lover Boy	If You Can't Beat Them	wine
+Good Old-Fashioned Lover Boy	Liar	wine
+Good Old-Fashioned Lover Boy	My Fairy King	wine
+If You Can't Beat Them	Liar	wine
+If You Can't Beat Them	My Fairy King	wine
+Liar	My Fairy King	wine
+Jesus	The Prophet's Song	wise
+Don't Stop Me Now	Fat Bottomed Girls	woman
+Don't Stop Me Now	Son and Daughter	woman
+Fat Bottomed Girls	Son and Daughter	woman
+Bring Back That Leroy Brown	Fat Bottomed Girls	woo
+Bring Back That Leroy Brown	If You Can't Beat Them	woo
+Bring Back That Leroy Brown	Sweet Lady	woo
+Fat Bottomed Girls	If You Can't Beat Them	woo
+Fat Bottomed Girls	Sweet Lady	woo
+If You Can't Beat Them	Sweet Lady	woo
+Good Old-Fashioned Lover Boy	Great King Rat	word
+Good Old-Fashioned Lover Boy	Son and Daughter	word
+Good Old-Fashioned Lover Boy	Tie Your Mother Down	word
+Great King Rat	Son and Daughter	word
+Great King Rat	Tie Your Mother Down	word
+Son and Daughter	Tie Your Mother Down	word
+Doing All Right	The Prophet's Song	words
+Doing All Right	White Man	words
+The Prophet's Song	White Man	words
+'39	Doing All Right	world
+'39	Don't Stop Me Now	world
+'39	Fat Bottomed Girls	world
+'39	Modern Times Rock 'N' Roll	world
+'39	More of That Jazz	world
+'39	She Makes Me (Stormtrooper In Stilettos)	world
+'39	Son and Daughter	world
+'39	The Night Comes Down	world
+'39	You're My Best Friend	world
+Doing All Right	Don't Stop Me Now	world
+Doing All Right	Fat Bottomed Girls	world
+Doing All Right	Modern Times Rock 'N' Roll	world
+Doing All Right	More of That Jazz	world
+Doing All Right	She Makes Me (Stormtrooper In Stilettos)	world
+Doing All Right	Son and Daughter	world
+Doing All Right	The Night Comes Down	world
+Doing All Right	You're My Best Friend	world
+Don't Stop Me Now	Fat Bottomed Girls	world
+Don't Stop Me Now	Modern Times Rock 'N' Roll	world
+Don't Stop Me Now	More of That Jazz	world
+Don't Stop Me Now	She Makes Me (Stormtrooper In Stilettos)	world
+Don't Stop Me Now	Son and Daughter	world
+Don't Stop Me Now	The Night Comes Down	world
+Don't Stop Me Now	You're My Best Friend	world
+Fat Bottomed Girls	Modern Times Rock 'N' Roll	world
+Fat Bottomed Girls	More of That Jazz	world
+Fat Bottomed Girls	She Makes Me (Stormtrooper In Stilettos)	world
+Fat Bottomed Girls	Son and Daughter	world
+Fat Bottomed Girls	The Night Comes Down	world
+Fat Bottomed Girls	You're My Best Friend	world
+Modern Times Rock 'N' Roll	More of That Jazz	world
+Modern Times Rock 'N' Roll	She Makes Me (Stormtrooper In Stilettos)	world
+Modern Times Rock 'N' Roll	Son and Daughter	world
+Modern Times Rock 'N' Roll	The Night Comes Down	world
+Modern Times Rock 'N' Roll	You're My Best Friend	world
+More of That Jazz	She Makes Me (Stormtrooper In Stilettos)	world
+More of That Jazz	Son and Daughter	world
+More of That Jazz	The Night Comes Down	world
+More of That Jazz	You're My Best Friend	world
+She Makes Me (Stormtrooper In Stilettos)	Son and Daughter	world
+She Makes Me (Stormtrooper In Stilettos)	The Night Comes Down	world
+She Makes Me (Stormtrooper In Stilettos)	You're My Best Friend	world
+Son and Daughter	The Night Comes Down	world
+Son and Daughter	You're My Best Friend	world
+The Night Comes Down	You're My Best Friend	world
+Dreamer's Ball	Now I'm Here	worry
+'39	Good Old-Fashioned Lover Boy	write
+Drowse	Jealousy	wrong
+Drowse	Leaving Home Ain't Easy	wrong
+Drowse	My Fairy King	wrong
+Jealousy	Leaving Home Ain't Easy	wrong
+Jealousy	My Fairy King	wrong
+Leaving Home Ain't Easy	My Fairy King	wrong
+Dead on Time	Modern Times Rock 'N' Roll	ya
+Dead on Time	Mustapha	ya
+Modern Times Rock 'N' Roll	Mustapha	ya
+Bicycle Race	Bohemian Rhapsody	yeah
+Bicycle Race	Bring Back That Leroy Brown	yeah
+Bicycle Race	Dead on Time	yeah
+Bicycle Race	Don't Stop Me Now	yeah
+Bicycle Race	Fat Bottomed Girls	yeah
+Bicycle Race	If You Can't Beat Them	yeah
+Bicycle Race	Keep Yourself Alive	yeah
+Bicycle Race	Modern Times Rock 'N' Roll	yeah
+Bicycle Race	Mustapha	yeah
+Bicycle Race	My Fairy King	yeah
+Bicycle Race	Now I'm Here	yeah
+Bicycle Race	Somebody to Love	yeah
+Bicycle Race	Son and Daughter	yeah
+Bicycle Race	Stone Cold Crazy	yeah
+Bicycle Race	Sweet Lady	yeah
+Bicycle Race	The Millionaire Waltz	yeah
+Bicycle Race	Tie Your Mother Down	yeah
+Bicycle Race	White Man	yeah
+Bohemian Rhapsody	Bring Back That Leroy Brown	yeah
+Bohemian Rhapsody	Dead on Time	yeah
+Bohemian Rhapsody	Don't Stop Me Now	yeah
+Bohemian Rhapsody	Fat Bottomed Girls	yeah
+Bohemian Rhapsody	If You Can't Beat Them	yeah
+Bohemian Rhapsody	Keep Yourself Alive	yeah
+Bohemian Rhapsody	Modern Times Rock 'N' Roll	yeah
+Bohemian Rhapsody	Mustapha	yeah
+Bohemian Rhapsody	My Fairy King	yeah
+Bohemian Rhapsody	Now I'm Here	yeah
+Bohemian Rhapsody	Somebody to Love	yeah
+Bohemian Rhapsody	Son and Daughter	yeah
+Bohemian Rhapsody	Stone Cold Crazy	yeah
+Bohemian Rhapsody	Sweet Lady	yeah
+Bohemian Rhapsody	The Millionaire Waltz	yeah
+Bohemian Rhapsody	Tie Your Mother Down	yeah
+Bohemian Rhapsody	White Man	yeah
+Bring Back That Leroy Brown	Dead on Time	yeah
+Bring Back That Leroy Brown	Don't Stop Me Now	yeah
+Bring Back That Leroy Brown	Fat Bottomed Girls	yeah
+Bring Back That Leroy Brown	If You Can't Beat Them	yeah
+Bring Back That Leroy Brown	Keep Yourself Alive	yeah
+Bring Back That Leroy Brown	Modern Times Rock 'N' Roll	yeah
+Bring Back That Leroy Brown	Mustapha	yeah
+Bring Back That Leroy Brown	My Fairy King	yeah
+Bring Back That Leroy Brown	Now I'm Here	yeah
+Bring Back That Leroy Brown	Somebody to Love	yeah
+Bring Back That Leroy Brown	Son and Daughter	yeah
+Bring Back That Leroy Brown	Stone Cold Crazy	yeah
+Bring Back That Leroy Brown	Sweet Lady	yeah
+Bring Back That Leroy Brown	The Millionaire Waltz	yeah
+Bring Back That Leroy Brown	Tie Your Mother Down	yeah
+Bring Back That Leroy Brown	White Man	yeah
+Dead on Time	Don't Stop Me Now	yeah
+Dead on Time	Fat Bottomed Girls	yeah
+Dead on Time	If You Can't Beat Them	yeah
+Dead on Time	Keep Yourself Alive	yeah
+Dead on Time	Modern Times Rock 'N' Roll	yeah
+Dead on Time	Mustapha	yeah
+Dead on Time	My Fairy King	yeah
+Dead on Time	Now I'm Here	yeah
+Dead on Time	Somebody to Love	yeah
+Dead on Time	Son and Daughter	yeah
+Dead on Time	Stone Cold Crazy	yeah
+Dead on Time	Sweet Lady	yeah
+Dead on Time	The Millionaire Waltz	yeah
+Dead on Time	Tie Your Mother Down	yeah
+Dead on Time	White Man	yeah
+Don't Stop Me Now	Fat Bottomed Girls	yeah
+Don't Stop Me Now	If You Can't Beat Them	yeah
+Don't Stop Me Now	Keep Yourself Alive	yeah
+Don't Stop Me Now	Modern Times Rock 'N' Roll	yeah
+Don't Stop Me Now	Mustapha	yeah
+Don't Stop Me Now	My Fairy King	yeah
+Don't Stop Me Now	Now I'm Here	yeah
+Don't Stop Me Now	Somebody to Love	yeah
+Don't Stop Me Now	Son and Daughter	yeah
+Don't Stop Me Now	Stone Cold Crazy	yeah
+Don't Stop Me Now	Sweet Lady	yeah
+Don't Stop Me Now	The Millionaire Waltz	yeah
+Don't Stop Me Now	Tie Your Mother Down	yeah
+Don't Stop Me Now	White Man	yeah
+Fat Bottomed Girls	If You Can't Beat Them	yeah
+Fat Bottomed Girls	Keep Yourself Alive	yeah
+Fat Bottomed Girls	Modern Times Rock 'N' Roll	yeah
+Fat Bottomed Girls	Mustapha	yeah
+Fat Bottomed Girls	My Fairy King	yeah
+Fat Bottomed Girls	Now I'm Here	yeah
+Fat Bottomed Girls	Somebody to Love	yeah
+Fat Bottomed Girls	Son and Daughter	yeah
+Fat Bottomed Girls	Stone Cold Crazy	yeah
+Fat Bottomed Girls	Sweet Lady	yeah
+Fat Bottomed Girls	The Millionaire Waltz	yeah
+Fat Bottomed Girls	Tie Your Mother Down	yeah
+Fat Bottomed Girls	White Man	yeah
+If You Can't Beat Them	Keep Yourself Alive	yeah
+If You Can't Beat Them	Modern Times Rock 'N' Roll	yeah
+If You Can't Beat Them	Mustapha	yeah
+If You Can't Beat Them	My Fairy King	yeah
+If You Can't Beat Them	Now I'm Here	yeah
+If You Can't Beat Them	Somebody to Love	yeah
+If You Can't Beat Them	Son and Daughter	yeah
+If You Can't Beat Them	Stone Cold Crazy	yeah
+If You Can't Beat Them	Sweet Lady	yeah
+If You Can't Beat Them	The Millionaire Waltz	yeah
+If You Can't Beat Them	Tie Your Mother Down	yeah
+If You Can't Beat Them	White Man	yeah
+Keep Yourself Alive	Modern Times Rock 'N' Roll	yeah
+Keep Yourself Alive	Mustapha	yeah
+Keep Yourself Alive	My Fairy King	yeah
+Keep Yourself Alive	Now I'm Here	yeah
+Keep Yourself Alive	Somebody to Love	yeah
+Keep Yourself Alive	Son and Daughter	yeah
+Keep Yourself Alive	Stone Cold Crazy	yeah
+Keep Yourself Alive	Sweet Lady	yeah
+Keep Yourself Alive	The Millionaire Waltz	yeah
+Keep Yourself Alive	Tie Your Mother Down	yeah
+Keep Yourself Alive	White Man	yeah
+Modern Times Rock 'N' Roll	Mustapha	yeah
+Modern Times Rock 'N' Roll	My Fairy King	yeah
+Modern Times Rock 'N' Roll	Now I'm Here	yeah
+Modern Times Rock 'N' Roll	Somebody to Love	yeah
+Modern Times Rock 'N' Roll	Son and Daughter	yeah
+Modern Times Rock 'N' Roll	Stone Cold Crazy	yeah
+Modern Times Rock 'N' Roll	Sweet Lady	yeah
+Modern Times Rock 'N' Roll	The Millionaire Waltz	yeah
+Modern Times Rock 'N' Roll	Tie Your Mother Down	yeah
+Modern Times Rock 'N' Roll	White Man	yeah
+Mustapha	My Fairy King	yeah
+Mustapha	Now I'm Here	yeah
+Mustapha	Somebody to Love	yeah
+Mustapha	Son and Daughter	yeah
+Mustapha	Stone Cold Crazy	yeah
+Mustapha	Sweet Lady	yeah
+Mustapha	The Millionaire Waltz	yeah
+Mustapha	Tie Your Mother Down	yeah
+Mustapha	White Man	yeah
+My Fairy King	Now I'm Here	yeah
+My Fairy King	Somebody to Love	yeah
+My Fairy King	Son and Daughter	yeah
+My Fairy King	Stone Cold Crazy	yeah
+My Fairy King	Sweet Lady	yeah
+My Fairy King	The Millionaire Waltz	yeah
+My Fairy King	Tie Your Mother Down	yeah
+My Fairy King	White Man	yeah
+Now I'm Here	Somebody to Love	yeah
+Now I'm Here	Son and Daughter	yeah
+Now I'm Here	Stone Cold Crazy	yeah
+Now I'm Here	Sweet Lady	yeah
+Now I'm Here	The Millionaire Waltz	yeah
+Now I'm Here	Tie Your Mother Down	yeah
+Now I'm Here	White Man	yeah
+Somebody to Love	Son and Daughter	yeah
+Somebody to Love	Stone Cold Crazy	yeah
+Somebody to Love	Sweet Lady	yeah
+Somebody to Love	The Millionaire Waltz	yeah
+Somebody to Love	Tie Your Mother Down	yeah
+Somebody to Love	White Man	yeah
+Son and Daughter	Stone Cold Crazy	yeah
+Son and Daughter	Sweet Lady	yeah
+Son and Daughter	The Millionaire Waltz	yeah
+Son and Daughter	Tie Your Mother Down	yeah
+Son and Daughter	White Man	yeah
+Stone Cold Crazy	Sweet Lady	yeah
+Stone Cold Crazy	The Millionaire Waltz	yeah
+Stone Cold Crazy	Tie Your Mother Down	yeah
+Stone Cold Crazy	White Man	yeah
+Sweet Lady	The Millionaire Waltz	yeah
+Sweet Lady	Tie Your Mother Down	yeah
+Sweet Lady	White Man	yeah
+The Millionaire Waltz	Tie Your Mother Down	yeah
+The Millionaire Waltz	White Man	yeah
+Tie Your Mother Down	White Man	yeah
+Doing All Right	Drowse	yesterday
+Lazing on a Sunday Afternoon	The Prophet's Song	zoo
