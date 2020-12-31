@@ -1,0 +1,215 @@
+---
+title: "R-Ladies Philly Shiny Dashboard Exercises"
+author: "Anastasia Lucas"
+date: "12/30/2020"
+runtime: shiny
+output: html_document
+---
+
+## Set up
+
+```{r setup}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(ggplot2)
+library(shiny)
+library(shinydashboard)
+```
+
+## Before we do anything, let's take a minute to understand our data 
+This is important so we can think about what information we want our users to gain from our dashboard.
+
+```{r EDA}
+df <- read.delim("../data/thebeatles_lyrics.txt")
+head(df)
+str(df)
+```
+
+So we have a dataframe with 4 columns. In a sentnce, each row represents the ```n``` times that a ```word``` appears in each ```track_title``` per ```album``` in our dataset.\
+The important thing to remember is that the lyrics are summed across the songs, not across all of the albums.
+
+## Try the most basic dashboard
+```{r basic app}
+library(shiny)
+library(shinydashboard)
+
+ui <- dashboardPage(
+  dashboardHeader(),
+  dashboardSidebar(),
+  dashboardBody()
+)
+
+server <- function(input, output) {  }
+ # note we have defined an input and output that we don't do anything with!
+
+shinyApp(ui, server)
+```
+
+## Exercises
+
+### Let's give our app a title and set up a grid for our plots
+We can use ```fluidPage()``` to create a fluid page layout, i.e. one that will resize to the width of our screen.\
+A fluid page layout consists of fluid rows, created with ```fluidRow()```.\
+The fluid rows consist of columns created by ```column()```.\
+
+```{r exercise 1}
+library(shiny)
+library(shinydashboard)
+ui <- dashboardPage(
+  dashboardHeader(title = "Song Lyrics"),
+  dashboardSidebar(),
+  dashboardBody(    
+    fluidPage(
+      fluidRow(
+        column(# width should be between 1 and 12
+               width=12,
+               box(plotOutput("plot1", height = 500), 
+                   title="Most Common Words Across Albums",
+                   width=NULL)
+              )
+      )
+    )
+  )
+)
+
+server <- function(input, output) {  }
+ # note we have defined an input and output that we don't do anything with!
+
+shinyApp(ui, server)
+```
+
+### Make a bar chart that displays the count of the top 10 most frequent words summed across all albums
+We will wrap our plot code in ```output$plot1 <- renderPlot({})``` to do this.\
+Some other common output functions are ```tableOutput```, ```dataTableOutput```,	```plotOutput```, & ```textOutput```.\
+Hint: the code to create a normal ```ggplot``` to do this is shown below.
+
+```{r hint 1}
+df %>% 
+ group_by(word) %>% 
+ summarise(n_disc=sum(n)) %>% 
+ arrange(desc(n_disc)) %>% 
+ top_n(10) %>%
+ ungroup() %>%
+ ggplot(aes(x=word, 
+            y=n_disc, 
+            fill=n_disc)) +
+  geom_col() +
+  ## Bonus: uncomment to make some aesthetic changes or add your own
+  ylab("count") +
+  coord_flip() +
+  theme_minimal() +
+  scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
+  ggtitle(paste("Top", 10, "frequently used words")) + 
+  guides(fill="none") +
+ geom_blank()
+
+```
+
+```{r exercise 3}
+library(shiny)
+library(shinydashboard)
+ui <- dashboardPage(
+  dashboardHeader(title = "Song Lyrics"),
+  dashboardSidebar(),
+  dashboardBody(    
+    fluidPage(
+      fluidRow(
+        column(# width should be between 1 and 12
+               # let's also set a height for now
+               width=12,
+               box(plotOutput("plot1", height = 600), 
+                   title="Most Common Words Across Albums",
+                   width=NULL)
+              )
+      )
+    )
+  )
+)
+
+server <- function(input, output) { 
+  output$plot1 <- renderPlot({
+    df %>% 
+    group_by(word) %>% 
+    summarise(n_disc=sum(n)) %>% 
+    arrange(desc(n_disc)) %>% 
+    top_n(10) %>%
+    ungroup() %>%
+    ggplot(aes(x=word, 
+               y=n_disc, 
+               fill=n_disc)) +
+    geom_col() +
+    ## Bonus: uncomment to make some aesthetic changes or add your own
+    ylab("count") +
+    coord_flip() +
+    theme_minimal() +
+    scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
+    ggtitle(paste("Top", 10, "frequently used words")) + 
+    guides(fill="none") +
+    geom_blank()
+  })
+}
+
+shinyApp(ui, server)
+```
+
+### Now let's make it reactive!
+Create a ```numericInput()``` in the "plot1" ```box()``` with the following parameters:\
+```inputId``` which is used to access the value is ```inputId = select_topn```\
+```label``` displayed on the widget is ```label = Top N```\
+```min``` value user can select is ```min = 3```\
+```max``` value user can select is ```max = 20```\
+default ```value``` to display is ```value = 10```\
+Since it only makes sense to select whole numbers here, we should also set ```step = 1```\
+Once we have our input set up, we need to refer to it in our ```server()``` function when we render the plot.\
+Hint: We can extract the user value using our inputId ```input$select_topn```\
+
+
+```{r exercise 4}
+library(shiny)
+library(shinydashboard)
+ui <- dashboardPage(
+  dashboardHeader(title = "Song Lyrics"),
+  dashboardSidebar(),
+  dashboardBody(    
+    fluidPage(
+      fluidRow(
+        column(# width should be between 1 and 12
+               # let's also set a height for now
+               width=12,
+               box(plotOutput("plot1", height = 600), 
+                   title="Most Common Words Across Albums",
+                   numericInput(inputId = "select_topn", 
+                                label = "Top N", 
+                                value = 10, min = 3, max = 20, step=1),
+                   width=NULL)
+              )
+      )
+    )
+  )
+)
+
+server <- function(input, output) { 
+  output$plot1 <- renderPlot({
+    df %>% 
+    group_by(word) %>% 
+    summarise(n_disc=sum(n)) %>% 
+    arrange(desc(n_disc)) %>% 
+    top_n(input$select_topn) %>%
+    ungroup() %>%
+    ggplot(aes(x=word, 
+               y=n_disc, 
+               fill=n_disc)) +
+    geom_col() +
+    ## Bonus: uncomment to make some aesthetic changes or add your own
+    ylab("count") +
+    coord_flip() +
+    theme_minimal() +
+    scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
+    ggtitle(paste("Top", input$select, "frequently used words")) + 
+    guides(fill="none") +
+    geom_blank()
+  })
+}
+
+shinyApp(ui, server)
+```
