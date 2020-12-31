@@ -161,7 +161,7 @@ Create a ```numericInput()``` in the "plot1" ```box()``` with the following para
 default ```value``` to display is ```value = 10```\
 Since it only makes sense to select whole numbers here, we should also set ```step = 1```\
 Once we have our input set up, we need to refer to it in our ```server()``` function when we render the plot.\
-Hint: We can extract the user value using our inputId ```input$select_topn```\
+Hint: We can extract the user value using our inputId ```input$select_topn```
 
 
 ```{r exercise 4}
