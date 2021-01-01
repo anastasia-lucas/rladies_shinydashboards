@@ -205,7 +205,7 @@ server <- function(input, output) {
     coord_flip() +
     theme_minimal() +
     scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
-    ggtitle(paste("Top", input$select, "frequently used words")) + 
+    ggtitle(paste("Top", input$select_topn, "frequently used words")) + 
     guides(fill="none") +
     geom_blank()
   })
@@ -213,3 +213,4 @@ server <- function(input, output) {
 
 shinyApp(ui, server)
 ```
+
