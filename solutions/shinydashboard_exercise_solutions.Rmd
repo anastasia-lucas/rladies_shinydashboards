@@ -63,9 +63,11 @@ ui <- dashboardPage(
       fluidRow(
         column(# width should be between 1 and 12
                width=12,
-               box(plotOutput("plot1", height = 500), 
+               box(plotOutput("plot1"), 
                    title="Most Common Words Across Albums",
-                   width=NULL)
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL) 
               )
       )
     )
@@ -80,19 +82,18 @@ shinyApp(ui, server)
 
 ### Make a bar chart that displays the count of the top 10 most frequent words summed across all albums
 We will wrap our plot code in ```output$plot1 <- renderPlot({})``` to do this.\
-Some other common output functions are ```tableOutput```, ```dataTableOutput```,	```plotOutput```, & ```textOutput```.\
+Some other common output functions are ```dataTableOutput```, ```dataTableOutput```,	```plotOutput```, & ```textOutput```.\
 Hint: the code to create a normal ```ggplot``` to do this is shown below.
 
 ```{r hint 1}
 df %>% 
  group_by(word) %>% 
- summarise(n_disc=sum(n)) %>% 
- arrange(desc(n_disc)) %>% 
+ summarise(occurrences=sum(n)) %>% 
+ arrange(desc(occurrences)) %>% 
  top_n(10) %>%
  ungroup() %>%
  ggplot(aes(x=word, 
-            y=n_disc, 
-            fill=n_disc)) +
+            y=occurrences)) +
   geom_col() +
   ## Bonus: uncomment to make some aesthetic changes or add your own
   ylab("count") +
@@ -100,7 +101,6 @@ df %>%
   theme_minimal() +
   scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
   ggtitle(paste("Top", 10, "frequently used words")) + 
-  guides(fill="none") +
  geom_blank()
 
 ```
@@ -115,10 +115,11 @@ ui <- dashboardPage(
     fluidPage(
       fluidRow(
         column(# width should be between 1 and 12
-               # let's also set a height for now
                width=12,
-               box(plotOutput("plot1", height = 600), 
+               box(plotOutput("plot1"), 
                    title="Most Common Words Across Albums",
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
                    width=NULL)
               )
       )
@@ -130,13 +131,12 @@ server <- function(input, output) {
   output$plot1 <- renderPlot({
     df %>% 
     group_by(word) %>% 
-    summarise(n_disc=sum(n)) %>% 
-    arrange(desc(n_disc)) %>% 
+    summarise(occurrences=sum(n)) %>% 
+    arrange(desc(occurrences)) %>% 
     top_n(10) %>%
     ungroup() %>%
     ggplot(aes(x=word, 
-               y=n_disc, 
-               fill=n_disc)) +
+               y=occurrences)) +
     geom_col() +
     ## Bonus: uncomment to make some aesthetic changes or add your own
     ylab("count") +
@@ -144,7 +144,6 @@ server <- function(input, output) {
     theme_minimal() +
     scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
     ggtitle(paste("Top", 10, "frequently used words")) + 
-    guides(fill="none") +
     geom_blank()
   })
 }
@@ -155,7 +154,7 @@ shinyApp(ui, server)
 ### Now let's make it reactive!
 Create a ```numericInput()``` in the "plot1" ```box()``` with the following parameters:\
 ```inputId``` which is used to access the value is ```inputId = select_topn```\
-```label``` displayed on the widget is ```label = Top N```\
+```label``` displayed on the widget is ```label = Select number of words to display```\
 ```min``` value user can select is ```min = 3```\
 ```max``` value user can select is ```max = 20```\
 default ```value``` to display is ```value = 10```\
@@ -174,13 +173,14 @@ ui <- dashboardPage(
     fluidPage(
       fluidRow(
         column(# width should be between 1 and 12
-               # let's also set a height for now
                width=12,
-               box(plotOutput("plot1", height = 600), 
+               box(plotOutput("plot1"), 
                    title="Most Common Words Across Albums",
                    numericInput(inputId = "select_topn", 
-                                label = "Top N", 
+                                label = "Select number of words to display", 
                                 value = 10, min = 3, max = 20, step=1),
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
                    width=NULL)
               )
       )
@@ -192,13 +192,12 @@ server <- function(input, output) {
   output$plot1 <- renderPlot({
     df %>% 
     group_by(word) %>% 
-    summarise(n_disc=sum(n)) %>% 
-    arrange(desc(n_disc)) %>% 
+    summarise(occurrences=sum(n)) %>% 
+    arrange(desc(occurrences)) %>% 
     top_n(input$select_topn) %>%
     ungroup() %>%
     ggplot(aes(x=word, 
-               y=n_disc, 
-               fill=n_disc)) +
+               y=occurrences)) +
     geom_col() +
     ## Bonus: uncomment to make some aesthetic changes or add your own
     ylab("count") +
@@ -206,11 +205,221 @@ server <- function(input, output) {
     theme_minimal() +
     scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
     ggtitle(paste("Top", input$select_topn, "frequently used words")) + 
-    guides(fill="none") +
     geom_blank()
   })
 }
 
 shinyApp(ui, server)
 ```
+
+
+### Let's try to show this information in table format
+We can use Shiny's ```dataTableOutput()``` function for this.\
+We should also put this table in its own column such that the dashboard has two columns, each containing one box, within the fluid row.\
+Hint: We will need to divide the width of our boxes by 2 if we want to give both apps equal billing.
+
+```{r exercise 5}
+library(shiny)
+library(shinydashboard)
+
+ui <- dashboardPage(
+  dashboardHeader(title = "Song Lyrics"),
+  dashboardSidebar(),
+  dashboardBody(    
+    fluidPage(
+      fluidRow(
+        column(# width should be between 1 and 12
+               width=6,
+               box(plotOutput("plot1"), 
+                   title="Most Common Words Across Albums",
+                   numericInput(inputId = "select_topn", 
+                                label = "Select number of words to display", 
+                                value = 10, min = 3, max = 20, step=1),
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              ),
+        column(# width should be between 1 and 12
+               width=6,
+               box(dataTableOutput("table1"), 
+                   title="Most Common Words Across Albums",
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              )
+      
+      )
+    )
+  )
+)
+
+server <- function(input, output) { 
+  output$plot1 <- renderPlot({
+    df %>% 
+    group_by(word) %>% 
+    summarise(occurrences=sum(n)) %>% 
+    arrange(desc(occurrences)) %>% 
+    top_n(input$select_topn) %>%
+    ungroup() %>%
+    ggplot(aes(x=word, 
+               y=occurrences)) +
+    geom_col() +
+    ## Bonus: uncomment to make some aesthetic changes or add your own
+    ylab("count") +
+    coord_flip() +
+    theme_minimal() +
+    scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
+    ggtitle(paste("Top", input$select_topn, "frequently used words")) + 
+    geom_blank()
+  })
+  
+  output$table1 <- renderDataTable({
+    df %>% 
+    group_by(word) %>% 
+    summarise(occurrences=sum(n)) %>% 
+    arrange(desc(occurrences)) %>% 
+    top_n(input$select_topn) %>%
+    ungroup()
+  })
+}
+
+shinyApp(ui, server)
+```
+
+### But this creates a problem for our users...
+It's not obvious that the input widget controls both the chart and the table. One thing we can do to fix this is move our input control widget to the sidebar.\
+To do this, we can simply move our ```numericInput()``` function inside of ```dashboardSidebar()```.
+
+```{r exercise 6}
+library(shiny)
+library(shinydashboard)
+
+ui <- dashboardPage(
+  dashboardHeader(title = "Song Lyrics"),
+  dashboardSidebar(  
+    numericInput(inputId = "select_topn", 
+                 label = "Select the number of words to display", 
+                 value = 10, min = 3, max = 20, step=1)
+  ),
+  dashboardBody(    
+    fluidPage(
+      fluidRow(
+        column(# width should be between 1 and 12
+               width=6,
+               box(plotOutput("plot1"), 
+                   title="Most Common Words Across Albums",
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              ),
+        column(# width should be between 1 and 12
+               width=6,
+               box(dataTableOutput("table1"), 
+                   title="Most Common Words Across Albums",
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              )
+      )
+    )
+  )
+)
+
+server <- function(input, output) { 
+  output$plot1 <- renderPlot({
+    df %>% 
+    group_by(word) %>% 
+    summarise(occurrences=sum(n)) %>% 
+    arrange(desc(occurrences)) %>% 
+    top_n(input$select_topn) %>%
+    ungroup() %>%
+    ggplot(aes(x=word, 
+               y=occurrences)) +
+    geom_col() +
+    ## Bonus: uncomment to make some aesthetic changes or add your own
+    ylab("count") +
+    coord_flip() +
+    theme_minimal() +
+    scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
+    ggtitle(paste("Top", input$select_topn, "frequently used words")) + 
+    geom_blank()
+  })
+  
+  output$table1 <- renderDataTable({
+    df %>% 
+    group_by(word) %>% 
+    summarise(occurrences=sum(n)) %>% 
+    arrange(desc(occurrences)) %>% 
+    top_n(input$select_topn) %>%
+    ungroup()
+  })
+}
+
+shinyApp(ui, server)
+```
+
+### Try to change the type of the control widget input from ```numericInput``` to ```textInput```. 
+We can use ```?textInput``` to see the parameters we need to set.\
+Hint: We won't need ```min```, ```max```, or ```step``` values here. 
+
+```{r exercise 7}
+library(shiny)
+library(shinydashboard)
+ui <- dashboardPage(
+  dashboardHeader(title = "Song Lyrics"),
+  dashboardSidebar(),
+  dashboardBody(    
+    fluidPage(
+      fluidRow(
+        column(# width should be between 1 and 12
+               width=12,
+               box(plotOutput("plot1"), 
+                   title="Most Common Words Across Albums",
+                   textInput(inputId = "select_topn", 
+                             label = "Select number of words to display", 
+                             value = 10),
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              )
+      )
+    )
+  )
+)
+
+server <- function(input, output) { 
+  output$plot1 <- renderPlot({
+    df %>% 
+    group_by(word) %>% 
+    summarise(occurrences=sum(n)) %>% 
+    arrange(desc(occurrences)) %>% 
+    top_n(as.integer(input$select_topn)) %>%
+    ungroup() %>%
+    ggplot(aes(x=word, 
+               y=occurrences)) +
+    geom_col() +
+    ## Bonus: uncomment to make some aesthetic changes or add your own
+    ylab("count") +
+    coord_flip() +
+    theme_minimal() +
+    scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
+    ggtitle(paste("Top", input$select_topn, "frequently used words")) + 
+    geom_blank()
+  })
+}
+
+shinyApp(ui, server)
+```
+
+Did your chart show the correct number of words? Remember that ```textInput``` takes character values, so we would need to convert the text stored in ```input$select_topn``` using ```as.integer()```.\
+Now try to enter "ten" or "thirty" as an input value and see what happens. The way you anticipate users might interact with your dashboard might help determine what type of input will be best. 
+
+
+### Now some fun stuff. Let's play around with some themes using the ```shinydashbaord``` package
+
+### Other ideas
+Make your charts interactive with ```plotly```. If you don't have ```plotly``` installed, make sure you run ```install.packages(plotly)``` first.
+
+
+
 
