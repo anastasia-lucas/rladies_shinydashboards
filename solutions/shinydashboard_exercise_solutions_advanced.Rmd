@@ -1,0 +1,514 @@
+---
+title: "R-Ladies Philly Shiny Dashboard Exercises (Advanced Topics)"
+author: "Anastasia Lucas"
+date: "1/2/2021"
+runtime: shiny
+output: html_document
+---
+### Set up
+
+```{r setup}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(ggplot2)
+library(shiny)
+library(shinydashboard)
+```
+
+### Read in our data
+
+```{r data}
+df <- read.delim("../data/thebeatles_lyrics.txt")
+```
+
+### Adding error messages using validate
+Let's say we want to restrict our app so the user can only choose to display between 2 and 50 words.\
+We can do this using ```validate```, which tests a condition and returns a validation error if the test fails, and ```need```, which consists of an expression that evaluates to TRUE or FALSE and an error message.\
+
+```{hint 2}
+
+v <- reactive({
+  validate(
+    need(input$select_topn < 2 | input$select_topn > 50, "Please select a number between 3 and 50")
+  )
+})
+
+```
+
+```{r exercise 7}
+
+ui <- dashboardPage(
+  dashboardHeader(title = "Song Lyrics"),
+  dashboardSidebar(  
+    numericInput(inputId = "select_topn", 
+              label = "Select the number of words to display", 
+              value = 10, min = 3, max = 20, step=1)
+  ),
+  dashboardBody(    
+    fluidPage(
+      fluidRow(
+        column(# width should be between 1 and 12
+               width=6,
+               box(plotOutput("plot1"), 
+                   title="Most Common Words Across Albums",
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              ),
+        column(# width should be between 1 and 12
+               width=6,
+               box(dataTableOutput("table1"), 
+                   title="Most Common Words Across Albums",
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              )
+      )
+    )
+  )
+)
+
+server <- function(input, output) { 
+  # Create our validation function
+  v <- reactive({
+    validate(
+      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50")
+    )
+})
+  
+  output$plot1 <- renderPlot({
+    # Validate for bar chart
+    v()
+    
+    df %>% 
+      group_by(word) %>% 
+      summarise(occurrences=sum(n)) %>% 
+      arrange(desc(occurrences)) %>% 
+      top_n(input$select_topn) %>%
+      ungroup() %>%
+      ggplot(aes(x=word, 
+                 y=occurrences)) +
+      geom_col() +
+      ylab("count") +
+      coord_flip() +
+      theme_minimal() +
+      scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
+      ggtitle(paste("Top", input$select_topn, "frequently used words")) + 
+      geom_blank()
+  })
+  
+  output$table1 <- renderDataTable({
+    # Validate for table
+    v()
+    # We could also replace v() with a different validate function like we defined above
+    # validate(
+    #  need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50")
+    # )
+    df %>% 
+      group_by(word) %>% 
+      summarise(occurrences=sum(n)) %>% 
+      arrange(desc(occurrences)) %>% 
+      top_n(input$select_topn) %>%
+      ungroup()
+  })
+}
+
+shinyApp(ui, server)
+
+```
+
+Bonus: See if you can restrict the plot to display between 3 and 50 words, but the table to display between 1 and 250 words.
+
+```{r bonus 1}
+
+ui <- dashboardPage(
+  dashboardHeader(title = "Song Lyrics"),
+  dashboardSidebar(  
+    numericInput(inputId = "select_topn", 
+              label = "Select the number of words to display", 
+              value = 10, min = 3, max = 20, step=1)
+  ),
+  dashboardBody(   
+    fluidPage(
+      fluidRow(
+        column(# width should be between 1 and 12
+               width=6,
+               box(plotOutput("plot1"), 
+                   title="Most Common Words Across Albums",
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              ),
+        column(# width should be between 1 and 12
+               width=6,
+               box(dataTableOutput("table1"), 
+                   title="Most Common Words Across Albums",
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              )
+      )
+    )
+  )
+)
+
+server <- function(input, output) { 
+  # Create our validation function
+  output$plot1 <- renderPlot({
+    # Validate for bar chart
+    validate(
+      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50 to display both the chart and table.")
+    )
+    
+    df %>% 
+      group_by(word) %>% 
+      summarise(occurrences=sum(n)) %>% 
+      arrange(desc(occurrences)) %>% 
+      top_n(input$select_topn) %>%
+      ungroup() %>%
+      ggplot(aes(x=word, 
+                 y=occurrences)) +
+      geom_col() +
+      ylab("count") +
+      coord_flip() +
+      theme_minimal() +
+      scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
+      ggtitle(paste("Top", input$select_topn, "frequently used words")) + 
+      geom_blank()
+  })
+  
+  output$table1 <- renderDataTable({
+    # Validate for table
+    validate(
+      need(input$select_topn >= 1 & input$select_topn <= 250, "Please select a number between 1 and 250 table entries")
+    )
+    
+    df %>% 
+      group_by(word) %>% 
+      summarise(occurrences=sum(n)) %>% 
+      arrange(desc(occurrences)) %>% 
+      top_n(input$select_topn) %>%
+      ungroup()
+  })
+}
+
+shinyApp(ui, server)
+
+```
+
+
+### Okay now let's get to some fun stuff
+Try to change the theme of your dashboard using themes from the ```dashboardthemes``` package.\
+These can be helpful if you don't want to change the CSS manually. (As a non-CSS/HTML expert, I usually don't!)
+
+```{r exercise 8}
+
+ui <- dashboardPage(
+  dashboardHeader(title = "Song Lyrics"),
+  dashboardSidebar(  
+    numericInput(inputId = "select_topn", 
+              label = "Select the number of words to display", 
+              value = 10, min = 3, max = 20, step=1)
+  ),
+  dashboardBody(  
+    # Change theme here
+   dashboardthemes::shinyDashboardThemes(
+     theme = "onenote"
+   ), 
+    
+    fluidPage(
+      fluidRow(
+        column(# width should be between 1 and 12
+               width=6,
+               box(plotOutput("plot1"), 
+                   title="Most Common Words Across Albums",
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              ),
+        column(# width should be between 1 and 12
+               width=6,
+               box(dataTableOutput("table1"), 
+                   title="Most Common Words Across Albums",
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              )
+      )
+    )
+  )
+)
+
+server <- function(input, output) { 
+  # Create our validation function
+  v <- reactive({
+    validate(
+      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50")
+    )
+})
+  
+  output$plot1 <- renderPlot({
+    # Validate for bar chart
+    v()
+    
+    df %>% 
+      group_by(word) %>% 
+      summarise(occurrences=sum(n)) %>% 
+      arrange(desc(occurrences)) %>% 
+      top_n(input$select_topn) %>%
+      ungroup() %>%
+      ggplot(aes(x=word, 
+                 y=occurrences)) +
+      geom_col() +
+      ylab("count") +
+      coord_flip() +
+      theme_minimal() +
+      scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
+      ggtitle(paste("Top", input$select_topn, "frequently used words")) + 
+      geom_blank()
+  })
+  
+  output$table1 <- renderDataTable({
+    # Validate for table
+    v()
+    
+    df %>% 
+      group_by(word) %>% 
+      summarise(occurrences=sum(n)) %>% 
+      arrange(desc(occurrences)) %>% 
+      top_n(input$select_topn) %>%
+      ungroup()
+  })
+}
+
+shinyApp(ui, server)
+
+```
+
+This package is still in active development and as a result does have some limitations as far as customization goes. Luckily they do provide some nice DIY functions to create your own themes and logos. 
+
+### Let's try making our plot interactive using Plotly
+We could use base Plotly to create our charts. But to make it even easier on ourselves, we can wrap our ggplot in ```plotly::ggplotly()``` to convert our ggplot object into a plotly object.
+The code below shows an example of ggplot object -> plotly object conversion
+
+```{r hint 3}
+    
+   plotly::ggplotly( 
+     df %>% 
+       group_by(word) %>% 
+       summarise(occurrences=sum(n)) %>% 
+       arrange(desc(occurrences)) %>% 
+       top_n(10) %>%
+       ungroup() %>%
+       ggplot(aes(x=word, 
+                  y=occurrences)) +
+       geom_col() +
+       ylab("count") +
+       coord_flip() +
+       theme_minimal() +
+       scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
+       ggtitle(paste("Top", 10, "frequently used words")) + 
+       geom_blank()
+   )
+
+```
+
+We will also will need to tell shinydashboard that our resulting plot should be a Plotly object. This means we will need to change ```plotOutput``` to ```plotly::plotlyOutput``` and ```renderPlot``` to ```plotly::renderPlotly```.
+
+```{r exercise 9}
+
+ui <- dashboardPage(
+  dashboardHeader(title = "Song Lyrics"),
+  dashboardSidebar(  
+    numericInput(inputId = "select_topn", 
+              label = "Select the number of words to display", 
+              value = 10, min = 3, max = 20, step=1)
+  ),
+  dashboardBody(  
+    # Change theme here
+   dashboardthemes::shinyDashboardThemes(
+     theme = "onenote"
+   ), 
+    
+    fluidPage(
+      fluidRow(
+        column(# width should be between 1 and 12
+               width=6,
+               box(plotly::plotlyOutput("plot1"), 
+                   title="Most Common Words Across Albums",
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              ),
+        column(# width should be between 1 and 12
+               width=6,
+               box(dataTableOutput("table1"), 
+                   title="Most Common Words Across Albums",
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              )
+      )
+    )
+  )
+)
+
+server <- function(input, output) { 
+  # Create our validation function
+  v <- reactive({
+    validate(
+      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50")
+    )
+})
+  
+  output$plot1 <- plotly::renderPlotly({
+    # Validate for bar chart
+    v()
+   plotly::ggplotly( 
+     df %>% 
+       group_by(word) %>% 
+       summarise(occurrences=sum(n)) %>% 
+       arrange(desc(occurrences)) %>% 
+       top_n(input$select_topn) %>%
+       ungroup() %>%
+       ggplot(aes(x=word, 
+                  y=occurrences)) +
+       geom_col() +
+       ylab("count") +
+       coord_flip() +
+       theme_minimal() +
+       scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
+       ggtitle(paste("Top", input$select_topn, "frequently used words")) + 
+       geom_blank()
+   )
+  })
+  
+  output$table1 <- renderDataTable({
+    # Validate for table
+    v()
+    
+    df %>% 
+      group_by(word) %>% 
+      summarise(occurrences=sum(n)) %>% 
+      arrange(desc(occurrences)) %>% 
+      top_n(input$select_topn) %>%
+      ungroup()
+  })
+}
+
+shinyApp(ui, server)
+
+```
+
+### Lastly, let's try to make our app more efficient
+We are working with a pretty small dataset with only a few thousand lines, but code efficiency and performance become even more important as we scale up.\
+For example, in our code we are summarizing the data each time the user makes a new selection. It would be a better idea for us to summarize the data outside of our app.\
+Remember we can only summarise up until the point we need our reactive input value!
+
+```{r summarize}
+df_sum <- df %>% 
+           group_by(word) %>% 
+           summarise(occurrences=sum(n)) %>% 
+           arrange(desc(occurrences))
+```
+
+And now we can replace ```df``` in our dashboard with ```df_sum```. If we were making a standalone app, we could save ```df_sum``` to a file and read that file in instead.
+
+```{r exercise 10}
+
+ui <- dashboardPage(
+  dashboardHeader(title = "Song Lyrics"),
+  dashboardSidebar(  
+    numericInput(inputId = "select_topn", 
+              label = "Select the number of words to display", 
+              value = 10, min = 3, max = 20, step=1)
+  ),
+  dashboardBody(  
+    # Change theme here
+   dashboardthemes::shinyDashboardThemes(
+     theme = "onenote"
+   ), 
+    
+    fluidPage(
+      fluidRow(
+        column(# width should be between 1 and 12
+               width=6,
+               box(plotly::plotlyOutput("plot1"), 
+                   title="Most Common Words Across Albums",
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value,
+                   width=NULL)
+              ),
+        column(# width should be between 1 and 12
+               width=6,
+               box(dataTableOutput("table1"), 
+                   title="Most Common Words Across Albums",
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              )
+      )
+    )
+  )
+)
+
+server <- function(input, output) { 
+  # Create our validation function
+  v <- reactive({
+    validate(
+      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50")
+    )
+})
+  
+  df_filtered <- reactive({
+    df_sum %>%
+      top_n(input$select_topn)
+  }) 
+  
+  output$plot1 <- plotly::renderPlotly({
+    # Validate for bar chart
+    v()
+    plotly::ggplotly( 
+      df_filtered() %>% 
+        ggplot(aes(x=word, 
+                   y=occurrences)) +
+        geom_col() +
+        ylab("count") +
+        coord_flip() +
+        theme_minimal() +
+        scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
+        ggtitle(paste("Top", 10, "frequently used words")) + 
+        geom_blank()
+   )
+  })
+  
+  output$table1 <- renderDataTable({
+    # Validate for table
+    v()
+    df_filtered()
+  })
+}
+
+shinyApp(ui, server)
+
+```
+
+We could compare the performance of this code using the ```profvis``` package or RStudio's Profile menu (which I think also uses profvis...).\
+The difference may be negligable here, but it could have a big impact if we are trying to filter millions of rows.
+
+### Other things to try
+As with Shiny, you can provide additional customization to your dashbaord and apps with cascading style sheets (CSS) since both are built from HTML. You can read more about using CSS with Shiny and shinydashboard at https://shiny.rstudio.com/articles/css.html and https://rstudio.github.io/shinydashboard/appearance.html#css respectively.\
+You can also include a variety of icons https://rstudio.github.io/shinydashboard/appearance.html#icons or change the appearance of your boxex by assigning colors https://rstudio.github.io/shinydashboard/appearance.html#statuses-and-colors or making them collapsible. Try replacing lines 526-530 with the code below to see how the different attributes look. 
+
+```{status}
+
+  box(plotly::plotlyOutput("plot1"), 
+      title = "Most Common Words Across Albums",
+      status = "primary",
+      collapsible = TRUE,
+      solidHeader = TRUE,
+      width=NULL)
+
+```
+
+Lastly, we could also make some improvements to the plots themselves. We might take a look at Trang's December data visualization workshop to get some ideas!
