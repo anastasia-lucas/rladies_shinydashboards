@@ -105,7 +105,7 @@ df %>%
 
 ```
 
-```{r exercise 3}
+```{r exercise 2}
 library(shiny)
 library(shinydashboard)
 ui <- dashboardPage(
@@ -163,7 +163,7 @@ Once we have our input set up, we need to refer to it in our ```server()``` func
 Hint: We can extract the user value using our inputId ```input$select_topn```
 
 
-```{r exercise 4}
+```{r exercise 3}
 library(shiny)
 library(shinydashboard)
 ui <- dashboardPage(
@@ -218,7 +218,7 @@ We can use Shiny's ```dataTableOutput()``` function for this.\
 We should also put this table in its own column such that the dashboard has two columns, each containing one box, within the fluid row.\
 Hint: We will need to divide the width of our boxes by 2 if we want to give both apps equal billing.
 
-```{r exercise 5}
+```{r exercise 4}
 library(shiny)
 library(shinydashboard)
 
@@ -290,7 +290,7 @@ shinyApp(ui, server)
 It's not obvious that the input widget controls both the chart and the table. One thing we can do to fix this is move our input control widget to the sidebar.\
 To do this, we can simply move our ```numericInput()``` function inside of ```dashboardSidebar()```.
 
-```{r exercise 6}
+```{r exercise 5}
 library(shiny)
 library(shinydashboard)
 
@@ -362,22 +362,32 @@ shinyApp(ui, server)
 We can use ```?textInput``` to see the parameters we need to set.\
 Hint: We won't need ```min```, ```max```, or ```step``` values here. 
 
-```{r exercise 7}
+```{r exercise 6}
 library(shiny)
 library(shinydashboard)
+
 ui <- dashboardPage(
   dashboardHeader(title = "Song Lyrics"),
-  dashboardSidebar(),
+  dashboardSidebar(  
+    textInput(inputId = "select_topn", 
+              label = "Select the number of words to display", 
+              value = 10)
+  ),
   dashboardBody(    
     fluidPage(
       fluidRow(
         column(# width should be between 1 and 12
-               width=12,
+               width=6,
                box(plotOutput("plot1"), 
                    title="Most Common Words Across Albums",
-                   textInput(inputId = "select_topn", 
-                             label = "Select number of words to display", 
-                             value = 10),
+                   # For column based layouts, we can set box width to NULL
+                   # This overrides the default value
+                   width=NULL)
+              ),
+        column(# width should be between 1 and 12
+               width=6,
+               box(dataTableOutput("table1"), 
+                   title="Most Common Words Across Albums",
                    # For column based layouts, we can set box width to NULL
                    # This overrides the default value
                    width=NULL)
@@ -406,20 +416,20 @@ server <- function(input, output) {
     ggtitle(paste("Top", input$select_topn, "frequently used words")) + 
     geom_blank()
   })
+  
+  output$table1 <- renderDataTable({
+    df %>% 
+    group_by(word) %>% 
+    summarise(occurrences=sum(n)) %>% 
+    arrange(desc(occurrences)) %>% 
+    top_n(as.integer(input$select_topn)) %>%
+    ungroup()
+  })
 }
 
 shinyApp(ui, server)
 ```
 
 Did your chart show the correct number of words? Remember that ```textInput``` takes character values, so we would need to convert the text stored in ```input$select_topn``` using ```as.integer()```.\
-Now try to enter "ten" or "thirty" as an input value and see what happens. The way you anticipate users might interact with your dashboard might help determine what type of input will be best. 
-
-
-### Now some fun stuff. Let's play around with some themes using the ```shinydashbaord``` package
-
-### Other ideas
-Make your charts interactive with ```plotly```. If you don't have ```plotly``` installed, make sure you run ```install.packages(plotly)``` first.
-
-
-
+Now try to enter "ten" or "thirty" as an input value and see what happens. The way you anticipate users might interact with your dashboard might help determine what type of input will be best or what kinds of error messages we should display. More on this later... 
 
