@@ -30,8 +30,6 @@ The important thing to remember is that the lyrics are summed across the songs, 
 
 ## Try the most basic dashboard
 ```{r basic app}
-library(shiny)
-library(shinydashboard)
 
 ui <- dashboardPage(
   dashboardHeader(),
@@ -53,8 +51,7 @@ A fluid page layout consists of fluid rows, created with ```fluidRow()```.\
 The fluid rows consist of columns created by ```column()```.\
 
 ```{r exercise 1}
-library(shiny)
-library(shinydashboard)
+
 ui <- dashboardPage(
   dashboardHeader(title = "Song Lyrics"),
   dashboardSidebar(),
@@ -106,8 +103,7 @@ df %>%
 ```
 
 ```{r exercise 2}
-library(shiny)
-library(shinydashboard)
+
 ui <- dashboardPage(
   dashboardHeader(title = "Song Lyrics"),
   dashboardSidebar(),
@@ -164,8 +160,7 @@ Hint: We can extract the user value using our inputId ```input$select_topn```
 
 
 ```{r exercise 3}
-library(shiny)
-library(shinydashboard)
+
 ui <- dashboardPage(
   dashboardHeader(title = "Song Lyrics"),
   dashboardSidebar(),
@@ -219,8 +214,6 @@ We should also put this table in its own column such that the dashboard has two 
 Hint: We will need to divide the width of our boxes by 2 if we want to give both apps equal billing.
 
 ```{r exercise 4}
-library(shiny)
-library(shinydashboard)
 
 ui <- dashboardPage(
   dashboardHeader(title = "Song Lyrics"),
@@ -291,8 +284,6 @@ It's not obvious that the input widget controls both the chart and the table. On
 To do this, we can simply move our ```numericInput()``` function inside of ```dashboardSidebar()```.
 
 ```{r exercise 5}
-library(shiny)
-library(shinydashboard)
 
 ui <- dashboardPage(
   dashboardHeader(title = "Song Lyrics"),
@@ -363,8 +354,6 @@ We can use ```?textInput``` to see the parameters we need to set.\
 Hint: We won't need ```min```, ```max```, or ```step``` values here. 
 
 ```{r exercise 6}
-library(shiny)
-library(shinydashboard)
 
 ui <- dashboardPage(
   dashboardHeader(title = "Song Lyrics"),
