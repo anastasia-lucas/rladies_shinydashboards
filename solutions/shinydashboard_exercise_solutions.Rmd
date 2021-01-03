@@ -351,6 +351,8 @@ server <- function(input, output) {
 shinyApp(ui, server)
 ```
 
+Note that we could also create a seperate box for our control widget(s) inside of the dashboard body.
+
 ### Try to change the type of the control widget input from ```numericInput``` to ```textInput```. 
 We can use ```?textInput``` to see the parameters we need to set.\
 Hint: We won't need ```min```, ```max```, or ```step``` values here. 
