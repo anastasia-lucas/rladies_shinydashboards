@@ -28,7 +28,8 @@ str(df)
 So we have a dataframe with 4 columns. In a sentnce, each row represents the ```n``` times that a ```word``` appears in each ```track_title``` per ```album``` in our dataset.\
 The important thing to remember is that the lyrics are summed across the songs, not across all of the albums.
 
-## Try the most basic dashboard
+## Try the most basic dashboard...
+i.e. a blank dashboard
 ```{r basic app}
 
 ui <- dashboardPage(
@@ -42,6 +43,7 @@ server <- function(input, output) {  }
 
 shinyApp(ui, server)
 ```
+Note that if we are writing a standalone app, we would need to load the libraries we need within the app. Since we have already loaded the libraries above in this section, we don't need to keep loading them. I have also included a standalone version of the basic app in ```exercises/app_basic.R```.
 
 ## Exercises
 
