@@ -10,8 +10,6 @@ dashboardPage(
 )
 
 ## App ##
-library(shiny)
-library(shinydashboard)
 
 ui <- dashboardPage(
   dashboardHeader(),
