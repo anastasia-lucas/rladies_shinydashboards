@@ -86,21 +86,23 @@ Hint: the code to create a normal ```ggplot``` to do this is shown below.
 
 ```{r hint 1}
 df %>% 
- group_by(word) %>% 
- summarise(occurrences=sum(n)) %>% 
- arrange(desc(occurrences)) %>% 
- top_n(10) %>%
- ungroup() %>%
- ggplot(aes(x=word, 
-            y=occurrences)) +
-  geom_col() +
-  ## Bonus: uncomment to make some aesthetic changes or add your own
-  ylab("count") +
-  coord_flip() +
-  theme_minimal() +
-  scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
-  ggtitle(paste("Top", 10, "frequently used words")) + 
- geom_blank()
+  # Summarize
+  group_by(word) %>% 
+  summarise(occurrences=sum(n)) %>% 
+  arrange(desc(occurrences)) %>% 
+  top_n(10) %>%
+  ungroup() %>%
+  # Start plotting with ggplot
+  ggplot(aes(x=word, 
+             y=occurrences)) +
+   geom_col() +
+   ## Bonus: uncomment to make some aesthetic changes or add your own
+   ylab("count") +
+   coord_flip() +
+   theme_minimal() +
+   scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
+   ggtitle(paste("Top", 10, "frequently used words")) + 
+   geom_blank()
 
 ```
 
