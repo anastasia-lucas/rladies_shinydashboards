@@ -6,6 +6,11 @@ runtime: shiny
 output: html_document
 ---
 
+## Welcome to the workshop!
+The easiest way to go through these exercises in this R markdown file will be to run each of the code chunks sequentially. You can do this by clicking the green arrow at the top right of code blocks that says "Run Current Chunk". Once we get to the exercises, you will need to fill in the blanks before you can run the code successfully. Remember you can always follow allong using the ```shinydashboard_exercise_solutions.Rmd``` file located in the ```solutions/``` folder.
+
+Note that the exercises assume you have run the ```{r setup}```  and ```{r EDA}``` code chunks.
+
 ## Set up
 
 ```{r setup}
@@ -20,7 +25,12 @@ library(shinydashboard)
 This is important so we can think about what information we want our users to gain from our dashboard.
 
 ```{r EDA}
-df <- read.delim("../data/thebeatles_lyrics.txt")
+# Feel free to choose any of the artists in the data/ folder
+# i.e. any of c("arianagrande", "beyonce", "drake", "queen", "taylorswift", "thebeatles")
+# the solutions will use "thebeatles" dataset
+artist_name <- "thebeatles"
+# Read in
+df <- read.delim(paste0("../data/", artist_name, "_lyrics.txt"))
 head(df)
 str(df)
 ```
@@ -29,7 +39,8 @@ So we have a dataframe with 4 columns. In a sentnce, each row represents the ```
 The important thing to remember is that the lyrics are summed across the songs, not across all of the albums.
 
 ## Try the most basic dashboard...
-i.e. a blank dashboard
+i.e. a blank dashboard 
+
 ```{r basic app}
 
 ui <- dashboardPage(
@@ -43,14 +54,16 @@ server <- function(input, output) {  }
 
 shinyApp(ui, server)
 ```
-Note that if we are writing a standalone app, we would need to load the libraries we need within the app. Since we have already loaded the libraries above in this section, we don't need to keep loading them. I have also included a standalone version of the basic app in ```exercises/app_basic.R```.
+
+Note that if we are writing a standalone app, we would need to load the libraries and any data we need within the app. Since we have already loaded these above, we don't need to keep loading them in this session.\
+I have also included a standalone version of this basic app for reference in ```exercises/app_basic.R```.
 
 ## Exercises
 
-### Let's give our app a title and set up a grid for our plots
-We can use ```fluidPage()``` to create a fluid page layout, i.e. one that will resize to the width of our screen.\
-A fluid page layout consists of fluid rows, created with ```fluidRow()```.\
-The fluid rows consist of columns created by ```column()```.\
+### Let's give our app a title and set up a grid layout for our plots
+We will use the ```fluidPage()``` page to create a fluid page layout, i.e. one that will resize to the width of our screen. A fluid page layout consists of fluid rows, created with ```fluidRow()``` which in turn consist of columns created by the ```column()``` function. Finally, we can store our app in a ```box()``` within the column.\
+For now, we will create a dashboard with one row and one column with space for one plot. The layout will be specified in the UI section of the app.\
+Try filling in the blanks to specify the width and title.
 
 ```{r exercise 1}
 
@@ -80,9 +93,9 @@ shinyApp(ui, server)
 ```
 
 ### Make a bar chart that displays the count of the top 10 most frequent words summed across all albums
-We will wrap our plot code in ```output$plot1 <- renderPlot({})``` to do this.\
-Some other common output functions are ```dataTableOutput```, ```dataTableOutput```,	```plotOutput```, & ```textOutput```.\
-Hint: the code to create a normal ```ggplot``` to do this is shown below.
+Our plot will be rendered in the server section of our app using the following code```output$plot1 <- renderPlot({# ploting goes here})```. We have already added the plot output in the UI section and we will refer to the plot using the same outputID as we did in the ```plotOutput``` function, "plot1".\
+Some other common output functions are ```tableOutput```, ```dataTableOutput```, ```plotlyOutput```, & ```textOutput```, which we will take a look at later.\
+Hint: the code to create a regular ```ggplot``` with the top 10 most frequent words summed across all albums is shown below.
 
 ```{r hint 1}
 df %>% 
@@ -151,10 +164,10 @@ server <- function(input, output) {
 shinyApp(ui, server)
 ```
 
-Note that you can add additional fluid rows with variable numbers of columns to create custom layouts. You can also explicitly set the height for each of the boxes.
 
 ### Now let's make it reactive!
-Create a ```numericInput()``` in the "plot1" ```box()``` with the following parameters:\
+We can create one of the control widgets that we saw earlier in our UI. This will allow the user to select the number of words to display.\
+Fill in the blanks to create a ```numericInput()``` in our ```box()``` with the following parameters:\
 ```inputId``` which is used to access the value is ```inputId = select_topn```\
 ```label``` displayed on the widget is ```label = Select number of words to display```\
 ```min``` value user can select is ```min = 3```\
@@ -215,8 +228,8 @@ shinyApp(ui, server)
 
 
 ### Let's try to show this information in table format
-We can use Shiny's ```dataTableOutput()``` function for this.\
-We should also put this table in its own column such that the dashboard has two columns, each containing one box, within the fluid row.\
+We can use Shiny's ```dataTableOutput()``` function for this. We can put this table in its own column such that the dashboard has two columns, each containing one box, within the fluid row.\
+If we were making a production ready dashboard, we probably would *not* want to have multiple graphs/tables that show the same information, but we can use it here as a proof of concept. Try to fill the blanks below to add the widths and the dataframe that should be displayed as a table.\
 Hint: We will need to divide the width of our boxes by 2 if we want to give both apps equal billing.
 
 ```{r exercise 4}
@@ -285,8 +298,10 @@ server <- function(input, output) {
 shinyApp(ui, server)
 ```
 
+Similarly we could add additional fluid rows with variable numbers of columns to create more complicated layouts. You can also explicitly set the height and width for each of the boxes.
+
 ### But this creates a problem for our users...
-It's not obvious that the input widget controls both the chart and the table. One thing we can do to fix this is move our input control widget to the sidebar.\
+It's not obvious that the input widget controls both the chart and the table. It might be more apparent if we move the input control widget to the sidebar.\
 To do this, we can simply move our ```numericInput()``` function inside of ```dashboardSidebar()```.
 
 ```{r exercise 5}
@@ -427,6 +442,6 @@ server <- function(input, output) {
 shinyApp(ui, server)
 ```
 
-Did your chart show the correct number of words? Remember that ```textInput``` takes character values, so we would need to convert the text stored in ```input$select_topn``` using ```as.integer()```.\
-Now try to enter "ten" or "thirty" as an input value and see what happens. The way you anticipate users might interact with your dashboard might help determine what type of input will be best or what kinds of error messages we should display. More on this later... 
+Did your chart show the correct number of words? This is because ```textInput``` takes character values, so we would need to convert the text stored in ```input$select_topn``` using ```as.integer(input$select_topn)```.\
+Now try to enter "ten" or "thirty" as an input value in our dashboard and see what happens. The way you anticipate users might interact with your dashboard might help determine what type of input will be best or what kinds of error messages we should display. More on this later... 
 
