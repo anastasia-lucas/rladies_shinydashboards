@@ -42,7 +42,7 @@ v <- reactive({
 
 ```
 
-```{r exercise 7}
+```{r exercise 7, eval=FALSE}
 
 ui <- dashboardPage(
   dashboardHeader(title = "Song Lyrics"),
@@ -77,15 +77,12 @@ ui <- dashboardPage(
 
 server <- function(input, output) { 
   # Create our validation function
-  v <- reactive({
-    validate(
-      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50")
-    )
+  v <- ____________
 })
   
   output$plot1 <- renderPlot({
     # Validate for bar chart
-    v()
+    ____________
     
     df %>% 
       group_by(word) %>% 
@@ -106,7 +103,7 @@ server <- function(input, output) {
   
   output$table1 <- renderDataTable({
     # Validate for table
-    v()
+    ____________
     # We could also replace v() with a different validate function like we defined above
     # validate(
     #  need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50")
@@ -126,7 +123,7 @@ shinyApp(ui, server)
 
 Bonus: See if you can restrict the plot to display between 3 and 50 words, but the table to display between 1 and 250 words.
 
-```{r bonus 1}
+```{r bonus 1, eval=FALSE}
 
 ui <- dashboardPage(
   dashboardHeader(title = "Song Lyrics"),
@@ -164,7 +161,7 @@ server <- function(input, output) {
   output$plot1 <- renderPlot({
     # Validate for bar chart
     validate(
-      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50 to display both the chart and table.")
+      ____________
     )
     
     df %>% 
@@ -187,7 +184,7 @@ server <- function(input, output) {
   output$table1 <- renderDataTable({
     # Validate for table
     validate(
-      need(input$select_topn >= 1 & input$select_topn <= 250, "Please select a number between 1 and 250 table entries")
+      ____________
     )
     
     df %>% 
@@ -208,7 +205,7 @@ shinyApp(ui, server)
 Try to change the theme of your dashboard using themes from the ```dashboardthemes``` package. We'll want to add a call to ```dashboardthemes::shinyDashboardThemes()``` in our ```dashboardBody```. Run ```?dashboardthemes::shinyDashboardThemes``` to see a list and description of the available themes.\
 These can be helpful if you don't want to change the CSS manually. (As a non-CSS/HTML expert, I usually don't!)
 
-```{r exercise 8}
+```{r exercise 8, eval=FALSE}
 
 ui <- dashboardPage(
   dashboardHeader(title = "Song Lyrics"),
@@ -220,7 +217,7 @@ ui <- dashboardPage(
   dashboardBody(  
     # Change theme here
    dashboardthemes::shinyDashboardThemes(
-     theme = "onenote"
+     theme = ____________
    ), 
     
     fluidPage(
@@ -322,7 +319,7 @@ Try to incorporate this code into your dashbaord.
 
 Hint: We will also will need to tell shinydashboard that our resulting plot should be a Plotly object instead of a static chart. This means we will need to change ```plotOutput``` to ```plotly::plotlyOutput``` and ```renderPlot``` to ```plotly::renderPlotly```.
 
-```{r exercise 9}
+```{r exercise 9, eval=FALSE}
 
 ui <- dashboardPage(
   dashboardHeader(title = "Song Lyrics"),
@@ -341,7 +338,7 @@ ui <- dashboardPage(
       fluidRow(
         column(# width should be between 1 and 12
                width=6,
-               box(plotly::plotlyOutput("plot1"), 
+               box(____________("plot1"), 
                    title="Most Common Words Across Albums",
                    # For column based layouts, we can set box width to NULL
                    # This overrides the default value
@@ -368,10 +365,10 @@ server <- function(input, output) {
     )
 })
   
-  output$plot1 <- plotly::renderPlotly({
+  output$plot1 <- ____________({
     # Validate for bar chart
     v()
-   plotly::ggplotly( 
+   ____________ 
      df %>% 
        group_by(word) %>% 
        summarise(occurrences=sum(n)) %>% 
@@ -387,7 +384,7 @@ server <- function(input, output) {
        scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
        ggtitle(paste("Top", input$select_topn, "frequently used words")) + 
        geom_blank()
-   )
+   ____________
   })
   
   output$table1 <- renderDataTable({
@@ -430,7 +427,7 @@ Hint: Here is some example code for reactively filtering data.
   }) 
 ```
 
-```{r exercise 10}
+```{r exercise 10, eval=FALSE}
 
 ui <- dashboardPage(
   dashboardHeader(title = "Song Lyrics"),
@@ -476,16 +473,13 @@ server <- function(input, output) {
     )
 })
   
-  df_filtered <- reactive({
-    df_sum %>%
-      top_n(input$select_topn)
-  }) 
+  df_filtered <- ____________
   
   output$plot1 <- plotly::renderPlotly({
     # Validate for bar chart
     v()
     plotly::ggplotly( 
-      df_filtered() %>% 
+      ____________ %>% 
         ggplot(aes(x=word, 
                    y=occurrences)) +
         geom_col() +
@@ -501,7 +495,7 @@ server <- function(input, output) {
   output$table1 <- renderDataTable({
     # Validate for table
     v()
-    df_filtered()
+    ____________
   })
 }
 
