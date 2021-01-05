@@ -22,6 +22,7 @@ library(plotly)
 ### Read in our data
 
 ```{r data}
+# Choose from c("arianagrande", "beyonce", "drake", "queen", "taylorswift", "thebeatles")
 artist_name <- "thebeatles"
 df <- read.delim(paste0("../data/", artist_name, "_lyrics.txt"))
 ```
@@ -29,7 +30,7 @@ df <- read.delim(paste0("../data/", artist_name, "_lyrics.txt"))
 ### Adding error messages using validate
 We set our numeric input so the user could select between 3 and 20 words. But if the user types in the input box, it will override our defaults. Let's say we want to restrict our app so the user will get an error message if they try to display fewer than 2 or more than 50 words.\
 We can do this using ```validate```, which tests a condition and returns an error if the test fails, and ```need```, which consists of an expression that evaluates to TRUE or FALSE and an error message.\
-Hint: the code to create a validation function is below. We could then need to place our validation function ```v()``` within each ```render*()``` function that we want it to effect.
+Hint: the code to create a validation function is below. We would then need to place our validation function ```v()``` within each ```render*()``` function that we want it to affect.
 
 ```{hint 2}
 
@@ -492,7 +493,7 @@ server <- function(input, output) {
         coord_flip() +
         theme_minimal() +
         scale_fill_gradient(high = "#f6a97a", low="#ca3c97") +
-        ggtitle(paste("Top", 10, "frequently used words")) + 
+        ggtitle(paste("Top", input$select_topn, "frequently used words")) + 
         geom_blank()
    )
   })
