@@ -168,7 +168,7 @@ shinyApp(ui, server)
 ### Now let's make it reactive!
 We can create one of the control widgets that we saw earlier in our UI. This will allow the user to select the number of words to display.\
 Fill in the blanks to create a ```numericInput()``` in our ```box()``` with the following parameters:\
-```inputId``` which is used to access the value is ```inputId = select_topn```\
+```inputId``` which is used to access the value is ```inputId = "select_topn"```\
 ```label``` displayed on the widget is ```label = Select number of words to display```\
 ```min``` value user can select is ```min = 3```\
 ```max``` value user can select is ```max = 20```\
