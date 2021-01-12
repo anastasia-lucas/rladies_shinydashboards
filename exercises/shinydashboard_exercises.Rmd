@@ -418,7 +418,7 @@ server <- function(input, output) {
     group_by(word) %>% 
     summarise(occurrences=sum(n)) %>% 
     arrange(desc(occurrences)) %>% 
-    top_n(as.integer(input$select_topn)) %>%
+    top_n(input$select_topn) %>%
     ungroup()
   })
 }
