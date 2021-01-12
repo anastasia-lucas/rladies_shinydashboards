@@ -36,7 +36,7 @@ Hint: the code to create a validation function is below. We would then need to p
 
 v <- reactive({
   validate(
-    need(input$select_topn < 2 | input$select_topn > 50, "Please select a number between 2 and 50")
+    need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 2 and 50")
   )
 })
 
