@@ -26,4 +26,4 @@ Developed using R version 4.0.3
 
 - `shinydashboard_exercises.Rmd`: solutions for dashboard exercises
 - `shinydashboard_exercises_advanced.Rmd`: solutions for dashboard exercises - advanced topics
-
+- `app_advanced.R`: standalone version of the advanced app
