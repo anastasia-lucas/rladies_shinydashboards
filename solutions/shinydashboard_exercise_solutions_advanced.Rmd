@@ -36,7 +36,7 @@ Hint: the code to create a validation function is below. We would then need to p
 
 v <- reactive({
   validate(
-    need(input$select_topn < 2 | input$select_topn > 50, "Please select a number between 3 and 50")
+    need(input$select_topn < 2 | input$select_topn > 50, "Please select a number between 2 and 50")
   )
 })
 
@@ -79,7 +79,7 @@ server <- function(input, output) {
   # Create our validation function
   v <- reactive({
     validate(
-      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50")
+      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 2 and 50")
     )
 })
   
@@ -109,7 +109,7 @@ server <- function(input, output) {
     v()
     # We could also replace v() with a different validate function like we defined above
     # validate(
-    #  need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50")
+    #  need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 2 and 50")
     # )
     df %>% 
       group_by(word) %>% 
@@ -124,7 +124,7 @@ shinyApp(ui, server)
 
 ```
 
-Bonus: See if you can restrict the plot to display between 3 and 50 words, but the table to display between 1 and 250 words.
+Bonus: See if you can restrict the plot to display between 2 and 50 words, but the table to display between 1 and 250 words.
 
 ```{r bonus 1}
 
@@ -164,7 +164,7 @@ server <- function(input, output) {
   output$plot1 <- renderPlot({
     # Validate for bar chart
     validate(
-      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50 to display both the chart and table.")
+      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 2 and 50 to display both the chart and table.")
     )
     
     df %>% 
@@ -250,7 +250,7 @@ server <- function(input, output) {
   # Create our validation function
   v <- reactive({
     validate(
-      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50")
+      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 2 and 50")
     )
 })
   
@@ -364,7 +364,7 @@ server <- function(input, output) {
   # Create our validation function
   v <- reactive({
     validate(
-      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50")
+      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 2 and 50")
     )
 })
   
@@ -472,7 +472,7 @@ server <- function(input, output) {
   # Create our validation function
   v <- reactive({
     validate(
-      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 3 and 50")
+      need(input$select_topn >= 2 & input$select_topn <= 50, "Please select a number between 2 and 50")
     )
 })
   
