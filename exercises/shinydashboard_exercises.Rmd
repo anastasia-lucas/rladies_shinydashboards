@@ -30,7 +30,7 @@ This is important so we can think about what information we want our users to ga
 # the solutions will use "thebeatles" dataset
 artist_name <- "thebeatles"
 # Read in
-df <- read.delim(paste0("../data/", artist_name, "_lyrics.txt"))
+df <- read.delim(paste0("data/", artist_name, "_lyrics.txt"))
 head(df)
 str(df)
 ```
