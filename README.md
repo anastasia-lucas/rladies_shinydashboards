@@ -9,6 +9,7 @@ Developed using R version 4.0.3
 
 - `rladies_shinydashboards.Rproj`: R project file
 - `utils.R`: library installs - can be run using `source("utils.R")`
+- `rladies_shinydashboards.pdf`: slide deck for the meet-up
 
 ### data/
   
